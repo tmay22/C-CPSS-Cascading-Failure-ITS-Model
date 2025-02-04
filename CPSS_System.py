@@ -18,11 +18,12 @@ class CPSS_System:
     # subProcesses[]: list of the calculated processes based on the subsystems contained within the object
     # subOutputs[]: list of the calculated outputs based on the subsystems contained within the object
     # subAll: list of all sub system objects
+    # affectorList : list of all system objects that this system affects via consequence
 
     # Initialise object
     def __init__(self, inputName, inputCyber, inputPhysical, inputSocial):
         self.id = uuid4()
-        self.name = inputName
+        self.sysName = inputName
         self.isCyber = inputCyber
         self.isPhysical = inputPhysical
         self.isSocial = inputSocial
@@ -34,21 +35,35 @@ class CPSS_System:
         self.subProcesses = []
         self.subOutputs = []
         self.subAll = []
+        self.affectorList = []
     
+    # add an affector
+    def addAffector(self, affector):
+        self.affectorList.append(affector)
+
     # Add a Primary Input
     def addPrimaryInput(self, input):
-        self.primaryInputs.append(input)
-        self.updatePrimary()
+        if input not in self.primaryInputs:
+            self.primaryInputs.append(input)
+            self.updatePrimary()
+            # Add the affector to the input object
+            input.addAffector(self)
 
     # Add a Primary Process
     def addPrimaryProcess(self, process):
-        self.primaryProcesses.append(process)
-        self.updatePrimary()
+        if process not in self.primaryProcesses:
+            self.primaryProcesses.append(process)
+            self.updatePrimary()
+            # Add the affector to the process object
+            process.addAffector(self)
 
     # Add a Primary Output
     def addPrimaryOutput(self, output):
-        self.primaryOutputs.append(output)
-        self.updatePrimary()
+        if output not in self.primaryOutputs:
+            self.primaryOutputs.append(output)
+            self.updatePrimary()
+            # Add the affector to the output object
+            output.addAffector(self)
 
     # Updates all of the primary calculations
     def updatePrimary(self):
@@ -114,46 +129,22 @@ class CPSS_System:
 
         # loopLevel stops the algorithm from endlessly recursing           
 
+    # 
+    def queryConsequences(self, maximumOrderOfEffect, currentOrderOfEffect):
+        # check to see if this has gone down too far to stop infinite recursion
+        if currentOrderOfEffect < maximumOrderOfEffect:
+            # Increase order of effect
+            currentOrderOfEffect = currentOrderOfEffect + 1
+            carryUpList = []
+            currentLevelConsequences = self.affectorList
+            if currentLevelConsequences != None:
+                carryUpList.extend(currentLevelConsequences)
+            if len(currentLevelConsequences) > 0:
+                for sys in currentLevelConsequences:
+                    sysConsequences = sys.queryConsequences(maximumOrderOfEffect, currentOrderOfEffect)
+                    if sysConsequences != None:
+                        carryUpList.extend(sysConsequences)
+            return carryUpList
 
-if __name__ == '__main__':
-    # Test
-    # Create initial systems
-    Chemist =  CPSS_System("Chemist", True, True, False)
-    PharmacyStock = CPSS_System("PharmacyStock", False, True, False )
-    Payments = CPSS_System("Payments", True, True, False)
-    PharmacyService = CPSS_System("PharmacyService", True, True, True)
-    Customers = CPSS_System("Customers", False, True, True)
-    Orders = CPSS_System("Orders", True, True, False)
-    Logistics = CPSS_System("Logistics", False, True, False)
-    Delivery = CPSS_System("Delivery", False, True, True)
-    CreditCards = CPSS_System("CreditCards", True, True, False)
-    FundsTransfer = CPSS_System("FundsTransfer", True, True, False)
-    PrintReceipt = CPSS_System("PrintReceipt", True, True, False)
-    Pharmacists = CPSS_System("Pharmacists", False, True, True)
-    Dispensary = CPSS_System("Dispensary", False, True, False)
-    ScriptProcessing = CPSS_System("ScriptProcessing", True, True, False)
-    # Consolidate into single list
-    systemList = [Chemist, PharmacyStock, Payments, PharmacyService, Customers, Orders, Logistics, Delivery, 
-                  CreditCards, FundsTransfer, PrintReceipt, Pharmacists, Dispensary, ScriptProcessing]
-    # Add inputs, processes, and outputs to each node
-    # Chemist
-    Chemist.addPrimaryInput(PharmacyStock)
-    Chemist.addPrimaryProcess(Payments)
-    Chemist.addPrimaryProcess(PharmacyService)
-    Chemist.addPrimaryOutput(Customers)
-    # PharmecuticalStock
-    PharmacyStock.addPrimaryInput(Orders)
-    PharmacyStock.addPrimaryProcess(Logistics)
-    PharmacyStock.addPrimaryOutput(Delivery)
-    # Payments
-    Payments.addPrimaryInput(CreditCards)
-    Payments.addPrimaryProcess(FundsTransfer)
-    Payments.addPrimaryOutput(PrintReceipt)
-    # PharmacyService
-    PharmacyService.addPrimaryInput(Pharmacists)
-    PharmacyService.addPrimaryProcess(ScriptProcessing)
-    PharmacyService.addPrimaryOutput(Dispensary)
-    # Update all
-    for sys in systemList:
-        sys.updateSub()
-    print("here")
+
+
