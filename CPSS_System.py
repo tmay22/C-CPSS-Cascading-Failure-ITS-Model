@@ -1,4 +1,5 @@
 import Globals
+
 from uuid import uuid4
 
 class CPSS_System:

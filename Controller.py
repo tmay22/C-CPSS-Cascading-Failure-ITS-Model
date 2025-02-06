@@ -1,5 +1,6 @@
 import CPSS_System
 import Globals
+import Graph
 # The controller should be the main glue between all the other py modules.
 
 # ----------------------------------------------
@@ -29,7 +30,7 @@ def mainMenu():
             elif queryData == "3":
                 menu_3_SystemKeyData()
             elif queryData == "4":
-                print("gg")
+                menu_4_GraphGlobalNetwork()
 
             elif queryData == "B" or queryData == "b":
                 return 
@@ -125,4 +126,13 @@ def menu_3_SystemKeyData():
     print(f'Key data for {node}\nCyber: {isCyber} | Physical: {isPhysical} | Social: {isSocial}')
     print(f'Node degree: {degree}')
     print(f'Node directly affects: {dAffects}')
+  
+# See SubSystems within Larger Systems
+def menu_4_GraphGlobalNetwork():
+    print("----------------------------------------")
+    print("Graph the Global Network of Systems")
+    print("----------------------------------------")
+    
+    Graph.graphGlobalNetwork()
+    print("done!")
   
