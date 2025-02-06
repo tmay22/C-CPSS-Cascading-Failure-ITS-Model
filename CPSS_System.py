@@ -129,22 +129,51 @@ class CPSS_System:
 
         # loopLevel stops the algorithm from endlessly recursing           
 
-    # 
-    def queryConsequences(self, maximumOrderOfEffect, currentOrderOfEffect):
+    # RECURSION NOT WORKING!
+    def queryConsequences1(self, maximumOrderOfEffect, currentOrderOfEffect):
         # check to see if this has gone down too far to stop infinite recursion
         if currentOrderOfEffect < maximumOrderOfEffect:
             # Increase order of effect
             currentOrderOfEffect = currentOrderOfEffect + 1
-            carryUpList = []
+            carryUpDict = {}
             currentLevelConsequences = self.affectorList
             if currentLevelConsequences != None:
-                carryUpList.extend(currentLevelConsequences)
+                if not carryUpDict :
+                    carryUpDict[currentOrderOfEffect]=(currentLevelConsequences)
+                else:
+                    carryUpDict[currentOrderOfEffect].extend(currentLevelConsequences)
             if len(currentLevelConsequences) > 0:
                 for sys in currentLevelConsequences:
                     sysConsequences = sys.queryConsequences(maximumOrderOfEffect, currentOrderOfEffect)
                     if sysConsequences != None:
-                        carryUpList.extend(sysConsequences)
-            return carryUpList
+                        for key, val in sysConsequences.items():
+                            # Add the current order of effect
+                            nextOrder = currentOrderOfEffect + 1
+                            if nextOrder in carryUpDict:
+                                carryUpDict[nextOrder].extend(val)
+                            else:
+                                carryUpDict[nextOrder]=(val)
+            return carryUpDict
 
 
 
+    def queryConsequences(self, inputItem, maximumOrderOfEffect, currentOrderOfEffect):
+        # check to see if this has gone too far donw and stop infinite recursion
+        if currentOrderOfEffect < maximumOrderOfEffect:
+            # increase orderOfEffect
+            currentOrderOfEffect = currentOrderOfEffect + 1
+            currentLevelList = inputItem.affectorList
+            currentLevelDict = {}
+            currentLevelDict[currentOrderOfEffect] = currentLevelList
+            if currentLevelList:
+                for item in currentLevelList:
+                    itemEffects = self.queryConsequences(item, maximumOrderOfEffect, currentOrderOfEffect)
+                    if itemEffects:
+                        for key in itemEffects:
+                            if key in currentLevelDict:
+                                currentLevelDict[key].extend(itemEffects[key])
+                            else:
+                                currentLevelDict[key]=(itemEffects[key])
+            return currentLevelDict
+        else:
+            return None        
