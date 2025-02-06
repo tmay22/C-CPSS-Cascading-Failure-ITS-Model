@@ -53,12 +53,19 @@ def menu_1_ConsequenceData():
     # Convert input string to integer
     number=int(number)
 
+    # Calsulate consequences
     myNode = Globals.systemList[node]
-    consequenceList = []
-    consequenceList.extend(myNode.queryConsequences(number,0))
+    consequences = myNode.queryConsequences(myNode, number,0)
 
-    updatedConsequenceList = []
-    for item in consequenceList:
-        updatedConsequenceList.append(item.sysName)
+    # Format for output
+    updatedConsequenceList = {}
+
+    count = 1
+    for key, value in consequences.items():
+        if len(value) != 0 and count <= number:
+            temp = value[0]
+            updatedConsequenceList[key] = temp.sysName
+        count = count + 1
+    # Print output
     print(f'Consequences of an outage at node {node} are:\n{updatedConsequenceList}\n')
     print("----------------------------------------")
