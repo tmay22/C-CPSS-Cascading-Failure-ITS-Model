@@ -18,7 +18,7 @@ def mainMenu():
             print("(1) See consequence data")
             print("(2) See subsystems within larger system")
             print("(3) Print system key data")
-            print("(4) Graph output of system STRETCH GOAL")
+            print("(4) Graph output of whole system")
             print("(B) Back ")
             queryData= input("Choose Option: ")
             print("You Selected " + queryData)
@@ -54,7 +54,7 @@ def menu_1_ConsequenceData():
     # Convert input string to integer
     number=int(number)
 
-    # Calsulate consequences
+    # Calculate consequences
     myNode = Globals.systemList[node]
     consequences = myNode.queryConsequences(number,0)
 
@@ -69,6 +69,28 @@ def menu_1_ConsequenceData():
         count = count + 1
     # Print output
     print(f'Consequences of an outage at node {node} are:\n{updatedConsequenceList}\n')
+    
+    # Now print the graph
+    originalList = Globals.systemList
+    sysNameList = []
+    for counter in originalList:
+        sysNameList.append(originalList[counter].sysName)
+
+   
+    # Set all systems as False in beginning and set all seed values to false,
+    # Unless is the original node (seed), or a consequence
+    for system in sysNameList:
+        if updatedConsequenceList in system:
+            system.isConsequence=True
+        else:
+            system.isConsequence=False
+        if node == system:
+            system.isSeed=True
+        else:
+            system.isSeed=False
+
+    Graph.graphCascadingFailure(sysNameList)
+
     
 
 # See SubSystems within Larger Systems
