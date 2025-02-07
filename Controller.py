@@ -15,10 +15,11 @@ def mainMenu():
             print("----------------------------------------")
             print("What would you like to do?")
             print("----------------------------------------")
-            print("(1) See consequence data")
+            print("(1) See consequence of Outage and Cascading Failure data")
             print("(2) See subsystems within larger system")
             print("(3) Print system key data")
             print("(4) Graph output of whole system")
+            print("# TODO (5) Compare CPS and CPSS Consequence Simulations")
             print("(B) Back ")
             queryData= input("Choose Option: ")
             print("You Selected " + queryData)
@@ -41,7 +42,7 @@ def mainMenu():
 
 def menu_1_ConsequenceData():
     print("----------------------------------------")
-    print("See Consequence Data")
+    print("See Consequence of Outage and Cascading Failure Data")
     print("----------------------------------------")
     # Collect inputs
     node=input("Give System Name for query: ")
@@ -76,20 +77,22 @@ def menu_1_ConsequenceData():
     for counter in originalList:
         sysNameList.append(originalList[counter].sysName)
 
-   
+    graphList = []
     # Set all systems as False in beginning and set all seed values to false,
     # Unless is the original node (seed), or a consequence
     for system in sysNameList:
-        if updatedConsequenceList in system:
-            system.isConsequence=True
-        else:
-            system.isConsequence=False
+        isConsequence=False
+        for consequence in updatedConsequenceList:
+            if updatedConsequenceList[consequence] in system:
+                isConsequence=True
         if node == system:
-            system.isSeed=True
+           isSeed=True
         else:
-            system.isSeed=False
+            isSeed=False
+        newGraphNode = CPSS_System.CPSS_forGraph(system,isSeed,isConsequence)
+        graphList.append(newGraphNode)
 
-    Graph.graphCascadingFailure(sysNameList)
+    Graph.graphCascadingFailure(graphList)
 
     
 
@@ -138,6 +141,7 @@ def menu_3_SystemKeyData():
     isPhysical = nodeObj.isPhysical
     isSocial = nodeObj.isSocial
     degree = nodeObj.degree
+    reachability = nodeObj.reachability
     directlyAffects = nodeObj.affectorList
     dAffects = []
     for obj in directlyAffects:
@@ -147,6 +151,7 @@ def menu_3_SystemKeyData():
     # Print output
     print(f'Key data for {node}\nCyber: {isCyber} | Physical: {isPhysical} | Social: {isSocial}')
     print(f'Node degree: {degree}')
+    print(f'Node reachability: {reachability}')
     print(f'Node directly affects: {dAffects}')
   
 # See SubSystems within Larger Systems

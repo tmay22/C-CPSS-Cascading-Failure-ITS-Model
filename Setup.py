@@ -1,5 +1,6 @@
 import CPSS_System
 import Globals
+import Graph
 
 def defaultBuild():
 
@@ -57,3 +58,4 @@ def defaultBuild():
     for sys in Globals.systemList.values():
         sys.updateSub()
 
+    Graph.setupGraph()
