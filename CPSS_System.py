@@ -20,6 +20,7 @@ class CPSS_System:
     # subOutputs[]: list of the calculated outputs based on the subsystems contained within the object
     # subAll: list of all sub system objects
     # affectorList : list of all system objects that this system affects via consequence
+    # reachability : percentage of nodes in network that can be reached by this node
 
     # Initialise object
     def __init__(self, inputName, inputCyber, inputPhysical, inputSocial):
@@ -38,6 +39,7 @@ class CPSS_System:
         self.subAll = []
         self.affectorList = []
         self.degree = 0
+        self.reachability = 0
     
     # add an affector
     def addAffector(self, affector):
@@ -165,3 +167,15 @@ class CPSS_System:
         else:
             return None        
 
+class CPSS_forGraph:
+    
+    # Object that is used for the graph generation
+    # Sysname: system name
+    # isSeed: true false for is the system is the source or seed of the failure
+    # isConsequence: true false for if the system is a consequenec of the seed
+    
+    # Initialise object
+    def __init__(self, sysName, isSeed, isConsequence):
+        self.sysName = sysName
+        self.isSeed = isSeed
+        self.isConsequence = isConsequence

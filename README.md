@@ -2,7 +2,9 @@
 
 This is different to CPSS_Sim which is a Social Media CPSS Simulator
 
-For graphing, require the following install
+Require the following install:
 ```py -m pip install networkx```
 
 ```py -m pip install matplotlib```
+
+``` py -m pip install numpy ```
