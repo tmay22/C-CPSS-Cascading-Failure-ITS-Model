@@ -19,7 +19,8 @@ def mainMenu():
             print("(2) See subsystems within larger system")
             print("(3) Print system key data")
             print("(4) Graph output of whole system")
-            print("# TODO (5) Compare CPS and CPSS Consequence Simulations")
+            print("# TODO (5) Sort nodes by highest Cyber reachability")
+            print("# TODO (6) Compare CPS and CPSS Consequence Simulations")
             print("(B) Back ")
             queryData= input("Choose Option: ")
             print("You Selected " + queryData)
@@ -32,7 +33,8 @@ def mainMenu():
                 menu_3_SystemKeyData()
             elif queryData == "4":
                 menu_4_GraphGlobalNetwork()
-
+            elif queryData == "5":
+                menu_5_SortCyberReachability()
             elif queryData == "B" or queryData == "b":
                 return 
             else:
@@ -59,17 +61,22 @@ def menu_1_ConsequenceData():
     myNode = Globals.systemList[node]
     consequences = myNode.queryConsequences(number,0)
 
-    # Format for output
-    updatedConsequenceList = {}
-
-    count = 1
-    for key, value in consequences.items():
-        if len(value) != 0 and count <= number:
-            temp = value[0]
-            updatedConsequenceList[key] = temp.sysName
-        count = count + 1
+    # count = 1
+    # for key, value in consequences.items():
+    #     if len(value) != 0 and count <= number:
+    #         temp = value[0]
+    #         updatedConsequenceList[key] = temp.sysName
+    #     count = count + 1
     # Print output
-    print(f'Consequences of an outage at node {node} are:\n{updatedConsequenceList}\n')
+    print(f'Consequences of an outage at node {node} are:\n')
+    consequencesStringList = []
+    for counter in consequences:
+        array = consequences[counter]
+        arrayString = ""
+        for item in array:
+            arrayString = arrayString + item.sysName + ', ' 
+            consequencesStringList.append(item.sysName)
+        print(f'Layer {counter}: {arrayString}')
     
     # Now print the graph
     originalList = Globals.systemList
@@ -82,8 +89,8 @@ def menu_1_ConsequenceData():
     # Unless is the original node (seed), or a consequence
     for system in sysNameList:
         isConsequence=False
-        for consequence in updatedConsequenceList:
-            if updatedConsequenceList[consequence] in system:
+        for consequence in consequencesStringList:
+            if consequence in system:
                 isConsequence=True
         if node == system:
            isSeed=True
@@ -162,4 +169,31 @@ def menu_4_GraphGlobalNetwork():
     
     Graph.graphGlobalNetwork()
     print("done!")
+  
+def menu_5_SortCyberReachability():
+    print("----------------------------------------")
+    print("Sort and Print Nodes with Descending from Highest Cyber Reachability")
+    print("----------------------------------------")
+    
+    valDict = {}
+
+    for keyEntry in Globals.systemList:
+        currentObj = Globals.systemList[keyEntry]
+        if currentObj.isCyber:
+            if currentObj.reachability in valDict:
+                valDict[currentObj.reachability].append(currentObj.sysName)
+            else:
+                valDict[currentObj.reachability] = [currentObj.sysName]
+    
+    keys = list(valDict.keys())
+    keys.sort(reverse=True)
+    valDict_sort = {key: valDict[key] for key in keys}
+        
+
+    finalValDict = {}
+  
+
+    # Print output
+    print(f'Cyber nodes with the highest reachability: {valDict_sort}\n')
+    print("----------------------------------------")
   

@@ -72,7 +72,7 @@ def graphGlobalNetwork():
     pos = nx.spring_layout(canvas)
 
     # Draw Canvas
-    nx.draw(canvas, pos, with_labels=True, font_size=14, node_size=nodeSizes, 
+    nx.draw(canvas, pos, with_labels=True, font_size=8, node_size=nodeSizes, 
             node_color=color_map, arrows=True, arrowsize=20, edge_color=edge_color)
     plt.show()
 
@@ -113,6 +113,8 @@ def graphCascadingFailure(nodeList):
     edge_color="grey"
     # Draw Canvas
     pos = nx.spring_layout(canvas)  # You can choose a different layout if needed
-    nx.draw(canvas, pos, with_labels=True, font_size=20, node_size=nodeSizes, 
+    nx.draw(canvas, pos, with_labels=True, font_size=8, node_size=nodeSizes, 
             node_color=node_colours, arrows=True, arrowsize=20, edge_color=edge_color)
     plt.show()
+
+    
