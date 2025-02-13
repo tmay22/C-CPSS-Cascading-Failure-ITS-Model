@@ -3,7 +3,7 @@ import Setup
 
 def main():
     #Setup.defaultBuild()
-    Setup.buildFromPath("DataSets/AI_NeoVista/")
+    Setup.buildFromPath("DataSets/Tess_SmartCity/")
     Controller.mainMenu()
 
 

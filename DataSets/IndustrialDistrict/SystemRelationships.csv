@@ -1,0 +1,2 @@
+SourceNode(Affector),InputProcessOutput,DestinationNode(Affected)
+SourceNode(Affector),,

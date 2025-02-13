@@ -19,7 +19,7 @@ def mainMenu():
             print("(2) See subsystems within larger system")
             print("(3) Print system key data")
             print("(4) Graph output of whole system")
-            print("# TODO (5) Sort nodes by highest Cyber reachability")
+            print("(5) Sort nodes by highest Cyber reachability")
             print("# TODO (6) Compare CPS and CPSS Consequence Simulations")
             print("(B) Back ")
             queryData= input("Choose Option: ")

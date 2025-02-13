@@ -166,7 +166,7 @@ def buildFromPath(path):
     # Update all
     for sys in Globals.systemList.values():
         sys.updateSub()
-    print("Conclusion")
+    
 
     # Setup Graph
 
