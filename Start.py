@@ -2,7 +2,8 @@ import Controller
 import Setup
 
 def main():
-    Setup.defaultBuild()
+    #Setup.defaultBuild()
+    Setup.buildFromPath("DataSets/Tess_SmartCity/")
     Controller.mainMenu()
 
 

@@ -66,13 +66,13 @@ def graphGlobalNetwork():
     
     # Lists i.e. Settings
     nodeSizes = [40] * len(canvas.nodes())  # Ensure nodeSizes matches the number of nodes
-    color_map = ['blue'] * len(canvas.nodes())  # One color for each node
+    color_map = ['green'] * len(canvas.nodes())  # One color for each node
     edge_color = "grey"
     # Compute layout
     pos = nx.spring_layout(canvas)
 
     # Draw Canvas
-    nx.draw(canvas, pos, with_labels=True, font_size=14, node_size=nodeSizes, 
+    nx.draw(canvas, pos, with_labels=True, font_size=8, node_size=nodeSizes, 
             node_color=color_map, arrows=True, arrowsize=20, edge_color=edge_color)
     plt.show()
 
@@ -93,9 +93,9 @@ def graphCascadingFailure(nodeList):
         if node.isSeed:
             nodeColor="red"
         elif node.isConsequence:
-            nodeColor="green"
+            nodeColor="orange"
         else:
-            nodeColor="blue"
+            nodeColor="green"
         canvas.add_node(node.sysName)
         node_colours.append(nodeColor)
     
@@ -113,6 +113,8 @@ def graphCascadingFailure(nodeList):
     edge_color="grey"
     # Draw Canvas
     pos = nx.spring_layout(canvas)  # You can choose a different layout if needed
-    nx.draw(canvas, pos, with_labels=True, font_size=20, node_size=nodeSizes, 
+    nx.draw(canvas, pos, with_labels=True, font_size=8, node_size=nodeSizes, 
             node_color=node_colours, arrows=True, arrowsize=20, edge_color=edge_color)
     plt.show()
+
+    
