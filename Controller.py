@@ -15,8 +15,8 @@ def mainMenu():
             print("----------------------------------------")
             print("What would you like to do?")
             print("----------------------------------------")
-            print("(1) See consequence of Outage and Cascading Failure data")
-            print("(2) See subsystems within larger system")
+            print("(1) See consequence of Outage and Cascading Failure data (Nil Criticality)")
+            print(" TODO #(2) See consequence of Outage and Cascading Failure data (With Criticality)")
             print("(3) Print system key data")
             print("(4) Graph output of whole system")
             print("(5) Sort nodes by highest Cyber reachability")
@@ -28,7 +28,7 @@ def mainMenu():
             if queryData == "1":
                 menu_1_ConsequenceData()
             elif queryData == "2":
-                menu_2_SubSystems()
+                menu_2_EMPTY()
             elif queryData == "3":
                 menu_3_SystemKeyData()
             elif queryData == "4":
@@ -44,7 +44,7 @@ def mainMenu():
 
 def menu_1_ConsequenceData():
     print("----------------------------------------")
-    print("See Consequence of Outage and Cascading Failure Data")
+    print("See Consequence of Outage and Cascading Failure Data with Nil Criticality Considerations")
     print("----------------------------------------")
     # Collect inputs
     node=input("Give System Name for query: ")
@@ -61,22 +61,20 @@ def menu_1_ConsequenceData():
     myNode = Globals.systemList[node]
     consequences = myNode.queryConsequences(number,0)
 
-    # count = 1
-    # for key, value in consequences.items():
-    #     if len(value) != 0 and count <= number:
-    #         temp = value[0]
-    #         updatedConsequenceList[key] = temp.sysName
-    #     count = count + 1
-    # Print output
-    print(f'Consequences of an outage at node {node} are:\n')
-    consequencesStringList = []
+    # RECURSION IS BUGGY AND NOT WORKING STILL
+    consequencePrint = []
+    consequenceList = []
     for counter in consequences:
-        array = consequences[counter]
-        arrayString = ""
-        for item in array:
-            arrayString = arrayString + item.sysName + ', ' 
-            consequencesStringList.append(item.sysName)
-        print(f'Layer {counter}: {arrayString}')
+        consequencePrint.append(counter)
+        currentLevel = consequences[counter]
+        for pair in currentLevel:
+            if pair:
+                consequencePrint.append(pair.sysName)
+                consequenceList.append(pair.sysName)
+
+
+    print(f'Consequences of an outage at node {node} are: {consequencePrint}\n')
+
     
     # Now print the graph
     originalList = Globals.systemList
@@ -89,7 +87,7 @@ def menu_1_ConsequenceData():
     # Unless is the original node (seed), or a consequence
     for system in sysNameList:
         isConsequence=False
-        for consequence in consequencesStringList:
+        for consequence in consequenceList:
             if consequence in system:
                 isConsequence=True
         if node == system:
@@ -103,36 +101,14 @@ def menu_1_ConsequenceData():
 
     
 
-# See SubSystems within Larger Systems
-def menu_2_SubSystems():
+# EMPTY
+def menu_2_EMPTY():
     print("----------------------------------------")
-    print("See SubSystems within Larger Systems")
+    print("Text")
     print("----------------------------------------")
-    # Collect inputss
-    node=input("Give SubSystem Name for Query: ")
-    print("Your input: " + node)
-    print("----------------------------------------")
-    nodeObj = Globals.systemList[node]
-    
-    inputs = nodeObj.primaryInputs
-    processes = nodeObj.primaryProcesses
-    outputs = nodeObj.primaryOutputs
+ 
 
-    inputList = []
-    processList = []
-    outputList = []
-
-    for inp in inputs:
-        inputList.append(inp.sysName)
-    for processs in processes:
-        processList.append(processs.sysName)
-    for outp in outputs:
-        outputList.append(outp.sysName)
-    # Print output
-    print(f'Subsystem components within system: {node}\nInputs: {inputList}\nProcesses: {processList}\nOutputs{outputList}\n')
-  
-
-# See SubSystems within Larger Systems
+# See system jey data
 def menu_3_SystemKeyData():
     print("----------------------------------------")
     print("Print System Key Data")
@@ -149,17 +125,25 @@ def menu_3_SystemKeyData():
     isSocial = nodeObj.isSocial
     degree = nodeObj.degree
     reachability = nodeObj.reachability
-    directlyAffects = nodeObj.affectorList
-    dAffects = []
-    for obj in directlyAffects:
-        dAffects.append(obj.sysName)
+
+    affectorDict = nodeObj.affectorDict
+    affectedByDict = nodeObj.affectedByDict
+
+    finalAffector = []
+    finalAffectedBy = []
+
+    for affector, criticality in affectorDict:
+        finalAffector.append(affector)
     
+    for affectedBy, criticality in affectedByDict:
+        finalAffectedBy.append(affectedBy)
 
     # Print output
     print(f'Key data for {node}\nCyber: {isCyber} | Physical: {isPhysical} | Social: {isSocial}')
     print(f'Node degree: {degree}')
     print(f'Node reachability: {reachability}')
-    print(f'Node directly affects: {dAffects}')
+    print(f'Systems that directly affect {node}:  {finalAffectedBy}.')
+    print(f'Systems that {node} directly affects:  {finalAffector}.')
   
 # See SubSystems within Larger Systems
 def menu_4_GraphGlobalNetwork():

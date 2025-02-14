@@ -15,11 +15,12 @@ def setupGraph():
     # Add edges
     for node in nodeList:
         obj = nodeList[node]
-        edgeList = obj.affectorList
+        edgeList = obj.affectorDict
         firstNode = obj.sysName
         for affector in edgeList:
-            secondNode = affector.sysName
-            canvas.add_edge(firstNode, secondNode)
+            secondNode, criticality = edgeList[affector]
+            secondNode = secondNode
+            canvas.add_edge(firstNode, secondNode, weight=criticality)
     # Lists i.e. Settings
     nodeSizes = [40] * len(canvas.nodes())  # Ensure nodeSizes matches the number of nodes
     color_map = ['blue'] * len(canvas.nodes())  # One color for each node
@@ -58,11 +59,12 @@ def graphGlobalNetwork():
     # Add edges
     for node in nodeList:
         obj = nodeList[node]
-        edgeList = obj.affectorList
+        edgeList = obj.affectorDict
         firstNode = obj.sysName
         for affector in edgeList:
-            secondNode = affector.sysName
-            canvas.add_edge(firstNode, secondNode)
+            secondNode, criticality = edgeList[affector]
+            secondNode = secondNode
+            canvas.add_edge(firstNode, secondNode, weight=criticality)
     
     # Lists i.e. Settings
     nodeSizes = [40] * len(canvas.nodes())  # Ensure nodeSizes matches the number of nodes
@@ -102,11 +104,12 @@ def graphCascadingFailure(nodeList):
     # Add edges
     for node in nodeList:
         obj = Globals.systemList[node.sysName]
-        edgeList = obj.affectorList
+        edgeList = obj.affectorDict
         firstNode = obj.sysName
         for affector in edgeList:
-            secondNode = affector.sysName
-            canvas.add_edge(firstNode, secondNode)
+            secondNode, criticality = edgeList[affector]
+            secondNode = secondNode
+            canvas.add_edge(firstNode, secondNode, weight=criticality)
     
     # Lists i.e. Settings
     nodeSizes = [40] * len(nodeList)  # Ensure nodeSizes matches the number of nodes
