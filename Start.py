@@ -3,7 +3,7 @@ import Setup
 
 def main():
     #Setup.defaultBuild()
-    Setup.buildFromPath("DataSets/IndustrialDistrict/")
+    Setup.buildFromPath("DataSets/ARC-IT_ITS/")
     Controller.mainMenu()
 
 
