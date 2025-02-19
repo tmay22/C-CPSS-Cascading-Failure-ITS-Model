@@ -1,0 +1,2151 @@
+﻿NodeName,SecurityClass,Confidentiality,Integrity,Availability,ServicePackage
+Driver,,,,,Mayday Notification
+Vehicle,Class 3,Moderate,High,Moderate,Mayday Notification
+Other Vehicles,Class 3,Moderate,High,Moderate,Mayday Notification
+Personal Information Device,Class 3,Moderate,High,Moderate,Mayday Notification
+Enforcement Center,Class 2,Moderate,Moderate,Low,Mayday Notification
+Emergency Management Center,Class 4,High,High,Moderate,Mayday Notification
+Other Emergency Management Centers,Class 4,High,High,Moderate,Mayday Notification
+Emergency System Operator,,,,,Mayday Notification
+Traveler,,,,,Mayday Notification
+Basic Vehicle,,,,,Mayday Notification
+Other PIDs,Class 3,Moderate,High,Moderate,Mayday Notification
+Traffic Management Center,Class 1,Not Applicable,Low,Low,Border Management Systems
+Connected Vehicle Roadside Equipment,Class 1,Low,Moderate,Moderate,Border Management Systems
+Transportation Information Center,Class 1,Low,Low,Low,Border Management Systems
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Border Management Systems
+Border Inspection Administration Center,Class 3,Moderate,High,Moderate,Border Management Systems
+Border Inspection System,Class 5,High,High,High,Border Management Systems
+Traveler Card,Class 5,High,Moderate,High,Border Management Systems
+Light Vehicle OBE,Class 5,High,High,High,Border Management Systems
+Light Vehicle Driver,,,,,Border Management Systems
+Driver,,,,,V2V Basic Safety
+Vehicle,Class 3,Low,High,Moderate,V2V Basic Safety
+Other Vehicles,Class 3,Low,High,Moderate,V2V Basic Safety
+Basic Vehicle,,,,,V2V Basic Safety
+Vehicle Characteristics,,,,,V2V Basic Safety
+Roadway Environment,Class 1,Not Applicable,Low,Low,V2V Basic Safety
+Potential Obstacles,,,,,V2V Basic Safety
+Vulnerable Road Users,,,,,V2V Basic Safety
+Driver,,,,,Cooperative Adaptive Cruise Control
+Vehicle,Class 3,Low,High,Moderate,Cooperative Adaptive Cruise Control
+Other Vehicles,Class 3,Low,High,Moderate,Cooperative Adaptive Cruise Control
+Basic Vehicle,,,,,Cooperative Adaptive Cruise Control
+Vehicle Characteristics,,,,,Cooperative Adaptive Cruise Control
+Roadway Environment,Class 1,Not Applicable,Low,Low,Cooperative Adaptive Cruise Control
+Potential Obstacles,,,,,Cooperative Adaptive Cruise Control
+Vulnerable Road Users,,,,,Cooperative Adaptive Cruise Control
+Center,Class 5,High,High,High,Core Authorization
+Authorizing Center,Class 5,High,High,High,Core Authorization
+Cooperative ITS Credentials Management System,Class 4,High,High,Moderate,Core Authorization
+Other Authorizing Centers,Class 4,High,High,Moderate,Core Authorization
+ITS Object,Class 4,High,High,Moderate,Core Authorization
+Identifier Registry,Class 3,Low,High,Low,Core Authorization
+Other Identifier Registries,Class 3,Low,High,Low,Core Authorization
+Driver,,,,,Curve Speed Warning
+Vehicle,Class 1,Low,Moderate,Moderate,Curve Speed Warning
+Traffic Management Center,Class 3,Moderate,High,Moderate,Curve Speed Warning
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Curve Speed Warning
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Curve Speed Warning
+Basic Vehicle,,,,,Curve Speed Warning
+Vehicle Characteristics,,,,,Curve Speed Warning
+Roadway Environment,Class 1,Not Applicable,Low,Low,Curve Speed Warning
+Data Distribution System,Class 4,High,High,Moderate,Data Distribution
+Other Data Distribution Systems,Class 4,High,High,Moderate,Data Distribution
+Data Distribution System Operator,,,,,Data Distribution
+ITS Object,Class 4,High,High,Moderate,Data Distribution
+Transportation Information Center,Class 4,High,High,Moderate,Shared Use Mobility and Dynamic Ridesharing
+Personal Information Device,Class 5,High,High,High,Shared Use Mobility and Dynamic Ridesharing
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Shared Use Mobility and Dynamic Ridesharing
+TIC Operator,,,,,Shared Use Mobility and Dynamic Ridesharing
+Financial Center,Class 2,Moderate,Moderate,Moderate,Shared Use Mobility and Dynamic Ridesharing
+Payment Device,Class 5,Moderate,Moderate,High,Shared Use Mobility and Dynamic Ridesharing
+Traveler,,,,,Shared Use Mobility and Dynamic Ridesharing
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Shared Use Mobility and Dynamic Ridesharing
+Shared Use Transportation Center,Class 4,High,High,Moderate,Shared Use Mobility and Dynamic Ridesharing
+Micromobility Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Shared Use Mobility and Dynamic Ridesharing
+SUTC Operator,,,,,Shared Use Mobility and Dynamic Ridesharing
+Light Vehicle OBE,Class 4,High,High,Moderate,Shared Use Mobility and Dynamic Ridesharing
+Light Vehicle Driver,,,,,Shared Use Mobility and Dynamic Ridesharing
+Driver,,,,,Eco-Lanes Management
+Vehicle,Class 2,Moderate,Moderate,Moderate,Eco-Lanes Management
+Traffic Management Center,Class 3,Moderate,High,Moderate,Eco-Lanes Management
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Eco-Lanes Management
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Eco-Lanes Management
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Eco-Lanes Management
+Transit Management Center,Class 1,Low,Low,Moderate,Eco-Lanes Management
+Traffic Operations Personnel,,,,,Eco-Lanes Management
+Emissions Management Center,Class 2,Moderate,Moderate,Moderate,Eco-Lanes Management
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Eco-Lanes Management
+Other Traffic Management Centers,Class 1,Low,Moderate,Moderate,Eco-Lanes Management
+Vehicle Characteristics,,,,,Eco-Lanes Management
+Driver,,,,,Low Emissions Zone Management
+Vehicle,Class 2,Moderate,Moderate,Moderate,Low Emissions Zone Management
+Traffic Management Center,Class 3,Moderate,High,Moderate,Low Emissions Zone Management
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Low Emissions Zone Management
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Low Emissions Zone Management
+Transportation Information Center,Class 1,Low,Low,Moderate,Low Emissions Zone Management
+Personal Information Device,Class 4,High,High,Moderate,Low Emissions Zone Management
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Low Emissions Zone Management
+Traffic Operations Personnel,,,,,Low Emissions Zone Management
+Emissions Management Center,Class 3,Moderate,High,Moderate,Low Emissions Zone Management
+Weather Service System,Class 1,Low,Moderate,Low,Low Emissions Zone Management
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Low Emissions Zone Management
+Financial Center,Class 2,Moderate,Moderate,Moderate,Low Emissions Zone Management
+Payment Administration Center,Class 5,High,High,High,Low Emissions Zone Management
+ITS Roadway Payment Equipment,Class 5,High,High,High,Low Emissions Zone Management
+Emissions Management Operator,,,,,Low Emissions Zone Management
+Event Promoter System,Class 3,Moderate,High,Moderate,Low Emissions Zone Management
+Payment Device,Class 5,Moderate,Moderate,High,Low Emissions Zone Management
+Payment Administrator,,,,,Low Emissions Zone Management
+DMV,Class 4,High,High,Moderate,Low Emissions Zone Management
+Other Payment Administration Centers,Class 3,Moderate,High,Moderate,Low Emissions Zone Management
+Vehicle Characteristics,,,,,Low Emissions Zone Management
+Light Vehicle OBE,Class 5,High,High,High,Low Emissions Zone Management
+Light Vehicle Driver,,,,,Low Emissions Zone Management
+Driver,,,,,Eco-Traffic Signal Timing
+Vehicle,Class 2,Moderate,Moderate,Moderate,Eco-Traffic Signal Timing
+Traffic Management Center,Class 3,Moderate,High,Moderate,Eco-Traffic Signal Timing
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Eco-Traffic Signal Timing
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Eco-Traffic Signal Timing
+Traffic Operations Personnel,,,,,Eco-Traffic Signal Timing
+Emissions Management Center,Class 2,Moderate,Moderate,Moderate,Eco-Traffic Signal Timing
+Pedestrian,,,,,Eco-Traffic Signal Timing
+MMV User,,,,,Eco-Traffic Signal Timing
+Vehicle Characteristics,,,,,Eco-Traffic Signal Timing
+Roadway Environment,Class 1,Not Applicable,Low,Low,Eco-Traffic Signal Timing
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Electric Charging Stations Management
+Financial Center,Class 2,Moderate,Moderate,Moderate,Electric Charging Stations Management
+Payment Administration Center,Class 2,Moderate,Moderate,Moderate,Electric Charging Stations Management
+Payment Device,Class 5,Moderate,Moderate,High,Electric Charging Stations Management
+Electric Charging Station,Class 5,Moderate,Moderate,High,Electric Charging Stations Management
+Basic Vehicle,,,,,Electric Charging Stations Management
+Electric Utility,Class 2,Moderate,Moderate,Moderate,Electric Charging Stations Management
+Light Vehicle OBE,Class 5,Moderate,Moderate,High,Electric Charging Stations Management
+Light Vehicle Driver,,,,,Electric Charging Stations Management
+Electric Charging Management Center,Class 2,Moderate,Moderate,Moderate,Electric Charging Stations Management
+Traffic Management Center,Class 3,Moderate,High,Moderate,Emergency Vehicle Preemption
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Emergency Vehicle Preemption
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Emergency Vehicle Preemption
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,Emergency Vehicle Preemption
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Emergency Vehicle Preemption
+Emergency Personnel,,,,,Emergency Vehicle Preemption
+Emergency Management Center,Class 3,Moderate,High,Moderate,Emergency Vehicle Preemption
+Driver,,,,,Special Vehicle Alert
+Vehicle,Class 1,Low,Low,Moderate,Special Vehicle Alert
+Commercial Vehicle OBE,Class 3,Not Applicable,High,Moderate,Special Vehicle Alert
+Transportation Information Center,Class 3,Moderate,High,Moderate,Special Vehicle Alert
+Commercial Vehicle Driver,,,,,Special Vehicle Alert
+Transit Vehicle Operator,,,,,Special Vehicle Alert
+Transit Vehicle OBE,Class 3,Not Applicable,High,Moderate,Special Vehicle Alert
+Maint and Constr Vehicle OBE,Class 3,Not Applicable,High,Moderate,Special Vehicle Alert
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Special Vehicle Alert
+Emergency Personnel,,,,,Special Vehicle Alert
+Emergency Management Center,Class 3,Moderate,High,Moderate,Special Vehicle Alert
+Other Transportation Information Centers,Class 3,Moderate,High,Moderate,Special Vehicle Alert
+Basic Vehicle,,,,,Special Vehicle Alert
+Maint and Constr Vehicle Operator,,,,,Special Vehicle Alert
+Vehicle Characteristics,,,,,Special Vehicle Alert
+Traffic Management Center,Class 1,Low,Moderate,Moderate,Freight-Specific Dynamic Travel Planning
+Maint and Constr Management Center,Class 5,Low,High,High,Freight-Specific Dynamic Travel Planning
+Intermodal Terminal,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Freight-Specific Dynamic Travel Planning
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Freight-Specific Dynamic Travel Planning
+Transportation Information Center,Class 5,Moderate,Moderate,High,Freight-Specific Dynamic Travel Planning
+Intermodal Customer System,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning
+Freight Distribution and Logistics Center,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning
+Freight Consolidation Station,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning
+Weather Service System,Class 1,Low,Moderate,Moderate,Freight-Specific Dynamic Travel Planning
+Financial Center,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning
+Payment Administration Center,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning
+Emergency Management Center,Class 1,Low,Moderate,Moderate,Freight-Specific Dynamic Travel Planning
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning
+Commercial Vehicle Administration Center,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning
+Traffic Management Center,Class 3,Moderate,High,Moderate,Freight Signal Priority
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Freight Signal Priority
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Freight Signal Priority
+Intermodal Terminal,Class 2,Moderate,Moderate,Moderate,Freight Signal Priority
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Freight Signal Priority
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Freight Signal Priority
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,Freight Signal Priority
+Commercial Vehicle Driver,,,,,Freight Signal Priority
+Basic Commercial Vehicle,,,,,Freight Signal Priority
+Driver,,,,,Intermittent Bus Lanes
+Vehicle,Class 3,Moderate,High,Moderate,Intermittent Bus Lanes
+Traffic Management Center,Class 3,Moderate,High,Moderate,Intermittent Bus Lanes
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Intermittent Bus Lanes
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Intermittent Bus Lanes
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Intermittent Bus Lanes
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Intermittent Bus Lanes
+Transit Vehicle Operator,,,,,Intermittent Bus Lanes
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Intermittent Bus Lanes
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Intermittent Bus Lanes
+Basic Vehicle,,,,,Intermittent Bus Lanes
+Vehicle Characteristics,,,,,Intermittent Bus Lanes
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Integrated Multi-Modal Electronic Payment
+Personal Information Device,Class 5,High,High,High,Integrated Multi-Modal Electronic Payment
+Transit Management Center,Class 4,High,High,Moderate,Integrated Multi-Modal Electronic Payment
+Transit Vehicle OBE,Class 5,Moderate,Moderate,High,Integrated Multi-Modal Electronic Payment
+Financial Center,Class 2,Moderate,Moderate,Moderate,Integrated Multi-Modal Electronic Payment
+Payment Administration Center,Class 5,High,High,High,Integrated Multi-Modal Electronic Payment
+ITS Roadway Payment Equipment,Class 5,Moderate,Moderate,High,Integrated Multi-Modal Electronic Payment
+Payment Device,Class 5,Moderate,Moderate,High,Integrated Multi-Modal Electronic Payment
+Other Payment Administration Centers,Class 3,Moderate,High,Moderate,Integrated Multi-Modal Electronic Payment
+Parking Area Equipment,Class 5,Moderate,Moderate,High,Integrated Multi-Modal Electronic Payment
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Integrated Multi-Modal Electronic Payment
+Parking Management Center,Class 4,High,High,Moderate,Integrated Multi-Modal Electronic Payment
+Shared Use Transportation Center,Class 2,Moderate,Moderate,Moderate,Integrated Multi-Modal Electronic Payment
+Eligibility Certification Management System,Class 2,Moderate,Moderate,Moderate,Integrated Multi-Modal Electronic Payment
+Light Vehicle OBE,Class 5,High,High,High,Integrated Multi-Modal Electronic Payment
+Driver,,,,,Incident Scene Safety Monitoring
+Vehicle,Class 3,Low,High,Moderate,Incident Scene Safety Monitoring
+Traffic Management Center,Class 4,High,High,Moderate,Incident Scene Safety Monitoring
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Incident Scene Safety Monitoring
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Incident Scene Safety Monitoring
+Transportation Information Center,Class 1,Low,Low,Moderate,Incident Scene Safety Monitoring
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Incident Scene Safety Monitoring
+Emergency Personnel,Class 1,Not Applicable,Moderate,Low,Incident Scene Safety Monitoring
+Emergency Management Center,Class 4,High,High,Moderate,Incident Scene Safety Monitoring
+Other EV OBEs,Class 2,Moderate,Moderate,Moderate,Incident Scene Safety Monitoring
+Basic Emergency Vehicle,,,,,Incident Scene Safety Monitoring
+Basic Vehicle,,,,,Incident Scene Safety Monitoring
+Personnel Device,Class 3,Not Applicable,High,Moderate,Incident Scene Safety Monitoring
+Vehicle Characteristics,,,,,Incident Scene Safety Monitoring
+Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response
+Emergency Personnel,,,,,Emergency Response
+Emergency Management Center,Class 5,High,High,High,Emergency Response
+Other Emergency Management Centers,Class 2,Moderate,Moderate,Moderate,Emergency Response
+Emergency System Operator,,,,,Emergency Response
+Other EV OBEs,Class 2,Moderate,Moderate,Moderate,Emergency Response
+Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response
+Vehicle,Class 1,Low,Moderate,Moderate,Road Weather Information for Freight Carriers
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Road Weather Information for Freight Carriers
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Road Weather Information for Freight Carriers
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Road Weather Information for Freight Carriers
+Commercial Vehicle OBE,Class 1,Low,Moderate,Moderate,Road Weather Information for Freight Carriers
+Fleet and Freight Management Center,Class 3,Low,High,Moderate,Road Weather Information for Freight Carriers
+Transportation Information Center,Class 3,Low,High,Moderate,Road Weather Information for Freight Carriers
+Commercial Vehicle Driver,,,,,Road Weather Information for Freight Carriers
+Fleet-Freight Manager,,,,,Road Weather Information for Freight Carriers
+Weather Service System,Class 1,Low,Moderate,Moderate,Road Weather Information for Freight Carriers
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Road Weather Information for Freight Carriers
+Basic Commercial Vehicle,,,,,Road Weather Information for Freight Carriers
+Roadway Environment,Class 1,Not Applicable,Low,Low,Road Weather Information for Freight Carriers
+Driver,,,,,Connected Vehicle Traffic Signal System
+Vehicle,Class 2,Moderate,Moderate,Moderate,Connected Vehicle Traffic Signal System
+Traffic Management Center,Class 3,Moderate,High,Moderate,Connected Vehicle Traffic Signal System
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Connected Vehicle Traffic Signal System
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Connected Vehicle Traffic Signal System
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Connected Vehicle Traffic Signal System
+Traffic Operations Personnel,,,,,Connected Vehicle Traffic Signal System
+Pedestrian,,,,,Connected Vehicle Traffic Signal System
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Connected Vehicle Traffic Signal System
+MMV User,,,,,Connected Vehicle Traffic Signal System
+Vehicle Characteristics,,,,,Connected Vehicle Traffic Signal System
+Driver,,,,,Road Weather Motorist Alert and Warning
+Vehicle,Class 1,Low,Moderate,Moderate,Road Weather Motorist Alert and Warning
+Traffic Management Center,Class 3,Moderate,High,Moderate,Road Weather Motorist Alert and Warning
+Maint and Constr Management Center,Class 1,Low,Low,Moderate,Road Weather Motorist Alert and Warning
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Road Weather Motorist Alert and Warning
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Road Weather Motorist Alert and Warning
+Transportation Information Center,Class 3,Low,High,Moderate,Road Weather Motorist Alert and Warning
+Traffic Operations Personnel,,,,,Road Weather Motorist Alert and Warning
+Weather Service System,Class 1,Low,Moderate,Moderate,Road Weather Motorist Alert and Warning
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Road Weather Motorist Alert and Warning
+Basic Vehicle,,,,,Road Weather Motorist Alert and Warning
+Roadway Environment,Class 1,Not Applicable,Low,Low,Road Weather Motorist Alert and Warning
+Driver,,,,,Oversize Vehicle Warning
+Vehicle,Class 1,Low,Moderate,Moderate,Oversize Vehicle Warning
+Traffic Management Center,Class 5,Moderate,High,High,Oversize Vehicle Warning
+Maint and Constr Management Center,Class 5,Low,High,High,Oversize Vehicle Warning
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Oversize Vehicle Warning
+Connected Vehicle Roadside Equipment,Class 1,Low,Moderate,Moderate,Oversize Vehicle Warning
+Basic Vehicle,,,,,Oversize Vehicle Warning
+Vehicle Characteristics,,,,,Oversize Vehicle Warning
+Driver,,,,,Vulnerable Road User Safety
+Vehicle,Class 3,Low,High,Moderate,Vulnerable Road User Safety
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Vulnerable Road User Safety
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Vulnerable Road User Safety
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Vulnerable Road User Safety
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Vulnerable Road User Safety
+Personal Information Device,Class 3,Low,High,Moderate,Vulnerable Road User Safety
+Pedestrian,,,,,Vulnerable Road User Safety
+Basic Vehicle,,,,,Vulnerable Road User Safety
+MMV User,,,,,Vulnerable Road User Safety
+Vulnerable Road Users,,,,,Vulnerable Road User Safety
+Micromobility Vehicle OBE,Class 3,Low,High,Moderate,Vulnerable Road User Safety
+Driver,,,,,Queue Warning
+Vehicle,Class 3,Moderate,High,Moderate,Queue Warning
+Other Vehicles,Class 3,Low,High,Moderate,Queue Warning
+Traffic Management Center,Class 3,Moderate,High,Moderate,Queue Warning
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Queue Warning
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Queue Warning
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Queue Warning
+Traffic Operations Personnel,,,,,Queue Warning
+Other Traffic Management Centers,Class 1,Low,Moderate,Moderate,Queue Warning
+Basic Vehicle,,,,,Queue Warning
+Vehicle Characteristics,,,,,Queue Warning
+Roadway Environment,Class 1,Not Applicable,Low,Low,Queue Warning
+Driver,,,,,Advanced Railroad Grade Crossing
+Vehicle,Class 3,Low,High,Moderate,Advanced Railroad Grade Crossing
+Traffic Management Center,Class 5,Moderate,High,High,Advanced Railroad Grade Crossing
+ITS Roadway Equipment,Class 5,Moderate,High,High,Advanced Railroad Grade Crossing
+Connected Vehicle Roadside Equipment,Class 5,Moderate,High,High,Advanced Railroad Grade Crossing
+Personal Information Device,Class 5,Not Applicable,High,High,Advanced Railroad Grade Crossing
+Wayside Equipment,Class 5,Moderate,High,High,Advanced Railroad Grade Crossing
+Pedestrian,,,,,Advanced Railroad Grade Crossing
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Advanced Railroad Grade Crossing
+Rail Operations Center,Class 2,Moderate,Moderate,Moderate,Advanced Railroad Grade Crossing
+MMV User,,,,,Advanced Railroad Grade Crossing
+Traffic Management Center,Class 5,High,High,High,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders
+Maint and Constr Management Center,Class 5,Moderate,High,High,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders
+Freight Equipment,,,,,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders
+Commercial Vehicle OBE,Class 5,Moderate,High,High,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders
+Fleet and Freight Management Center,Class 5,High,High,High,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders
+Emergency Vehicle OBE,Class 5,High,High,High,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders
+Emergency Personnel,,,,,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders
+DMV,Class 4,High,High,Moderate,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders
+Emergency Management Center,Class 5,High,High,High,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders
+Care Facility,Class 5,High,High,High,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders
+Other EV OBEs,Class 2,Moderate,Moderate,Moderate,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders
+Basic Emergency Vehicle,,,,,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders
+Driver,,,,,Intersection Safety Warning and Collision Avoidance
+Vehicle,Class 3,Low,High,Moderate,Intersection Safety Warning and Collision Avoidance
+Other Vehicles,Class 3,Low,High,Moderate,Intersection Safety Warning and Collision Avoidance
+Traffic Management Center,Class 3,Moderate,High,Moderate,Intersection Safety Warning and Collision Avoidance
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Intersection Safety Warning and Collision Avoidance
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Intersection Safety Warning and Collision Avoidance
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Intersection Safety Warning and Collision Avoidance
+Basic Vehicle,,,,,Intersection Safety Warning and Collision Avoidance
+Vehicle Characteristics,,,,,Intersection Safety Warning and Collision Avoidance
+Roadway Environment,Class 1,Not Applicable,Low,Low,Intersection Safety Warning and Collision Avoidance
+Potential Obstacles,,,,,Intersection Safety Warning and Collision Avoidance
+Vulnerable Road Users,,,,,Intersection Safety Warning and Collision Avoidance
+Driver,,,,,Restricted Lane Warnings
+Vehicle,Class 1,Low,Moderate,Moderate,Restricted Lane Warnings
+Traffic Management Center,Class 3,Moderate,High,Moderate,Restricted Lane Warnings
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Restricted Lane Warnings
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Restricted Lane Warnings
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Restricted Lane Warnings
+Traffic Operations Personnel,,,,,Restricted Lane Warnings
+Basic Vehicle,,,,,Restricted Lane Warnings
+Driver,,,,,Reduced Speed Zone Warning / Lane Closure
+Vehicle,Class 1,Low,Moderate,Moderate,Reduced Speed Zone Warning / Lane Closure
+Traffic Management Center,Class 3,Moderate,High,Moderate,Reduced Speed Zone Warning / Lane Closure
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Reduced Speed Zone Warning / Lane Closure
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Reduced Speed Zone Warning / Lane Closure
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Reduced Speed Zone Warning / Lane Closure
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Reduced Speed Zone Warning / Lane Closure
+Basic Vehicle,,,,,Reduced Speed Zone Warning / Lane Closure
+Vehicle Characteristics,,,,,Reduced Speed Zone Warning / Lane Closure
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Route ID for the Visually Impaired
+Personal Information Device,Class 3,Moderate,High,Moderate,Route ID for the Visually Impaired
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Route ID for the Visually Impaired
+Transit Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Route ID for the Visually Impaired
+Traveler,,,,,Route ID for the Visually Impaired
+Traveler Support Equipment,Class 2,Moderate,Moderate,Moderate,Route ID for the Visually Impaired
+Driver,,,,,Situational Awareness
+Vehicle,Class 3,Low,High,Moderate,Situational Awareness
+Other Vehicles,Class 3,Low,High,Moderate,Situational Awareness
+ITS Roadway Equipment,Class 3,Not Applicable,High,Moderate,Situational Awareness
+Connected Vehicle Roadside Equipment,Class 3,Not Applicable,High,Moderate,Situational Awareness
+Basic Vehicle,,,,,Situational Awareness
+Other Connected Vehicle Roadside Equipment,Class 3,Not Applicable,High,Moderate,Situational Awareness
+Vehicle Characteristics,,,,,Situational Awareness
+Roadway Environment,Class 1,Not Applicable,Low,Low,Situational Awareness
+Potential Obstacles,,,,,Situational Awareness
+Vulnerable Road Users,,,,,Situational Awareness
+Cooperative ITS Credentials Management System,Class 5,High,High,High,Security and Credentials Management
+Credentials Management System Operator,,,,,Security and Credentials Management
+Other Credentials Management Systems,Class 5,High,High,High,Security and Credentials Management
+ITS Object,Class 5,High,High,High,Security and Credentials Management
+Identifier Registry,Class 3,Low,High,Low,Security and Credentials Management
+Driver,,,,,Eco-Approach and Departure at Signalized Intersections
+Vehicle,Class 3,Low,High,Moderate,Eco-Approach and Departure at Signalized Intersections
+Other Vehicles,Class 3,Not Applicable,High,Moderate,Eco-Approach and Departure at Signalized Intersections
+Traffic Management Center,Class 3,Moderate,High,Moderate,Eco-Approach and Departure at Signalized Intersections
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Eco-Approach and Departure at Signalized Intersections
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Eco-Approach and Departure at Signalized Intersections
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Eco-Approach and Departure at Signalized Intersections
+Driver,,,,,Speed Harmonization
+Vehicle,Class 1,Low,Moderate,Moderate,Speed Harmonization
+Traffic Management Center,Class 3,Moderate,High,Moderate,Speed Harmonization
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Speed Harmonization
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Speed Harmonization
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Speed Harmonization
+Traffic Operations Personnel,,,,,Speed Harmonization
+Vehicle Characteristics,,,,,Speed Harmonization
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Smart Park and Ride System
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Smart Park and Ride System
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Smart Park and Ride System
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Smart Park and Ride System
+Parking Area Equipment,Class 2,Moderate,Moderate,Moderate,Smart Park and Ride System
+Parking Operator,,,,,Smart Park and Ride System
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Smart Park and Ride System
+Parking Manager,,,,,Smart Park and Ride System
+Vehicle Characteristics,,,,,Smart Park and Ride System
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Smart Park and Ride System
+Light Vehicle Driver,,,,,Smart Park and Ride System
+Driver,,,,,Stop Sign Gap Assist
+Vehicle,Class 3,Low,High,Moderate,Stop Sign Gap Assist
+Other Vehicles,Class 3,Not Applicable,High,Moderate,Stop Sign Gap Assist
+Traffic Management Center,Class 3,Moderate,High,Moderate,Stop Sign Gap Assist
+ITS Roadway Equipment,Class 5,Moderate,High,High,Stop Sign Gap Assist
+Connected Vehicle Roadside Equipment,Class 5,Moderate,High,High,Stop Sign Gap Assist
+Basic Vehicle,,,,,Stop Sign Gap Assist
+Vehicle Characteristics,,,,,Stop Sign Gap Assist
+Roadway Environment,Class 1,Not Applicable,Low,Low,Stop Sign Gap Assist
+Vulnerable Road Users,,,,,Stop Sign Gap Assist
+Driver,,,,,Spot Weather Impact Warning
+Vehicle,Class 1,Low,Moderate,Moderate,Spot Weather Impact Warning
+Traffic Management Center,Class 5,Moderate,High,High,Spot Weather Impact Warning
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Spot Weather Impact Warning
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Spot Weather Impact Warning
+Transportation Information Center,Class 3,Moderate,High,Moderate,Spot Weather Impact Warning
+Personal Information Device,Class 1,Low,Low,Moderate,Spot Weather Impact Warning
+Traffic Operations Personnel,,,,,Spot Weather Impact Warning
+TIC Operator,,,,,Spot Weather Impact Warning
+Traveler,,,,,Spot Weather Impact Warning
+Alerting and Advisory System,Class 5,Moderate,High,High,Spot Weather Impact Warning
+Roadway Environment,Class 1,Not Applicable,Low,Low,Spot Weather Impact Warning
+Traffic Management Center,Class 1,Low,Moderate,Moderate,Transit Connection Protection
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Transit Connection Protection
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Transit Connection Protection
+Transit Vehicle Operator,,,,,Transit Connection Protection
+Transit Operations Personnel,,,,,Transit Connection Protection
+Transit Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Transit Connection Protection
+Alternate Mode Transportation Center,Class 2,Moderate,Moderate,Moderate,Transit Connection Protection
+Other Transit Management Centers,Class 2,Moderate,Moderate,Moderate,Transit Connection Protection
+Traveler Support Equipment,Class 2,Moderate,Moderate,Moderate,Transit Connection Protection
+Basic Transit Vehicle,,,,,Transit Connection Protection
+Traffic Management Center,Class 4,High,Moderate,Moderate,Dynamic Transit Operations
+Maint and Constr Management Center,Class 3,Low,High,Moderate,Dynamic Transit Operations
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Dynamic Transit Operations
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Dynamic Transit Operations
+Transit Management Center,Class 4,High,High,Moderate,Dynamic Transit Operations
+Transit Vehicle Operator,,,,,Dynamic Transit Operations
+Transit Operations Personnel,,,,,Dynamic Transit Operations
+Transit Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Dynamic Transit Operations
+Traveler,,,,,Dynamic Transit Operations
+Basic Transit Vehicle,,,,,Dynamic Transit Operations
+Personal Information Device,Class 3,Moderate,High,Moderate,Transit Pedestrian Indication
+Transit Vehicle Operator,,,,,Transit Pedestrian Indication
+Transit Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Transit Pedestrian Indication
+Traveler,,,,,Transit Pedestrian Indication
+Basic Transit Vehicle,,,,,Transit Pedestrian Indication
+Traffic Management Center,Class 3,Moderate,High,Moderate,Transit Signal Priority
+ITS Roadway Equipment,Class 5,Moderate,High,High,Transit Signal Priority
+Connected Vehicle Roadside Equipment,Class 5,Moderate,Moderate,High,Transit Signal Priority
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,Transit Signal Priority
+Transit Management Center,Class 1,Low,Moderate,Moderate,Transit Signal Priority
+Transit Vehicle Operator,,,,,Transit Signal Priority
+Transit Operations Personnel,,,,,Transit Signal Priority
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Transit Signal Priority
+Wayside Equipment,Class 5,Low,High,High,Transit Signal Priority
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Transit Signal Priority
+Connected Vehicle Roadside Equipment,Class 4,High,High,Moderate,Transit Stop Request
+Personal Information Device,Class 4,High,Moderate,Moderate,Transit Stop Request
+Transit Management Center,Class 4,High,High,Moderate,Transit Stop Request
+Transit Vehicle Operator,,,,,Transit Stop Request
+Transit Vehicle OBE,Class 4,High,High,Moderate,Transit Stop Request
+Traveler,,,,,Transit Stop Request
+Traveler Support Equipment,Class 4,High,Moderate,Moderate,Transit Stop Request
+Basic Transit Vehicle,,,,,Transit Stop Request
+Vehicle,,,,,Vehicle Turning Right in Front of a Transit Vehicle
+Transit Vehicle Operator,,,,,Vehicle Turning Right in Front of a Transit Vehicle
+Transit Vehicle OBE,,,,,Vehicle Turning Right in Front of a Transit Vehicle
+Basic Transit Vehicle,,,,,Vehicle Turning Right in Front of a Transit Vehicle
+Driver,,,,,Transit Vehicle at Station/Stop Warnings
+Vehicle,Class 1,Low,Low,Moderate,Transit Vehicle at Station/Stop Warnings
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Transit Vehicle at Station/Stop Warnings
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Transit Vehicle at Station/Stop Warnings
+Personal Information Device,Class 3,Not Applicable,High,Moderate,Transit Vehicle at Station/Stop Warnings
+Transit Management Center,Class 1,Low,Moderate,Moderate,Transit Vehicle at Station/Stop Warnings
+Transit Vehicle Operator,,,,,Transit Vehicle at Station/Stop Warnings
+Transit Vehicle OBE,Class 3,Low,High,Moderate,Transit Vehicle at Station/Stop Warnings
+Traveler,,,,,Transit Vehicle at Station/Stop Warnings
+Basic Transit Vehicle,,,,,Transit Vehicle at Station/Stop Warnings
+Basic Vehicle,,,,,Transit Vehicle at Station/Stop Warnings
+Vehicle,Class 2,Moderate,Moderate,Moderate,Vehicle-Based Traffic Surveillance
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Vehicle-Based Traffic Surveillance
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Vehicle-Based Traffic Surveillance
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Vehicle-Based Traffic Surveillance
+Transit Management Center,Class 1,Low,Moderate,Low,Vehicle-Based Traffic Surveillance
+Payment Administration Center,Class 1,Low,Moderate,Low,Vehicle-Based Traffic Surveillance
+Basic Vehicle,,,,,Vehicle-Based Traffic Surveillance
+Wireless Communications  Provider System,Class 1,Not Applicable,Moderate,Low,Vehicle-Based Traffic Surveillance
+Archived Data System,Class 5,High,High,High,Performance Monitoring
+Government Reporting Systems,Class 3,Low,High,Low,Performance Monitoring
+Archived Data User System,Class 4,High,High,Moderate,Performance Monitoring
+Other Archived Data Systems,Class 5,Moderate,High,High,Performance Monitoring
+Archived Data Administrator,,,,,Performance Monitoring
+Driver,,,,,Vehicle Emergency Response
+Vehicle,Class 3,Moderate,High,Moderate,Vehicle Emergency Response
+Freight Equipment,,,,,Vehicle Emergency Response
+Commercial Vehicle OBE,Class 5,Moderate,High,High,Vehicle Emergency Response
+Commercial Vehicle Driver,,,,,Vehicle Emergency Response
+Emergency Vehicle OBE,Class 5,Moderate,Moderate,High,Vehicle Emergency Response
+Emergency Personnel,,,,,Vehicle Emergency Response
+Basic Vehicle,,,,,Vehicle Emergency Response
+Driver,,,,,Work Zone Safety Monitoring
+Vehicle,Class 3,Low,High,Moderate,Work Zone Safety Monitoring
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Work Zone Safety Monitoring
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Work Zone Safety Monitoring
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Work Zone Safety Monitoring
+Maint and Constr Vehicle OBE,Class 3,Moderate,High,Moderate,Work Zone Safety Monitoring
+Maint and Constr Field Personnel,Class 1,Not Applicable,Moderate,Low,Work Zone Safety Monitoring
+Other MCV OBEs,Class 1,Not Applicable,Moderate,Moderate,Work Zone Safety Monitoring
+Basic Vehicle,,,,,Work Zone Safety Monitoring
+Personnel Device,Class 3,Not Applicable,High,Moderate,Work Zone Safety Monitoring
+Vehicle Characteristics,,,,,Work Zone Safety Monitoring
+Freight Equipment,Class 2,Moderate,Moderate,Moderate,Freight Drayage Optimization
+Intermodal Terminal,Class 2,Moderate,Moderate,Moderate,Freight Drayage Optimization
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Freight Drayage Optimization
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Freight Drayage Optimization
+Commercial Vehicle Driver,,,,,Freight Drayage Optimization
+Fleet-Freight Manager,,,,,Freight Drayage Optimization
+Intermodal Customer System,Class 2,Moderate,Moderate,Moderate,Freight Drayage Optimization
+Freight Distribution and Logistics Center,Class 2,Moderate,Moderate,Moderate,Freight Drayage Optimization
+Basic Commercial Vehicle,,,,,Freight Drayage Optimization
+Other Freight Distribution and Logistics Centers,Class 2,Moderate,Moderate,Moderate,Freight Drayage Optimization
+Driver,,,,,Eco-Traffic Metering
+Vehicle,Class 2,Moderate,Moderate,Moderate,Eco-Traffic Metering
+Traffic Management Center,Class 3,Moderate,High,Moderate,Eco-Traffic Metering
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Eco-Traffic Metering
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Eco-Traffic Metering
+Traffic Operations Personnel,,,,,Eco-Traffic Metering
+Emissions Management Center,Class 2,Moderate,Moderate,Moderate,Eco-Traffic Metering
+Vehicle Characteristics,,,,,Eco-Traffic Metering
+Roadway Environment,Class 1,Not Applicable,Low,Low,Eco-Traffic Metering
+Vehicle,Class 1,Low,Moderate,Moderate,Roadside Lighting
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Roadside Lighting
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Roadside Lighting
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Roadside Lighting
+Traffic Operations Personnel,,,,,Roadside Lighting
+Vehicle Characteristics,,,,,Roadside Lighting
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Connected Vehicle System Monitoring and Management
+Connected Vehicle Roadside Equipment,Class 5,High,High,High,Connected Vehicle System Monitoring and Management
+Maint and Constr Field Personnel,,,,,Connected Vehicle System Monitoring and Management
+Center,Class 4,High,High,Moderate,Connected Vehicle System Monitoring and Management
+Field Maintenance Equipment,Class 5,High,High,High,Connected Vehicle System Monitoring and Management
+Service Monitor System,Class 5,High,High,High,Connected Vehicle System Monitoring and Management
+Service Monitor System Operator,,,,,Connected Vehicle System Monitoring and Management
+Other Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Low,Connected Vehicle System Monitoring and Management
+ITS Object,Class 5,High,High,High,Connected Vehicle System Monitoring and Management
+Driver,,,,,Connected Eco-Driving
+Vehicle,Class 3,Not Applicable,High,Moderate,Connected Eco-Driving
+Other Vehicles,Class 3,Not Applicable,High,Moderate,Connected Eco-Driving
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Connected Eco-Driving
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Connected Eco-Driving
+Vehicle,Class 1,Not Applicable,Low,Moderate,Object Registration and Discovery
+Object Registration and Discovery System,Class 3,Low,High,Moderate,Object Registration and Discovery
+ORDS Operator,,,,,Object Registration and Discovery
+ITS Object,Class 3,Low,High,Moderate,Object Registration and Discovery
+Vehicle,Class 5,Moderate,Moderate,High,Location and Time
+Connected Vehicle Roadside Equipment,Class 5,Low,High,High,Location and Time
+Center,Class 5,Low,Low,High,Location and Time
+Data Distribution System,Class 1,Not Applicable,Low,Moderate,Location and Time
+Service Monitor System,Class 3,Not Applicable,High,Moderate,Location and Time
+Service Monitor System Operator,,,,,Location and Time
+Network Time Source,Class 3,Not Applicable,High,Moderate,Location and Time
+Location and Time Data Source,Class 5,Moderate,High,High,Location and Time
+Basic Vehicle,,,,,Location and Time
+Position Corrections Source,Class 5,Not Applicable,High,High,Location and Time
+Field,Class 5,Moderate,Moderate,High,Location and Time
+Personal,Class 5,Moderate,Moderate,High,Location and Time
+Traffic Management Center,Class 1,Low,Low,Low,Electronic Toll Collection
+Fleet and Freight Management Center,Class 2,Moderate,Moderate,Moderate,Electronic Toll Collection
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Electronic Toll Collection
+Personal Information Device,Class 4,High,High,Moderate,Electronic Toll Collection
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Electronic Toll Collection
+Financial Center,Class 2,Moderate,Moderate,Moderate,Electronic Toll Collection
+Payment Administration Center,Class 4,High,High,Moderate,Electronic Toll Collection
+ITS Roadway Payment Equipment,Class 5,Moderate,Moderate,High,Electronic Toll Collection
+Payment Device,Class 5,Moderate,Moderate,High,Electronic Toll Collection
+Payment Administrator,,,,,Electronic Toll Collection
+DMV,Class 4,High,High,Moderate,Electronic Toll Collection
+Other Payment Administration Centers,Class 2,Moderate,Moderate,Moderate,Electronic Toll Collection
+Light Vehicle OBE,Class 5,High,High,High,Electronic Toll Collection
+Light Vehicle Driver,,,,,Electronic Toll Collection
+Transportation Information Center,Class 5,Low,Low,High,Road Use Charging
+Personal Information Device,Class 5,High,High,High,Road Use Charging
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Road Use Charging
+Financial Center,Class 2,Moderate,Moderate,Moderate,Road Use Charging
+Payment Administration Center,Class 5,High,High,High,Road Use Charging
+ITS Roadway Payment Equipment,Class 5,High,High,High,Road Use Charging
+Payment Device,Class 5,Moderate,Moderate,High,Road Use Charging
+Payment Administrator,,,,,Road Use Charging
+DMV,Class 4,High,High,Moderate,Road Use Charging
+Other Payment Administration Centers,Class 3,Moderate,High,Moderate,Road Use Charging
+Traveler Support Equipment,Class 5,High,High,High,Road Use Charging
+Light Vehicle OBE,Class 5,High,High,High,Road Use Charging
+Light Vehicle Driver,,,,,Road Use Charging
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Electronic Driver Logs
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Electronic Driver Logs
+Commercial Vehicle Driver,,,,,Electronic Driver Logs
+Commercial Vehicle Check Equipment,Class 4,High,High,Moderate,Electronic Driver Logs
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Electronic Driver Logs
+Commercial Vehicle Inspector,,,,,Electronic Driver Logs
+Basic Commercial Vehicle,,,,,Electronic Driver Logs
+Security Credentials Registry,Class 4,High,High,Moderate,Electronic Driver Logs
+Commercial Vehicle Service Provider Center,Class 4,High,High,Moderate,Electronic Driver Logs
+Other Commercial Vehicle Service Provider Centers,Class 4,High,High,Moderate,Electronic Driver Logs
+Driver Identification Card,Class 4,High,Moderate,Moderate,Electronic Driver Logs
+Commercial Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Intelligent Speed Compliance
+Fleet and Freight Management Center,Class 2,Moderate,Moderate,Moderate,Intelligent Speed Compliance
+Commercial Vehicle Driver,,,,,Intelligent Speed Compliance
+Commercial Vehicle Administration Center,Class 2,Moderate,Moderate,Moderate,Intelligent Speed Compliance
+Commercial Vehicle Service Provider Center,Class 2,Moderate,Moderate,Moderate,Intelligent Speed Compliance
+Commercial Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Intelligent Access Program
+Fleet and Freight Management Center,Class 2,Moderate,Moderate,Moderate,Intelligent Access Program
+Commercial Vehicle Driver,,,,,Intelligent Access Program
+Commercial Vehicle Administration Center,Class 2,Moderate,Moderate,Moderate,Intelligent Access Program
+Commercial Vehicle Service Provider Center,Class 2,Moderate,Moderate,Moderate,Intelligent Access Program
+Commercial Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Intelligent Access Program - Weight Monitoring
+Fleet and Freight Management Center,Class 2,Moderate,Moderate,Moderate,Intelligent Access Program - Weight Monitoring
+Commercial Vehicle Driver,,,,,Intelligent Access Program - Weight Monitoring
+Commercial Vehicle Administration Center,Class 2,Moderate,Moderate,Moderate,Intelligent Access Program - Weight Monitoring
+Commercial Vehicle Service Provider Center,Class 2,Moderate,Moderate,Moderate,Intelligent Access Program - Weight Monitoring
+On-Board Weight Monitoring Equipment,,,,,Intelligent Access Program - Weight Monitoring
+Driver,,,,,In-Vehicle Signage
+Vehicle,Class 1,Low,Low,Moderate,In-Vehicle Signage
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,In-Vehicle Signage
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,In-Vehicle Signage
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,In-Vehicle Signage
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,In-Vehicle Signage
+Traffic Operations Personnel,,,,,In-Vehicle Signage
+Maint and Constr Vehicle OBE,Class 1,Low,Moderate,Moderate,In-Vehicle Signage
+Emergency Vehicle OBE,Class 1,Low,Moderate,Moderate,In-Vehicle Signage
+Wide Area Information Disseminator System,Class 5,High,High,High,ITS Communications
+ITS Object,Class 5,High,High,High,ITS Communications
+Other ITS Objects,Class 5,High,High,High,ITS Communications
+ITS Communications Equipment,Class 5,High,High,High,ITS Communications
+Roadside Communications Unit,Class 5,High,High,High,ITS Communications
+Pathway Communications Unit,Class 5,High,High,High,ITS Communications
+Vehicle,Class 3,Moderate,High,Moderate,Map Management
+Map Update System,Class 3,Moderate,High,Moderate,Map Management
+Other Vehicles,Class 3,Not Applicable,High,Low,Map Management
+Maint and Constr Management Center,Class 3,Low,High,Moderate,Map Management
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Map Management
+Parking Area Equipment,Class 3,Low,High,Moderate,Map Management
+Traveler Support Equipment,Class 1,Not Applicable,Low,Moderate,Map Management
+Commercial Vehicle Administration Center,Class 1,Low,Moderate,Low,Map Management
+Center,Class 3,Low,High,Moderate,Map Management
+MAP GIS Operator,,,,,Map Management
+Other Map Update Systems,Class 3,Low,High,Moderate,Map Management
+Personal,Class 1,Low,Low,Moderate,Map Management
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Traffic Surveillance
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Traffic Surveillance
+Transportation Information Center,Class 1,Low,Low,Moderate,Infrastructure-Based Traffic Surveillance
+Traffic Operations Personnel,,,,,Infrastructure-Based Traffic Surveillance
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Traffic Surveillance
+Basic Vehicle,Class 1,Not Applicable,Moderate,Low,Infrastructure-Based Traffic Surveillance
+Vehicle Characteristics,,,,,Infrastructure-Based Traffic Surveillance
+Driver,,,,,Traffic Signal Control
+Traffic Management Center,Class 3,Moderate,High,Moderate,Traffic Signal Control
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Traffic Signal Control
+Traffic Operations Personnel,,,,,Traffic Signal Control
+Pedestrian,,,,,Traffic Signal Control
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traffic Signal Control
+MMV User,,,,,Traffic Signal Control
+Vehicle Characteristics,,,,,Traffic Signal Control
+Driver,,,,,Traffic Metering
+Traffic Management Center,Class 3,Moderate,High,Moderate,Traffic Metering
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traffic Metering
+Traffic Operations Personnel,,,,,Traffic Metering
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traffic Metering
+Vehicle Characteristics,,,,,Traffic Metering
+Traffic Management Center,Class 3,Moderate,High,Moderate,HOV/HOT Lane Management
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,HOV/HOT Lane Management
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,HOV/HOT Lane Management
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,HOV/HOT Lane Management
+Personal Information Device,Class 4,High,High,Moderate,HOV/HOT Lane Management
+Traffic Operations Personnel,,,,,HOV/HOT Lane Management
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,HOV/HOT Lane Management
+Financial Center,Class 2,Moderate,Moderate,Moderate,HOV/HOT Lane Management
+Payment Administration Center,Class 4,High,High,Moderate,HOV/HOT Lane Management
+ITS Roadway Payment Equipment,Class 5,Moderate,Moderate,High,HOV/HOT Lane Management
+Payment Device,Class 5,Moderate,Moderate,High,HOV/HOT Lane Management
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,HOV/HOT Lane Management
+Vehicle Characteristics,,,,,HOV/HOT Lane Management
+Light Vehicle OBE,Class 5,High,High,High,HOV/HOT Lane Management
+Light Vehicle Driver,,,,,HOV/HOT Lane Management
+Driver,,,,,Traffic Information Dissemination
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Traffic Information Dissemination
+Maint and Constr Management Center,Class 1,Low,Low,Moderate,Traffic Information Dissemination
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traffic Information Dissemination
+Transportation Information Center,Class 1,Low,Low,Moderate,Traffic Information Dissemination
+Transit Management Center,Class 1,Low,Low,Moderate,Traffic Information Dissemination
+Traffic Operations Personnel,,,,,Traffic Information Dissemination
+Emergency Management Center,Class 1,Low,Low,Moderate,Traffic Information Dissemination
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traffic Information Dissemination
+Media,Class 1,Low,Low,Moderate,Traffic Information Dissemination
+Basic Vehicle,Class 1,Not Applicable,Low,Low,Traffic Information Dissemination
+Traffic Management Center,Class 4,High,High,Moderate,Regional Traffic Management
+Traffic Operations Personnel,,,,,Regional Traffic Management
+Other Traffic Management Centers,Class 4,High,High,Moderate,Regional Traffic Management
+Traffic Management Center,Class 4,High,High,Moderate,Traffic Incident Management System
+Maint and Constr Management Center,Class 4,High,High,Moderate,Traffic Incident Management System
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traffic Incident Management System
+Transportation Information Center,Class 1,Low,Low,Moderate,Traffic Incident Management System
+Transit Management Center,Class 4,High,High,Moderate,Traffic Incident Management System
+Traffic Operations Personnel,,,,,Traffic Incident Management System
+Maint and Constr Center Personnel,,,,,Traffic Incident Management System
+Other Traffic Management Centers,Class 4,High,High,Moderate,Traffic Incident Management System
+Event Promoter System,Class 3,Moderate,High,Moderate,Traffic Incident Management System
+Emergency Management Center,Class 4,High,High,Moderate,Traffic Incident Management System
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traffic Incident Management System
+Other Emergency Management Centers,Class 2,Moderate,Moderate,Moderate,Traffic Incident Management System
+Emergency System Operator,,,,,Traffic Incident Management System
+Rail Operations Center,Class 4,High,High,Moderate,Traffic Incident Management System
+Media,Class 1,Low,Moderate,Moderate,Traffic Incident Management System
+Border Inspection System,Class 3,Moderate,High,Moderate,Traffic Incident Management System
+Other Maint and Constr Mgmt Centers,Class 2,Moderate,Moderate,Moderate,Traffic Incident Management System
+Vehicle Characteristics,,,,,Traffic Incident Management System
+Traffic Management Center,Class 5,High,High,High,Integrated Decision Support and Demand Management
+Maint and Constr Management Center,Class 5,Moderate,High,High,Integrated Decision Support and Demand Management
+Transportation Information Center,Class 4,High,Moderate,Moderate,Integrated Decision Support and Demand Management
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Integrated Decision Support and Demand Management
+Other Transit Management Centers,Class 2,Moderate,Moderate,Moderate,Integrated Decision Support and Demand Management
+Traffic Operations Personnel,,,,,Integrated Decision Support and Demand Management
+Emissions Management Center,Class 2,Moderate,Moderate,Moderate,Integrated Decision Support and Demand Management
+Other Traffic Management Centers,Class 4,High,High,Moderate,Integrated Decision Support and Demand Management
+Payment Administration Center,Class 2,Moderate,Moderate,Moderate,Integrated Decision Support and Demand Management
+Event Promoter System,Class 3,Moderate,High,Moderate,Integrated Decision Support and Demand Management
+Emergency Management Center,Class 4,High,Moderate,Moderate,Integrated Decision Support and Demand Management
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Integrated Decision Support and Demand Management
+Driver,,,,,Emissions Monitoring
+Vehicle,Class 2,Moderate,Moderate,Moderate,Emissions Monitoring
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Emissions Monitoring
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Emissions Monitoring
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Emissions Monitoring
+Transportation Information Center,Class 1,Not Applicable,Low,Low,Emissions Monitoring
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Emissions Monitoring
+Transit Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Emissions Monitoring
+Emissions Management Center,Class 2,Moderate,Moderate,Moderate,Emissions Monitoring
+Weather Service System,Class 1,Low,Moderate,Low,Emissions Monitoring
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Emissions Monitoring
+Emissions Management Operator,,,,,Emissions Monitoring
+Media,Class 1,Not Applicable,Low,Low,Emissions Monitoring
+Basic Transit Vehicle,,,,,Emissions Monitoring
+Basic Vehicle,,,,,Emissions Monitoring
+Driver,,,,,Standard Railroad Grade Crossing
+Traffic Management Center,Class 3,Moderate,High,Moderate,Standard Railroad Grade Crossing
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Standard Railroad Grade Crossing
+Wayside Equipment,Class 2,Moderate,Moderate,Moderate,Standard Railroad Grade Crossing
+Pedestrian,,,,,Standard Railroad Grade Crossing
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Standard Railroad Grade Crossing
+Rail Operations Center,Class 2,Moderate,Moderate,Moderate,Standard Railroad Grade Crossing
+MMV User,,,,,Standard Railroad Grade Crossing
+Traffic Management Center,Class 3,Moderate,High,Moderate,Railroad Operations Coordination
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Railroad Operations Coordination
+Transportation Information Center,Class 1,Low,Low,Moderate,Railroad Operations Coordination
+Rail Operations Center,Class 2,Moderate,Moderate,Moderate,Railroad Operations Coordination
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Parking Space Management
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Parking Space Management
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Parking Space Management
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Parking Space Management
+Parking Area Equipment,Class 2,Moderate,Moderate,Moderate,Parking Space Management
+Parking Operator,,,,,Parking Space Management
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Parking Space Management
+Parking Manager,,,,,Parking Space Management
+Vehicle Characteristics,,,,,Parking Space Management
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Parking Space Management
+Light Vehicle Driver,,,,,Parking Space Management
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Regional Parking Management
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Regional Parking Management
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Regional Parking Management
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Regional Parking Management
+Event Promoter System,Class 3,Moderate,High,Moderate,Regional Parking Management
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,Regional Parking Management
+Other Parking Management Centers,Class 2,Moderate,Moderate,Low,Regional Parking Management
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Regional Parking Management
+Parking Manager,,,,,Regional Parking Management
+Driver,,,,,Reversible Lane Management
+Vehicle,Class 1,Low,Low,Moderate,Reversible Lane Management
+Traffic Management Center,Class 3,Moderate,High,Moderate,Reversible Lane Management
+ITS Roadway Equipment,Class 4,High,High,Moderate,Reversible Lane Management
+Connected Vehicle Roadside Equipment,Class 1,Low,Moderate,Moderate,Reversible Lane Management
+Traffic Operations Personnel,,,,,Reversible Lane Management
+Other ITS Roadway Equipment,Class 4,High,High,Moderate,Reversible Lane Management
+Vehicle Characteristics,,,,,Reversible Lane Management
+Driver,,,,,Speed Warning and Enforcement
+Vehicle,Class 1,Low,Low,Moderate,Speed Warning and Enforcement
+Traffic Management Center,Class 3,Moderate,High,Moderate,Speed Warning and Enforcement
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Speed Warning and Enforcement
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Speed Warning and Enforcement
+Connected Vehicle Roadside Equipment,Class 1,Low,Moderate,Moderate,Speed Warning and Enforcement
+Enforcement Center,Class 3,Moderate,High,Moderate,Speed Warning and Enforcement
+Vehicle Characteristics,,,,,Speed Warning and Enforcement
+Driver,,,,,Drawbridge Management
+Traffic Management Center,Class 3,Moderate,High,Moderate,Drawbridge Management
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Drawbridge Management
+Transportation Information Center,Class 1,Low,Low,Moderate,Drawbridge Management
+Traffic Operations Personnel,,,,,Drawbridge Management
+Multimodal Crossing Equipment,Class 2,Moderate,Moderate,Moderate,Drawbridge Management
+Driver,,,,,Roadway Closure Management
+Traffic Management Center,Class 3,Moderate,High,Moderate,Roadway Closure Management
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Roadway Closure Management
+ITS Roadway Equipment,Class 4,High,High,Moderate,Roadway Closure Management
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Roadway Closure Management
+Transportation Information Center,Class 1,Low,Low,Moderate,Roadway Closure Management
+Transit Management Center,Class 1,Low,Low,Moderate,Roadway Closure Management
+Traffic Operations Personnel,,,,,Roadway Closure Management
+Maint and Constr Vehicle OBE,Class 3,Moderate,High,Moderate,Roadway Closure Management
+Maint and Constr Center Personnel,,,,,Roadway Closure Management
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Roadway Closure Management
+Emergency Personnel,,,,,Roadway Closure Management
+Emergency Management Center,Class 3,Moderate,High,Moderate,Roadway Closure Management
+Other ITS Roadway Equipment,Class 4,High,High,Moderate,Roadway Closure Management
+Emergency System Operator,,,,,Roadway Closure Management
+Basic Vehicle,Class 1,Not Applicable,Low,Low,Roadway Closure Management
+Maint and Constr Vehicle Operator,,,,,Roadway Closure Management
+Driver,,,,,Variable Speed Limits
+Traffic Management Center,Class 3,Moderate,High,Moderate,Variable Speed Limits
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Variable Speed Limits
+Traffic Operations Personnel,,,,,Variable Speed Limits
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Variable Speed Limits
+Vehicle Characteristics,,,,,Variable Speed Limits
+Roadway Environment,Class 1,Not Applicable,Low,Low,Variable Speed Limits
+Driver,,,,,Dynamic Lane Management and Shoulder Use
+Vehicle,Class 3,Low,High,Moderate,Dynamic Lane Management and Shoulder Use
+Traffic Management Center,Class 3,Moderate,High,Moderate,Dynamic Lane Management and Shoulder Use
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Dynamic Lane Management and Shoulder Use
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Dynamic Lane Management and Shoulder Use
+Intermodal Terminal,Class 2,Moderate,Moderate,Moderate,Dynamic Lane Management and Shoulder Use
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Dynamic Lane Management and Shoulder Use
+Traffic Operations Personnel,,,,,Dynamic Lane Management and Shoulder Use
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Dynamic Lane Management and Shoulder Use
+Other Traffic Management Centers,Class 3,Moderate,High,Moderate,Dynamic Lane Management and Shoulder Use
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Dynamic Lane Management and Shoulder Use
+Border Inspection System,Class 1,Low,Moderate,Low,Dynamic Lane Management and Shoulder Use
+Multimodal Crossing Equipment,Class 1,Low,Moderate,Low,Dynamic Lane Management and Shoulder Use
+Vehicle Characteristics,,,,,Dynamic Lane Management and Shoulder Use
+Driver,,,,,Dynamic Roadway Warning
+Traffic Management Center,Class 3,Moderate,High,Moderate,Dynamic Roadway Warning
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Dynamic Roadway Warning
+Traffic Operations Personnel,,,,,Dynamic Roadway Warning
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Dynamic Roadway Warning
+MMV User,,,,,Dynamic Roadway Warning
+Vehicle Characteristics,,,,,Dynamic Roadway Warning
+Potential Obstacles,,,,,Dynamic Roadway Warning
+Vulnerable Road Users,,,,,Dynamic Roadway Warning
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Maintenance and Construction Vehicle and Equipment Tracking
+Maint and Constr Vehicle OBE,Class 5,Moderate,Moderate,High,Maintenance and Construction Vehicle and Equipment Tracking
+Maint and Constr Center Personnel,,,,,Maintenance and Construction Vehicle and Equipment Tracking
+Location and Time Data Source,Class 5,Moderate,High,High,Maintenance and Construction Vehicle and Equipment Tracking
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Maintenance and Construction Vehicle Maintenance
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Maintenance and Construction Vehicle Maintenance
+Maint and Constr Center Personnel,,,,,Maintenance and Construction Vehicle Maintenance
+Basic Maint and Constr Vehicle,,,,,Maintenance and Construction Vehicle Maintenance
+Equipment Repair Facility,Class 2,Moderate,Moderate,Moderate,Maintenance and Construction Vehicle Maintenance
+Maint and Constr Vehicle Operator,,,,,Maintenance and Construction Vehicle Maintenance
+Vehicle,Class 1,Low,Moderate,Moderate,Weather Data Collection
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Weather Data Collection
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Weather Data Collection
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Weather Data Collection
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Weather Data Collection
+Transportation Information Center,Class 3,Low,High,Moderate,Weather Data Collection
+Traffic Operations Personnel,,,,,Weather Data Collection
+Weather Service System,Class 1,Low,Moderate,Moderate,Weather Data Collection
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Weather Data Collection
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Weather Data Collection
+Maint and Constr Center Personnel,,,,,Weather Data Collection
+Roadway Environment,Class 1,Not Applicable,Low,Low,Weather Data Collection
+Traffic Management Center,Class 1,Low,Low,Moderate,Weather Information Processing and Distribution
+Maint and Constr Management Center,Class 1,Low,Moderate,Moderate,Weather Information Processing and Distribution
+Transportation Information Center,Class 1,Low,Low,Moderate,Weather Information Processing and Distribution
+Transit Management Center,Class 1,Low,Low,Moderate,Weather Information Processing and Distribution
+Weather Service System,Class 1,Low,Moderate,Moderate,Weather Information Processing and Distribution
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Weather Information Processing and Distribution
+Maint and Constr Center Personnel,,,,,Weather Information Processing and Distribution
+Emergency Management Center,Class 1,Low,Low,Moderate,Weather Information Processing and Distribution
+Rail Operations Center,Class 1,Low,Low,Low,Weather Information Processing and Distribution
+Media,Class 1,Low,Low,Low,Weather Information Processing and Distribution
+Other Maint and Constr Mgmt Centers,Class 1,Low,Moderate,Low,Weather Information Processing and Distribution
+Driver,,,,,Roadway Automated Treatment
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Roadway Automated Treatment
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Roadway Automated Treatment
+Maint and Constr Center Personnel,,,,,Roadway Automated Treatment
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Roadway Automated Treatment
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Winter Maintenance
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Winter Maintenance
+Transportation Information Center,Class 1,Low,Low,Moderate,Winter Maintenance
+Transit Management Center,Class 1,Low,Low,Moderate,Winter Maintenance
+Weather Service System,Class 1,Low,Moderate,Moderate,Winter Maintenance
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Winter Maintenance
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Winter Maintenance
+Maint and Constr Center Personnel,,,,,Winter Maintenance
+Other MCV OBEs,Class 1,Low,Moderate,Low,Winter Maintenance
+Emergency Management Center,Class 2,Moderate,Moderate,Moderate,Winter Maintenance
+Media,Class 1,Low,Low,Low,Winter Maintenance
+Storage Facility Data Acquisition System,Class 2,Moderate,Moderate,Moderate,Winter Maintenance
+Maint and Constr Administrative Systems,Class 2,Moderate,Moderate,Moderate,Winter Maintenance
+Basic Maint and Constr Vehicle,,,,,Winter Maintenance
+Other Maint and Constr Mgmt Centers,Class 1,Low,Moderate,Moderate,Winter Maintenance
+Maint and Constr Vehicle Operator,,,,,Winter Maintenance
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Roadway Maintenance and Construction
+Weather Service System,Class 1,Low,Moderate,Moderate,Roadway Maintenance and Construction
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Roadway Maintenance and Construction
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Roadway Maintenance and Construction
+Maint and Constr Center Personnel,,,,,Roadway Maintenance and Construction
+Maint and Constr Field Personnel,,,,,Roadway Maintenance and Construction
+Center,Class 2,Moderate,Moderate,Moderate,Roadway Maintenance and Construction
+Field Maintenance Equipment,Class 5,Moderate,High,High,Roadway Maintenance and Construction
+Storage Facility Data Acquisition System,Class 2,Moderate,Moderate,Moderate,Roadway Maintenance and Construction
+Maint and Constr Administrative Systems,Class 2,Moderate,Moderate,Moderate,Roadway Maintenance and Construction
+Basic Maint and Constr Vehicle,,,,,Roadway Maintenance and Construction
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Roadway Maintenance and Construction
+Field,Class 5,Moderate,Moderate,High,Roadway Maintenance and Construction
+Maint and Constr Vehicle Operator,,,,,Roadway Maintenance and Construction
+Driver,,,,,Work Zone Management
+Vehicle,Class 1,Low,Low,Moderate,Work Zone Management
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Work Zone Management
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Work Zone Management
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Work Zone Management
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Work Zone Management
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Work Zone Management
+Transit Management Center,Class 1,Low,Low,Moderate,Work Zone Management
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Work Zone Management
+Maint and Constr Center Personnel,,,,,Work Zone Management
+Emergency Management Center,Class 1,Low,Low,Moderate,Work Zone Management
+Media,Class 1,Low,Low,Moderate,Work Zone Management
+Maint and Constr Administrative Systems,Class 2,Moderate,Moderate,Moderate,Work Zone Management
+Other Maint and Constr Mgmt Centers,Class 1,Low,Moderate,Moderate,Work Zone Management
+Basic Vehicle,Class 1,Not Applicable,Low,Low,Work Zone Management
+Maint and Constr Vehicle Operator,,,,,Work Zone Management
+Traffic Management Center,Class 5,Low,Moderate,High,Maintenance and Construction Activity Coordination
+Maint and Constr Management Center,Class 5,Moderate,High,High,Maintenance and Construction Activity Coordination
+Transportation Information Center,Class 5,Low,Low,High,Maintenance and Construction Activity Coordination
+Transit Management Center,Class 5,Low,Moderate,High,Maintenance and Construction Activity Coordination
+Alternate Mode Transportation Center,Class 5,Low,Low,High,Maintenance and Construction Activity Coordination
+Maint and Constr Center Personnel,,,,,Maintenance and Construction Activity Coordination
+Emergency Management Center,Class 5,Low,Moderate,High,Maintenance and Construction Activity Coordination
+Rail Operations Center,Class 5,Low,Moderate,High,Maintenance and Construction Activity Coordination
+Media,Class 5,Low,Low,High,Maintenance and Construction Activity Coordination
+Commercial Vehicle Administration Center,Class 1,Low,Low,Moderate,Maintenance and Construction Activity Coordination
+Maint and Constr Administrative Systems,Class 2,Moderate,Moderate,Moderate,Maintenance and Construction Activity Coordination
+Other Maint and Constr Mgmt Centers,Class 1,Low,Moderate,Low,Maintenance and Construction Activity Coordination
+Asset Management System,Class 2,Moderate,Moderate,Low,Maintenance and Construction Activity Coordination
+Vehicle,Class 1,Low,Moderate,Low,Infrastructure Monitoring
+Maint and Constr Management Center,Class 5,High,High,High,Infrastructure Monitoring
+ITS Roadway Equipment,Class 4,High,Moderate,Moderate,Infrastructure Monitoring
+Connected Vehicle Roadside Equipment,Class 5,Moderate,Moderate,High,Infrastructure Monitoring
+Maint and Constr Vehicle OBE,Class 4,High,High,Moderate,Infrastructure Monitoring
+Maint and Constr Center Personnel,,,,,Infrastructure Monitoring
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Infrastructure Monitoring
+Maint and Constr Vehicle Operator,,,,,Infrastructure Monitoring
+Traffic Management Center,Class 1,Low,Low,Low,Transit Vehicle Tracking
+Transportation Information Center,Class 1,Low,Low,Moderate,Transit Vehicle Tracking
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Transit Vehicle Tracking
+Transit Operations Personnel,,,,,Transit Vehicle Tracking
+Transit Vehicle OBE,Class 5,Moderate,Moderate,High,Transit Vehicle Tracking
+Location and Time Data Source,Class 5,Moderate,High,High,Transit Vehicle Tracking
+Traffic Management Center,Class 4,High,Moderate,Moderate,Transit Fixed-Route Operations
+Maint and Constr Management Center,Class 3,Low,High,Moderate,Transit Fixed-Route Operations
+Transportation Information Center,Class 1,Low,Low,Moderate,Transit Fixed-Route Operations
+Transit Management Center,Class 4,High,High,Moderate,Transit Fixed-Route Operations
+Transit Vehicle Operator,,,,,Transit Fixed-Route Operations
+Transit Operations Personnel,,,,,Transit Fixed-Route Operations
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Transit Fixed-Route Operations
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Transit Fare Collection Management
+Personal Information Device,Class 5,High,High,High,Transit Fare Collection Management
+Transit Management Center,Class 5,High,High,High,Transit Fare Collection Management
+Transit Vehicle Operator,,,,,Transit Fare Collection Management
+Transit Operations Personnel,,,,,Transit Fare Collection Management
+Transit Vehicle OBE,Class 5,High,High,High,Transit Fare Collection Management
+Other Transit Management Centers,Class 1,Low,Moderate,Moderate,Transit Fare Collection Management
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Transit Fare Collection Management
+Financial Center,Class 2,Moderate,Moderate,Moderate,Transit Fare Collection Management
+Payment Administration Center,Class 4,High,High,Moderate,Transit Fare Collection Management
+Payment Device,Class 5,Moderate,Moderate,High,Transit Fare Collection Management
+Traveler,,,,,Transit Fare Collection Management
+Traveler Support Equipment,Class 5,High,High,High,Transit Fare Collection Management
+Transportation Information Center,Class 1,Low,Low,Moderate,Transit Security
+Transit Management Center,Class 5,High,High,High,Transit Security
+Transit Vehicle Operator,,,,,Transit Security
+Transit Operations Personnel,,,,,Transit Security
+Transit Vehicle OBE,Class 5,Moderate,High,High,Transit Security
+Emergency Management Center,Class 5,High,High,High,Transit Security
+Other Emergency Management Centers,Class 5,High,High,High,Transit Security
+Emergency System Operator,,,,,Transit Security
+Traveler,,,,,Transit Security
+Rail Operations Center,Class 5,Moderate,Moderate,High,Transit Security
+Traveler Support Equipment,Class 3,Moderate,High,Moderate,Transit Security
+Media,Class 1,Low,Low,Moderate,Transit Security
+Basic Transit Vehicle,,,,,Transit Security
+Security Monitoring Equipment,Class 4,High,Moderate,Moderate,Transit Security
+Alerting and Advisory System,Class 5,Moderate,High,High,Transit Security
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Transit Fleet Management
+Transit Vehicle Operator,,,,,Transit Fleet Management
+Transit Operations Personnel,,,,,Transit Fleet Management
+Transit Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Transit Fleet Management
+Basic Transit Vehicle,,,,,Transit Fleet Management
+Traffic Management Center,Class 1,Low,Low,Low,Multi-modal Coordination
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Multi-modal Coordination
+Transit Operations Personnel,,,,,Multi-modal Coordination
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Multi-modal Coordination
+Alternate Mode Transportation Center,Class 2,Moderate,Moderate,Moderate,Multi-modal Coordination
+Other Transit Management Centers,Class 2,Moderate,Moderate,Moderate,Multi-modal Coordination
+Event Promoter System,Class 3,Moderate,High,Moderate,Multi-modal Coordination
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Multi-modal Coordination
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Transit Traveler Information
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Transit Traveler Information
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Transit Traveler Information
+Transit Operations Personnel,,,,,Transit Traveler Information
+Transit Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Transit Traveler Information
+Other Transit Management Centers,Class 1,Low,Moderate,Moderate,Transit Traveler Information
+Traveler,,,,,Transit Traveler Information
+Traveler Support Equipment,Class 2,Moderate,Moderate,Moderate,Transit Traveler Information
+Other Transportation Information Centers,Class 1,Low,Moderate,Low,Transit Traveler Information
+Media,Class 1,Low,Low,Moderate,Transit Traveler Information
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Transit Passenger Counting
+Transit Operations Personnel,,,,,Transit Passenger Counting
+Transit Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Transit Passenger Counting
+Traveler Support Equipment,Class 1,Low,Moderate,Moderate,Transit Passenger Counting
+Driver,,,,,Broadcast Traveler Information
+Vehicle,Class 1,Not Applicable,Low,Moderate,Broadcast Traveler Information
+Traffic Management Center,Class 1,Low,Moderate,Moderate,Broadcast Traveler Information
+Maint and Constr Management Center,Class 5,Low,High,High,Broadcast Traveler Information
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Low,Broadcast Traveler Information
+Transportation Information Center,Class 5,Moderate,Moderate,High,Broadcast Traveler Information
+Personal Information Device,Class 1,Not Applicable,Low,Low,Broadcast Traveler Information
+Transit Management Center,Class 1,Low,Moderate,Moderate,Broadcast Traveler Information
+Emissions Management Center,Class 1,Not Applicable,Moderate,Low,Broadcast Traveler Information
+Weather Service System,Class 1,Low,Moderate,Moderate,Broadcast Traveler Information
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Broadcast Traveler Information
+TIC Operator,,,,,Broadcast Traveler Information
+Payment Administration Center,Class 1,Low,Moderate,Low,Broadcast Traveler Information
+Event Promoter System,Class 3,Moderate,High,Moderate,Broadcast Traveler Information
+Emergency Management Center,Class 1,Low,Moderate,Moderate,Broadcast Traveler Information
+Traveler,,,,,Broadcast Traveler Information
+Traveler Support Equipment,Class 1,Not Applicable,Low,Low,Broadcast Traveler Information
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,Broadcast Traveler Information
+Media,Class 1,Low,Low,Moderate,Broadcast Traveler Information
+Border Inspection System,Class 1,Low,Moderate,Low,Broadcast Traveler Information
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Broadcast Traveler Information
+Traffic Management Center,Class 1,Low,Moderate,Moderate,Personalized Traveler Information
+Maint and Constr Management Center,Class 5,Low,High,High,Personalized Traveler Information
+Transportation Information Center,Class 5,Moderate,Moderate,High,Personalized Traveler Information
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Personalized Traveler Information
+Transit Management Center,Class 1,Low,Moderate,Moderate,Personalized Traveler Information
+Emissions Management Center,Class 1,Not Applicable,Moderate,Low,Personalized Traveler Information
+Weather Service System,Class 1,Low,Moderate,Moderate,Personalized Traveler Information
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Personalized Traveler Information
+TIC Operator,,,,,Personalized Traveler Information
+Payment Administration Center,Class 1,Low,Moderate,Low,Personalized Traveler Information
+Event Promoter System,Class 3,Moderate,High,Moderate,Personalized Traveler Information
+Emergency Management Center,Class 1,Low,Moderate,Moderate,Personalized Traveler Information
+Traveler,,,,,Personalized Traveler Information
+Traveler Support Equipment,Class 2,Moderate,Moderate,Moderate,Personalized Traveler Information
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,Personalized Traveler Information
+Media,Class 1,Low,Low,Moderate,Personalized Traveler Information
+Social Media,Class 2,Moderate,Moderate,Low,Personalized Traveler Information
+Border Inspection System,Class 1,Low,Moderate,Low,Personalized Traveler Information
+Traveler Information Voice System,Class 1,Low,Moderate,Low,Personalized Traveler Information
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Personalized Traveler Information
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Personalized Traveler Information
+Light Vehicle Driver,,,,,Personalized Traveler Information
+Traffic Management Center,Class 1,Low,Moderate,Moderate,En-Route Guidance
+Maint and Constr Management Center,Class 5,Low,High,High,En-Route Guidance
+Transportation Information Center,Class 5,Moderate,Moderate,High,En-Route Guidance
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,En-Route Guidance
+Transit Management Center,Class 1,Low,Moderate,Moderate,En-Route Guidance
+TIC Operator,,,,,En-Route Guidance
+Traveler,,,,,En-Route Guidance
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,En-Route Guidance
+MMV User,,,,,En-Route Guidance
+Micromobility Vehicle OBE,Class 2,Moderate,Moderate,Moderate,En-Route Guidance
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,En-Route Guidance
+Light Vehicle Driver,,,,,En-Route Guidance
+Traffic Management Center,Class 4,High,High,Moderate,Trip Planning and Payment
+Maint and Constr Management Center,Class 5,Low,High,High,Trip Planning and Payment
+Transportation Information Center,Class 5,High,Moderate,High,Trip Planning and Payment
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment
+Alternate Mode Transportation Center,Class 1,Low,Moderate,Low,Trip Planning and Payment
+TIC Operator,,,,,Trip Planning and Payment
+Payment Administration Center,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment
+Traveler,,,,,Trip Planning and Payment
+Traveler Support Equipment,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment
+Shared Use Transportation Center,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment
+Eligibility Certification Management System,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment
+Light Vehicle Driver,,,,,Trip Planning and Payment
+Electric Charging Management Center,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment
+Transportation Information Center,Class 4,High,High,Moderate,Travel Services Information and Reservation
+Personal Information Device,Class 5,High,High,High,Travel Services Information and Reservation
+Alternate Mode Transportation Center,Class 2,Moderate,Moderate,Low,Travel Services Information and Reservation
+TIC Operator,,,,,Travel Services Information and Reservation
+Financial Center,Class 2,Moderate,Moderate,Moderate,Travel Services Information and Reservation
+Payment Device,Class 5,Moderate,Moderate,High,Travel Services Information and Reservation
+Travel Services Provider System,Class 2,Moderate,Moderate,Moderate,Travel Services Information and Reservation
+Traveler,,,,,Travel Services Information and Reservation
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Travel Services Information and Reservation
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Travel Services Information and Reservation
+Light Vehicle OBE,Class 5,Moderate,Moderate,High,Travel Services Information and Reservation
+Light Vehicle Driver,,,,,Travel Services Information and Reservation
+Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Carrier Operations and Fleet Management
+Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management
+Fleet-Freight Manager,,,,,Carrier Operations and Fleet Management
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management
+Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management
+Location and Time Data Source,Class 5,Moderate,High,High,Carrier Operations and Fleet Management
+Freight Equipment,Class 2,Moderate,Moderate,Moderate,Freight Administration
+Intermodal Terminal,Class 2,Moderate,Moderate,Moderate,Freight Administration
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Freight Administration
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Freight Administration
+Commercial Vehicle Driver,,,,,Freight Administration
+Fleet-Freight Manager,,,,,Freight Administration
+Intermodal Customer System,Class 2,Moderate,Moderate,Moderate,Freight Administration
+Freight Distribution and Logistics Center,Class 2,Moderate,Moderate,Moderate,Freight Administration
+Basic Commercial Vehicle,,,,,Freight Administration
+Freight Equipment,Class 2,Moderate,Moderate,Moderate,Electronic Clearance
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Electronic Clearance
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Electronic Clearance
+Commercial Vehicle Driver,,,,,Electronic Clearance
+Enforcement Center,Class 4,High,High,Moderate,Electronic Clearance
+Commercial Vehicle Check Equipment,Class 4,High,High,Moderate,Electronic Clearance
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Electronic Clearance
+Commercial Vehicle Inspector,,,,,Electronic Clearance
+Other CV Administration Centers,Class 4,High,High,Moderate,Electronic Clearance
+Basic Commercial Vehicle,,,,,Electronic Clearance
+Traffic Management Center,Class 1,Low,Moderate,Moderate,CV Administrative Processes
+Maint and Constr Management Center,Class 3,Low,High,Moderate,CV Administrative Processes
+Fleet and Freight Management Center,Class 4,High,High,Moderate,CV Administrative Processes
+Transportation Information Center,Class 1,Low,Low,Low,CV Administrative Processes
+Fleet-Freight Manager,,,,,CV Administrative Processes
+Enforcement Center,Class 4,High,Moderate,Moderate,CV Administrative Processes
+Financial Center,Class 2,Moderate,Moderate,Moderate,CV Administrative Processes
+DMV,Class 2,Moderate,Moderate,Moderate,CV Administrative Processes
+Commercial Vehicle Check Equipment,Class 2,Moderate,Moderate,Low,CV Administrative Processes
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,CV Administrative Processes
+Other CV Administration Centers,Class 4,High,High,Moderate,CV Administrative Processes
+CVO Information Requestor Center,Class 4,High,High,Moderate,CV Administrative Processes
+Commercial Vehicle Administrator,,,,,CV Administrative Processes
+Freight Equipment,Class 2,Moderate,Moderate,Moderate,International Border Electronic Clearance
+Commercial Vehicle OBE,Class 2,Moderate,Moderate,Moderate,International Border Electronic Clearance
+Fleet and Freight Management Center,Class 4,High,High,Moderate,International Border Electronic Clearance
+Commercial Vehicle Driver,,,,,International Border Electronic Clearance
+Intermodal Customer System,Class 4,High,High,Moderate,International Border Electronic Clearance
+Freight Distribution and Logistics Center,Class 3,Moderate,High,Moderate,International Border Electronic Clearance
+Enforcement Center,Class 4,High,Moderate,Low,International Border Electronic Clearance
+Border Inspection Administration Center,Class 4,High,High,Moderate,International Border Electronic Clearance
+Border Inspection System,Class 4,High,High,Moderate,International Border Electronic Clearance
+Commercial Vehicle Check Equipment,Class 4,High,High,Moderate,International Border Electronic Clearance
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,International Border Electronic Clearance
+Commercial Vehicle Inspector,,,,,International Border Electronic Clearance
+Other CV Administration Centers,Class 4,High,High,Moderate,International Border Electronic Clearance
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Roadside CVO Safety
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Roadside CVO Safety
+Commercial Vehicle Driver,,,,,Roadside CVO Safety
+Enforcement Center,Class 4,High,High,Moderate,Roadside CVO Safety
+Commercial Vehicle Check Equipment,Class 4,High,High,Moderate,Roadside CVO Safety
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Roadside CVO Safety
+Commercial Vehicle Inspector,,,,,Roadside CVO Safety
+Other CV Administration Centers,Class 4,High,High,Moderate,Roadside CVO Safety
+Driver Identification Card,Class 4,High,Moderate,Moderate,Roadside CVO Safety
+Alerting and Advisory System,Class 3,Moderate,High,Moderate,Roadside CVO Safety
+Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management
+Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management
+Fleet and Freight Management Center,Class 5,High,High,High,HAZMAT Management
+Emergency Management Center,Class 5,High,High,High,HAZMAT Management
+Commercial Vehicle OBE,Class 1,Low,Low,Moderate,Roadside HAZMAT Security Detection and Mitigation
+Commercial Vehicle Driver,,,,,Roadside HAZMAT Security Detection and Mitigation
+Emergency Management Center,Class 2,Moderate,Moderate,Moderate,Roadside HAZMAT Security Detection and Mitigation
+Commercial Vehicle Check Equipment,Class 4,High,High,Moderate,Roadside HAZMAT Security Detection and Mitigation
+Commercial Vehicle Administration Center,Class 4,High,Moderate,Moderate,Roadside HAZMAT Security Detection and Mitigation
+Commercial Vehicle OBE,Class 4,High,High,Moderate,CV Driver Security Authentication
+Fleet and Freight Management Center,Class 5,High,High,High,CV Driver Security Authentication
+Commercial Vehicle Driver,,,,,CV Driver Security Authentication
+Fleet-Freight Manager,,,,,CV Driver Security Authentication
+Emergency Management Center,Class 5,High,High,High,CV Driver Security Authentication
+Emergency System Operator,,,,,CV Driver Security Authentication
+Commercial Vehicle Check Equipment,Class 4,High,High,Moderate,CV Driver Security Authentication
+Basic Commercial Vehicle,,,,,CV Driver Security Authentication
+Driver Identification Card,Class 4,High,Moderate,Moderate,CV Driver Security Authentication
+Freight Equipment,Class 5,Moderate,High,High,Fleet and Freight Security
+Intermodal Terminal,Class 2,Moderate,Moderate,Moderate,Fleet and Freight Security
+Commercial Vehicle OBE,Class 5,High,High,High,Fleet and Freight Security
+Fleet and Freight Management Center,Class 5,High,High,High,Fleet and Freight Security
+Commercial Vehicle Driver,,,,,Fleet and Freight Security
+Fleet-Freight Manager,,,,,Fleet and Freight Security
+Intermodal Customer System,Class 3,Moderate,High,Moderate,Fleet and Freight Security
+Freight Distribution and Logistics Center,Class 2,Moderate,Moderate,Moderate,Fleet and Freight Security
+Emergency Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Fleet and Freight Security
+Emergency Management Center,Class 3,Moderate,High,Moderate,Fleet and Freight Security
+Commercial Vehicle Check Equipment,Class 3,Moderate,High,Moderate,Fleet and Freight Security
+Location and Time Data Source,Class 5,Moderate,High,High,Fleet and Freight Security
+Driver Identification Card,Class 4,High,Moderate,Moderate,Fleet and Freight Security
+Alerting and Advisory System,Class 5,Moderate,High,High,Fleet and Freight Security
+Traffic Management Center,Class 5,High,High,High,Emergency Call-Taking and Dispatch
+Maint and Constr Management Center,Class 5,Low,High,High,Emergency Call-Taking and Dispatch
+Transportation Information Center,Class 3,Low,High,Moderate,Emergency Call-Taking and Dispatch
+Transit Management Center,Class 5,Moderate,High,High,Emergency Call-Taking and Dispatch
+Weather Service System,Class 1,Low,Moderate,Moderate,Emergency Call-Taking and Dispatch
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Emergency Call-Taking and Dispatch
+Emergency Vehicle OBE,Class 5,Moderate,High,High,Emergency Call-Taking and Dispatch
+Emergency Personnel,,,,,Emergency Call-Taking and Dispatch
+Emergency Management Center,Class 5,High,High,High,Emergency Call-Taking and Dispatch
+Other Emergency Management Centers,Class 4,High,High,Moderate,Emergency Call-Taking and Dispatch
+Emergency System Operator,,,,,Emergency Call-Taking and Dispatch
+Rail Operations Center,Class 1,Low,Moderate,Moderate,Emergency Call-Taking and Dispatch
+Emergency Telecommunications System,Class 2,Moderate,Moderate,Moderate,Emergency Call-Taking and Dispatch
+Location and Time Data Source,Class 5,Moderate,High,High,Emergency Call-Taking and Dispatch
+Traffic Management Center,Class 4,High,Moderate,Moderate,Roadway Service Patrols
+Maint and Constr Management Center,Class 4,High,High,Moderate,Roadway Service Patrols
+Transportation Information Center,Class 1,Low,Low,Moderate,Roadway Service Patrols
+Traffic Operations Personnel,,,,,Roadway Service Patrols
+Emergency Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Roadway Service Patrols
+Emergency Personnel,,,,,Roadway Service Patrols
+Emergency Management Center,Class 4,High,High,Moderate,Roadway Service Patrols
+Driver,,,,,Transportation Infrastructure Protection
+Vehicle,Class 2,Moderate,Moderate,Moderate,Transportation Infrastructure Protection
+Traffic Management Center,Class 5,High,High,High,Transportation Infrastructure Protection
+Maint and Constr Management Center,Class 5,Moderate,Moderate,High,Transportation Infrastructure Protection
+ITS Roadway Equipment,Class 5,High,High,High,Transportation Infrastructure Protection
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Transportation Infrastructure Protection
+Transit Management Center,Class 5,Moderate,Moderate,High,Transportation Infrastructure Protection
+Traffic Operations Personnel,,,,,Transportation Infrastructure Protection
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Transportation Infrastructure Protection
+Emergency Personnel,,,,,Transportation Infrastructure Protection
+Emergency Management Center,Class 5,High,High,High,Transportation Infrastructure Protection
+Other Emergency Management Centers,Class 5,High,High,High,Transportation Infrastructure Protection
+Emergency System Operator,,,,,Transportation Infrastructure Protection
+Rail Operations Center,Class 5,Moderate,Moderate,High,Transportation Infrastructure Protection
+Security Monitoring Equipment,Class 4,High,Moderate,Moderate,Transportation Infrastructure Protection
+Alerting and Advisory System,Class 5,Moderate,High,High,Transportation Infrastructure Protection
+Driver,,,,,Wide-Area Alert
+Traffic Management Center,Class 5,High,High,High,Wide-Area Alert
+Maint and Constr Management Center,Class 5,High,High,High,Wide-Area Alert
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Wide-Area Alert
+Transportation Information Center,Class 5,High,High,High,Wide-Area Alert
+Personal Information Device,Class 1,Low,Low,Moderate,Wide-Area Alert
+Transit Management Center,Class 5,High,High,High,Wide-Area Alert
+Transit Operations Personnel,,,,,Wide-Area Alert
+Transit Vehicle OBE,Class 1,Low,Low,Moderate,Wide-Area Alert
+Traffic Operations Personnel,,,,,Wide-Area Alert
+TIC Operator,,,,,Wide-Area Alert
+Emergency Management Center,Class 5,High,High,High,Wide-Area Alert
+Other Emergency Management Centers,Class 5,High,High,High,Wide-Area Alert
+Emergency System Operator,,,,,Wide-Area Alert
+Traveler,,,,,Wide-Area Alert
+Emergency Telecommunications System,Class 1,Low,Low,Low,Wide-Area Alert
+Traveler Support Equipment,Class 1,Low,Low,Moderate,Wide-Area Alert
+Other Transportation Information Centers,Class 3,Low,High,Moderate,Wide-Area Alert
+Social Media,Class 1,Low,Low,Moderate,Wide-Area Alert
+Traveler Information Voice System,Class 5,Low,Moderate,High,Wide-Area Alert
+Alerting and Advisory System,Class 3,Moderate,High,Moderate,Wide-Area Alert
+Basic Vehicle,Class 1,Not Applicable,Low,Low,Wide-Area Alert
+Light Vehicle OBE,Class 1,Low,Low,Moderate,Wide-Area Alert
+Light Vehicle Driver,,,,,Wide-Area Alert
+Traffic Management Center,Class 5,High,High,High,Early Warning System
+Maint and Constr Management Center,Class 5,High,High,High,Early Warning System
+Transit Management Center,Class 5,High,High,High,Early Warning System
+Transit Operations Personnel,,,,,Early Warning System
+Traffic Operations Personnel,,,,,Early Warning System
+Weather Service System,Class 1,Low,Moderate,Moderate,Early Warning System
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Early Warning System
+Maint and Constr Center Personnel,,,,,Early Warning System
+Emergency Management Center,Class 5,High,High,High,Early Warning System
+Other Emergency Management Centers,Class 5,High,High,High,Early Warning System
+Emergency System Operator,,,,,Early Warning System
+Social Media,Class 2,Moderate,Moderate,Low,Early Warning System
+Security Monitoring Equipment,Class 2,Moderate,Moderate,Moderate,Early Warning System
+Alerting and Advisory System,Class 3,Moderate,High,Moderate,Early Warning System
+Traffic Management Center,Class 5,High,High,High,Disaster Response and Recovery
+Maint and Constr Management Center,Class 5,High,High,High,Disaster Response and Recovery
+Transit Management Center,Class 5,High,High,High,Disaster Response and Recovery
+Transit Operations Personnel,,,,,Disaster Response and Recovery
+Other Transit Management Centers,Class 2,Moderate,Moderate,Moderate,Disaster Response and Recovery
+Traffic Operations Personnel,,,,,Disaster Response and Recovery
+Maint and Constr Center Personnel,,,,,Disaster Response and Recovery
+Other Traffic Management Centers,Class 5,Moderate,High,High,Disaster Response and Recovery
+Emergency Management Center,Class 5,High,High,High,Disaster Response and Recovery
+Other Emergency Management Centers,Class 5,High,High,High,Disaster Response and Recovery
+Emergency System Operator,,,,,Disaster Response and Recovery
+Public Health System,Class 5,High,High,High,Disaster Response and Recovery
+Rail Operations Center,Class 5,High,High,High,Disaster Response and Recovery
+Other Maint and Constr Mgmt Centers,Class 2,Moderate,Moderate,Moderate,Disaster Response and Recovery
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Disaster Response and Recovery
+Traffic Management Center,Class 5,High,High,High,Evacuation and Reentry Management
+Maint and Constr Management Center,Class 5,High,High,High,Evacuation and Reentry Management
+Transportation Information Center,Class 1,Low,Low,Moderate,Evacuation and Reentry Management
+Transit Management Center,Class 5,High,High,High,Evacuation and Reentry Management
+Transit Operations Personnel,,,,,Evacuation and Reentry Management
+Other Transit Management Centers,Class 2,Moderate,Moderate,Moderate,Evacuation and Reentry Management
+Traffic Operations Personnel,,,,,Evacuation and Reentry Management
+Maint and Constr Center Personnel,,,,,Evacuation and Reentry Management
+Other Traffic Management Centers,Class 5,Moderate,High,High,Evacuation and Reentry Management
+Payment Administration Center,Class 5,Low,Moderate,High,Evacuation and Reentry Management
+Emergency Management Center,Class 5,High,High,High,Evacuation and Reentry Management
+Other Emergency Management Centers,Class 5,High,High,High,Evacuation and Reentry Management
+Emergency System Operator,,,,,Evacuation and Reentry Management
+Shelter Provider Center,Class 1,Low,Moderate,Moderate,Evacuation and Reentry Management
+Public Health System,Class 5,High,High,High,Evacuation and Reentry Management
+Rail Operations Center,Class 5,High,High,High,Evacuation and Reentry Management
+Population and Housing Data System,Class 2,Moderate,Moderate,Moderate,Evacuation and Reentry Management
+Special Needs Registry,Class 2,Moderate,Moderate,Moderate,Evacuation and Reentry Management
+Traffic Management Center,Class 1,Low,Moderate,Moderate,Disaster Traveler Information
+Transportation Information Center,Class 3,Moderate,High,Moderate,Disaster Traveler Information
+Personal Information Device,Class 3,Moderate,High,Moderate,Disaster Traveler Information
+Transit Management Center,Class 3,Low,High,Moderate,Disaster Traveler Information
+Weather Service System,Class 1,Low,Moderate,Moderate,Disaster Traveler Information
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Disaster Traveler Information
+TIC Operator,,,,,Disaster Traveler Information
+Emergency Management Center,Class 3,Low,High,Moderate,Disaster Traveler Information
+Shelter Provider Center,Class 1,Low,Moderate,Moderate,Disaster Traveler Information
+Travel Services Provider System,Class 1,Low,Moderate,Moderate,Disaster Traveler Information
+Traveler,,,,,Disaster Traveler Information
+Care Facility,Class 1,Low,Moderate,Moderate,Disaster Traveler Information
+Emergency Telecommunications System,Class 1,Low,Low,Low,Disaster Traveler Information
+Traveler Support Equipment,Class 3,Moderate,High,Moderate,Disaster Traveler Information
+Other Transportation Information Centers,Class 3,Low,High,Moderate,Disaster Traveler Information
+Media,Class 1,Low,Low,Moderate,Disaster Traveler Information
+Traveler Information Voice System,Class 1,Low,Moderate,Low,Disaster Traveler Information
+Light Vehicle OBE,Class 3,Moderate,High,Moderate,Disaster Traveler Information
+Light Vehicle Driver,,,,,Disaster Traveler Information
+Traffic Management Center,Class 4,High,High,Moderate,ITS Data Warehouse
+Maint and Constr Management Center,Class 4,High,High,Moderate,ITS Data Warehouse
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Low,ITS Data Warehouse
+Connected Vehicle Roadside Equipment,Class 1,Low,Moderate,Low,ITS Data Warehouse
+Intermodal Terminal,Class 4,High,High,Moderate,ITS Data Warehouse
+Transportation Information Center,Class 4,High,High,Moderate,ITS Data Warehouse
+Transit Management Center,Class 4,High,High,Moderate,ITS Data Warehouse
+Alternate Mode Transportation Center,Class 4,High,High,Moderate,ITS Data Warehouse
+Emissions Management Center,Class 4,High,High,Moderate,ITS Data Warehouse
+Weather Service System,Class 4,High,High,Moderate,ITS Data Warehouse
+Surface Transportation Weather Service,Class 4,High,High,Moderate,ITS Data Warehouse
+Archived Data System,Class 5,High,High,High,ITS Data Warehouse
+Payment Administration Center,Class 4,High,High,Moderate,ITS Data Warehouse
+Emergency Management Center,Class 4,High,High,Moderate,ITS Data Warehouse
+Border Inspection Administration Center,Class 4,High,High,Moderate,ITS Data Warehouse
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,ITS Data Warehouse
+Archived Data User System,Class 4,High,High,Low,ITS Data Warehouse
+Other Archived Data Systems,Class 5,Moderate,High,High,ITS Data Warehouse
+Archived Data Administrator,,,,,ITS Data Warehouse
+Other Data Sources,Class 4,High,High,Moderate,ITS Data Warehouse
+Asset Management System,Class 4,High,High,Moderate,ITS Data Warehouse
+Parking Management Center,Class 4,High,High,Moderate,ITS Data Warehouse
+Driver,,,,,Infrastructure Enhanced Cooperative Adaptive Cruise Control
+Vehicle,Class 3,Moderate,High,Moderate,Infrastructure Enhanced Cooperative Adaptive Cruise Control
+Other Vehicles,Class 3,Low,High,Moderate,Infrastructure Enhanced Cooperative Adaptive Cruise Control
+Traffic Management Center,Class 3,Moderate,High,Moderate,Infrastructure Enhanced Cooperative Adaptive Cruise Control
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Infrastructure Enhanced Cooperative Adaptive Cruise Control
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Infrastructure Enhanced Cooperative Adaptive Cruise Control
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Infrastructure Enhanced Cooperative Adaptive Cruise Control
+Traffic Operations Personnel,,,,,Infrastructure Enhanced Cooperative Adaptive Cruise Control
+Basic Vehicle,,,,,Infrastructure Enhanced Cooperative Adaptive Cruise Control
+Vehicle Characteristics,,,,,Infrastructure Enhanced Cooperative Adaptive Cruise Control
+Roadway Environment,Class 1,Not Applicable,Low,Low,Infrastructure Enhanced Cooperative Adaptive Cruise Control
+Potential Obstacles,,,,,Infrastructure Enhanced Cooperative Adaptive Cruise Control
+Vulnerable Road Users,,,,,Infrastructure Enhanced Cooperative Adaptive Cruise Control
+Driver,,,,,Automated Vehicle Operations
+Vehicle,Class 3,Moderate,High,Moderate,Automated Vehicle Operations
+Other Vehicles,Class 3,Low,High,Moderate,Automated Vehicle Operations
+Traffic Management Center,Class 3,Moderate,High,Moderate,Automated Vehicle Operations
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Automated Vehicle Operations
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Automated Vehicle Operations
+Transportation Information Center,Class 3,Moderate,High,Moderate,Automated Vehicle Operations
+Traffic Operations Personnel,,,,,Automated Vehicle Operations
+Basic Vehicle,,,,,Automated Vehicle Operations
+Vehicle Characteristics,,,,,Automated Vehicle Operations
+Roadway Environment,Class 1,Not Applicable,Low,Low,Automated Vehicle Operations
+Potential Obstacles,,,,,Automated Vehicle Operations
+Vulnerable Road Users,,,,,Automated Vehicle Operations
+Driver,,,,,Autonomous Vehicle Safety Systems
+Vehicle,Class 1,Not Applicable,Low,Low,Autonomous Vehicle Safety Systems
+Basic Vehicle,,,,,Autonomous Vehicle Safety Systems
+Vehicle Characteristics,,,,,Autonomous Vehicle Safety Systems
+Roadway Environment,Class 1,Not Applicable,Low,Low,Autonomous Vehicle Safety Systems
+Potential Obstacles,,,,,Autonomous Vehicle Safety Systems
+Vulnerable Road Users,,,,,Autonomous Vehicle Safety Systems
+Personal Information Device,Class 5,High,High,High,Parking Electronic Payment
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Parking Electronic Payment
+Financial Center,Class 2,Moderate,Moderate,Moderate,Parking Electronic Payment
+Payment Administration Center,Class 4,High,High,Moderate,Parking Electronic Payment
+Payment Device,Class 5,Moderate,Moderate,High,Parking Electronic Payment
+Parking Area Equipment,Class 5,High,High,High,Parking Electronic Payment
+Parking Operator,,,,,Parking Electronic Payment
+Parking Management Center,Class 5,High,High,High,Parking Electronic Payment
+Parking Manager,,,,,Parking Electronic Payment
+Light Vehicle OBE,Class 5,High,High,High,Parking Electronic Payment
+Light Vehicle Driver,,,,,Parking Electronic Payment
+Freight Equipment,Class 2,Moderate,Moderate,Moderate,Smart Roadside and Virtual WIM
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Smart Roadside and Virtual WIM
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Smart Roadside and Virtual WIM
+Commercial Vehicle Driver,,,,,Smart Roadside and Virtual WIM
+Enforcement Center,Class 4,High,High,Moderate,Smart Roadside and Virtual WIM
+Commercial Vehicle Check Equipment,Class 4,High,High,Moderate,Smart Roadside and Virtual WIM
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Smart Roadside and Virtual WIM
+Commercial Vehicle Inspector,,,,,Smart Roadside and Virtual WIM
+Other CV Administration Centers,Class 4,High,High,Moderate,Smart Roadside and Virtual WIM
+Basic Commercial Vehicle,,,,,Smart Roadside and Virtual WIM
+Driver Identification Card,Class 4,High,Moderate,Moderate,Smart Roadside and Virtual WIM
+Center,Class 5,High,High,High,Center Maintenance
+Service Monitor System,Class 5,High,High,High,Center Maintenance
+Center Personnel,,,,,Center Maintenance
+Support Maintenance Personnel,,,,,Center Maintenance
+Support Maintenance Equipment,Class 5,Moderate,High,High,Center Maintenance
+Driver,,,,,Management of Electronic Traffic Regulations (METR)
+Vehicle,Class 2,Moderate,Moderate,Moderate,Management of Electronic Traffic Regulations (METR)
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR)
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR)
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR)
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Management of Electronic Traffic Regulations (METR)
+Maint and Constr Vehicle OBE,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR)
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR)
+Traveler,,,,,Management of Electronic Traffic Regulations (METR)
+METR System,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR)
+Other METR Distribution Centers,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR)
+Non-METR Distribution Center,Class 2,Moderate,Moderate,Moderate,Management of Electronic Traffic Regulations (METR)
+METR Distribution Center,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR)
+METR Rule-Maker/Agent,,,,,Management of Electronic Traffic Regulations (METR)
+Other METR Systems,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR)
+Driver,,,,,Loading Zone Management
+Vehicle,Class 2,Moderate,Moderate,Moderate,Loading Zone Management
+Fleet and Freight Management Center,Class 2,Moderate,Moderate,Moderate,Loading Zone Management
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Loading Zone Management
+Personal Information Device,Class 4,High,High,Moderate,Loading Zone Management
+Parking Area Equipment,Class 2,Moderate,Moderate,Moderate,Loading Zone Management
+Parking Management Center,Class 4,High,High,Moderate,Loading Zone Management
+Parking Manager,,,,,Loading Zone Management
+Vehicle Characteristics,,,,,Loading Zone Management
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Field Equipment Maintenance
+Maint and Constr Center Personnel,,,,,Field Equipment Maintenance
+Maint and Constr Field Personnel,,,,,Field Equipment Maintenance
+Center,Class 3,Moderate,High,Moderate,Field Equipment Maintenance
+Field Maintenance Equipment,Class 5,Moderate,High,High,Field Equipment Maintenance
+Service Monitor System,Class 2,Moderate,Moderate,Moderate,Field Equipment Maintenance
+Field,Class 5,Moderate,Moderate,High,Field Equipment Maintenance
+Center Personnel,,,,,Field Equipment Maintenance
+Field System Operator,,,,,Field Equipment Maintenance
+Driver,,,,,Vehicle Maintenance
+Vehicle,Class 3,Moderate,High,Moderate,Vehicle Maintenance
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Vehicle Maintenance
+Service Monitor System,Class 2,Moderate,Moderate,Moderate,Vehicle Maintenance
+Basic Vehicle,,,,,Vehicle Maintenance
+Vehicle Service Center,Class 3,Moderate,High,Moderate,Vehicle Maintenance
+Maint and Constr Field Personnel,,,,,Personnel Device Maintenance
+Center,Class 4,High,High,Moderate,Personnel Device Maintenance
+Service Monitor System,Class 2,Moderate,Moderate,Moderate,Personnel Device Maintenance
+Center Personnel,,,,,Personnel Device Maintenance
+Personnel Device,Class 4,High,High,Moderate,Personnel Device Maintenance
+Cooperative ITS Credentials Management System,Class 5,High,High,High,Device Certification and Enrollment
+Credentials Management System Operator,,,,,Device Certification and Enrollment
+Other Credentials Management Systems,Class 5,High,High,High,Device Certification and Enrollment
+ITS Object,Class 5,High,High,High,Device Certification and Enrollment
+Certification System,Class 5,High,High,High,Device Certification and Enrollment
+Certification System Operator,,,,,Device Certification and Enrollment
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Parking Reservations
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Parking Reservations
+Traveler Support Equipment,Class 2,Moderate,Moderate,Moderate,Parking Reservations
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Parking Reservations
+Parking Manager,,,,,Parking Reservations
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Parking Reservations
+Personal Information Device,Class 4,High,High,Moderate,Stolen Vehicle Recovery
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Stolen Vehicle Recovery
+DMV,Class 4,High,High,Moderate,Stolen Vehicle Recovery
+Emergency Management Center,Class 4,High,High,Moderate,Stolen Vehicle Recovery
+Other Emergency Management Centers,Class 2,Moderate,Moderate,Moderate,Stolen Vehicle Recovery
+Emergency System Operator,,,,,Stolen Vehicle Recovery
+Traveler,,,,,Stolen Vehicle Recovery
+Basic Vehicle,,,,,Stolen Vehicle Recovery
+Light Vehicle OBE,Class 4,High,High,Moderate,Stolen Vehicle Recovery
+Driver,,,,,Tunnel Management
+Vehicle,Class 3,Low,High,Moderate,Tunnel Management
+Traffic Management Center,Class 5,High,High,High,Tunnel Management
+Maint and Constr Management Center,,,,,Tunnel Management
+ITS Roadway Equipment,Class 5,High,High,High,Tunnel Management
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Tunnel Management
+Traffic Operations Personnel,,,,,Tunnel Management
+Other Traffic Management Centers,Class 1,Low,Moderate,Moderate,Tunnel Management
+Other ITS Roadway Equipment,Class 4,High,High,Moderate,Tunnel Management
+Vehicle Characteristics,,,,,Tunnel Management
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Commercial Vehicle Parking
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Commercial Vehicle Parking
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Commercial Vehicle Parking
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Commercial Vehicle Parking
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Commercial Vehicle Parking
+Commercial Vehicle Driver,,,,,Commercial Vehicle Parking
+Fleet-Freight Manager,,,,,Commercial Vehicle Parking
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Commercial Vehicle Parking
+Parking Area Equipment,Class 2,Moderate,Moderate,Moderate,Commercial Vehicle Parking
+Parking Operator,,,,,Commercial Vehicle Parking
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Commercial Vehicle Parking
+Parking Manager,,,,,Commercial Vehicle Parking
+Driver,,,,,Wrong Way Vehicle Detection and Warning
+Vehicle,Class 3,Not Applicable,High,Moderate,Wrong Way Vehicle Detection and Warning
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Wrong Way Vehicle Detection and Warning
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Wrong Way Vehicle Detection and Warning
+Connected Vehicle Roadside Equipment,Class 1,Not Applicable,Moderate,Moderate,Wrong Way Vehicle Detection and Warning
+Traffic Operations Personnel,,,,,Wrong Way Vehicle Detection and Warning
+Emergency Management Center,Class 1,Low,Low,Moderate,Wrong Way Vehicle Detection and Warning
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Wrong Way Vehicle Detection and Warning
+Vehicle Characteristics,,,,,Wrong Way Vehicle Detection and Warning
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Signal Enforcement
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Signal Enforcement
+Traffic Operations Personnel,,,,,Signal Enforcement
+Enforcement Center,Class 2,Moderate,Moderate,Low,Signal Enforcement
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Signal Enforcement
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Roadway Micro-Prediction
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Roadway Micro-Prediction
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Roadway Micro-Prediction
+Traffic Operations Personnel,,,,,Roadway Micro-Prediction
+Surface Transportation Weather Service,Class 2,Moderate,Moderate,Moderate,Roadway Micro-Prediction
+Maint and Constr Center Personnel,,,,,Roadway Micro-Prediction
+Roadway Environment,Class 1,Not Applicable,Low,Low,Roadway Micro-Prediction
+Fleet and Freight Management Center,Class 2,Moderate,Moderate,Moderate,International Border Registration
+Intermodal Customer System,Class 2,Moderate,Moderate,Moderate,International Border Registration
+Freight Distribution and Logistics Center,Class 2,Moderate,Moderate,Moderate,International Border Registration
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,International Border Registration
+Border Inspection Administration Center,Class 2,Moderate,Moderate,Moderate,International Border Registration
+Commercial Vehicle Administration Center,Class 2,Moderate,Moderate,Moderate,International Border Registration
+Other Border Inspection Administration Centers,Class 2,Moderate,Moderate,Moderate,International Border Registration
+Border Inspection Administration Center,Class 4,High,High,Moderate,International Border Coordination
+Border Inspection System,Class 4,High,High,Moderate,International Border Coordination
+Other Border Inspection Administration Centers,Class 2,Moderate,Moderate,Moderate,International Border Coordination
+Other Border Inspection Systems,Class 3,Moderate,High,Moderate,International Border Coordination
+Vehicle,Class 1,Low,Low,Moderate,Asset Tracking
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Asset Tracking
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Asset Tracking
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Asset Tracking
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Asset Tracking
+Maint and Constr Center Personnel,,,,,Asset Tracking
+Maint and Constr Field Personnel,,,,,Asset Tracking
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Asset Tracking
+Field,Class 1,Low,Moderate,Moderate,Asset Tracking
+Maint and Constr Vehicle Operator,,,,,Asset Tracking
+Personnel Device,Class 2,Moderate,Moderate,Moderate,Asset Tracking
+Traffic Management Center,Class 3,Moderate,High,Moderate,Maintenance and Construction Signal Priority
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Maintenance and Construction Signal Priority
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Maintenance and Construction Signal Priority
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Maintenance and Construction Signal Priority
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,Maintenance and Construction Signal Priority
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Maintenance and Construction Signal Priority
+Maint and Constr Center Personnel,,,,,Maintenance and Construction Signal Priority
+Maint and Constr Vehicle Operator,,,,,Maintenance and Construction Signal Priority
+Center,Class 2,Moderate,Moderate,Moderate,Remote Access
+Center Personnel,,,,,Remote Access
+Remote Access Device,Class 2,Moderate,Moderate,Moderate,Remote Access
+Traffic Management Center,Class 4,High,High,Moderate,Traffic Data Mart
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Low,Traffic Data Mart
+Connected Vehicle Roadside Equipment,Class 1,Low,Moderate,Low,Traffic Data Mart
+Transportation Information Center,Class 4,High,High,Moderate,Traffic Data Mart
+Archived Data System,Class 5,High,High,High,Traffic Data Mart
+Archived Data User System,Class 4,High,High,Low,Traffic Data Mart
+Other Archived Data Systems,Class 5,Moderate,High,High,Traffic Data Mart
+Archived Data Administrator,,,,,Traffic Data Mart
+Transit Management Center,Class 4,High,High,Moderate,Public Transportation Data Mart
+Alternate Mode Transportation Center,Class 4,High,High,Moderate,Public Transportation Data Mart
+Archived Data System,Class 5,High,High,High,Public Transportation Data Mart
+Payment Administration Center,Class 4,High,High,Moderate,Public Transportation Data Mart
+Archived Data User System,Class 4,High,High,Low,Public Transportation Data Mart
+Other Archived Data Systems,Class 5,Moderate,High,High,Public Transportation Data Mart
+Archived Data Administrator,,,,,Public Transportation Data Mart
+Traffic Management Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse
+Maint and Constr Management Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Low,Comprehensive Transportation Data Warehouse
+Connected Vehicle Roadside Equipment,Class 1,Low,Moderate,Low,Comprehensive Transportation Data Warehouse
+Intermodal Terminal,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse
+Transportation Information Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse
+Transit Management Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse
+Alternate Mode Transportation Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse
+Emissions Management Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse
+Weather Service System,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse
+Surface Transportation Weather Service,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse
+Archived Data System,Class 5,High,High,High,Comprehensive Transportation Data Warehouse
+Payment Administration Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse
+Emergency Management Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse
+Border Inspection Administration Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse
+Archived Data User System,Class 4,High,High,Low,Comprehensive Transportation Data Warehouse
+Other Archived Data Systems,Class 5,Moderate,High,High,Comprehensive Transportation Data Warehouse
+Archived Data Administrator,,,,,Comprehensive Transportation Data Warehouse
+Other Data Sources,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse
+Asset Management System,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse
+Parking Management Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse
+Archived Data System,Class 5,High,High,High,Distributed Data Warehouse
+Archived Data User System,Class 4,High,High,Low,Distributed Data Warehouse
+Other Archived Data Systems,Class 5,Moderate,High,High,Distributed Data Warehouse
+Archived Data Administrator,,,,,Distributed Data Warehouse
+Archived Data System,Class 5,High,High,High,Automated Traffic Signal Performance Measures (ATSPM)
+Government Reporting Systems,Class 3,Low,High,Low,Automated Traffic Signal Performance Measures (ATSPM)
+Archived Data User System,Class 4,High,High,Moderate,Automated Traffic Signal Performance Measures (ATSPM)
+Other Archived Data Systems,Class 5,Moderate,High,High,Automated Traffic Signal Performance Measures (ATSPM)
+Archived Data Administrator,,,,,Automated Traffic Signal Performance Measures (ATSPM)
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Passive RFID Technologies
+Maint and Constr Center Personnel,,,,,Passive RFID Technologies
+Maint and Constr Field Personnel,,,,,Passive RFID Technologies
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Passive RFID Technologies
+Field,Class 1,Low,Moderate,Moderate,Passive RFID Technologies
+Personnel Device,Class 2,Moderate,Moderate,Moderate,Passive RFID Technologies
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies
+Maint and Constr Center Personnel,,,,,Active RFID Technologies
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies
+Field,Class 1,Low,Moderate,Moderate,Active RFID Technologies
+Maint and Constr Vehicle Operator,,,,,Active RFID Technologies
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies and Remote Control
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies and Remote Control
+Maint and Constr Center Personnel,,,,,Active RFID Technologies and Remote Control
+Maint and Constr Field Personnel,,,,,Active RFID Technologies and Remote Control
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies and Remote Control
+Field,Class 1,Low,Moderate,Moderate,Active RFID Technologies and Remote Control
+Personnel Device,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies and Remote Control
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Active RFID Technologies and Automated Vehicle Collection
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies and Automated Vehicle Collection
+Maint and Constr Center Personnel,,,,,Active RFID Technologies and Automated Vehicle Collection
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies and Automated Vehicle Collection
+Field,Class 1,Low,Moderate,Moderate,Active RFID Technologies and Automated Vehicle Collection
+Vehicle,Class 1,Low,Low,Moderate,Asset Tracking Based Infrastructure Warnings
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Asset Tracking Based Infrastructure Warnings
+Connected Vehicle Roadside Equipment,Class 1,Low,Moderate,Moderate,Asset Tracking Based Infrastructure Warnings
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Asset Tracking Based Infrastructure Warnings
+Maint and Constr Vehicle OBE,Class 1,Low,Low,Moderate,Asset Tracking Based Infrastructure Warnings
+Maint and Constr Center Personnel,,,,,Asset Tracking Based Infrastructure Warnings
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Asset Tracking Based Infrastructure Warnings
+Personnel Device,Class 1,Low,Low,Moderate,Asset Tracking Based Infrastructure Warnings
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring
+Connected Vehicle Roadside Equipment,,,,,Infrastructure-Based Monitoring
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring
+Parking Area Equipment,Class 2,Moderate,Moderate,Low,Infrastructure-Based Monitoring
+Parking Operator,,,,,Infrastructure-Based Monitoring
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring
+Parking Manager,,,,,Infrastructure-Based Monitoring
+Vehicle Characteristics,,,,,Infrastructure-Based Monitoring
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring
+Light Vehicle Driver,,,,,Infrastructure-Based Monitoring
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring
+Parking Area Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring
+Parking Operator,,,,,C-ITS Based Monitoring
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring
+Parking Manager,,,,,C-ITS Based Monitoring
+Vehicle Characteristics,,,,,C-ITS Based Monitoring
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring
+Light Vehicle Driver,,,,,C-ITS Based Monitoring
+Connected Vehicle Roadside Equipment,,,,,Infrastructure-Based Monitoring
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring
+Parking Area Equipment,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring
+Parking Operator,,,,,Infrastructure-Based Monitoring
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring
+Parking Manager,,,,,Infrastructure-Based Monitoring
+Vehicle Characteristics,,,,,Infrastructure-Based Monitoring
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring
+Light Vehicle Driver,,,,,Infrastructure-Based Monitoring
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring
+Parking Area Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring
+Parking Operator,,,,,C-ITS Based Monitoring
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring
+Parking Manager,,,,,C-ITS Based Monitoring
+Vehicle Characteristics,,,,,C-ITS Based Monitoring
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring
+Light Vehicle Driver,,,,,C-ITS Based Monitoring
+Personal Information Device,Class 4,High,High,Moderate,Local Point of Sale
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Local Point of Sale
+Financial Center,Class 2,Moderate,Moderate,Moderate,Local Point of Sale
+Payment Administration Center,Class 4,High,High,Moderate,Local Point of Sale
+Payment Device,Class 5,Moderate,Moderate,High,Local Point of Sale
+Parking Area Equipment,Class 5,Moderate,Moderate,High,Local Point of Sale
+Parking Operator,,,,,Local Point of Sale
+Parking Management Center,Class 4,High,High,Moderate,Local Point of Sale
+Parking Manager,,,,,Local Point of Sale
+Light Vehicle Driver,,,,,Local Point of Sale
+Personal Information Device,Class 5,High,High,High,Direct Payment Using WAW
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Direct Payment Using WAW
+Financial Center,Class 2,Moderate,Moderate,Moderate,Direct Payment Using WAW
+Payment Administration Center,Class 4,High,High,Moderate,Direct Payment Using WAW
+Parking Management Center,Class 5,High,High,High,Direct Payment Using WAW
+Parking Manager,,,,,Direct Payment Using WAW
+Light Vehicle OBE,,,,,Direct Payment Using WAW
+Light Vehicle Driver,,,,,Direct Payment Using WAW
+Personal Information Device,Class 4,High,High,Moderate,C-ITS Based Payment
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,C-ITS Based Payment
+Financial Center,Class 2,Moderate,Moderate,Moderate,C-ITS Based Payment
+Payment Administration Center,Class 4,High,High,Moderate,C-ITS Based Payment
+Payment Device,Class 5,Moderate,Moderate,High,C-ITS Based Payment
+Parking Area Equipment,Class 5,High,High,High,C-ITS Based Payment
+Parking Operator,,,,,C-ITS Based Payment
+Parking Management Center,Class 4,High,High,Moderate,C-ITS Based Payment
+Parking Manager,,,,,C-ITS Based Payment
+Light Vehicle OBE,Class 5,High,High,High,C-ITS Based Payment
+Light Vehicle Driver,,,,,C-ITS Based Payment
+Traffic Management Center,Class 3,Moderate,High,Moderate,Traditional Field Control
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Traditional Field Control
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Traditional Field Control
+Emergency Personnel,,,,,Traditional Field Control
+Emergency Management Center,Class 3,Moderate,High,Moderate,Traditional Field Control
+Traffic Management Center,Class 3,Moderate,High,Moderate,Traditional TMC Control
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Traditional TMC Control
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Traditional TMC Control
+Emergency Personnel,,,,,Traditional TMC Control
+Emergency Management Center,Class 3,Moderate,High,Moderate,Traditional TMC Control
+Traffic Management Center,Class 3,Moderate,High,Moderate,Center Control
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Center Control
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Center Control
+Emergency Personnel,,,,,Center Control
+Emergency Management Center,Class 3,Moderate,High,Moderate,Center Control
+Traffic Management Center,Class 3,Moderate,High,Moderate,C-ITS Field Control
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,C-ITS Field Control
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,C-ITS Field Control
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,C-ITS Field Control
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,C-ITS Field Control
+Emergency Personnel,,,,,C-ITS Field Control
+Emergency Management Center,Class 3,Moderate,High,Moderate,C-ITS Field Control
+Traffic Management Center,Class 3,Moderate,High,Moderate,C-ITS Center Control
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,C-ITS Center Control
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,C-ITS Center Control
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,C-ITS Center Control
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,C-ITS Center Control
+Emergency Personnel,,,,,C-ITS Center Control
+Emergency Management Center,Class 3,Moderate,High,Moderate,C-ITS Center Control
+Traffic Management Center,Class 3,Moderate,High,Moderate,Traditional Field Control
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Traditional Field Control
+Transit Management Center,Class 1,Low,Moderate,Moderate,Traditional Field Control
+Transit Vehicle Operator,,,,,Traditional Field Control
+Transit Operations Personnel,,,,,Traditional Field Control
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Traditional Field Control
+Traffic Management Center,Class 3,Moderate,High,Moderate,Traditional TMC Control
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Traditional TMC Control
+Transit Management Center,Class 1,Low,Moderate,Moderate,Traditional TMC Control
+Transit Vehicle Operator,,,,,Traditional TMC Control
+Transit Operations Personnel,,,,,Traditional TMC Control
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Traditional TMC Control
+Traffic Management Center,Class 3,Moderate,High,Moderate,Center Control
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Center Control
+Transit Management Center,Class 1,Low,Moderate,Moderate,Center Control
+Transit Vehicle Operator,,,,,Center Control
+Transit Operations Personnel,,,,,Center Control
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Center Control
+Traffic Management Center,Class 3,Moderate,High,Moderate,C-ITS Field Control
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,C-ITS Field Control
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Field Control
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,C-ITS Field Control
+Transit Management Center,Class 1,Low,Moderate,Moderate,C-ITS Field Control
+Transit Vehicle Operator,,,,,C-ITS Field Control
+Transit Operations Personnel,,,,,C-ITS Field Control
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,C-ITS Field Control
+Traffic Management Center,Class 3,Moderate,High,Moderate,C-ITS Center Control
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,C-ITS Center Control
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Center Control
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,C-ITS Center Control
+Transit Management Center,Class 1,Low,Moderate,Moderate,C-ITS Center Control
+Transit Vehicle Operator,,,,,C-ITS Center Control
+Transit Operations Personnel,,,,,C-ITS Center Control
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,C-ITS Center Control
+Driver,,,,,Wide-Area Wireless
+Vehicle,Class 1,Not Applicable,Low,Moderate,Wide-Area Wireless
+Traffic Management Center,Class 3,Moderate,High,Moderate,Wide-Area Wireless
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Wide-Area Wireless
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Wide-Area Wireless
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Wide-Area Wireless
+Transit Vehicle Operator,,,,,Wide-Area Wireless
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Wide-Area Wireless
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Wide-Area Wireless
+Basic Vehicle,,,,,Wide-Area Wireless
+Vehicle Characteristics,,,,,Wide-Area Wireless
+Driver,,,,,Short Range Communications
+Vehicle,Class 3,Moderate,High,Moderate,Short Range Communications
+Traffic Management Center,Class 3,Moderate,High,Moderate,Short Range Communications
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Short Range Communications
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Short Range Communications
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Short Range Communications
+Transit Vehicle Operator,,,,,Short Range Communications
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Short Range Communications
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Short Range Communications
+Basic Vehicle,,,,,Short Range Communications
+Vehicle Characteristics,,,,,Short Range Communications
+Driver,,,,,Wide-Area Wireless
+Vehicle,Class 1,Not Applicable,Low,Moderate,Wide-Area Wireless
+Traffic Management Center,Class 3,Moderate,High,Moderate,Wide-Area Wireless
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Wide-Area Wireless
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Wide-Area Wireless
+Driver,,,,,C-ITS Short Range Communications
+Vehicle,Class 3,Low,High,Moderate,C-ITS Short Range Communications
+Other Vehicles,Class 3,Not Applicable,High,Moderate,C-ITS Short Range Communications
+Traffic Management Center,Class 3,Moderate,High,Moderate,C-ITS Short Range Communications
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,C-ITS Short Range Communications
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,C-ITS Short Range Communications
+Driver,,,,,Wide Area Broadcast
+Vehicle,Class 1,Not Applicable,Low,Moderate,Wide Area Broadcast
+Traffic Management Center,Class 1,Low,Moderate,Moderate,Wide Area Broadcast
+Maint and Constr Management Center,Class 5,Low,High,High,Wide Area Broadcast
+Transportation Information Center,Class 5,Moderate,Moderate,High,Wide Area Broadcast
+Personal Information Device,Class 1,Not Applicable,Low,Low,Wide Area Broadcast
+Transit Management Center,Class 1,Low,Moderate,Moderate,Wide Area Broadcast
+Emissions Management Center,Class 1,Not Applicable,Moderate,Low,Wide Area Broadcast
+Weather Service System,Class 1,Low,Moderate,Moderate,Wide Area Broadcast
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Wide Area Broadcast
+TIC Operator,,,,,Wide Area Broadcast
+Payment Administration Center,Class 1,Low,Moderate,Low,Wide Area Broadcast
+Event Promoter System,Class 3,Moderate,High,Moderate,Wide Area Broadcast
+Emergency Management Center,Class 1,Low,Moderate,Moderate,Wide Area Broadcast
+Traveler,,,,,Wide Area Broadcast
+Traveler Support Equipment,Class 1,Not Applicable,Low,Low,Wide Area Broadcast
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,Wide Area Broadcast
+Media,Class 1,Low,Low,Moderate,Wide Area Broadcast
+Border Inspection System,Class 1,Low,Moderate,Low,Wide Area Broadcast
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Wide Area Broadcast
+Driver,,,,,C-ITS Local Broadcast
+Vehicle,Class 1,Not Applicable,Low,Low,C-ITS Local Broadcast
+Traffic Management Center,Class 1,Low,Moderate,Moderate,C-ITS Local Broadcast
+Maint and Constr Management Center,Class 5,Low,High,High,C-ITS Local Broadcast
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Low,C-ITS Local Broadcast
+Transportation Information Center,Class 5,Moderate,Moderate,High,C-ITS Local Broadcast
+Personal Information Device,Class 1,Not Applicable,Low,Low,C-ITS Local Broadcast
+Transit Management Center,Class 1,Low,Moderate,Moderate,C-ITS Local Broadcast
+Emissions Management Center,Class 1,Not Applicable,Moderate,Low,C-ITS Local Broadcast
+Weather Service System,Class 1,Low,Moderate,Moderate,C-ITS Local Broadcast
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,C-ITS Local Broadcast
+TIC Operator,,,,,C-ITS Local Broadcast
+Payment Administration Center,Class 1,Low,Moderate,Low,C-ITS Local Broadcast
+Event Promoter System,Class 3,Moderate,High,Moderate,C-ITS Local Broadcast
+Emergency Management Center,Class 1,Low,Moderate,Moderate,C-ITS Local Broadcast
+Traveler,,,,,C-ITS Local Broadcast
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,C-ITS Local Broadcast
+Media,Class 1,Low,Low,Moderate,C-ITS Local Broadcast
+Border Inspection System,Class 1,Low,Moderate,Low,C-ITS Local Broadcast
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,C-ITS Local Broadcast
+Transportation Information Center,Class 4,High,High,Moderate,Shared Use Mobility
+Personal Information Device,Class 5,High,High,High,Shared Use Mobility
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Shared Use Mobility
+TIC Operator,,,,,Shared Use Mobility
+Financial Center,Class 2,Moderate,Moderate,Moderate,Shared Use Mobility
+Payment Device,Class 5,Moderate,Moderate,High,Shared Use Mobility
+Traveler,,,,,Shared Use Mobility
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Shared Use Mobility
+Shared Use Transportation Center,Class 4,High,High,Moderate,Shared Use Mobility
+Micromobility Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Shared Use Mobility
+SUTC Operator,,,,,Shared Use Mobility
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Shared Use Mobility
+Transportation Information Center,Class 4,High,High,Moderate,Dynamic Ridesharing
+Personal Information Device,Class 5,High,High,High,Dynamic Ridesharing
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Dynamic Ridesharing
+TIC Operator,,,,,Dynamic Ridesharing
+Financial Center,Class 2,Moderate,Moderate,Moderate,Dynamic Ridesharing
+Payment Device,Class 5,Moderate,Moderate,High,Dynamic Ridesharing
+Traveler,,,,,Dynamic Ridesharing
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Dynamic Ridesharing
+Shared Use Transportation Center,Class 4,High,High,Moderate,Dynamic Ridesharing
+Micromobility Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Dynamic Ridesharing
+SUTC Operator,,,,,Dynamic Ridesharing
+Light Vehicle OBE,Class 4,High,High,Moderate,Dynamic Ridesharing
+Light Vehicle Driver,,,,,Dynamic Ridesharing
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Detector-Based Surveillance
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Detector-Based Surveillance
+Transportation Information Center,Class 1,Low,Low,Moderate,Detector-Based Surveillance
+Traffic Operations Personnel,,,,,Detector-Based Surveillance
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Low,Detector-Based Surveillance
+Vehicle Characteristics,,,,,Detector-Based Surveillance
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Video Monitoring
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Video Monitoring
+Transportation Information Center,Class 1,Low,Low,Moderate,Video Monitoring
+Traffic Operations Personnel,,,,,Video Monitoring
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Video Monitoring
+Vehicle Characteristics,,,,,Video Monitoring
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Bluetooth Signature Monitoring
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Bluetooth Signature Monitoring
+Transportation Information Center,Class 1,Low,Low,Moderate,Bluetooth Signature Monitoring
+Traffic Operations Personnel,,,,,Bluetooth Signature Monitoring
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Low,Bluetooth Signature Monitoring
+Basic Vehicle,Class 1,Not Applicable,Moderate,Low,Bluetooth Signature Monitoring
+Vehicle,Class 2,Moderate,Moderate,Moderate,Wide-Area Wireless Communications
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Wide-Area Wireless Communications
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Wide-Area Wireless Communications
+Transit Management Center,Class 1,Low,Moderate,Low,Wide-Area Wireless Communications
+Payment Administration Center,Class 1,Low,Moderate,Low,Wide-Area Wireless Communications
+Basic Vehicle,,,,,Wide-Area Wireless Communications
+Wireless Communications  Provider System,Class 1,Not Applicable,Moderate,Low,Wide-Area Wireless Communications
+Vehicle,Class 2,Moderate,Moderate,Moderate,C-ITS Communications
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,C-ITS Communications
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Communications
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,C-ITS Communications
+Transit Management Center,Class 1,Low,Moderate,Low,C-ITS Communications
+Payment Administration Center,Class 1,Low,Moderate,Low,C-ITS Communications
+Basic Vehicle,,,,,C-ITS Communications
+Driver,,,,,Pre-Timed (Fixed Time) Control
+Traffic Management Center,Class 3,Moderate,High,Moderate,Pre-Timed (Fixed Time) Control
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Pre-Timed (Fixed Time) Control
+Traffic Operations Personnel,,,,,Pre-Timed (Fixed Time) Control
+Pedestrian,,,,,Pre-Timed (Fixed Time) Control
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Pre-Timed (Fixed Time) Control
+MMV User,,,,,Pre-Timed (Fixed Time) Control
+Vehicle Characteristics,,,,,Pre-Timed (Fixed Time) Control
+Driver,,,,,Fully Traffic Responsive
+Traffic Management Center,Class 3,Moderate,High,Moderate,Fully Traffic Responsive
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Fully Traffic Responsive
+Traffic Operations Personnel,,,,,Fully Traffic Responsive
+Pedestrian,,,,,Fully Traffic Responsive
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Fully Traffic Responsive
+MMV User,,,,,Fully Traffic Responsive
+Vehicle Characteristics,,,,,Fully Traffic Responsive
+Driver,,,,,Field Master Controlled
+Traffic Management Center,Class 3,Moderate,High,Moderate,Field Master Controlled
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Field Master Controlled
+Traffic Operations Personnel,,,,,Field Master Controlled
+Pedestrian,,,,,Field Master Controlled
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Field Master Controlled
+MMV User,,,,,Field Master Controlled
+Vehicle Characteristics,,,,,Field Master Controlled
+Driver,,,,,Pre-Timed (Fixed Time) Control
+Vehicle,Class 2,Moderate,Moderate,Moderate,Pre-Timed (Fixed Time) Control
+Traffic Management Center,Class 3,Moderate,High,Moderate,Pre-Timed (Fixed Time) Control
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Pre-Timed (Fixed Time) Control
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Pre-Timed (Fixed Time) Control
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Pre-Timed (Fixed Time) Control
+Traffic Operations Personnel,,,,,Pre-Timed (Fixed Time) Control
+Pedestrian,,,,,Pre-Timed (Fixed Time) Control
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Pre-Timed (Fixed Time) Control
+MMV User,,,,,Pre-Timed (Fixed Time) Control
+Vehicle Characteristics,,,,,Pre-Timed (Fixed Time) Control
+Driver,,,,,Fully Traffic Responsive
+Vehicle,Class 2,Moderate,Moderate,Moderate,Fully Traffic Responsive
+Traffic Management Center,Class 3,Moderate,High,Moderate,Fully Traffic Responsive
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Fully Traffic Responsive
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Fully Traffic Responsive
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Fully Traffic Responsive
+Traffic Operations Personnel,,,,,Fully Traffic Responsive
+Pedestrian,,,,,Fully Traffic Responsive
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Fully Traffic Responsive
+MMV User,,,,,Fully Traffic Responsive
+Vehicle Characteristics,,,,,Fully Traffic Responsive
+Driver,,,,,Field Master Controlled
+Vehicle,Class 2,Moderate,Moderate,Moderate,Field Master Controlled
+Traffic Management Center,Class 3,Moderate,High,Moderate,Field Master Controlled
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Field Master Controlled
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Field Master Controlled
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Field Master Controlled
+Traffic Operations Personnel,,,,,Field Master Controlled
+Pedestrian,,,,,Field Master Controlled
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Field Master Controlled
+MMV User,,,,,Field Master Controlled
+Vehicle Characteristics,,,,,Field Master Controlled
+Driver,,,,,Dynamic Message Signs
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Dynamic Message Signs
+Maint and Constr Management Center,Class 1,Low,Low,Moderate,Dynamic Message Signs
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Dynamic Message Signs
+Transportation Information Center,Class 1,Low,Low,Moderate,Dynamic Message Signs
+Transit Management Center,Class 1,Low,Low,Moderate,Dynamic Message Signs
+Traffic Operations Personnel,,,,,Dynamic Message Signs
+Emergency Management Center,Class 1,Low,Low,Moderate,Dynamic Message Signs
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Dynamic Message Signs
+Media,Class 1,Low,Low,Moderate,Dynamic Message Signs
+Driver,,,,,Advisory Radio
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Advisory Radio
+Maint and Constr Management Center,Class 1,Low,Low,Moderate,Advisory Radio
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Advisory Radio
+Transportation Information Center,Class 1,Low,Low,Moderate,Advisory Radio
+Transit Management Center,Class 1,Low,Low,Moderate,Advisory Radio
+Traffic Operations Personnel,,,,,Advisory Radio
+Emergency Management Center,Class 1,Low,Low,Moderate,Advisory Radio
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Low,Advisory Radio
+Media,Class 1,Low,Low,Moderate,Advisory Radio
+Basic Vehicle,Class 1,Not Applicable,Low,Low,Advisory Radio
+Driver,,,,,Traditional ITS Queue Warning
+Traffic Management Center,Class 3,Moderate,High,Moderate,Traditional ITS Queue Warning
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traditional ITS Queue Warning
+Transportation Information Center,Class 1,Low,Low,Moderate,Traditional ITS Queue Warning
+Traffic Operations Personnel,,,,,Traditional ITS Queue Warning
+Other Traffic Management Centers,Class 1,Low,Moderate,Moderate,Traditional ITS Queue Warning
+Vehicle Characteristics,,,,,Traditional ITS Queue Warning
+Roadway Environment,Class 1,Not Applicable,Low,Low,Traditional ITS Queue Warning
+Driver,,,,,WAW Queue Warning
+Vehicle,Class 2,Moderate,Moderate,Moderate,WAW Queue Warning
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,WAW Queue Warning
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,WAW Queue Warning
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,WAW Queue Warning
+Traffic Operations Personnel,,,,,WAW Queue Warning
+Other Traffic Management Centers,Class 1,Low,Moderate,Moderate,WAW Queue Warning
+Vehicle Characteristics,,,,,WAW Queue Warning
+Roadway Environment,Class 1,Not Applicable,Low,Low,WAW Queue Warning
+Driver,,,,,C-ITS Queue Warning
+Vehicle,Class 3,Low,High,Moderate,C-ITS Queue Warning
+Other Vehicles,Class 3,Low,High,Moderate,C-ITS Queue Warning
+Traffic Management Center,Class 3,Moderate,High,Moderate,C-ITS Queue Warning
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Queue Warning
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Queue Warning
+Transportation Information Center,Class 1,Low,Low,Moderate,C-ITS Queue Warning
+Traffic Operations Personnel,,,,,C-ITS Queue Warning
+Other Traffic Management Centers,Class 1,Low,Moderate,Moderate,C-ITS Queue Warning
+Basic Vehicle,,,,,C-ITS Queue Warning
+Vehicle Characteristics,,,,,C-ITS Queue Warning
+Roadway Environment,Class 1,Not Applicable,Low,Low,C-ITS Queue Warning
+Driver,,,,,Traditional Reduced Speed Warning
+Traffic Management Center,Class 3,Moderate,High,Moderate,Traditional Reduced Speed Warning
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Traditional Reduced Speed Warning
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traditional Reduced Speed Warning
+Vehicle Characteristics,,,,,Traditional Reduced Speed Warning
+Driver,,,,,WAW Reduced Speed Warning
+Vehicle,Class 1,Low,Low,Moderate,WAW Reduced Speed Warning
+Traffic Management Center,Class 3,Moderate,High,Moderate,WAW Reduced Speed Warning
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,WAW Reduced Speed Warning
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,WAW Reduced Speed Warning
+Transportation Information Center,Class 1,Low,Moderate,Moderate,WAW Reduced Speed Warning
+Basic Vehicle,,,,,WAW Reduced Speed Warning
+Vehicle Characteristics,,,,,WAW Reduced Speed Warning
+Driver,,,,,C-ITS Reduced Speed Warning
+Vehicle,Class 1,Low,Moderate,Moderate,C-ITS Reduced Speed Warning
+Traffic Management Center,Class 3,Moderate,High,Moderate,C-ITS Reduced Speed Warning
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,C-ITS Reduced Speed Warning
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Reduced Speed Warning
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Reduced Speed Warning
+Basic Vehicle,,,,,C-ITS Reduced Speed Warning
+Vehicle Characteristics,,,,,C-ITS Reduced Speed Warning
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Environmental Sensor Stations
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Environmental Sensor Stations
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Environmental Sensor Stations
+Transportation Information Center,Class 3,Low,High,Moderate,Environmental Sensor Stations
+Traffic Operations Personnel,,,,,Environmental Sensor Stations
+Weather Service System,Class 1,Low,Moderate,Moderate,Environmental Sensor Stations
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Environmental Sensor Stations
+Maint and Constr Center Personnel,,,,,Environmental Sensor Stations
+Roadway Environment,Class 1,Not Applicable,Low,Low,Environmental Sensor Stations
+Traffic Management Center,Class 1,Low,Moderate,Moderate,Maint and Constr Vehicle Reported
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Maint and Constr Vehicle Reported
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Maint and Constr Vehicle Reported
+Transportation Information Center,Class 3,Low,High,Moderate,Maint and Constr Vehicle Reported
+Traffic Operations Personnel,,,,,Maint and Constr Vehicle Reported
+Weather Service System,Class 1,Low,Moderate,Moderate,Maint and Constr Vehicle Reported
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Maint and Constr Vehicle Reported
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Maint and Constr Vehicle Reported
+Maint and Constr Center Personnel,,,,,Maint and Constr Vehicle Reported
+Roadway Environment,Class 1,Not Applicable,Low,Low,Maint and Constr Vehicle Reported
+Vehicle,Class 1,Low,Moderate,Moderate,C-ITS Vehicle Reported
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,C-ITS Vehicle Reported
+Maint and Constr Management Center,Class 1,Low,Moderate,Moderate,C-ITS Vehicle Reported
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Vehicle Reported
+Transportation Information Center,Class 3,Low,High,Moderate,C-ITS Vehicle Reported
+Traffic Operations Personnel,,,,,C-ITS Vehicle Reported
+Weather Service System,Class 1,Low,Moderate,Moderate,C-ITS Vehicle Reported
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,C-ITS Vehicle Reported
+Maint and Constr Center Personnel,,,,,C-ITS Vehicle Reported
+Roadway Environment,Class 1,Not Applicable,Low,Low,C-ITS Vehicle Reported
+Driver,,,,,Vulnerable Road User Device Transition Support
+Vehicle,Class 3,Low,High,Moderate,Vulnerable Road User Device Transition Support
+Traveler,,,,,Vulnerable Road User Device Transition Support
+Personal,Class 3,Low,High,Moderate,Vulnerable Road User Device Transition Support
+Transportation Information Center,Class 2,Moderate,Moderate,Low,Vulnerable Road User Clustering
+Personal Information Device,Class 3,Moderate,High,Moderate,Vulnerable Road User Clustering
+Pedestrian,,,,,Vulnerable Road User Clustering
+MMV User,,,,,Vulnerable Road User Clustering
+Other PIDs,Class 3,Low,High,Moderate,Vulnerable Road User Clustering
+Micromobility Vehicle OBE,Class 3,Moderate,High,Moderate,Vulnerable Road User Clustering
+Other Micromobility Vehicle OBEs,Class 3,Low,High,Moderate,Vulnerable Road User Clustering
+Maint and Constr Management Center,Class 5,Low,High,High,Personal Wayfinding
+Transportation Information Center,Class 5,Moderate,Moderate,High,Personal Wayfinding
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Personal Wayfinding
+Transit Management Center,Class 1,Low,Moderate,Moderate,Personal Wayfinding
+Alternate Mode Transportation Center,Class 1,Low,Moderate,Low,Personal Wayfinding
+TIC Operator,,,,,Personal Wayfinding
+Traveler,,,,,Personal Wayfinding
+Traveler Support Equipment,Class 2,Moderate,Moderate,Moderate,Personal Wayfinding
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,Personal Wayfinding
+MMV User,,,,,Personal Wayfinding
+Micromobility Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Personal Wayfinding
+Personal Safety Device,Class 1,Low,Moderate,Moderate,Personal Wayfinding
+Pathway Equipment,Class 2,Moderate,Moderate,Moderate,Personal Wayfinding
+Pathway Communications Unit,Class 1,Not Applicable,Moderate,Low,Personal Wayfinding
+Traffic Management Center,Class 3,Moderate,High,Moderate,One-Way Convoy Driving
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,One-Way Convoy Driving
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,One-Way Convoy Driving
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,One-Way Convoy Driving
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,One-Way Convoy Driving
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,One-Way Convoy Driving
+Other MCV OBEs,Class 1,Low,Moderate,Low,One-Way Convoy Driving
+Maint and Constr Vehicle Operator,,,,,One-Way Convoy Driving
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,One-Way Convoy Driving
+Light Vehicle Driver,,,,,One-Way Convoy Driving
+Personal Information Device,Class 5,High,High,High,Account-based
+Transit Management Center,Class 4,High,High,Moderate,Account-based
+Transit Vehicle OBE,Class 5,Moderate,Moderate,High,Account-based
+Financial Center,Class 2,Moderate,Moderate,Moderate,Account-based
+Payment Administration Center,Class 5,High,High,High,Account-based
+ITS Roadway Payment Equipment,Class 5,Moderate,Moderate,High,Account-based
+Payment Device,Class 5,Moderate,Moderate,High,Account-based
+Other Payment Administration Centers,Class 3,Moderate,High,Moderate,Account-based
+Parking Area Equipment,Class 5,Moderate,Moderate,High,Account-based
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Account-based
+Parking Management Center,Class 4,High,High,Moderate,Account-based
+Shared Use Transportation Center,Class 2,Moderate,Moderate,Moderate,Account-based
+Eligibility Certification Management System,Class 2,Moderate,Moderate,Moderate,Account-based
+Light Vehicle OBE,Class 5,High,High,High,Account-based
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Card-based
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Card-based
+Transit Vehicle OBE,Class 5,Moderate,Moderate,High,Card-based
+Financial Center,Class 2,Moderate,Moderate,Moderate,Card-based
+Payment Administration Center,Class 3,Moderate,High,Moderate,Card-based
+ITS Roadway Payment Equipment,Class 5,Moderate,Moderate,High,Card-based
+Payment Device,Class 5,Moderate,Moderate,High,Card-based
+Other Payment Administration Centers,Class 3,Moderate,High,Moderate,Card-based
+Parking Area Equipment,Class 5,Moderate,Moderate,High,Card-based
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Card-based
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Card-based
+Shared Use Transportation Center,Class 2,Moderate,Moderate,Moderate,Card-based
+Eligibility Certification Management System,Class 2,Moderate,Moderate,Moderate,Card-based
+Light Vehicle OBE,Class 5,Moderate,Moderate,High,Card-based
+Personal Information Device,Class 5,High,High,High,"Account-based, personal transport and shared use"
+Financial Center,Class 2,Moderate,Moderate,Moderate,"Account-based, personal transport and shared use"
+Payment Administration Center,Class 5,High,High,High,"Account-based, personal transport and shared use"
+ITS Roadway Payment Equipment,Class 5,Moderate,Moderate,High,"Account-based, personal transport and shared use"
+Payment Device,Class 5,Moderate,Moderate,High,"Account-based, personal transport and shared use"
+Other Payment Administration Centers,Class 3,Moderate,High,Moderate,"Account-based, personal transport and shared use"
+Parking Area Equipment,Class 5,Moderate,Moderate,High,"Account-based, personal transport and shared use"
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,"Account-based, personal transport and shared use"
+Parking Management Center,Class 4,High,High,Moderate,"Account-based, personal transport and shared use"
+Shared Use Transportation Center,Class 2,Moderate,Moderate,Moderate,"Account-based, personal transport and shared use"
+Eligibility Certification Management System,Class 2,Moderate,Moderate,Moderate,"Account-based, personal transport and shared use"
+Light Vehicle OBE,Class 5,High,High,High,"Account-based, personal transport and shared use"
+Personal Information Device,Class 5,High,High,High,Account-based with all modes
+Transit Management Center,Class 4,High,High,Moderate,Account-based with all modes
+Transit Vehicle OBE,Class 5,Moderate,Moderate,High,Account-based with all modes
+Financial Center,Class 2,Moderate,Moderate,Moderate,Account-based with all modes
+Payment Administration Center,Class 5,High,High,High,Account-based with all modes
+ITS Roadway Payment Equipment,Class 5,Moderate,Moderate,High,Account-based with all modes
+Payment Device,Class 5,Moderate,Moderate,High,Account-based with all modes
+Other Payment Administration Centers,Class 3,Moderate,High,Moderate,Account-based with all modes
+Parking Area Equipment,Class 5,Moderate,Moderate,High,Account-based with all modes
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Account-based with all modes
+Parking Management Center,Class 4,High,High,Moderate,Account-based with all modes
+Shared Use Transportation Center,Class 2,Moderate,Moderate,Moderate,Account-based with all modes
+Eligibility Certification Management System,Class 2,Moderate,Moderate,Moderate,Account-based with all modes
+Light Vehicle OBE,Class 5,High,High,High,Account-based with all modes
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Pay-as-you-go
+Personal Information Device,Class 4,High,High,Moderate,Pay-as-you-go
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Pay-as-you-go
+Transit Vehicle OBE,Class 5,Moderate,Moderate,High,Pay-as-you-go
+Financial Center,Class 2,Moderate,Moderate,Moderate,Pay-as-you-go
+Payment Administration Center,Class 4,High,High,Moderate,Pay-as-you-go
+ITS Roadway Payment Equipment,Class 5,Moderate,Moderate,High,Pay-as-you-go
+Payment Device,Class 5,Moderate,Moderate,High,Pay-as-you-go
+Other Payment Administration Centers,Class 3,Moderate,High,Moderate,Pay-as-you-go
+Parking Area Equipment,Class 5,Moderate,Moderate,High,Pay-as-you-go
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Pay-as-you-go
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Pay-as-you-go
+Shared Use Transportation Center,Class 2,Moderate,Moderate,Moderate,Pay-as-you-go
+Eligibility Certification Management System,Class 2,Moderate,Moderate,Moderate,Pay-as-you-go
+Light Vehicle OBE,Class 5,Moderate,Moderate,High,Pay-as-you-go
+Driver,,,,,Maneuver Coordination
+Vehicle,Class 3,Low,High,Moderate,Maneuver Coordination
+Other Vehicles,Class 3,Low,High,Moderate,Maneuver Coordination
+Emergency Vehicle OBE,Class 3,Low,High,Low,Maneuver Coordination
+Basic Vehicle,,,,,Maneuver Coordination
+Vehicle Characteristics,,,,,Maneuver Coordination
+Potential Obstacles,,,,,Maneuver Coordination
+Vulnerable Road Users,,,,,Maneuver Coordination

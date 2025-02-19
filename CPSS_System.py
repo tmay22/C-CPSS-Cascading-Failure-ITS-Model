@@ -15,9 +15,20 @@ class CPSS_forGraph:
         self.isSeed = isSeed
         self.isConsequence = isConsequence
 
+class ciaTriad:
+
+    # Confidentiality, Availability, Integrity
+    # Security class as per ARC-IT v 9.3
+
+    def __init__(self, inputConfidentiality,  inputIntegrity, inputAvaliability, inputClass):
+        self.confidentiality = inputConfidentiality
+        self.integrity = inputIntegrity
+        self.availability = inputAvaliability
+        self.securityClass = inputClass
 
 class systemNode:
     # A systemNode is a node that has inputs, processes and outputs
+    # it can be a physical, social, cyber or "functional" node
 
     # Vars:
     # id: Identifier for object
@@ -29,13 +40,11 @@ class systemNode:
     # affectedByDict : list of all the system objects that this system is effected by consequence
     # reachability : percentage of nodes in network that can be reached by this node
     # degree: amount of connections out
-    # confidentiality: string score
-    # integrity: string score
-    # availability: string score
-    # securityClass: security device class value 1-5
+    # securityDict: security dictionary of serviceName and CIA triad score
+    # functions = string of functions if any
 
 
-    # Initialise object
+    # Initialise object #NEED TO INPUT ITS DATABASE TYPE
     def __init__(self, inputName, inputCyber, inputPhysical, inputSocial):
         self.id = uuid4()
         self.sysName = inputName
@@ -46,10 +55,9 @@ class systemNode:
         self.affectedByDict = {}
         self.degree = 0
         self.reachability = 0
-        self.confidentiality="unknown"
-        self.integrity="unknown"
-        self.availability="unknown"
-        self.securityClass="unknown"
+        self.securityDict = {}
+        self.functions = "empty"
+
 
     
     # add an affector
@@ -91,6 +99,20 @@ class systemNode:
         else:
             breakpoint  
 
+class informationFlow:
+    # Object that describes the flow of information
+
+    # flowName: name of the information flow
+    # securityDict = dictionary of serviceName and CIA triad score
+    # useFips = T/F FIPS standards
+
+    def __init__(self, inputFlowName, inputSrcObj, inputDestObj):
+        self.flowName = inputFlowName
+        self.securityTriad = "empty"
+        self.canAuthenticate = False
+        self.useFips = False
+        self.srcObj = inputSrcObj
+        self.destObj = inputDestObj
 
 class CPSS_forGraph:
     

@@ -7,8 +7,11 @@ import csv
 def buildFromPath(path):
 
     # Set sub-paths for nodes and realtionships csvs
-    nodePath = path+"SystemNodes.csv"
-    nodeAffectors = path+"SystemAffectors.csv"
+    nodePath = path+"Physical_Nodes.csv"
+    nodeSecurity = path + "Physical_Security.csv"
+    nodeFlows = path+"InformationFlow_Triples.csv"
+    flowSecurity = path + "InformationFlow_SecurityDetails.csv"
+
 
     # Create System Nodes
     with open(nodePath) as nodeFile:
@@ -28,6 +31,7 @@ def buildFromPath(path):
                 newCyber = row[1]
                 newPhysical = row[2]
                 newSocial = row[3]
+                newFunctions = row[4]
 
                 # Check if name already exists
                 if newName not in Globals.systemList:
@@ -40,6 +44,7 @@ def buildFromPath(path):
                         social = True
                     # Make Obj
                     sysObj = CPSS_System.systemNode(name,cyber,physical,social)
+                    sysObj.functions = newFunctions
                     # Add to Globals
                     Globals.systemList[name] = sysObj      
             lineCount = lineCount+1
@@ -48,25 +53,63 @@ def buildFromPath(path):
     del csv_reader
     del nodeFile
 
+    # Physical security assignment
+
+    with open(nodeSecurity) as nodeSecurityFile:
+        lineCount = 0
+        csv_reader = csv.reader(nodeSecurityFile, delimiter=',')
+
+        for row in csv_reader:
+            # Set defaults
+            nodeName = "unknown"
+            securityClass = "unknown"
+            confidentiality = "unknown"
+            integrity = "unknown"
+            availability = "unknown"
+            servicePackage = "unknown"
+
+            # Get data from row if not title row
+            if lineCount !=0:
+                newNodeName = row[0]
+                newSecurityClass = row[1]
+                newConfidentiality = row[2]
+                newIntegrity = row[3]
+                newAvailability = row[4]
+                newServicePackage = row[5]
+
+                # Check if name exists, add to object's security dict
+                if newNodeName in Globals.systemList:
+                    currentSystemObj = Globals.systemList[newNodeName]
+                    currentDict = currentSystemObj.securityDict
+                    newCIA = CPSS_System.ciaTriad(newConfidentiality, newIntegrity, newAvailability, newSecurityClass)      
+                    currentDict[newServicePackage]=newCIA
+            lineCount = lineCount+1
+    # Cleanup
+
+    del csv_reader
+    del nodeSecurityFile
+
+
+
     # Create System Relationships
 
-    with open(nodeAffectors) as relationFile:
+    with open(nodeFlows) as relationFile:
         lineCount = 0
         csv_reader = csv.reader(relationFile, delimiter=',')
 
         for row in csv_reader:
             # set defaults
             sourceNode="default"
+            infoFlow = "default"
             destNode = "default"
 
             
             # Get data from row if not title row
             if lineCount !=0:
                 sourceInput = row[0]
-                destInput = row[1]
-                criticalityInput = row[2]
+                flowInput = row[1]
+                destInput = row[2]
 
-                criticalityInput = int(criticalityInput)
                 checkSrc = False
                 checkDst = False
                 # Check if name existts
@@ -85,12 +128,64 @@ def buildFromPath(path):
                     dstObj = Globals.systemList[destNode]
                     srcObj = Globals.systemList[sourceNode]
 
-                    srcObj.addAffector(dstObj, criticalityInput)
+                    srcObj.addAffector(dstObj, 100)
                     srcObj.addDegree()
-                    dstObj.addAffectedBy(srcObj, criticalityInput)
+                    dstObj.addAffectedBy(srcObj, 100)
                     
-                    print("Conclusion")
+                    # Create new information flow in Globals
+                    newFlow = CPSS_System.informationFlow(flowInput, srcObj, dstObj)
+                    Globals.informationFlowList[flowInput] = newFlow
+                    
             lineCount = lineCount + 1
+
+    del csv_reader
+    del relationFile
+
+
+
+    # Create Flow Security
+
+    with open(flowSecurity) as flowSecurityFile:
+        lineCount = 0
+        csv_reader = csv.reader(flowSecurityFile, delimiter=',')
+
+        for row in csv_reader:
+            # set defaults
+            infoFlow = "default"
+            confidentiality = "unknown"
+            integrity = "unknown"
+            availability = "unknown"
+            fips = False
+
+            
+            # Get data from row if not title row
+            if lineCount !=0:
+                flowInput = row[0]
+                confidentialityInput = row[1]
+                integrityInput = row[2]
+                availabilityInput = row[3]
+                fipsInput = row[4]
+
+                checkSrc = False
+                # Check if name existts
+                if flowInput in Globals.informationFlowList:
+                    checkSrc = True
+
+                # If flow exists
+                if checkSrc :
+                    # Set booleans
+                    if "TRUE" in fipsInput:
+                        fipsInput = True
+                    else:
+                        fipsInput = False
+                    
+                    cia = CPSS_System.ciaTriad(confidentialityInput,integrityInput, availabilityInput, "unassigned")
+                    flowObj = Globals.informationFlowList[flowInput]
+                    flowObj.securityTriad = cia
+                    flowObj.useFips = fipsInput
+            
+            lineCount = lineCount + 1
+
 
 
     # Setup Graph
