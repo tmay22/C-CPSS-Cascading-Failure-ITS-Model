@@ -211,6 +211,7 @@ def buildFromPath(path):
     # Setup Graph
 
     Graph.setupGraph()
+    Graph.setupGraph_noSocial()
 
     
 

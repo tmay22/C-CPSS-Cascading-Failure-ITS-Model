@@ -15,12 +15,12 @@ def mainMenu():
             print("----------------------------------------")
             print("What would you like to do?")
             print("----------------------------------------")
-            print("(1) See consequence of Outage and Cascading Failure data (Nil Criticality)")
-            print(" TODO #(2) See consequence of Outage and Cascading Failure data (With Criticality)")
+            print("(1) Calculate Cascading Failure Data (Nil Criticality)")
+            print("(2) Calculate and Compare Cascading Failure Data Including and Excluding Social-Only Nodes (Nil-Criticality)")
             print("(3) Print system key data")
             print("(4) Graph output of whole system")
-            print("(5) Sort nodes by highest Cyber reachability (Physical ITS Architecture Layer)")
-            print("# TODO (6) Compare CPS and CPSS Consequence Simulations")
+            print("(5) Sort Nodes by Highest Cyber Reachability (Physical ITS Architecture Layer)")
+            print("(6) Sort Nodes by Biggest Impact to Reachability that Social Nodes Have")
             print("(B) Back ")
             queryData= input("Choose Option: ")
             print("You Selected " + queryData)
@@ -28,13 +28,15 @@ def mainMenu():
             if queryData == "1":
                 menu_1_ConsequenceData()
             elif queryData == "2":
-                menu_2_EMPTY()
+                menu_2_SocialVsNonSocial()
             elif queryData == "3":
                 menu_3_SystemKeyData()
             elif queryData == "4":
                 menu_4_GraphGlobalNetwork()
             elif queryData == "5":
                 menu_5_SortCyberReachability()
+            elif queryData == "6":
+                menu_6_SortCyberSocialReachabilityDiff()
             elif queryData == "B" or queryData == "b":
                 return 
             else:
@@ -102,11 +104,66 @@ def menu_1_ConsequenceData():
     
 
 # EMPTY
-def menu_2_EMPTY():
+def menu_2_SocialVsNonSocial():
     print("----------------------------------------")
-    print("Text")
+    print("Compare Consequences Including and Excluding Social-Only Nodes (Nil-Criticality)")
     print("----------------------------------------")
+    # Collect inputs
+    node=input("Give System Name for query: ")
+    print("Your input: " + node)
+    number= input("Give Number of Orders of Consequence: ")
+    print("You input: " + number)
+    # Data check
+    # Later?
+    print("----------------------------------------")
+    # Convert input string to integer
+    number=int(number)
+
+    # Calculate consequences for Social
+    myNode = Globals.systemList[node]
+    consequences = myNode.queryConsequences(number,0)
+
+    # RECURSION IS BUGGY AND NOT WORKING STILL
+    consequencePrint = []
+    consequenceList = []
+    for counter in consequences:
+        consequencePrint.append(counter)
+        currentLevel = consequences[counter]
+        for pair in currentLevel:
+            if pair:
+                consequencePrint.append(pair.sysName)
+                consequenceList.append(pair.sysName)
+
+
+    # Calculate consequences for non-Social
+    myNode = Globals.systemList[node]
+    noSocialConsequences = myNode.queryConsequences_noSocial(number,0)
+
+    # RECURSION IS BUGGY AND NOT WORKING STILL
+    noSocialConsequencePrint = []
+    noSocialConsequenceList = []
+    for counter in noSocialConsequences:
+        noSocialConsequencePrint.append(counter)
+        currentLevel = noSocialConsequences[counter]
+        for pair in currentLevel:
+            if pair:
+                noSocialConsequencePrint.append(pair.sysName)
+                noSocialConsequenceList.append(pair.sysName)
+
+    # Calculate graph consequence permeation
+    numCons = len(consequenceList)
+    numNoSocialCons = len(noSocialConsequenceList)
+    numNodes = len(Globals.systemList)
+
+    percCons = numCons/numNodes
+    percNoSocialCons = numNoSocialCons/numNodes
+    percDiff = percCons-percNoSocialCons
+    print(f'Consequences (including Social nodes) of an outage at node {node} will effect {percCons} of total system \n{consequencePrint}\n \n')
+    print(f'\nConsequences (including Social nodes) of an outage at node {node} will effect {percNoSocialCons} of total system \n {noSocialConsequencePrint}\n')
+    print(f'Difference in graph consequence permeation of {percDiff}')
+    
  
+
 
 # See system jey data
 def menu_3_SystemKeyData():
@@ -180,5 +237,36 @@ def menu_5_SortCyberReachability():
 
     # Print output
     print(f'Cyber nodes with the highest reachability: {valDict_sort}\n')
+    print("----------------------------------------")
+
+def menu_6_SortCyberSocialReachabilityDiff():
+    print("----------------------------------------")
+    print("Sort Nodes by Biggest Impact to Reachability that Social Nodes Have")
+    print("----------------------------------------")
+    
+    valDict = {}
+
+    for keyEntry in Globals.systemList:
+        currentObj = Globals.systemList[keyEntry]
+        if currentObj.isCyber:
+            if "Physical" in currentObj.architectureLayer:
+                reachability = currentObj.reachability
+                noSocialR = currentObj.noSocialReachability
+                diffReachability = reachability-noSocialR
+                if diffReachability in valDict:
+                    valDict[diffReachability].append(currentObj.sysName)
+                else:
+                    valDict[diffReachability] = [currentObj.sysName]
+    
+    keys = list(valDict.keys())
+    keys.sort(reverse=True)
+    valDict_sort = {key: valDict[key] for key in keys}
+        
+
+    finalValDict = {}
+  
+
+    # Print output
+    print(f'Cyber nodes whose reachability impact changes the most with the inclusion of social nodes: {valDict_sort}\n')
     print("----------------------------------------")
   

@@ -1,0 +1,2151 @@
+﻿NodeName,SecurityClass,Confidentiality,Integrity,Availability,ServicePackage,ArchitectyreType
+Driver,,,,,Mayday Notification,Physical
+Vehicle,Class 3,Moderate,High,Moderate,Mayday Notification,Physical
+Other Vehicles,Class 3,Moderate,High,Moderate,Mayday Notification,Physical
+Personal Information Device,Class 3,Moderate,High,Moderate,Mayday Notification,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Low,Mayday Notification,Physical
+Emergency Management Center,Class 4,High,High,Moderate,Mayday Notification,Physical
+Other Emergency Management Centers,Class 4,High,High,Moderate,Mayday Notification,Physical
+Emergency System Operator,,,,,Mayday Notification,Physical
+Traveler,,,,,Mayday Notification,Physical
+Basic Vehicle,,,,,Mayday Notification,Physical
+Other PIDs,Class 3,Moderate,High,Moderate,Mayday Notification,Physical
+Traffic Management Center,Class 1,Not Applicable,Low,Low,Border Management Systems,Physical
+Connected Vehicle Roadside Equipment,Class 1,Low,Moderate,Moderate,Border Management Systems,Physical
+Transportation Information Center,Class 1,Low,Low,Low,Border Management Systems,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Border Management Systems,Physical
+Border Inspection Administration Center,Class 3,Moderate,High,Moderate,Border Management Systems,Physical
+Border Inspection System,Class 5,High,High,High,Border Management Systems,Physical
+Traveler Card,Class 5,High,Moderate,High,Border Management Systems,Physical
+Light Vehicle OBE,Class 5,High,High,High,Border Management Systems,Physical
+Light Vehicle Driver,,,,,Border Management Systems,Physical
+Driver,,,,,V2V Basic Safety,Physical
+Vehicle,Class 3,Low,High,Moderate,V2V Basic Safety,Physical
+Other Vehicles,Class 3,Low,High,Moderate,V2V Basic Safety,Physical
+Basic Vehicle,,,,,V2V Basic Safety,Physical
+Vehicle Characteristics,,,,,V2V Basic Safety,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,V2V Basic Safety,Physical
+Potential Obstacles,,,,,V2V Basic Safety,Physical
+Vulnerable Road Users,,,,,V2V Basic Safety,Physical
+Driver,,,,,Cooperative Adaptive Cruise Control,Physical
+Vehicle,Class 3,Low,High,Moderate,Cooperative Adaptive Cruise Control,Physical
+Other Vehicles,Class 3,Low,High,Moderate,Cooperative Adaptive Cruise Control,Physical
+Basic Vehicle,,,,,Cooperative Adaptive Cruise Control,Physical
+Vehicle Characteristics,,,,,Cooperative Adaptive Cruise Control,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Cooperative Adaptive Cruise Control,Physical
+Potential Obstacles,,,,,Cooperative Adaptive Cruise Control,Physical
+Vulnerable Road Users,,,,,Cooperative Adaptive Cruise Control,Physical
+Center,Class 5,High,High,High,Core Authorization,Physical
+Authorizing Center,Class 5,High,High,High,Core Authorization,Physical
+Cooperative ITS Credentials Management System,Class 4,High,High,Moderate,Core Authorization,Physical
+Other Authorizing Centers,Class 4,High,High,Moderate,Core Authorization,Physical
+ITS Object,Class 4,High,High,Moderate,Core Authorization,Physical
+Identifier Registry,Class 3,Low,High,Low,Core Authorization,Physical
+Other Identifier Registries,Class 3,Low,High,Low,Core Authorization,Physical
+Driver,,,,,Curve Speed Warning,Physical
+Vehicle,Class 1,Low,Moderate,Moderate,Curve Speed Warning,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Curve Speed Warning,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Curve Speed Warning,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Curve Speed Warning,Physical
+Basic Vehicle,,,,,Curve Speed Warning,Physical
+Vehicle Characteristics,,,,,Curve Speed Warning,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Curve Speed Warning,Physical
+Data Distribution System,Class 4,High,High,Moderate,Data Distribution,Physical
+Other Data Distribution Systems,Class 4,High,High,Moderate,Data Distribution,Physical
+Data Distribution System Operator,,,,,Data Distribution,Physical
+ITS Object,Class 4,High,High,Moderate,Data Distribution,Physical
+Transportation Information Center,Class 4,High,High,Moderate,Shared Use Mobility and Dynamic Ridesharing,Physical
+Personal Information Device,Class 5,High,High,High,Shared Use Mobility and Dynamic Ridesharing,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Shared Use Mobility and Dynamic Ridesharing,Physical
+TIC Operator,,,,,Shared Use Mobility and Dynamic Ridesharing,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Shared Use Mobility and Dynamic Ridesharing,Physical
+Payment Device,Class 5,Moderate,Moderate,High,Shared Use Mobility and Dynamic Ridesharing,Physical
+Traveler,,,,,Shared Use Mobility and Dynamic Ridesharing,Physical
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Shared Use Mobility and Dynamic Ridesharing,Physical
+Shared Use Transportation Center,Class 4,High,High,Moderate,Shared Use Mobility and Dynamic Ridesharing,Physical
+Micromobility Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Shared Use Mobility and Dynamic Ridesharing,Physical
+SUTC Operator,,,,,Shared Use Mobility and Dynamic Ridesharing,Physical
+Light Vehicle OBE,Class 4,High,High,Moderate,Shared Use Mobility and Dynamic Ridesharing,Physical
+Light Vehicle Driver,,,,,Shared Use Mobility and Dynamic Ridesharing,Physical
+Driver,,,,,Eco-Lanes Management,Physical
+Vehicle,Class 2,Moderate,Moderate,Moderate,Eco-Lanes Management,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Eco-Lanes Management,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Eco-Lanes Management,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Eco-Lanes Management,Physical
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Eco-Lanes Management,Physical
+Transit Management Center,Class 1,Low,Low,Moderate,Eco-Lanes Management,Physical
+Traffic Operations Personnel,,,,,Eco-Lanes Management,Physical
+Emissions Management Center,Class 2,Moderate,Moderate,Moderate,Eco-Lanes Management,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Eco-Lanes Management,Physical
+Other Traffic Management Centers,Class 1,Low,Moderate,Moderate,Eco-Lanes Management,Physical
+Vehicle Characteristics,,,,,Eco-Lanes Management,Physical
+Driver,,,,,Low Emissions Zone Management,Physical
+Vehicle,Class 2,Moderate,Moderate,Moderate,Low Emissions Zone Management,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Low Emissions Zone Management,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Low Emissions Zone Management,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Low Emissions Zone Management,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Low Emissions Zone Management,Physical
+Personal Information Device,Class 4,High,High,Moderate,Low Emissions Zone Management,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Low Emissions Zone Management,Physical
+Traffic Operations Personnel,,,,,Low Emissions Zone Management,Physical
+Emissions Management Center,Class 3,Moderate,High,Moderate,Low Emissions Zone Management,Physical
+Weather Service System,Class 1,Low,Moderate,Low,Low Emissions Zone Management,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Low Emissions Zone Management,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Low Emissions Zone Management,Physical
+Payment Administration Center,Class 5,High,High,High,Low Emissions Zone Management,Physical
+ITS Roadway Payment Equipment,Class 5,High,High,High,Low Emissions Zone Management,Physical
+Emissions Management Operator,,,,,Low Emissions Zone Management,Physical
+Event Promoter System,Class 3,Moderate,High,Moderate,Low Emissions Zone Management,Physical
+Payment Device,Class 5,Moderate,Moderate,High,Low Emissions Zone Management,Physical
+Payment Administrator,,,,,Low Emissions Zone Management,Physical
+DMV,Class 4,High,High,Moderate,Low Emissions Zone Management,Physical
+Other Payment Administration Centers,Class 3,Moderate,High,Moderate,Low Emissions Zone Management,Physical
+Vehicle Characteristics,,,,,Low Emissions Zone Management,Physical
+Light Vehicle OBE,Class 5,High,High,High,Low Emissions Zone Management,Physical
+Light Vehicle Driver,,,,,Low Emissions Zone Management,Physical
+Driver,,,,,Eco-Traffic Signal Timing,Physical
+Vehicle,Class 2,Moderate,Moderate,Moderate,Eco-Traffic Signal Timing,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Eco-Traffic Signal Timing,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Eco-Traffic Signal Timing,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Eco-Traffic Signal Timing,Physical
+Traffic Operations Personnel,,,,,Eco-Traffic Signal Timing,Physical
+Emissions Management Center,Class 2,Moderate,Moderate,Moderate,Eco-Traffic Signal Timing,Physical
+Pedestrian,,,,,Eco-Traffic Signal Timing,Physical
+MMV User,,,,,Eco-Traffic Signal Timing,Physical
+Vehicle Characteristics,,,,,Eco-Traffic Signal Timing,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Eco-Traffic Signal Timing,Physical
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Electric Charging Stations Management,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Electric Charging Stations Management,Physical
+Payment Administration Center,Class 2,Moderate,Moderate,Moderate,Electric Charging Stations Management,Physical
+Payment Device,Class 5,Moderate,Moderate,High,Electric Charging Stations Management,Physical
+Electric Charging Station,Class 5,Moderate,Moderate,High,Electric Charging Stations Management,Physical
+Basic Vehicle,,,,,Electric Charging Stations Management,Physical
+Electric Utility,Class 2,Moderate,Moderate,Moderate,Electric Charging Stations Management,Physical
+Light Vehicle OBE,Class 5,Moderate,Moderate,High,Electric Charging Stations Management,Physical
+Light Vehicle Driver,,,,,Electric Charging Stations Management,Physical
+Electric Charging Management Center,Class 2,Moderate,Moderate,Moderate,Electric Charging Stations Management,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Emergency Vehicle Preemption,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Emergency Vehicle Preemption,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Emergency Vehicle Preemption,Physical
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,Emergency Vehicle Preemption,Physical
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Emergency Vehicle Preemption,Physical
+Emergency Personnel,,,,,Emergency Vehicle Preemption,Physical
+Emergency Management Center,Class 3,Moderate,High,Moderate,Emergency Vehicle Preemption,Physical
+Driver,,,,,Special Vehicle Alert,Physical
+Vehicle,Class 1,Low,Low,Moderate,Special Vehicle Alert,Physical
+Commercial Vehicle OBE,Class 3,Not Applicable,High,Moderate,Special Vehicle Alert,Physical
+Transportation Information Center,Class 3,Moderate,High,Moderate,Special Vehicle Alert,Physical
+Commercial Vehicle Driver,,,,,Special Vehicle Alert,Physical
+Transit Vehicle Operator,,,,,Special Vehicle Alert,Physical
+Transit Vehicle OBE,Class 3,Not Applicable,High,Moderate,Special Vehicle Alert,Physical
+Maint and Constr Vehicle OBE,Class 3,Not Applicable,High,Moderate,Special Vehicle Alert,Physical
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Special Vehicle Alert,Physical
+Emergency Personnel,,,,,Special Vehicle Alert,Physical
+Emergency Management Center,Class 3,Moderate,High,Moderate,Special Vehicle Alert,Physical
+Other Transportation Information Centers,Class 3,Moderate,High,Moderate,Special Vehicle Alert,Physical
+Basic Vehicle,,,,,Special Vehicle Alert,Physical
+Maint and Constr Vehicle Operator,,,,,Special Vehicle Alert,Physical
+Vehicle Characteristics,,,,,Special Vehicle Alert,Physical
+Traffic Management Center,Class 1,Low,Moderate,Moderate,Freight-Specific Dynamic Travel Planning,Physical
+Maint and Constr Management Center,Class 5,Low,High,High,Freight-Specific Dynamic Travel Planning,Physical
+Intermodal Terminal,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning,Physical
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Freight-Specific Dynamic Travel Planning,Physical
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Freight-Specific Dynamic Travel Planning,Physical
+Transportation Information Center,Class 5,Moderate,Moderate,High,Freight-Specific Dynamic Travel Planning,Physical
+Intermodal Customer System,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning,Physical
+Freight Distribution and Logistics Center,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning,Physical
+Freight Consolidation Station,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,Freight-Specific Dynamic Travel Planning,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning,Physical
+Payment Administration Center,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning,Physical
+Emergency Management Center,Class 1,Low,Moderate,Moderate,Freight-Specific Dynamic Travel Planning,Physical
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning,Physical
+Commercial Vehicle Administration Center,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Freight-Specific Dynamic Travel Planning,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Freight Signal Priority,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Freight Signal Priority,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Freight Signal Priority,Physical
+Intermodal Terminal,Class 2,Moderate,Moderate,Moderate,Freight Signal Priority,Physical
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Freight Signal Priority,Physical
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Freight Signal Priority,Physical
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,Freight Signal Priority,Physical
+Commercial Vehicle Driver,,,,,Freight Signal Priority,Physical
+Basic Commercial Vehicle,,,,,Freight Signal Priority,Physical
+Driver,,,,,Intermittent Bus Lanes,Physical
+Vehicle,Class 3,Moderate,High,Moderate,Intermittent Bus Lanes,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Intermittent Bus Lanes,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Intermittent Bus Lanes,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Intermittent Bus Lanes,Physical
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Intermittent Bus Lanes,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Intermittent Bus Lanes,Physical
+Transit Vehicle Operator,,,,,Intermittent Bus Lanes,Physical
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Intermittent Bus Lanes,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Intermittent Bus Lanes,Physical
+Basic Vehicle,,,,,Intermittent Bus Lanes,Physical
+Vehicle Characteristics,,,,,Intermittent Bus Lanes,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Integrated Multi-Modal Electronic Payment,Physical
+Personal Information Device,Class 5,High,High,High,Integrated Multi-Modal Electronic Payment,Physical
+Transit Management Center,Class 4,High,High,Moderate,Integrated Multi-Modal Electronic Payment,Physical
+Transit Vehicle OBE,Class 5,Moderate,Moderate,High,Integrated Multi-Modal Electronic Payment,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Integrated Multi-Modal Electronic Payment,Physical
+Payment Administration Center,Class 5,High,High,High,Integrated Multi-Modal Electronic Payment,Physical
+ITS Roadway Payment Equipment,Class 5,Moderate,Moderate,High,Integrated Multi-Modal Electronic Payment,Physical
+Payment Device,Class 5,Moderate,Moderate,High,Integrated Multi-Modal Electronic Payment,Physical
+Other Payment Administration Centers,Class 3,Moderate,High,Moderate,Integrated Multi-Modal Electronic Payment,Physical
+Parking Area Equipment,Class 5,Moderate,Moderate,High,Integrated Multi-Modal Electronic Payment,Physical
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Integrated Multi-Modal Electronic Payment,Physical
+Parking Management Center,Class 4,High,High,Moderate,Integrated Multi-Modal Electronic Payment,Physical
+Shared Use Transportation Center,Class 2,Moderate,Moderate,Moderate,Integrated Multi-Modal Electronic Payment,Physical
+Eligibility Certification Management System,Class 2,Moderate,Moderate,Moderate,Integrated Multi-Modal Electronic Payment,Physical
+Light Vehicle OBE,Class 5,High,High,High,Integrated Multi-Modal Electronic Payment,Physical
+Driver,,,,,Incident Scene Safety Monitoring,Physical
+Vehicle,Class 3,Low,High,Moderate,Incident Scene Safety Monitoring,Physical
+Traffic Management Center,Class 4,High,High,Moderate,Incident Scene Safety Monitoring,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Incident Scene Safety Monitoring,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Incident Scene Safety Monitoring,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Incident Scene Safety Monitoring,Physical
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Incident Scene Safety Monitoring,Physical
+Emergency Personnel,Class 1,Not Applicable,Moderate,Low,Incident Scene Safety Monitoring,Physical
+Emergency Management Center,Class 4,High,High,Moderate,Incident Scene Safety Monitoring,Physical
+Other EV OBEs,Class 2,Moderate,Moderate,Moderate,Incident Scene Safety Monitoring,Physical
+Basic Emergency Vehicle,,,,,Incident Scene Safety Monitoring,Physical
+Basic Vehicle,,,,,Incident Scene Safety Monitoring,Physical
+Personnel Device,Class 3,Not Applicable,High,Moderate,Incident Scene Safety Monitoring,Physical
+Vehicle Characteristics,,,,,Incident Scene Safety Monitoring,Physical
+Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Emergency Personnel,,,,,Emergency Response,Physical
+Emergency Management Center,Class 5,High,High,High,Emergency Response,Physical
+Other Emergency Management Centers,Class 2,Moderate,Moderate,Moderate,Emergency Response,Physical
+Emergency System Operator,,,,,Emergency Response,Physical
+Other EV OBEs,Class 2,Moderate,Moderate,Moderate,Emergency Response,Physical
+Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+Vehicle,Class 1,Low,Moderate,Moderate,Road Weather Information for Freight Carriers,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Road Weather Information for Freight Carriers,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Road Weather Information for Freight Carriers,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Road Weather Information for Freight Carriers,Physical
+Commercial Vehicle OBE,Class 1,Low,Moderate,Moderate,Road Weather Information for Freight Carriers,Physical
+Fleet and Freight Management Center,Class 3,Low,High,Moderate,Road Weather Information for Freight Carriers,Physical
+Transportation Information Center,Class 3,Low,High,Moderate,Road Weather Information for Freight Carriers,Physical
+Commercial Vehicle Driver,,,,,Road Weather Information for Freight Carriers,Physical
+Fleet-Freight Manager,,,,,Road Weather Information for Freight Carriers,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,Road Weather Information for Freight Carriers,Physical
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Road Weather Information for Freight Carriers,Physical
+Basic Commercial Vehicle,,,,,Road Weather Information for Freight Carriers,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Road Weather Information for Freight Carriers,Physical
+Driver,,,,,Connected Vehicle Traffic Signal System,Physical
+Vehicle,Class 2,Moderate,Moderate,Moderate,Connected Vehicle Traffic Signal System,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Connected Vehicle Traffic Signal System,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Connected Vehicle Traffic Signal System,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Connected Vehicle Traffic Signal System,Physical
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Connected Vehicle Traffic Signal System,Physical
+Traffic Operations Personnel,,,,,Connected Vehicle Traffic Signal System,Physical
+Pedestrian,,,,,Connected Vehicle Traffic Signal System,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Connected Vehicle Traffic Signal System,Physical
+MMV User,,,,,Connected Vehicle Traffic Signal System,Physical
+Vehicle Characteristics,,,,,Connected Vehicle Traffic Signal System,Physical
+Driver,,,,,Road Weather Motorist Alert and Warning,Physical
+Vehicle,Class 1,Low,Moderate,Moderate,Road Weather Motorist Alert and Warning,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Road Weather Motorist Alert and Warning,Physical
+Maint and Constr Management Center,Class 1,Low,Low,Moderate,Road Weather Motorist Alert and Warning,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Road Weather Motorist Alert and Warning,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Road Weather Motorist Alert and Warning,Physical
+Transportation Information Center,Class 3,Low,High,Moderate,Road Weather Motorist Alert and Warning,Physical
+Traffic Operations Personnel,,,,,Road Weather Motorist Alert and Warning,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,Road Weather Motorist Alert and Warning,Physical
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Road Weather Motorist Alert and Warning,Physical
+Basic Vehicle,,,,,Road Weather Motorist Alert and Warning,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Road Weather Motorist Alert and Warning,Physical
+Driver,,,,,Oversize Vehicle Warning,Physical
+Vehicle,Class 1,Low,Moderate,Moderate,Oversize Vehicle Warning,Physical
+Traffic Management Center,Class 5,Moderate,High,High,Oversize Vehicle Warning,Physical
+Maint and Constr Management Center,Class 5,Low,High,High,Oversize Vehicle Warning,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Oversize Vehicle Warning,Physical
+Connected Vehicle Roadside Equipment,Class 1,Low,Moderate,Moderate,Oversize Vehicle Warning,Physical
+Basic Vehicle,,,,,Oversize Vehicle Warning,Physical
+Vehicle Characteristics,,,,,Oversize Vehicle Warning,Physical
+Driver,,,,,Vulnerable Road User Safety,Physical
+Vehicle,Class 3,Low,High,Moderate,Vulnerable Road User Safety,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Vulnerable Road User Safety,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Vulnerable Road User Safety,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Vulnerable Road User Safety,Physical
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Vulnerable Road User Safety,Physical
+Personal Information Device,Class 3,Low,High,Moderate,Vulnerable Road User Safety,Physical
+Pedestrian,,,,,Vulnerable Road User Safety,Physical
+Basic Vehicle,,,,,Vulnerable Road User Safety,Physical
+MMV User,,,,,Vulnerable Road User Safety,Physical
+Vulnerable Road Users,,,,,Vulnerable Road User Safety,Physical
+Micromobility Vehicle OBE,Class 3,Low,High,Moderate,Vulnerable Road User Safety,Physical
+Driver,,,,,Queue Warning,Physical
+Vehicle,Class 3,Moderate,High,Moderate,Queue Warning,Physical
+Other Vehicles,Class 3,Low,High,Moderate,Queue Warning,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Queue Warning,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Queue Warning,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Queue Warning,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Queue Warning,Physical
+Traffic Operations Personnel,,,,,Queue Warning,Physical
+Other Traffic Management Centers,Class 1,Low,Moderate,Moderate,Queue Warning,Physical
+Basic Vehicle,,,,,Queue Warning,Physical
+Vehicle Characteristics,,,,,Queue Warning,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Queue Warning,Physical
+Driver,,,,,Advanced Railroad Grade Crossing,Physical
+Vehicle,Class 3,Low,High,Moderate,Advanced Railroad Grade Crossing,Physical
+Traffic Management Center,Class 5,Moderate,High,High,Advanced Railroad Grade Crossing,Physical
+ITS Roadway Equipment,Class 5,Moderate,High,High,Advanced Railroad Grade Crossing,Physical
+Connected Vehicle Roadside Equipment,Class 5,Moderate,High,High,Advanced Railroad Grade Crossing,Physical
+Personal Information Device,Class 5,Not Applicable,High,High,Advanced Railroad Grade Crossing,Physical
+Wayside Equipment,Class 5,Moderate,High,High,Advanced Railroad Grade Crossing,Physical
+Pedestrian,,,,,Advanced Railroad Grade Crossing,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Advanced Railroad Grade Crossing,Physical
+Rail Operations Center,Class 2,Moderate,Moderate,Moderate,Advanced Railroad Grade Crossing,Physical
+MMV User,,,,,Advanced Railroad Grade Crossing,Physical
+Traffic Management Center,Class 5,High,High,High,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders,Physical
+Maint and Constr Management Center,Class 5,Moderate,High,High,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders,Physical
+Freight Equipment,,,,,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders,Physical
+Commercial Vehicle OBE,Class 5,Moderate,High,High,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders,Physical
+Fleet and Freight Management Center,Class 5,High,High,High,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders,Physical
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders,Physical
+Emergency Vehicle OBE,Class 5,High,High,High,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders,Physical
+Emergency Personnel,,,,,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders,Physical
+DMV,Class 4,High,High,Moderate,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders,Physical
+Emergency Management Center,Class 5,High,High,High,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders,Physical
+Care Facility,Class 5,High,High,High,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders,Physical
+Other EV OBEs,Class 2,Moderate,Moderate,Moderate,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders,Physical
+Basic Emergency Vehicle,,,,,Incident Scene Pre-Arrival Staging Guidance for Emergency Responders,Physical
+Driver,,,,,Intersection Safety Warning and Collision Avoidance,Physical
+Vehicle,Class 3,Low,High,Moderate,Intersection Safety Warning and Collision Avoidance,Physical
+Other Vehicles,Class 3,Low,High,Moderate,Intersection Safety Warning and Collision Avoidance,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Intersection Safety Warning and Collision Avoidance,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Intersection Safety Warning and Collision Avoidance,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Intersection Safety Warning and Collision Avoidance,Physical
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Intersection Safety Warning and Collision Avoidance,Physical
+Basic Vehicle,,,,,Intersection Safety Warning and Collision Avoidance,Physical
+Vehicle Characteristics,,,,,Intersection Safety Warning and Collision Avoidance,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Intersection Safety Warning and Collision Avoidance,Physical
+Potential Obstacles,,,,,Intersection Safety Warning and Collision Avoidance,Physical
+Vulnerable Road Users,,,,,Intersection Safety Warning and Collision Avoidance,Physical
+Driver,,,,,Restricted Lane Warnings,Physical
+Vehicle,Class 1,Low,Moderate,Moderate,Restricted Lane Warnings,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Restricted Lane Warnings,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Restricted Lane Warnings,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Restricted Lane Warnings,Physical
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Restricted Lane Warnings,Physical
+Traffic Operations Personnel,,,,,Restricted Lane Warnings,Physical
+Basic Vehicle,,,,,Restricted Lane Warnings,Physical
+Driver,,,,,Reduced Speed Zone Warning / Lane Closure,Physical
+Vehicle,Class 1,Low,Moderate,Moderate,Reduced Speed Zone Warning / Lane Closure,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Reduced Speed Zone Warning / Lane Closure,Physical
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Reduced Speed Zone Warning / Lane Closure,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Reduced Speed Zone Warning / Lane Closure,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Reduced Speed Zone Warning / Lane Closure,Physical
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Reduced Speed Zone Warning / Lane Closure,Physical
+Basic Vehicle,,,,,Reduced Speed Zone Warning / Lane Closure,Physical
+Vehicle Characteristics,,,,,Reduced Speed Zone Warning / Lane Closure,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Route ID for the Visually Impaired,Physical
+Personal Information Device,Class 3,Moderate,High,Moderate,Route ID for the Visually Impaired,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Route ID for the Visually Impaired,Physical
+Transit Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Route ID for the Visually Impaired,Physical
+Traveler,,,,,Route ID for the Visually Impaired,Physical
+Traveler Support Equipment,Class 2,Moderate,Moderate,Moderate,Route ID for the Visually Impaired,Physical
+Driver,,,,,Situational Awareness,Physical
+Vehicle,Class 3,Low,High,Moderate,Situational Awareness,Physical
+Other Vehicles,Class 3,Low,High,Moderate,Situational Awareness,Physical
+ITS Roadway Equipment,Class 3,Not Applicable,High,Moderate,Situational Awareness,Physical
+Connected Vehicle Roadside Equipment,Class 3,Not Applicable,High,Moderate,Situational Awareness,Physical
+Basic Vehicle,,,,,Situational Awareness,Physical
+Other Connected Vehicle Roadside Equipment,Class 3,Not Applicable,High,Moderate,Situational Awareness,Physical
+Vehicle Characteristics,,,,,Situational Awareness,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Situational Awareness,Physical
+Potential Obstacles,,,,,Situational Awareness,Physical
+Vulnerable Road Users,,,,,Situational Awareness,Physical
+Cooperative ITS Credentials Management System,Class 5,High,High,High,Security and Credentials Management,Physical
+Credentials Management System Operator,,,,,Security and Credentials Management,Physical
+Other Credentials Management Systems,Class 5,High,High,High,Security and Credentials Management,Physical
+ITS Object,Class 5,High,High,High,Security and Credentials Management,Physical
+Identifier Registry,Class 3,Low,High,Low,Security and Credentials Management,Physical
+Driver,,,,,Eco-Approach and Departure at Signalized Intersections,Physical
+Vehicle,Class 3,Low,High,Moderate,Eco-Approach and Departure at Signalized Intersections,Physical
+Other Vehicles,Class 3,Not Applicable,High,Moderate,Eco-Approach and Departure at Signalized Intersections,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Eco-Approach and Departure at Signalized Intersections,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Eco-Approach and Departure at Signalized Intersections,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Eco-Approach and Departure at Signalized Intersections,Physical
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Eco-Approach and Departure at Signalized Intersections,Physical
+Driver,,,,,Speed Harmonization,Physical
+Vehicle,Class 1,Low,Moderate,Moderate,Speed Harmonization,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Speed Harmonization,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Speed Harmonization,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Speed Harmonization,Physical
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Speed Harmonization,Physical
+Traffic Operations Personnel,,,,,Speed Harmonization,Physical
+Vehicle Characteristics,,,,,Speed Harmonization,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Smart Park and Ride System,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Smart Park and Ride System,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Smart Park and Ride System,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Smart Park and Ride System,Physical
+Parking Area Equipment,Class 2,Moderate,Moderate,Moderate,Smart Park and Ride System,Physical
+Parking Operator,,,,,Smart Park and Ride System,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Smart Park and Ride System,Physical
+Parking Manager,,,,,Smart Park and Ride System,Physical
+Vehicle Characteristics,,,,,Smart Park and Ride System,Physical
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Smart Park and Ride System,Physical
+Light Vehicle Driver,,,,,Smart Park and Ride System,Physical
+Driver,,,,,Stop Sign Gap Assist,Physical
+Vehicle,Class 3,Low,High,Moderate,Stop Sign Gap Assist,Physical
+Other Vehicles,Class 3,Not Applicable,High,Moderate,Stop Sign Gap Assist,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Stop Sign Gap Assist,Physical
+ITS Roadway Equipment,Class 5,Moderate,High,High,Stop Sign Gap Assist,Physical
+Connected Vehicle Roadside Equipment,Class 5,Moderate,High,High,Stop Sign Gap Assist,Physical
+Basic Vehicle,,,,,Stop Sign Gap Assist,Physical
+Vehicle Characteristics,,,,,Stop Sign Gap Assist,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Stop Sign Gap Assist,Physical
+Vulnerable Road Users,,,,,Stop Sign Gap Assist,Physical
+Driver,,,,,Spot Weather Impact Warning,Physical
+Vehicle,Class 1,Low,Moderate,Moderate,Spot Weather Impact Warning,Physical
+Traffic Management Center,Class 5,Moderate,High,High,Spot Weather Impact Warning,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Spot Weather Impact Warning,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Spot Weather Impact Warning,Physical
+Transportation Information Center,Class 3,Moderate,High,Moderate,Spot Weather Impact Warning,Physical
+Personal Information Device,Class 1,Low,Low,Moderate,Spot Weather Impact Warning,Physical
+Traffic Operations Personnel,,,,,Spot Weather Impact Warning,Physical
+TIC Operator,,,,,Spot Weather Impact Warning,Physical
+Traveler,,,,,Spot Weather Impact Warning,Physical
+Alerting and Advisory System,Class 5,Moderate,High,High,Spot Weather Impact Warning,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Spot Weather Impact Warning,Physical
+Traffic Management Center,Class 1,Low,Moderate,Moderate,Transit Connection Protection,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Transit Connection Protection,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Transit Connection Protection,Physical
+Transit Vehicle Operator,,,,,Transit Connection Protection,Physical
+Transit Operations Personnel,,,,,Transit Connection Protection,Physical
+Transit Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Transit Connection Protection,Physical
+Alternate Mode Transportation Center,Class 2,Moderate,Moderate,Moderate,Transit Connection Protection,Physical
+Other Transit Management Centers,Class 2,Moderate,Moderate,Moderate,Transit Connection Protection,Physical
+Traveler Support Equipment,Class 2,Moderate,Moderate,Moderate,Transit Connection Protection,Physical
+Basic Transit Vehicle,,,,,Transit Connection Protection,Physical
+Traffic Management Center,Class 4,High,Moderate,Moderate,Dynamic Transit Operations,Physical
+Maint and Constr Management Center,Class 3,Low,High,Moderate,Dynamic Transit Operations,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Dynamic Transit Operations,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Dynamic Transit Operations,Physical
+Transit Management Center,Class 4,High,High,Moderate,Dynamic Transit Operations,Physical
+Transit Vehicle Operator,,,,,Dynamic Transit Operations,Physical
+Transit Operations Personnel,,,,,Dynamic Transit Operations,Physical
+Transit Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Dynamic Transit Operations,Physical
+Traveler,,,,,Dynamic Transit Operations,Physical
+Basic Transit Vehicle,,,,,Dynamic Transit Operations,Physical
+Personal Information Device,Class 3,Moderate,High,Moderate,Transit Pedestrian Indication,Physical
+Transit Vehicle Operator,,,,,Transit Pedestrian Indication,Physical
+Transit Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Transit Pedestrian Indication,Physical
+Traveler,,,,,Transit Pedestrian Indication,Physical
+Basic Transit Vehicle,,,,,Transit Pedestrian Indication,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Transit Signal Priority,Physical
+ITS Roadway Equipment,Class 5,Moderate,High,High,Transit Signal Priority,Physical
+Connected Vehicle Roadside Equipment,Class 5,Moderate,Moderate,High,Transit Signal Priority,Physical
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,Transit Signal Priority,Physical
+Transit Management Center,Class 1,Low,Moderate,Moderate,Transit Signal Priority,Physical
+Transit Vehicle Operator,,,,,Transit Signal Priority,Physical
+Transit Operations Personnel,,,,,Transit Signal Priority,Physical
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Transit Signal Priority,Physical
+Wayside Equipment,Class 5,Low,High,High,Transit Signal Priority,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Transit Signal Priority,Physical
+Connected Vehicle Roadside Equipment,Class 4,High,High,Moderate,Transit Stop Request,Physical
+Personal Information Device,Class 4,High,Moderate,Moderate,Transit Stop Request,Physical
+Transit Management Center,Class 4,High,High,Moderate,Transit Stop Request,Physical
+Transit Vehicle Operator,,,,,Transit Stop Request,Physical
+Transit Vehicle OBE,Class 4,High,High,Moderate,Transit Stop Request,Physical
+Traveler,,,,,Transit Stop Request,Physical
+Traveler Support Equipment,Class 4,High,Moderate,Moderate,Transit Stop Request,Physical
+Basic Transit Vehicle,,,,,Transit Stop Request,Physical
+Vehicle,,,,,Vehicle Turning Right in Front of a Transit Vehicle,Physical
+Transit Vehicle Operator,,,,,Vehicle Turning Right in Front of a Transit Vehicle,Physical
+Transit Vehicle OBE,,,,,Vehicle Turning Right in Front of a Transit Vehicle,Physical
+Basic Transit Vehicle,,,,,Vehicle Turning Right in Front of a Transit Vehicle,Physical
+Driver,,,,,Transit Vehicle at Station/Stop Warnings,Physical
+Vehicle,Class 1,Low,Low,Moderate,Transit Vehicle at Station/Stop Warnings,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Transit Vehicle at Station/Stop Warnings,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Transit Vehicle at Station/Stop Warnings,Physical
+Personal Information Device,Class 3,Not Applicable,High,Moderate,Transit Vehicle at Station/Stop Warnings,Physical
+Transit Management Center,Class 1,Low,Moderate,Moderate,Transit Vehicle at Station/Stop Warnings,Physical
+Transit Vehicle Operator,,,,,Transit Vehicle at Station/Stop Warnings,Physical
+Transit Vehicle OBE,Class 3,Low,High,Moderate,Transit Vehicle at Station/Stop Warnings,Physical
+Traveler,,,,,Transit Vehicle at Station/Stop Warnings,Physical
+Basic Transit Vehicle,,,,,Transit Vehicle at Station/Stop Warnings,Physical
+Basic Vehicle,,,,,Transit Vehicle at Station/Stop Warnings,Physical
+Vehicle,Class 2,Moderate,Moderate,Moderate,Vehicle-Based Traffic Surveillance,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Vehicle-Based Traffic Surveillance,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Vehicle-Based Traffic Surveillance,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Vehicle-Based Traffic Surveillance,Physical
+Transit Management Center,Class 1,Low,Moderate,Low,Vehicle-Based Traffic Surveillance,Physical
+Payment Administration Center,Class 1,Low,Moderate,Low,Vehicle-Based Traffic Surveillance,Physical
+Basic Vehicle,,,,,Vehicle-Based Traffic Surveillance,Physical
+Wireless Communications  Provider System,Class 1,Not Applicable,Moderate,Low,Vehicle-Based Traffic Surveillance,Physical
+Archived Data System,Class 5,High,High,High,Performance Monitoring,Physical
+Government Reporting Systems,Class 3,Low,High,Low,Performance Monitoring,Physical
+Archived Data User System,Class 4,High,High,Moderate,Performance Monitoring,Physical
+Other Archived Data Systems,Class 5,Moderate,High,High,Performance Monitoring,Physical
+Archived Data Administrator,,,,,Performance Monitoring,Physical
+Driver,,,,,Vehicle Emergency Response,Physical
+Vehicle,Class 3,Moderate,High,Moderate,Vehicle Emergency Response,Physical
+Freight Equipment,,,,,Vehicle Emergency Response,Physical
+Commercial Vehicle OBE,Class 5,Moderate,High,High,Vehicle Emergency Response,Physical
+Commercial Vehicle Driver,,,,,Vehicle Emergency Response,Physical
+Emergency Vehicle OBE,Class 5,Moderate,Moderate,High,Vehicle Emergency Response,Physical
+Emergency Personnel,,,,,Vehicle Emergency Response,Physical
+Basic Vehicle,,,,,Vehicle Emergency Response,Physical
+Driver,,,,,Work Zone Safety Monitoring,Physical
+Vehicle,Class 3,Low,High,Moderate,Work Zone Safety Monitoring,Physical
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Work Zone Safety Monitoring,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Work Zone Safety Monitoring,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Work Zone Safety Monitoring,Physical
+Maint and Constr Vehicle OBE,Class 3,Moderate,High,Moderate,Work Zone Safety Monitoring,Physical
+Maint and Constr Field Personnel,Class 1,Not Applicable,Moderate,Low,Work Zone Safety Monitoring,Physical
+Other MCV OBEs,Class 1,Not Applicable,Moderate,Moderate,Work Zone Safety Monitoring,Physical
+Basic Vehicle,,,,,Work Zone Safety Monitoring,Physical
+Personnel Device,Class 3,Not Applicable,High,Moderate,Work Zone Safety Monitoring,Physical
+Vehicle Characteristics,,,,,Work Zone Safety Monitoring,Physical
+Freight Equipment,Class 2,Moderate,Moderate,Moderate,Freight Drayage Optimization,Physical
+Intermodal Terminal,Class 2,Moderate,Moderate,Moderate,Freight Drayage Optimization,Physical
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Freight Drayage Optimization,Physical
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Freight Drayage Optimization,Physical
+Commercial Vehicle Driver,,,,,Freight Drayage Optimization,Physical
+Fleet-Freight Manager,,,,,Freight Drayage Optimization,Physical
+Intermodal Customer System,Class 2,Moderate,Moderate,Moderate,Freight Drayage Optimization,Physical
+Freight Distribution and Logistics Center,Class 2,Moderate,Moderate,Moderate,Freight Drayage Optimization,Physical
+Basic Commercial Vehicle,,,,,Freight Drayage Optimization,Physical
+Other Freight Distribution and Logistics Centers,Class 2,Moderate,Moderate,Moderate,Freight Drayage Optimization,Physical
+Driver,,,,,Eco-Traffic Metering,Physical
+Vehicle,Class 2,Moderate,Moderate,Moderate,Eco-Traffic Metering,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Eco-Traffic Metering,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Eco-Traffic Metering,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Eco-Traffic Metering,Physical
+Traffic Operations Personnel,,,,,Eco-Traffic Metering,Physical
+Emissions Management Center,Class 2,Moderate,Moderate,Moderate,Eco-Traffic Metering,Physical
+Vehicle Characteristics,,,,,Eco-Traffic Metering,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Eco-Traffic Metering,Physical
+Vehicle,Class 1,Low,Moderate,Moderate,Roadside Lighting,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Roadside Lighting,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Roadside Lighting,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Roadside Lighting,Physical
+Traffic Operations Personnel,,,,,Roadside Lighting,Physical
+Vehicle Characteristics,,,,,Roadside Lighting,Physical
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Connected Vehicle System Monitoring and Management,Physical
+Connected Vehicle Roadside Equipment,Class 5,High,High,High,Connected Vehicle System Monitoring and Management,Physical
+Maint and Constr Field Personnel,,,,,Connected Vehicle System Monitoring and Management,Physical
+Center,Class 4,High,High,Moderate,Connected Vehicle System Monitoring and Management,Physical
+Field Maintenance Equipment,Class 5,High,High,High,Connected Vehicle System Monitoring and Management,Physical
+Service Monitor System,Class 5,High,High,High,Connected Vehicle System Monitoring and Management,Physical
+Service Monitor System Operator,,,,,Connected Vehicle System Monitoring and Management,Physical
+Other Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Low,Connected Vehicle System Monitoring and Management,Physical
+ITS Object,Class 5,High,High,High,Connected Vehicle System Monitoring and Management,Physical
+Driver,,,,,Connected Eco-Driving,Physical
+Vehicle,Class 3,Not Applicable,High,Moderate,Connected Eco-Driving,Physical
+Other Vehicles,Class 3,Not Applicable,High,Moderate,Connected Eco-Driving,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Connected Eco-Driving,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Connected Eco-Driving,Physical
+Vehicle,Class 1,Not Applicable,Low,Moderate,Object Registration and Discovery,Physical
+Object Registration and Discovery System,Class 3,Low,High,Moderate,Object Registration and Discovery,Physical
+ORDS Operator,,,,,Object Registration and Discovery,Physical
+ITS Object,Class 3,Low,High,Moderate,Object Registration and Discovery,Physical
+Vehicle,Class 5,Moderate,Moderate,High,Location and Time,Physical
+Connected Vehicle Roadside Equipment,Class 5,Low,High,High,Location and Time,Physical
+Center,Class 5,Low,Low,High,Location and Time,Physical
+Data Distribution System,Class 1,Not Applicable,Low,Moderate,Location and Time,Physical
+Service Monitor System,Class 3,Not Applicable,High,Moderate,Location and Time,Physical
+Service Monitor System Operator,,,,,Location and Time,Physical
+Network Time Source,Class 3,Not Applicable,High,Moderate,Location and Time,Physical
+Location and Time Data Source,Class 5,Moderate,High,High,Location and Time,Physical
+Basic Vehicle,,,,,Location and Time,Physical
+Position Corrections Source,Class 5,Not Applicable,High,High,Location and Time,Physical
+Field,Class 5,Moderate,Moderate,High,Location and Time,Physical
+Personal,Class 5,Moderate,Moderate,High,Location and Time,Physical
+Traffic Management Center,Class 1,Low,Low,Low,Electronic Toll Collection,Physical
+Fleet and Freight Management Center,Class 2,Moderate,Moderate,Moderate,Electronic Toll Collection,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Electronic Toll Collection,Physical
+Personal Information Device,Class 4,High,High,Moderate,Electronic Toll Collection,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Electronic Toll Collection,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Electronic Toll Collection,Physical
+Payment Administration Center,Class 4,High,High,Moderate,Electronic Toll Collection,Physical
+ITS Roadway Payment Equipment,Class 5,Moderate,Moderate,High,Electronic Toll Collection,Physical
+Payment Device,Class 5,Moderate,Moderate,High,Electronic Toll Collection,Physical
+Payment Administrator,,,,,Electronic Toll Collection,Physical
+DMV,Class 4,High,High,Moderate,Electronic Toll Collection,Physical
+Other Payment Administration Centers,Class 2,Moderate,Moderate,Moderate,Electronic Toll Collection,Physical
+Light Vehicle OBE,Class 5,High,High,High,Electronic Toll Collection,Physical
+Light Vehicle Driver,,,,,Electronic Toll Collection,Physical
+Transportation Information Center,Class 5,Low,Low,High,Road Use Charging,Physical
+Personal Information Device,Class 5,High,High,High,Road Use Charging,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Road Use Charging,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Road Use Charging,Physical
+Payment Administration Center,Class 5,High,High,High,Road Use Charging,Physical
+ITS Roadway Payment Equipment,Class 5,High,High,High,Road Use Charging,Physical
+Payment Device,Class 5,Moderate,Moderate,High,Road Use Charging,Physical
+Payment Administrator,,,,,Road Use Charging,Physical
+DMV,Class 4,High,High,Moderate,Road Use Charging,Physical
+Other Payment Administration Centers,Class 3,Moderate,High,Moderate,Road Use Charging,Physical
+Traveler Support Equipment,Class 5,High,High,High,Road Use Charging,Physical
+Light Vehicle OBE,Class 5,High,High,High,Road Use Charging,Physical
+Light Vehicle Driver,,,,,Road Use Charging,Physical
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Electronic Driver Logs,Physical
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Electronic Driver Logs,Physical
+Commercial Vehicle Driver,,,,,Electronic Driver Logs,Physical
+Commercial Vehicle Check Equipment,Class 4,High,High,Moderate,Electronic Driver Logs,Physical
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Electronic Driver Logs,Physical
+Commercial Vehicle Inspector,,,,,Electronic Driver Logs,Physical
+Basic Commercial Vehicle,,,,,Electronic Driver Logs,Physical
+Security Credentials Registry,Class 4,High,High,Moderate,Electronic Driver Logs,Physical
+Commercial Vehicle Service Provider Center,Class 4,High,High,Moderate,Electronic Driver Logs,Physical
+Other Commercial Vehicle Service Provider Centers,Class 4,High,High,Moderate,Electronic Driver Logs,Physical
+Driver Identification Card,Class 4,High,Moderate,Moderate,Electronic Driver Logs,Physical
+Commercial Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Intelligent Speed Compliance,Physical
+Fleet and Freight Management Center,Class 2,Moderate,Moderate,Moderate,Intelligent Speed Compliance,Physical
+Commercial Vehicle Driver,,,,,Intelligent Speed Compliance,Physical
+Commercial Vehicle Administration Center,Class 2,Moderate,Moderate,Moderate,Intelligent Speed Compliance,Physical
+Commercial Vehicle Service Provider Center,Class 2,Moderate,Moderate,Moderate,Intelligent Speed Compliance,Physical
+Commercial Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Intelligent Access Program,Physical
+Fleet and Freight Management Center,Class 2,Moderate,Moderate,Moderate,Intelligent Access Program,Physical
+Commercial Vehicle Driver,,,,,Intelligent Access Program,Physical
+Commercial Vehicle Administration Center,Class 2,Moderate,Moderate,Moderate,Intelligent Access Program,Physical
+Commercial Vehicle Service Provider Center,Class 2,Moderate,Moderate,Moderate,Intelligent Access Program,Physical
+Commercial Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Intelligent Access Program - Weight Monitoring,Physical
+Fleet and Freight Management Center,Class 2,Moderate,Moderate,Moderate,Intelligent Access Program - Weight Monitoring,Physical
+Commercial Vehicle Driver,,,,,Intelligent Access Program - Weight Monitoring,Physical
+Commercial Vehicle Administration Center,Class 2,Moderate,Moderate,Moderate,Intelligent Access Program - Weight Monitoring,Physical
+Commercial Vehicle Service Provider Center,Class 2,Moderate,Moderate,Moderate,Intelligent Access Program - Weight Monitoring,Physical
+On-Board Weight Monitoring Equipment,,,,,Intelligent Access Program - Weight Monitoring,Physical
+Driver,,,,,In-Vehicle Signage,Physical
+Vehicle,Class 1,Low,Low,Moderate,In-Vehicle Signage,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,In-Vehicle Signage,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,In-Vehicle Signage,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,In-Vehicle Signage,Physical
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,In-Vehicle Signage,Physical
+Traffic Operations Personnel,,,,,In-Vehicle Signage,Physical
+Maint and Constr Vehicle OBE,Class 1,Low,Moderate,Moderate,In-Vehicle Signage,Physical
+Emergency Vehicle OBE,Class 1,Low,Moderate,Moderate,In-Vehicle Signage,Physical
+Wide Area Information Disseminator System,Class 5,High,High,High,ITS Communications,Physical
+ITS Object,Class 5,High,High,High,ITS Communications,Physical
+Other ITS Objects,Class 5,High,High,High,ITS Communications,Physical
+ITS Communications Equipment,Class 5,High,High,High,ITS Communications,Physical
+Roadside Communications Unit,Class 5,High,High,High,ITS Communications,Physical
+Pathway Communications Unit,Class 5,High,High,High,ITS Communications,Physical
+Vehicle,Class 3,Moderate,High,Moderate,Map Management,Physical
+Map Update System,Class 3,Moderate,High,Moderate,Map Management,Physical
+Other Vehicles,Class 3,Not Applicable,High,Low,Map Management,Physical
+Maint and Constr Management Center,Class 3,Low,High,Moderate,Map Management,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Map Management,Physical
+Parking Area Equipment,Class 3,Low,High,Moderate,Map Management,Physical
+Traveler Support Equipment,Class 1,Not Applicable,Low,Moderate,Map Management,Physical
+Commercial Vehicle Administration Center,Class 1,Low,Moderate,Low,Map Management,Physical
+Center,Class 3,Low,High,Moderate,Map Management,Physical
+MAP GIS Operator,,,,,Map Management,Physical
+Other Map Update Systems,Class 3,Low,High,Moderate,Map Management,Physical
+Personal,Class 1,Low,Low,Moderate,Map Management,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Traffic Surveillance,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Traffic Surveillance,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Infrastructure-Based Traffic Surveillance,Physical
+Traffic Operations Personnel,,,,,Infrastructure-Based Traffic Surveillance,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Traffic Surveillance,Physical
+Basic Vehicle,Class 1,Not Applicable,Moderate,Low,Infrastructure-Based Traffic Surveillance,Physical
+Vehicle Characteristics,,,,,Infrastructure-Based Traffic Surveillance,Physical
+Driver,,,,,Traffic Signal Control,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Traffic Signal Control,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Traffic Signal Control,Physical
+Traffic Operations Personnel,,,,,Traffic Signal Control,Physical
+Pedestrian,,,,,Traffic Signal Control,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traffic Signal Control,Physical
+MMV User,,,,,Traffic Signal Control,Physical
+Vehicle Characteristics,,,,,Traffic Signal Control,Physical
+Driver,,,,,Traffic Metering,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Traffic Metering,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traffic Metering,Physical
+Traffic Operations Personnel,,,,,Traffic Metering,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traffic Metering,Physical
+Vehicle Characteristics,,,,,Traffic Metering,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,HOV/HOT Lane Management,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,HOV/HOT Lane Management,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,HOV/HOT Lane Management,Physical
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,HOV/HOT Lane Management,Physical
+Personal Information Device,Class 4,High,High,Moderate,HOV/HOT Lane Management,Physical
+Traffic Operations Personnel,,,,,HOV/HOT Lane Management,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,HOV/HOT Lane Management,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,HOV/HOT Lane Management,Physical
+Payment Administration Center,Class 4,High,High,Moderate,HOV/HOT Lane Management,Physical
+ITS Roadway Payment Equipment,Class 5,Moderate,Moderate,High,HOV/HOT Lane Management,Physical
+Payment Device,Class 5,Moderate,Moderate,High,HOV/HOT Lane Management,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,HOV/HOT Lane Management,Physical
+Vehicle Characteristics,,,,,HOV/HOT Lane Management,Physical
+Light Vehicle OBE,Class 5,High,High,High,HOV/HOT Lane Management,Physical
+Light Vehicle Driver,,,,,HOV/HOT Lane Management,Physical
+Driver,,,,,Traffic Information Dissemination,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Traffic Information Dissemination,Physical
+Maint and Constr Management Center,Class 1,Low,Low,Moderate,Traffic Information Dissemination,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traffic Information Dissemination,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Traffic Information Dissemination,Physical
+Transit Management Center,Class 1,Low,Low,Moderate,Traffic Information Dissemination,Physical
+Traffic Operations Personnel,,,,,Traffic Information Dissemination,Physical
+Emergency Management Center,Class 1,Low,Low,Moderate,Traffic Information Dissemination,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traffic Information Dissemination,Physical
+Media,Class 1,Low,Low,Moderate,Traffic Information Dissemination,Physical
+Basic Vehicle,Class 1,Not Applicable,Low,Low,Traffic Information Dissemination,Physical
+Traffic Management Center,Class 4,High,High,Moderate,Regional Traffic Management,Physical
+Traffic Operations Personnel,,,,,Regional Traffic Management,Physical
+Other Traffic Management Centers,Class 4,High,High,Moderate,Regional Traffic Management,Physical
+Traffic Management Center,Class 4,High,High,Moderate,Traffic Incident Management System,Physical
+Maint and Constr Management Center,Class 4,High,High,Moderate,Traffic Incident Management System,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traffic Incident Management System,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Traffic Incident Management System,Physical
+Transit Management Center,Class 4,High,High,Moderate,Traffic Incident Management System,Physical
+Traffic Operations Personnel,,,,,Traffic Incident Management System,Physical
+Maint and Constr Center Personnel,,,,,Traffic Incident Management System,Physical
+Other Traffic Management Centers,Class 4,High,High,Moderate,Traffic Incident Management System,Physical
+Event Promoter System,Class 3,Moderate,High,Moderate,Traffic Incident Management System,Physical
+Emergency Management Center,Class 4,High,High,Moderate,Traffic Incident Management System,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traffic Incident Management System,Physical
+Other Emergency Management Centers,Class 2,Moderate,Moderate,Moderate,Traffic Incident Management System,Physical
+Emergency System Operator,,,,,Traffic Incident Management System,Physical
+Rail Operations Center,Class 4,High,High,Moderate,Traffic Incident Management System,Physical
+Media,Class 1,Low,Moderate,Moderate,Traffic Incident Management System,Physical
+Border Inspection System,Class 3,Moderate,High,Moderate,Traffic Incident Management System,Physical
+Other Maint and Constr Mgmt Centers,Class 2,Moderate,Moderate,Moderate,Traffic Incident Management System,Physical
+Vehicle Characteristics,,,,,Traffic Incident Management System,Physical
+Traffic Management Center,Class 5,High,High,High,Integrated Decision Support and Demand Management,Physical
+Maint and Constr Management Center,Class 5,Moderate,High,High,Integrated Decision Support and Demand Management,Physical
+Transportation Information Center,Class 4,High,Moderate,Moderate,Integrated Decision Support and Demand Management,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Integrated Decision Support and Demand Management,Physical
+Other Transit Management Centers,Class 2,Moderate,Moderate,Moderate,Integrated Decision Support and Demand Management,Physical
+Traffic Operations Personnel,,,,,Integrated Decision Support and Demand Management,Physical
+Emissions Management Center,Class 2,Moderate,Moderate,Moderate,Integrated Decision Support and Demand Management,Physical
+Other Traffic Management Centers,Class 4,High,High,Moderate,Integrated Decision Support and Demand Management,Physical
+Payment Administration Center,Class 2,Moderate,Moderate,Moderate,Integrated Decision Support and Demand Management,Physical
+Event Promoter System,Class 3,Moderate,High,Moderate,Integrated Decision Support and Demand Management,Physical
+Emergency Management Center,Class 4,High,Moderate,Moderate,Integrated Decision Support and Demand Management,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Integrated Decision Support and Demand Management,Physical
+Driver,,,,,Emissions Monitoring,Physical
+Vehicle,Class 2,Moderate,Moderate,Moderate,Emissions Monitoring,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Emissions Monitoring,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Emissions Monitoring,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Emissions Monitoring,Physical
+Transportation Information Center,Class 1,Not Applicable,Low,Low,Emissions Monitoring,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Emissions Monitoring,Physical
+Transit Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Emissions Monitoring,Physical
+Emissions Management Center,Class 2,Moderate,Moderate,Moderate,Emissions Monitoring,Physical
+Weather Service System,Class 1,Low,Moderate,Low,Emissions Monitoring,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Emissions Monitoring,Physical
+Emissions Management Operator,,,,,Emissions Monitoring,Physical
+Media,Class 1,Not Applicable,Low,Low,Emissions Monitoring,Physical
+Basic Transit Vehicle,,,,,Emissions Monitoring,Physical
+Basic Vehicle,,,,,Emissions Monitoring,Physical
+Driver,,,,,Standard Railroad Grade Crossing,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Standard Railroad Grade Crossing,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Standard Railroad Grade Crossing,Physical
+Wayside Equipment,Class 2,Moderate,Moderate,Moderate,Standard Railroad Grade Crossing,Physical
+Pedestrian,,,,,Standard Railroad Grade Crossing,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Standard Railroad Grade Crossing,Physical
+Rail Operations Center,Class 2,Moderate,Moderate,Moderate,Standard Railroad Grade Crossing,Physical
+MMV User,,,,,Standard Railroad Grade Crossing,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Railroad Operations Coordination,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Railroad Operations Coordination,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Railroad Operations Coordination,Physical
+Rail Operations Center,Class 2,Moderate,Moderate,Moderate,Railroad Operations Coordination,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Parking Space Management,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Parking Space Management,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Parking Space Management,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Parking Space Management,Physical
+Parking Area Equipment,Class 2,Moderate,Moderate,Moderate,Parking Space Management,Physical
+Parking Operator,,,,,Parking Space Management,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Parking Space Management,Physical
+Parking Manager,,,,,Parking Space Management,Physical
+Vehicle Characteristics,,,,,Parking Space Management,Physical
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Parking Space Management,Physical
+Light Vehicle Driver,,,,,Parking Space Management,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Regional Parking Management,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Regional Parking Management,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Regional Parking Management,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Regional Parking Management,Physical
+Event Promoter System,Class 3,Moderate,High,Moderate,Regional Parking Management,Physical
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,Regional Parking Management,Physical
+Other Parking Management Centers,Class 2,Moderate,Moderate,Low,Regional Parking Management,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Regional Parking Management,Physical
+Parking Manager,,,,,Regional Parking Management,Physical
+Driver,,,,,Reversible Lane Management,Physical
+Vehicle,Class 1,Low,Low,Moderate,Reversible Lane Management,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Reversible Lane Management,Physical
+ITS Roadway Equipment,Class 4,High,High,Moderate,Reversible Lane Management,Physical
+Connected Vehicle Roadside Equipment,Class 1,Low,Moderate,Moderate,Reversible Lane Management,Physical
+Traffic Operations Personnel,,,,,Reversible Lane Management,Physical
+Other ITS Roadway Equipment,Class 4,High,High,Moderate,Reversible Lane Management,Physical
+Vehicle Characteristics,,,,,Reversible Lane Management,Physical
+Driver,,,,,Speed Warning and Enforcement,Physical
+Vehicle,Class 1,Low,Low,Moderate,Speed Warning and Enforcement,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Speed Warning and Enforcement,Physical
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Speed Warning and Enforcement,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Speed Warning and Enforcement,Physical
+Connected Vehicle Roadside Equipment,Class 1,Low,Moderate,Moderate,Speed Warning and Enforcement,Physical
+Enforcement Center,Class 3,Moderate,High,Moderate,Speed Warning and Enforcement,Physical
+Vehicle Characteristics,,,,,Speed Warning and Enforcement,Physical
+Driver,,,,,Drawbridge Management,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Drawbridge Management,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Drawbridge Management,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Drawbridge Management,Physical
+Traffic Operations Personnel,,,,,Drawbridge Management,Physical
+Multimodal Crossing Equipment,Class 2,Moderate,Moderate,Moderate,Drawbridge Management,Physical
+Driver,,,,,Roadway Closure Management,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Roadway Closure Management,Physical
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Roadway Closure Management,Physical
+ITS Roadway Equipment,Class 4,High,High,Moderate,Roadway Closure Management,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Roadway Closure Management,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Roadway Closure Management,Physical
+Transit Management Center,Class 1,Low,Low,Moderate,Roadway Closure Management,Physical
+Traffic Operations Personnel,,,,,Roadway Closure Management,Physical
+Maint and Constr Vehicle OBE,Class 3,Moderate,High,Moderate,Roadway Closure Management,Physical
+Maint and Constr Center Personnel,,,,,Roadway Closure Management,Physical
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Roadway Closure Management,Physical
+Emergency Personnel,,,,,Roadway Closure Management,Physical
+Emergency Management Center,Class 3,Moderate,High,Moderate,Roadway Closure Management,Physical
+Other ITS Roadway Equipment,Class 4,High,High,Moderate,Roadway Closure Management,Physical
+Emergency System Operator,,,,,Roadway Closure Management,Physical
+Basic Vehicle,Class 1,Not Applicable,Low,Low,Roadway Closure Management,Physical
+Maint and Constr Vehicle Operator,,,,,Roadway Closure Management,Physical
+Driver,,,,,Variable Speed Limits,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Variable Speed Limits,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Variable Speed Limits,Physical
+Traffic Operations Personnel,,,,,Variable Speed Limits,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Variable Speed Limits,Physical
+Vehicle Characteristics,,,,,Variable Speed Limits,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Variable Speed Limits,Physical
+Driver,,,,,Dynamic Lane Management and Shoulder Use,Physical
+Vehicle,Class 3,Low,High,Moderate,Dynamic Lane Management and Shoulder Use,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Dynamic Lane Management and Shoulder Use,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Dynamic Lane Management and Shoulder Use,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Dynamic Lane Management and Shoulder Use,Physical
+Intermodal Terminal,Class 2,Moderate,Moderate,Moderate,Dynamic Lane Management and Shoulder Use,Physical
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Dynamic Lane Management and Shoulder Use,Physical
+Traffic Operations Personnel,,,,,Dynamic Lane Management and Shoulder Use,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Dynamic Lane Management and Shoulder Use,Physical
+Other Traffic Management Centers,Class 3,Moderate,High,Moderate,Dynamic Lane Management and Shoulder Use,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Dynamic Lane Management and Shoulder Use,Physical
+Border Inspection System,Class 1,Low,Moderate,Low,Dynamic Lane Management and Shoulder Use,Physical
+Multimodal Crossing Equipment,Class 1,Low,Moderate,Low,Dynamic Lane Management and Shoulder Use,Physical
+Vehicle Characteristics,,,,,Dynamic Lane Management and Shoulder Use,Physical
+Driver,,,,,Dynamic Roadway Warning,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Dynamic Roadway Warning,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Dynamic Roadway Warning,Physical
+Traffic Operations Personnel,,,,,Dynamic Roadway Warning,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Dynamic Roadway Warning,Physical
+MMV User,,,,,Dynamic Roadway Warning,Physical
+Vehicle Characteristics,,,,,Dynamic Roadway Warning,Physical
+Potential Obstacles,,,,,Dynamic Roadway Warning,Physical
+Vulnerable Road Users,,,,,Dynamic Roadway Warning,Physical
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Maintenance and Construction Vehicle and Equipment Tracking,Physical
+Maint and Constr Vehicle OBE,Class 5,Moderate,Moderate,High,Maintenance and Construction Vehicle and Equipment Tracking,Physical
+Maint and Constr Center Personnel,,,,,Maintenance and Construction Vehicle and Equipment Tracking,Physical
+Location and Time Data Source,Class 5,Moderate,High,High,Maintenance and Construction Vehicle and Equipment Tracking,Physical
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Maintenance and Construction Vehicle Maintenance,Physical
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Maintenance and Construction Vehicle Maintenance,Physical
+Maint and Constr Center Personnel,,,,,Maintenance and Construction Vehicle Maintenance,Physical
+Basic Maint and Constr Vehicle,,,,,Maintenance and Construction Vehicle Maintenance,Physical
+Equipment Repair Facility,Class 2,Moderate,Moderate,Moderate,Maintenance and Construction Vehicle Maintenance,Physical
+Maint and Constr Vehicle Operator,,,,,Maintenance and Construction Vehicle Maintenance,Physical
+Vehicle,Class 1,Low,Moderate,Moderate,Weather Data Collection,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Weather Data Collection,Physical
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Weather Data Collection,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Weather Data Collection,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Weather Data Collection,Physical
+Transportation Information Center,Class 3,Low,High,Moderate,Weather Data Collection,Physical
+Traffic Operations Personnel,,,,,Weather Data Collection,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,Weather Data Collection,Physical
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Weather Data Collection,Physical
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Weather Data Collection,Physical
+Maint and Constr Center Personnel,,,,,Weather Data Collection,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Weather Data Collection,Physical
+Traffic Management Center,Class 1,Low,Low,Moderate,Weather Information Processing and Distribution,Physical
+Maint and Constr Management Center,Class 1,Low,Moderate,Moderate,Weather Information Processing and Distribution,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Weather Information Processing and Distribution,Physical
+Transit Management Center,Class 1,Low,Low,Moderate,Weather Information Processing and Distribution,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,Weather Information Processing and Distribution,Physical
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Weather Information Processing and Distribution,Physical
+Maint and Constr Center Personnel,,,,,Weather Information Processing and Distribution,Physical
+Emergency Management Center,Class 1,Low,Low,Moderate,Weather Information Processing and Distribution,Physical
+Rail Operations Center,Class 1,Low,Low,Low,Weather Information Processing and Distribution,Physical
+Media,Class 1,Low,Low,Low,Weather Information Processing and Distribution,Physical
+Other Maint and Constr Mgmt Centers,Class 1,Low,Moderate,Low,Weather Information Processing and Distribution,Physical
+Driver,,,,,Roadway Automated Treatment,Physical
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Roadway Automated Treatment,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Roadway Automated Treatment,Physical
+Maint and Constr Center Personnel,,,,,Roadway Automated Treatment,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Roadway Automated Treatment,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Winter Maintenance,Physical
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Winter Maintenance,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Winter Maintenance,Physical
+Transit Management Center,Class 1,Low,Low,Moderate,Winter Maintenance,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,Winter Maintenance,Physical
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Winter Maintenance,Physical
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Winter Maintenance,Physical
+Maint and Constr Center Personnel,,,,,Winter Maintenance,Physical
+Other MCV OBEs,Class 1,Low,Moderate,Low,Winter Maintenance,Physical
+Emergency Management Center,Class 2,Moderate,Moderate,Moderate,Winter Maintenance,Physical
+Media,Class 1,Low,Low,Low,Winter Maintenance,Physical
+Storage Facility Data Acquisition System,Class 2,Moderate,Moderate,Moderate,Winter Maintenance,Physical
+Maint and Constr Administrative Systems,Class 2,Moderate,Moderate,Moderate,Winter Maintenance,Physical
+Basic Maint and Constr Vehicle,,,,,Winter Maintenance,Physical
+Other Maint and Constr Mgmt Centers,Class 1,Low,Moderate,Moderate,Winter Maintenance,Physical
+Maint and Constr Vehicle Operator,,,,,Winter Maintenance,Physical
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Roadway Maintenance and Construction,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,Roadway Maintenance and Construction,Physical
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Roadway Maintenance and Construction,Physical
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Roadway Maintenance and Construction,Physical
+Maint and Constr Center Personnel,,,,,Roadway Maintenance and Construction,Physical
+Maint and Constr Field Personnel,,,,,Roadway Maintenance and Construction,Physical
+Center,Class 2,Moderate,Moderate,Moderate,Roadway Maintenance and Construction,Physical
+Field Maintenance Equipment,Class 5,Moderate,High,High,Roadway Maintenance and Construction,Physical
+Storage Facility Data Acquisition System,Class 2,Moderate,Moderate,Moderate,Roadway Maintenance and Construction,Physical
+Maint and Constr Administrative Systems,Class 2,Moderate,Moderate,Moderate,Roadway Maintenance and Construction,Physical
+Basic Maint and Constr Vehicle,,,,,Roadway Maintenance and Construction,Physical
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Roadway Maintenance and Construction,Physical
+Field,Class 5,Moderate,Moderate,High,Roadway Maintenance and Construction,Physical
+Maint and Constr Vehicle Operator,,,,,Roadway Maintenance and Construction,Physical
+Driver,,,,,Work Zone Management,Physical
+Vehicle,Class 1,Low,Low,Moderate,Work Zone Management,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Work Zone Management,Physical
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Work Zone Management,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Work Zone Management,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Work Zone Management,Physical
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Work Zone Management,Physical
+Transit Management Center,Class 1,Low,Low,Moderate,Work Zone Management,Physical
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Work Zone Management,Physical
+Maint and Constr Center Personnel,,,,,Work Zone Management,Physical
+Emergency Management Center,Class 1,Low,Low,Moderate,Work Zone Management,Physical
+Media,Class 1,Low,Low,Moderate,Work Zone Management,Physical
+Maint and Constr Administrative Systems,Class 2,Moderate,Moderate,Moderate,Work Zone Management,Physical
+Other Maint and Constr Mgmt Centers,Class 1,Low,Moderate,Moderate,Work Zone Management,Physical
+Basic Vehicle,Class 1,Not Applicable,Low,Low,Work Zone Management,Physical
+Maint and Constr Vehicle Operator,,,,,Work Zone Management,Physical
+Traffic Management Center,Class 5,Low,Moderate,High,Maintenance and Construction Activity Coordination,Physical
+Maint and Constr Management Center,Class 5,Moderate,High,High,Maintenance and Construction Activity Coordination,Physical
+Transportation Information Center,Class 5,Low,Low,High,Maintenance and Construction Activity Coordination,Physical
+Transit Management Center,Class 5,Low,Moderate,High,Maintenance and Construction Activity Coordination,Physical
+Alternate Mode Transportation Center,Class 5,Low,Low,High,Maintenance and Construction Activity Coordination,Physical
+Maint and Constr Center Personnel,,,,,Maintenance and Construction Activity Coordination,Physical
+Emergency Management Center,Class 5,Low,Moderate,High,Maintenance and Construction Activity Coordination,Physical
+Rail Operations Center,Class 5,Low,Moderate,High,Maintenance and Construction Activity Coordination,Physical
+Media,Class 5,Low,Low,High,Maintenance and Construction Activity Coordination,Physical
+Commercial Vehicle Administration Center,Class 1,Low,Low,Moderate,Maintenance and Construction Activity Coordination,Physical
+Maint and Constr Administrative Systems,Class 2,Moderate,Moderate,Moderate,Maintenance and Construction Activity Coordination,Physical
+Other Maint and Constr Mgmt Centers,Class 1,Low,Moderate,Low,Maintenance and Construction Activity Coordination,Physical
+Asset Management System,Class 2,Moderate,Moderate,Low,Maintenance and Construction Activity Coordination,Physical
+Vehicle,Class 1,Low,Moderate,Low,Infrastructure Monitoring,Physical
+Maint and Constr Management Center,Class 5,High,High,High,Infrastructure Monitoring,Physical
+ITS Roadway Equipment,Class 4,High,Moderate,Moderate,Infrastructure Monitoring,Physical
+Connected Vehicle Roadside Equipment,Class 5,Moderate,Moderate,High,Infrastructure Monitoring,Physical
+Maint and Constr Vehicle OBE,Class 4,High,High,Moderate,Infrastructure Monitoring,Physical
+Maint and Constr Center Personnel,,,,,Infrastructure Monitoring,Physical
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Infrastructure Monitoring,Physical
+Maint and Constr Vehicle Operator,,,,,Infrastructure Monitoring,Physical
+Traffic Management Center,Class 1,Low,Low,Low,Transit Vehicle Tracking,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Transit Vehicle Tracking,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Transit Vehicle Tracking,Physical
+Transit Operations Personnel,,,,,Transit Vehicle Tracking,Physical
+Transit Vehicle OBE,Class 5,Moderate,Moderate,High,Transit Vehicle Tracking,Physical
+Location and Time Data Source,Class 5,Moderate,High,High,Transit Vehicle Tracking,Physical
+Traffic Management Center,Class 4,High,Moderate,Moderate,Transit Fixed-Route Operations,Physical
+Maint and Constr Management Center,Class 3,Low,High,Moderate,Transit Fixed-Route Operations,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Transit Fixed-Route Operations,Physical
+Transit Management Center,Class 4,High,High,Moderate,Transit Fixed-Route Operations,Physical
+Transit Vehicle Operator,,,,,Transit Fixed-Route Operations,Physical
+Transit Operations Personnel,,,,,Transit Fixed-Route Operations,Physical
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Transit Fixed-Route Operations,Physical
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Transit Fare Collection Management,Physical
+Personal Information Device,Class 5,High,High,High,Transit Fare Collection Management,Physical
+Transit Management Center,Class 5,High,High,High,Transit Fare Collection Management,Physical
+Transit Vehicle Operator,,,,,Transit Fare Collection Management,Physical
+Transit Operations Personnel,,,,,Transit Fare Collection Management,Physical
+Transit Vehicle OBE,Class 5,High,High,High,Transit Fare Collection Management,Physical
+Other Transit Management Centers,Class 1,Low,Moderate,Moderate,Transit Fare Collection Management,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Transit Fare Collection Management,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Transit Fare Collection Management,Physical
+Payment Administration Center,Class 4,High,High,Moderate,Transit Fare Collection Management,Physical
+Payment Device,Class 5,Moderate,Moderate,High,Transit Fare Collection Management,Physical
+Traveler,,,,,Transit Fare Collection Management,Physical
+Traveler Support Equipment,Class 5,High,High,High,Transit Fare Collection Management,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Transit Security,Physical
+Transit Management Center,Class 5,High,High,High,Transit Security,Physical
+Transit Vehicle Operator,,,,,Transit Security,Physical
+Transit Operations Personnel,,,,,Transit Security,Physical
+Transit Vehicle OBE,Class 5,Moderate,High,High,Transit Security,Physical
+Emergency Management Center,Class 5,High,High,High,Transit Security,Physical
+Other Emergency Management Centers,Class 5,High,High,High,Transit Security,Physical
+Emergency System Operator,,,,,Transit Security,Physical
+Traveler,,,,,Transit Security,Physical
+Rail Operations Center,Class 5,Moderate,Moderate,High,Transit Security,Physical
+Traveler Support Equipment,Class 3,Moderate,High,Moderate,Transit Security,Physical
+Media,Class 1,Low,Low,Moderate,Transit Security,Physical
+Basic Transit Vehicle,,,,,Transit Security,Physical
+Security Monitoring Equipment,Class 4,High,Moderate,Moderate,Transit Security,Physical
+Alerting and Advisory System,Class 5,Moderate,High,High,Transit Security,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Transit Fleet Management,Physical
+Transit Vehicle Operator,,,,,Transit Fleet Management,Physical
+Transit Operations Personnel,,,,,Transit Fleet Management,Physical
+Transit Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Transit Fleet Management,Physical
+Basic Transit Vehicle,,,,,Transit Fleet Management,Physical
+Traffic Management Center,Class 1,Low,Low,Low,Multi-modal Coordination,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Multi-modal Coordination,Physical
+Transit Operations Personnel,,,,,Multi-modal Coordination,Physical
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Multi-modal Coordination,Physical
+Alternate Mode Transportation Center,Class 2,Moderate,Moderate,Moderate,Multi-modal Coordination,Physical
+Other Transit Management Centers,Class 2,Moderate,Moderate,Moderate,Multi-modal Coordination,Physical
+Event Promoter System,Class 3,Moderate,High,Moderate,Multi-modal Coordination,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Multi-modal Coordination,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Transit Traveler Information,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Transit Traveler Information,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Transit Traveler Information,Physical
+Transit Operations Personnel,,,,,Transit Traveler Information,Physical
+Transit Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Transit Traveler Information,Physical
+Other Transit Management Centers,Class 1,Low,Moderate,Moderate,Transit Traveler Information,Physical
+Traveler,,,,,Transit Traveler Information,Physical
+Traveler Support Equipment,Class 2,Moderate,Moderate,Moderate,Transit Traveler Information,Physical
+Other Transportation Information Centers,Class 1,Low,Moderate,Low,Transit Traveler Information,Physical
+Media,Class 1,Low,Low,Moderate,Transit Traveler Information,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Transit Passenger Counting,Physical
+Transit Operations Personnel,,,,,Transit Passenger Counting,Physical
+Transit Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Transit Passenger Counting,Physical
+Traveler Support Equipment,Class 1,Low,Moderate,Moderate,Transit Passenger Counting,Physical
+Driver,,,,,Broadcast Traveler Information,Physical
+Vehicle,Class 1,Not Applicable,Low,Moderate,Broadcast Traveler Information,Physical
+Traffic Management Center,Class 1,Low,Moderate,Moderate,Broadcast Traveler Information,Physical
+Maint and Constr Management Center,Class 5,Low,High,High,Broadcast Traveler Information,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Low,Broadcast Traveler Information,Physical
+Transportation Information Center,Class 5,Moderate,Moderate,High,Broadcast Traveler Information,Physical
+Personal Information Device,Class 1,Not Applicable,Low,Low,Broadcast Traveler Information,Physical
+Transit Management Center,Class 1,Low,Moderate,Moderate,Broadcast Traveler Information,Physical
+Emissions Management Center,Class 1,Not Applicable,Moderate,Low,Broadcast Traveler Information,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,Broadcast Traveler Information,Physical
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Broadcast Traveler Information,Physical
+TIC Operator,,,,,Broadcast Traveler Information,Physical
+Payment Administration Center,Class 1,Low,Moderate,Low,Broadcast Traveler Information,Physical
+Event Promoter System,Class 3,Moderate,High,Moderate,Broadcast Traveler Information,Physical
+Emergency Management Center,Class 1,Low,Moderate,Moderate,Broadcast Traveler Information,Physical
+Traveler,,,,,Broadcast Traveler Information,Physical
+Traveler Support Equipment,Class 1,Not Applicable,Low,Low,Broadcast Traveler Information,Physical
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,Broadcast Traveler Information,Physical
+Media,Class 1,Low,Low,Moderate,Broadcast Traveler Information,Physical
+Border Inspection System,Class 1,Low,Moderate,Low,Broadcast Traveler Information,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Broadcast Traveler Information,Physical
+Traffic Management Center,Class 1,Low,Moderate,Moderate,Personalized Traveler Information,Physical
+Maint and Constr Management Center,Class 5,Low,High,High,Personalized Traveler Information,Physical
+Transportation Information Center,Class 5,Moderate,Moderate,High,Personalized Traveler Information,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Personalized Traveler Information,Physical
+Transit Management Center,Class 1,Low,Moderate,Moderate,Personalized Traveler Information,Physical
+Emissions Management Center,Class 1,Not Applicable,Moderate,Low,Personalized Traveler Information,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,Personalized Traveler Information,Physical
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Personalized Traveler Information,Physical
+TIC Operator,,,,,Personalized Traveler Information,Physical
+Payment Administration Center,Class 1,Low,Moderate,Low,Personalized Traveler Information,Physical
+Event Promoter System,Class 3,Moderate,High,Moderate,Personalized Traveler Information,Physical
+Emergency Management Center,Class 1,Low,Moderate,Moderate,Personalized Traveler Information,Physical
+Traveler,,,,,Personalized Traveler Information,Physical
+Traveler Support Equipment,Class 2,Moderate,Moderate,Moderate,Personalized Traveler Information,Physical
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,Personalized Traveler Information,Physical
+Media,Class 1,Low,Low,Moderate,Personalized Traveler Information,Physical
+Social Media,Class 2,Moderate,Moderate,Low,Personalized Traveler Information,Physical
+Border Inspection System,Class 1,Low,Moderate,Low,Personalized Traveler Information,Physical
+Traveler Information Voice System,Class 1,Low,Moderate,Low,Personalized Traveler Information,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Personalized Traveler Information,Physical
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Personalized Traveler Information,Physical
+Light Vehicle Driver,,,,,Personalized Traveler Information,Physical
+Traffic Management Center,Class 1,Low,Moderate,Moderate,En-Route Guidance,Physical
+Maint and Constr Management Center,Class 5,Low,High,High,En-Route Guidance,Physical
+Transportation Information Center,Class 5,Moderate,Moderate,High,En-Route Guidance,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,En-Route Guidance,Physical
+Transit Management Center,Class 1,Low,Moderate,Moderate,En-Route Guidance,Physical
+TIC Operator,,,,,En-Route Guidance,Physical
+Traveler,,,,,En-Route Guidance,Physical
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,En-Route Guidance,Physical
+MMV User,,,,,En-Route Guidance,Physical
+Micromobility Vehicle OBE,Class 2,Moderate,Moderate,Moderate,En-Route Guidance,Physical
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,En-Route Guidance,Physical
+Light Vehicle Driver,,,,,En-Route Guidance,Physical
+Traffic Management Center,Class 4,High,High,Moderate,Trip Planning and Payment,Physical
+Maint and Constr Management Center,Class 5,Low,High,High,Trip Planning and Payment,Physical
+Transportation Information Center,Class 5,High,Moderate,High,Trip Planning and Payment,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment,Physical
+Alternate Mode Transportation Center,Class 1,Low,Moderate,Low,Trip Planning and Payment,Physical
+TIC Operator,,,,,Trip Planning and Payment,Physical
+Payment Administration Center,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment,Physical
+Traveler,,,,,Trip Planning and Payment,Physical
+Traveler Support Equipment,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment,Physical
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment,Physical
+Shared Use Transportation Center,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment,Physical
+Eligibility Certification Management System,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment,Physical
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment,Physical
+Light Vehicle Driver,,,,,Trip Planning and Payment,Physical
+Electric Charging Management Center,Class 2,Moderate,Moderate,Moderate,Trip Planning and Payment,Physical
+Transportation Information Center,Class 4,High,High,Moderate,Travel Services Information and Reservation,Physical
+Personal Information Device,Class 5,High,High,High,Travel Services Information and Reservation,Physical
+Alternate Mode Transportation Center,Class 2,Moderate,Moderate,Low,Travel Services Information and Reservation,Physical
+TIC Operator,,,,,Travel Services Information and Reservation,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Travel Services Information and Reservation,Physical
+Payment Device,Class 5,Moderate,Moderate,High,Travel Services Information and Reservation,Physical
+Travel Services Provider System,Class 2,Moderate,Moderate,Moderate,Travel Services Information and Reservation,Physical
+Traveler,,,,,Travel Services Information and Reservation,Physical
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Travel Services Information and Reservation,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Travel Services Information and Reservation,Physical
+Light Vehicle OBE,Class 5,Moderate,Moderate,High,Travel Services Information and Reservation,Physical
+Light Vehicle Driver,,,,,Travel Services Information and Reservation,Physical
+Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Carrier Operations and Fleet Management,Physical
+Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Fleet-Freight Manager,,,,,Carrier Operations and Fleet Management,Physical
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+Location and Time Data Source,Class 5,Moderate,High,High,Carrier Operations and Fleet Management,Physical
+Freight Equipment,Class 2,Moderate,Moderate,Moderate,Freight Administration,Physical
+Intermodal Terminal,Class 2,Moderate,Moderate,Moderate,Freight Administration,Physical
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Freight Administration,Physical
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Freight Administration,Physical
+Commercial Vehicle Driver,,,,,Freight Administration,Physical
+Fleet-Freight Manager,,,,,Freight Administration,Physical
+Intermodal Customer System,Class 2,Moderate,Moderate,Moderate,Freight Administration,Physical
+Freight Distribution and Logistics Center,Class 2,Moderate,Moderate,Moderate,Freight Administration,Physical
+Basic Commercial Vehicle,,,,,Freight Administration,Physical
+Freight Equipment,Class 2,Moderate,Moderate,Moderate,Electronic Clearance,Physical
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Electronic Clearance,Physical
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Electronic Clearance,Physical
+Commercial Vehicle Driver,,,,,Electronic Clearance,Physical
+Enforcement Center,Class 4,High,High,Moderate,Electronic Clearance,Physical
+Commercial Vehicle Check Equipment,Class 4,High,High,Moderate,Electronic Clearance,Physical
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Electronic Clearance,Physical
+Commercial Vehicle Inspector,,,,,Electronic Clearance,Physical
+Other CV Administration Centers,Class 4,High,High,Moderate,Electronic Clearance,Physical
+Basic Commercial Vehicle,,,,,Electronic Clearance,Physical
+Traffic Management Center,Class 1,Low,Moderate,Moderate,CV Administrative Processes,Physical
+Maint and Constr Management Center,Class 3,Low,High,Moderate,CV Administrative Processes,Physical
+Fleet and Freight Management Center,Class 4,High,High,Moderate,CV Administrative Processes,Physical
+Transportation Information Center,Class 1,Low,Low,Low,CV Administrative Processes,Physical
+Fleet-Freight Manager,,,,,CV Administrative Processes,Physical
+Enforcement Center,Class 4,High,Moderate,Moderate,CV Administrative Processes,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,CV Administrative Processes,Physical
+DMV,Class 2,Moderate,Moderate,Moderate,CV Administrative Processes,Physical
+Commercial Vehicle Check Equipment,Class 2,Moderate,Moderate,Low,CV Administrative Processes,Physical
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,CV Administrative Processes,Physical
+Other CV Administration Centers,Class 4,High,High,Moderate,CV Administrative Processes,Physical
+CVO Information Requestor Center,Class 4,High,High,Moderate,CV Administrative Processes,Physical
+Commercial Vehicle Administrator,,,,,CV Administrative Processes,Physical
+Freight Equipment,Class 2,Moderate,Moderate,Moderate,International Border Electronic Clearance,Physical
+Commercial Vehicle OBE,Class 2,Moderate,Moderate,Moderate,International Border Electronic Clearance,Physical
+Fleet and Freight Management Center,Class 4,High,High,Moderate,International Border Electronic Clearance,Physical
+Commercial Vehicle Driver,,,,,International Border Electronic Clearance,Physical
+Intermodal Customer System,Class 4,High,High,Moderate,International Border Electronic Clearance,Physical
+Freight Distribution and Logistics Center,Class 3,Moderate,High,Moderate,International Border Electronic Clearance,Physical
+Enforcement Center,Class 4,High,Moderate,Low,International Border Electronic Clearance,Physical
+Border Inspection Administration Center,Class 4,High,High,Moderate,International Border Electronic Clearance,Physical
+Border Inspection System,Class 4,High,High,Moderate,International Border Electronic Clearance,Physical
+Commercial Vehicle Check Equipment,Class 4,High,High,Moderate,International Border Electronic Clearance,Physical
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,International Border Electronic Clearance,Physical
+Commercial Vehicle Inspector,,,,,International Border Electronic Clearance,Physical
+Other CV Administration Centers,Class 4,High,High,Moderate,International Border Electronic Clearance,Physical
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Roadside CVO Safety,Physical
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Roadside CVO Safety,Physical
+Commercial Vehicle Driver,,,,,Roadside CVO Safety,Physical
+Enforcement Center,Class 4,High,High,Moderate,Roadside CVO Safety,Physical
+Commercial Vehicle Check Equipment,Class 4,High,High,Moderate,Roadside CVO Safety,Physical
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Roadside CVO Safety,Physical
+Commercial Vehicle Inspector,,,,,Roadside CVO Safety,Physical
+Other CV Administration Centers,Class 4,High,High,Moderate,Roadside CVO Safety,Physical
+Driver Identification Card,Class 4,High,Moderate,Moderate,Roadside CVO Safety,Physical
+Alerting and Advisory System,Class 3,Moderate,High,Moderate,Roadside CVO Safety,Physical
+Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+Fleet and Freight Management Center,Class 5,High,High,High,HAZMAT Management,Physical
+Emergency Management Center,Class 5,High,High,High,HAZMAT Management,Physical
+Commercial Vehicle OBE,Class 1,Low,Low,Moderate,Roadside HAZMAT Security Detection and Mitigation,Physical
+Commercial Vehicle Driver,,,,,Roadside HAZMAT Security Detection and Mitigation,Physical
+Emergency Management Center,Class 2,Moderate,Moderate,Moderate,Roadside HAZMAT Security Detection and Mitigation,Physical
+Commercial Vehicle Check Equipment,Class 4,High,High,Moderate,Roadside HAZMAT Security Detection and Mitigation,Physical
+Commercial Vehicle Administration Center,Class 4,High,Moderate,Moderate,Roadside HAZMAT Security Detection and Mitigation,Physical
+Commercial Vehicle OBE,Class 4,High,High,Moderate,CV Driver Security Authentication,Physical
+Fleet and Freight Management Center,Class 5,High,High,High,CV Driver Security Authentication,Physical
+Commercial Vehicle Driver,,,,,CV Driver Security Authentication,Physical
+Fleet-Freight Manager,,,,,CV Driver Security Authentication,Physical
+Emergency Management Center,Class 5,High,High,High,CV Driver Security Authentication,Physical
+Emergency System Operator,,,,,CV Driver Security Authentication,Physical
+Commercial Vehicle Check Equipment,Class 4,High,High,Moderate,CV Driver Security Authentication,Physical
+Basic Commercial Vehicle,,,,,CV Driver Security Authentication,Physical
+Driver Identification Card,Class 4,High,Moderate,Moderate,CV Driver Security Authentication,Physical
+Freight Equipment,Class 5,Moderate,High,High,Fleet and Freight Security,Physical
+Intermodal Terminal,Class 2,Moderate,Moderate,Moderate,Fleet and Freight Security,Physical
+Commercial Vehicle OBE,Class 5,High,High,High,Fleet and Freight Security,Physical
+Fleet and Freight Management Center,Class 5,High,High,High,Fleet and Freight Security,Physical
+Commercial Vehicle Driver,,,,,Fleet and Freight Security,Physical
+Fleet-Freight Manager,,,,,Fleet and Freight Security,Physical
+Intermodal Customer System,Class 3,Moderate,High,Moderate,Fleet and Freight Security,Physical
+Freight Distribution and Logistics Center,Class 2,Moderate,Moderate,Moderate,Fleet and Freight Security,Physical
+Emergency Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Fleet and Freight Security,Physical
+Emergency Management Center,Class 3,Moderate,High,Moderate,Fleet and Freight Security,Physical
+Commercial Vehicle Check Equipment,Class 3,Moderate,High,Moderate,Fleet and Freight Security,Physical
+Location and Time Data Source,Class 5,Moderate,High,High,Fleet and Freight Security,Physical
+Driver Identification Card,Class 4,High,Moderate,Moderate,Fleet and Freight Security,Physical
+Alerting and Advisory System,Class 5,Moderate,High,High,Fleet and Freight Security,Physical
+Traffic Management Center,Class 5,High,High,High,Emergency Call-Taking and Dispatch,Physical
+Maint and Constr Management Center,Class 5,Low,High,High,Emergency Call-Taking and Dispatch,Physical
+Transportation Information Center,Class 3,Low,High,Moderate,Emergency Call-Taking and Dispatch,Physical
+Transit Management Center,Class 5,Moderate,High,High,Emergency Call-Taking and Dispatch,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,Emergency Call-Taking and Dispatch,Physical
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Emergency Call-Taking and Dispatch,Physical
+Emergency Vehicle OBE,Class 5,Moderate,High,High,Emergency Call-Taking and Dispatch,Physical
+Emergency Personnel,,,,,Emergency Call-Taking and Dispatch,Physical
+Emergency Management Center,Class 5,High,High,High,Emergency Call-Taking and Dispatch,Physical
+Other Emergency Management Centers,Class 4,High,High,Moderate,Emergency Call-Taking and Dispatch,Physical
+Emergency System Operator,,,,,Emergency Call-Taking and Dispatch,Physical
+Rail Operations Center,Class 1,Low,Moderate,Moderate,Emergency Call-Taking and Dispatch,Physical
+Emergency Telecommunications System,Class 2,Moderate,Moderate,Moderate,Emergency Call-Taking and Dispatch,Physical
+Location and Time Data Source,Class 5,Moderate,High,High,Emergency Call-Taking and Dispatch,Physical
+Traffic Management Center,Class 4,High,Moderate,Moderate,Roadway Service Patrols,Physical
+Maint and Constr Management Center,Class 4,High,High,Moderate,Roadway Service Patrols,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Roadway Service Patrols,Physical
+Traffic Operations Personnel,,,,,Roadway Service Patrols,Physical
+Emergency Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Roadway Service Patrols,Physical
+Emergency Personnel,,,,,Roadway Service Patrols,Physical
+Emergency Management Center,Class 4,High,High,Moderate,Roadway Service Patrols,Physical
+Driver,,,,,Transportation Infrastructure Protection,Physical
+Vehicle,Class 2,Moderate,Moderate,Moderate,Transportation Infrastructure Protection,Physical
+Traffic Management Center,Class 5,High,High,High,Transportation Infrastructure Protection,Physical
+Maint and Constr Management Center,Class 5,Moderate,Moderate,High,Transportation Infrastructure Protection,Physical
+ITS Roadway Equipment,Class 5,High,High,High,Transportation Infrastructure Protection,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Transportation Infrastructure Protection,Physical
+Transit Management Center,Class 5,Moderate,Moderate,High,Transportation Infrastructure Protection,Physical
+Traffic Operations Personnel,,,,,Transportation Infrastructure Protection,Physical
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Transportation Infrastructure Protection,Physical
+Emergency Personnel,,,,,Transportation Infrastructure Protection,Physical
+Emergency Management Center,Class 5,High,High,High,Transportation Infrastructure Protection,Physical
+Other Emergency Management Centers,Class 5,High,High,High,Transportation Infrastructure Protection,Physical
+Emergency System Operator,,,,,Transportation Infrastructure Protection,Physical
+Rail Operations Center,Class 5,Moderate,Moderate,High,Transportation Infrastructure Protection,Physical
+Security Monitoring Equipment,Class 4,High,Moderate,Moderate,Transportation Infrastructure Protection,Physical
+Alerting and Advisory System,Class 5,Moderate,High,High,Transportation Infrastructure Protection,Physical
+Driver,,,,,Wide-Area Alert,Physical
+Traffic Management Center,Class 5,High,High,High,Wide-Area Alert,Physical
+Maint and Constr Management Center,Class 5,High,High,High,Wide-Area Alert,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Wide-Area Alert,Physical
+Transportation Information Center,Class 5,High,High,High,Wide-Area Alert,Physical
+Personal Information Device,Class 1,Low,Low,Moderate,Wide-Area Alert,Physical
+Transit Management Center,Class 5,High,High,High,Wide-Area Alert,Physical
+Transit Operations Personnel,,,,,Wide-Area Alert,Physical
+Transit Vehicle OBE,Class 1,Low,Low,Moderate,Wide-Area Alert,Physical
+Traffic Operations Personnel,,,,,Wide-Area Alert,Physical
+TIC Operator,,,,,Wide-Area Alert,Physical
+Emergency Management Center,Class 5,High,High,High,Wide-Area Alert,Physical
+Other Emergency Management Centers,Class 5,High,High,High,Wide-Area Alert,Physical
+Emergency System Operator,,,,,Wide-Area Alert,Physical
+Traveler,,,,,Wide-Area Alert,Physical
+Emergency Telecommunications System,Class 1,Low,Low,Low,Wide-Area Alert,Physical
+Traveler Support Equipment,Class 1,Low,Low,Moderate,Wide-Area Alert,Physical
+Other Transportation Information Centers,Class 3,Low,High,Moderate,Wide-Area Alert,Physical
+Social Media,Class 1,Low,Low,Moderate,Wide-Area Alert,Physical
+Traveler Information Voice System,Class 5,Low,Moderate,High,Wide-Area Alert,Physical
+Alerting and Advisory System,Class 3,Moderate,High,Moderate,Wide-Area Alert,Physical
+Basic Vehicle,Class 1,Not Applicable,Low,Low,Wide-Area Alert,Physical
+Light Vehicle OBE,Class 1,Low,Low,Moderate,Wide-Area Alert,Physical
+Light Vehicle Driver,,,,,Wide-Area Alert,Physical
+Traffic Management Center,Class 5,High,High,High,Early Warning System,Physical
+Maint and Constr Management Center,Class 5,High,High,High,Early Warning System,Physical
+Transit Management Center,Class 5,High,High,High,Early Warning System,Physical
+Transit Operations Personnel,,,,,Early Warning System,Physical
+Traffic Operations Personnel,,,,,Early Warning System,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,Early Warning System,Physical
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Early Warning System,Physical
+Maint and Constr Center Personnel,,,,,Early Warning System,Physical
+Emergency Management Center,Class 5,High,High,High,Early Warning System,Physical
+Other Emergency Management Centers,Class 5,High,High,High,Early Warning System,Physical
+Emergency System Operator,,,,,Early Warning System,Physical
+Social Media,Class 2,Moderate,Moderate,Low,Early Warning System,Physical
+Security Monitoring Equipment,Class 2,Moderate,Moderate,Moderate,Early Warning System,Physical
+Alerting and Advisory System,Class 3,Moderate,High,Moderate,Early Warning System,Physical
+Traffic Management Center,Class 5,High,High,High,Disaster Response and Recovery,Physical
+Maint and Constr Management Center,Class 5,High,High,High,Disaster Response and Recovery,Physical
+Transit Management Center,Class 5,High,High,High,Disaster Response and Recovery,Physical
+Transit Operations Personnel,,,,,Disaster Response and Recovery,Physical
+Other Transit Management Centers,Class 2,Moderate,Moderate,Moderate,Disaster Response and Recovery,Physical
+Traffic Operations Personnel,,,,,Disaster Response and Recovery,Physical
+Maint and Constr Center Personnel,,,,,Disaster Response and Recovery,Physical
+Other Traffic Management Centers,Class 5,Moderate,High,High,Disaster Response and Recovery,Physical
+Emergency Management Center,Class 5,High,High,High,Disaster Response and Recovery,Physical
+Other Emergency Management Centers,Class 5,High,High,High,Disaster Response and Recovery,Physical
+Emergency System Operator,,,,,Disaster Response and Recovery,Physical
+Public Health System,Class 5,High,High,High,Disaster Response and Recovery,Physical
+Rail Operations Center,Class 5,High,High,High,Disaster Response and Recovery,Physical
+Other Maint and Constr Mgmt Centers,Class 2,Moderate,Moderate,Moderate,Disaster Response and Recovery,Physical
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Disaster Response and Recovery,Physical
+Traffic Management Center,Class 5,High,High,High,Evacuation and Reentry Management,Physical
+Maint and Constr Management Center,Class 5,High,High,High,Evacuation and Reentry Management,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Evacuation and Reentry Management,Physical
+Transit Management Center,Class 5,High,High,High,Evacuation and Reentry Management,Physical
+Transit Operations Personnel,,,,,Evacuation and Reentry Management,Physical
+Other Transit Management Centers,Class 2,Moderate,Moderate,Moderate,Evacuation and Reentry Management,Physical
+Traffic Operations Personnel,,,,,Evacuation and Reentry Management,Physical
+Maint and Constr Center Personnel,,,,,Evacuation and Reentry Management,Physical
+Other Traffic Management Centers,Class 5,Moderate,High,High,Evacuation and Reentry Management,Physical
+Payment Administration Center,Class 5,Low,Moderate,High,Evacuation and Reentry Management,Physical
+Emergency Management Center,Class 5,High,High,High,Evacuation and Reentry Management,Physical
+Other Emergency Management Centers,Class 5,High,High,High,Evacuation and Reentry Management,Physical
+Emergency System Operator,,,,,Evacuation and Reentry Management,Physical
+Shelter Provider Center,Class 1,Low,Moderate,Moderate,Evacuation and Reentry Management,Physical
+Public Health System,Class 5,High,High,High,Evacuation and Reentry Management,Physical
+Rail Operations Center,Class 5,High,High,High,Evacuation and Reentry Management,Physical
+Population and Housing Data System,Class 2,Moderate,Moderate,Moderate,Evacuation and Reentry Management,Physical
+Special Needs Registry,Class 2,Moderate,Moderate,Moderate,Evacuation and Reentry Management,Physical
+Traffic Management Center,Class 1,Low,Moderate,Moderate,Disaster Traveler Information,Physical
+Transportation Information Center,Class 3,Moderate,High,Moderate,Disaster Traveler Information,Physical
+Personal Information Device,Class 3,Moderate,High,Moderate,Disaster Traveler Information,Physical
+Transit Management Center,Class 3,Low,High,Moderate,Disaster Traveler Information,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,Disaster Traveler Information,Physical
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Disaster Traveler Information,Physical
+TIC Operator,,,,,Disaster Traveler Information,Physical
+Emergency Management Center,Class 3,Low,High,Moderate,Disaster Traveler Information,Physical
+Shelter Provider Center,Class 1,Low,Moderate,Moderate,Disaster Traveler Information,Physical
+Travel Services Provider System,Class 1,Low,Moderate,Moderate,Disaster Traveler Information,Physical
+Traveler,,,,,Disaster Traveler Information,Physical
+Care Facility,Class 1,Low,Moderate,Moderate,Disaster Traveler Information,Physical
+Emergency Telecommunications System,Class 1,Low,Low,Low,Disaster Traveler Information,Physical
+Traveler Support Equipment,Class 3,Moderate,High,Moderate,Disaster Traveler Information,Physical
+Other Transportation Information Centers,Class 3,Low,High,Moderate,Disaster Traveler Information,Physical
+Media,Class 1,Low,Low,Moderate,Disaster Traveler Information,Physical
+Traveler Information Voice System,Class 1,Low,Moderate,Low,Disaster Traveler Information,Physical
+Light Vehicle OBE,Class 3,Moderate,High,Moderate,Disaster Traveler Information,Physical
+Light Vehicle Driver,,,,,Disaster Traveler Information,Physical
+Traffic Management Center,Class 4,High,High,Moderate,ITS Data Warehouse,Physical
+Maint and Constr Management Center,Class 4,High,High,Moderate,ITS Data Warehouse,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Low,ITS Data Warehouse,Physical
+Connected Vehicle Roadside Equipment,Class 1,Low,Moderate,Low,ITS Data Warehouse,Physical
+Intermodal Terminal,Class 4,High,High,Moderate,ITS Data Warehouse,Physical
+Transportation Information Center,Class 4,High,High,Moderate,ITS Data Warehouse,Physical
+Transit Management Center,Class 4,High,High,Moderate,ITS Data Warehouse,Physical
+Alternate Mode Transportation Center,Class 4,High,High,Moderate,ITS Data Warehouse,Physical
+Emissions Management Center,Class 4,High,High,Moderate,ITS Data Warehouse,Physical
+Weather Service System,Class 4,High,High,Moderate,ITS Data Warehouse,Physical
+Surface Transportation Weather Service,Class 4,High,High,Moderate,ITS Data Warehouse,Physical
+Archived Data System,Class 5,High,High,High,ITS Data Warehouse,Physical
+Payment Administration Center,Class 4,High,High,Moderate,ITS Data Warehouse,Physical
+Emergency Management Center,Class 4,High,High,Moderate,ITS Data Warehouse,Physical
+Border Inspection Administration Center,Class 4,High,High,Moderate,ITS Data Warehouse,Physical
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,ITS Data Warehouse,Physical
+Archived Data User System,Class 4,High,High,Low,ITS Data Warehouse,Physical
+Other Archived Data Systems,Class 5,Moderate,High,High,ITS Data Warehouse,Physical
+Archived Data Administrator,,,,,ITS Data Warehouse,Physical
+Other Data Sources,Class 4,High,High,Moderate,ITS Data Warehouse,Physical
+Asset Management System,Class 4,High,High,Moderate,ITS Data Warehouse,Physical
+Parking Management Center,Class 4,High,High,Moderate,ITS Data Warehouse,Physical
+Driver,,,,,Infrastructure Enhanced Cooperative Adaptive Cruise Control,Physical
+Vehicle,Class 3,Moderate,High,Moderate,Infrastructure Enhanced Cooperative Adaptive Cruise Control,Physical
+Other Vehicles,Class 3,Low,High,Moderate,Infrastructure Enhanced Cooperative Adaptive Cruise Control,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Infrastructure Enhanced Cooperative Adaptive Cruise Control,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Infrastructure Enhanced Cooperative Adaptive Cruise Control,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Infrastructure Enhanced Cooperative Adaptive Cruise Control,Physical
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Infrastructure Enhanced Cooperative Adaptive Cruise Control,Physical
+Traffic Operations Personnel,,,,,Infrastructure Enhanced Cooperative Adaptive Cruise Control,Physical
+Basic Vehicle,,,,,Infrastructure Enhanced Cooperative Adaptive Cruise Control,Physical
+Vehicle Characteristics,,,,,Infrastructure Enhanced Cooperative Adaptive Cruise Control,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Infrastructure Enhanced Cooperative Adaptive Cruise Control,Physical
+Potential Obstacles,,,,,Infrastructure Enhanced Cooperative Adaptive Cruise Control,Physical
+Vulnerable Road Users,,,,,Infrastructure Enhanced Cooperative Adaptive Cruise Control,Physical
+Driver,,,,,Automated Vehicle Operations,Physical
+Vehicle,Class 3,Moderate,High,Moderate,Automated Vehicle Operations,Physical
+Other Vehicles,Class 3,Low,High,Moderate,Automated Vehicle Operations,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Automated Vehicle Operations,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Automated Vehicle Operations,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Automated Vehicle Operations,Physical
+Transportation Information Center,Class 3,Moderate,High,Moderate,Automated Vehicle Operations,Physical
+Traffic Operations Personnel,,,,,Automated Vehicle Operations,Physical
+Basic Vehicle,,,,,Automated Vehicle Operations,Physical
+Vehicle Characteristics,,,,,Automated Vehicle Operations,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Automated Vehicle Operations,Physical
+Potential Obstacles,,,,,Automated Vehicle Operations,Physical
+Vulnerable Road Users,,,,,Automated Vehicle Operations,Physical
+Driver,,,,,Autonomous Vehicle Safety Systems,Physical
+Vehicle,Class 1,Not Applicable,Low,Low,Autonomous Vehicle Safety Systems,Physical
+Basic Vehicle,,,,,Autonomous Vehicle Safety Systems,Physical
+Vehicle Characteristics,,,,,Autonomous Vehicle Safety Systems,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Autonomous Vehicle Safety Systems,Physical
+Potential Obstacles,,,,,Autonomous Vehicle Safety Systems,Physical
+Vulnerable Road Users,,,,,Autonomous Vehicle Safety Systems,Physical
+Personal Information Device,Class 5,High,High,High,Parking Electronic Payment,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Parking Electronic Payment,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Parking Electronic Payment,Physical
+Payment Administration Center,Class 4,High,High,Moderate,Parking Electronic Payment,Physical
+Payment Device,Class 5,Moderate,Moderate,High,Parking Electronic Payment,Physical
+Parking Area Equipment,Class 5,High,High,High,Parking Electronic Payment,Physical
+Parking Operator,,,,,Parking Electronic Payment,Physical
+Parking Management Center,Class 5,High,High,High,Parking Electronic Payment,Physical
+Parking Manager,,,,,Parking Electronic Payment,Physical
+Light Vehicle OBE,Class 5,High,High,High,Parking Electronic Payment,Physical
+Light Vehicle Driver,,,,,Parking Electronic Payment,Physical
+Freight Equipment,Class 2,Moderate,Moderate,Moderate,Smart Roadside and Virtual WIM,Physical
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Smart Roadside and Virtual WIM,Physical
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Smart Roadside and Virtual WIM,Physical
+Commercial Vehicle Driver,,,,,Smart Roadside and Virtual WIM,Physical
+Enforcement Center,Class 4,High,High,Moderate,Smart Roadside and Virtual WIM,Physical
+Commercial Vehicle Check Equipment,Class 4,High,High,Moderate,Smart Roadside and Virtual WIM,Physical
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Smart Roadside and Virtual WIM,Physical
+Commercial Vehicle Inspector,,,,,Smart Roadside and Virtual WIM,Physical
+Other CV Administration Centers,Class 4,High,High,Moderate,Smart Roadside and Virtual WIM,Physical
+Basic Commercial Vehicle,,,,,Smart Roadside and Virtual WIM,Physical
+Driver Identification Card,Class 4,High,Moderate,Moderate,Smart Roadside and Virtual WIM,Physical
+Center,Class 5,High,High,High,Center Maintenance,Physical
+Service Monitor System,Class 5,High,High,High,Center Maintenance,Physical
+Center Personnel,,,,,Center Maintenance,Physical
+Support Maintenance Personnel,,,,,Center Maintenance,Physical
+Support Maintenance Equipment,Class 5,Moderate,High,High,Center Maintenance,Physical
+Driver,,,,,Management of Electronic Traffic Regulations (METR),Physical
+Vehicle,Class 2,Moderate,Moderate,Moderate,Management of Electronic Traffic Regulations (METR),Physical
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR),Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR),Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR),Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Management of Electronic Traffic Regulations (METR),Physical
+Maint and Constr Vehicle OBE,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR),Physical
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR),Physical
+Traveler,,,,,Management of Electronic Traffic Regulations (METR),Physical
+METR System,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR),Physical
+Other METR Distribution Centers,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR),Physical
+Non-METR Distribution Center,Class 2,Moderate,Moderate,Moderate,Management of Electronic Traffic Regulations (METR),Physical
+METR Distribution Center,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR),Physical
+METR Rule-Maker/Agent,,,,,Management of Electronic Traffic Regulations (METR),Physical
+Other METR Systems,Class 3,Moderate,High,Moderate,Management of Electronic Traffic Regulations (METR),Physical
+Driver,,,,,Loading Zone Management,Physical
+Vehicle,Class 2,Moderate,Moderate,Moderate,Loading Zone Management,Physical
+Fleet and Freight Management Center,Class 2,Moderate,Moderate,Moderate,Loading Zone Management,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Loading Zone Management,Physical
+Personal Information Device,Class 4,High,High,Moderate,Loading Zone Management,Physical
+Parking Area Equipment,Class 2,Moderate,Moderate,Moderate,Loading Zone Management,Physical
+Parking Management Center,Class 4,High,High,Moderate,Loading Zone Management,Physical
+Parking Manager,,,,,Loading Zone Management,Physical
+Vehicle Characteristics,,,,,Loading Zone Management,Physical
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Field Equipment Maintenance,Physical
+Maint and Constr Center Personnel,,,,,Field Equipment Maintenance,Physical
+Maint and Constr Field Personnel,,,,,Field Equipment Maintenance,Physical
+Center,Class 3,Moderate,High,Moderate,Field Equipment Maintenance,Physical
+Field Maintenance Equipment,Class 5,Moderate,High,High,Field Equipment Maintenance,Physical
+Service Monitor System,Class 2,Moderate,Moderate,Moderate,Field Equipment Maintenance,Physical
+Field,Class 5,Moderate,Moderate,High,Field Equipment Maintenance,Physical
+Center Personnel,,,,,Field Equipment Maintenance,Physical
+Field System Operator,,,,,Field Equipment Maintenance,Physical
+Driver,,,,,Vehicle Maintenance,Physical
+Vehicle,Class 3,Moderate,High,Moderate,Vehicle Maintenance,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Vehicle Maintenance,Physical
+Service Monitor System,Class 2,Moderate,Moderate,Moderate,Vehicle Maintenance,Physical
+Basic Vehicle,,,,,Vehicle Maintenance,Physical
+Vehicle Service Center,Class 3,Moderate,High,Moderate,Vehicle Maintenance,Physical
+Maint and Constr Field Personnel,,,,,Personnel Device Maintenance,Physical
+Center,Class 4,High,High,Moderate,Personnel Device Maintenance,Physical
+Service Monitor System,Class 2,Moderate,Moderate,Moderate,Personnel Device Maintenance,Physical
+Center Personnel,,,,,Personnel Device Maintenance,Physical
+Personnel Device,Class 4,High,High,Moderate,Personnel Device Maintenance,Physical
+Cooperative ITS Credentials Management System,Class 5,High,High,High,Device Certification and Enrollment,Physical
+Credentials Management System Operator,,,,,Device Certification and Enrollment,Physical
+Other Credentials Management Systems,Class 5,High,High,High,Device Certification and Enrollment,Physical
+ITS Object,Class 5,High,High,High,Device Certification and Enrollment,Physical
+Certification System,Class 5,High,High,High,Device Certification and Enrollment,Physical
+Certification System Operator,,,,,Device Certification and Enrollment,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Parking Reservations,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Parking Reservations,Physical
+Traveler Support Equipment,Class 2,Moderate,Moderate,Moderate,Parking Reservations,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Parking Reservations,Physical
+Parking Manager,,,,,Parking Reservations,Physical
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Parking Reservations,Physical
+Personal Information Device,Class 4,High,High,Moderate,Stolen Vehicle Recovery,Physical
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Stolen Vehicle Recovery,Physical
+DMV,Class 4,High,High,Moderate,Stolen Vehicle Recovery,Physical
+Emergency Management Center,Class 4,High,High,Moderate,Stolen Vehicle Recovery,Physical
+Other Emergency Management Centers,Class 2,Moderate,Moderate,Moderate,Stolen Vehicle Recovery,Physical
+Emergency System Operator,,,,,Stolen Vehicle Recovery,Physical
+Traveler,,,,,Stolen Vehicle Recovery,Physical
+Basic Vehicle,,,,,Stolen Vehicle Recovery,Physical
+Light Vehicle OBE,Class 4,High,High,Moderate,Stolen Vehicle Recovery,Physical
+Driver,,,,,Tunnel Management,Physical
+Vehicle,Class 3,Low,High,Moderate,Tunnel Management,Physical
+Traffic Management Center,Class 5,High,High,High,Tunnel Management,Physical
+Maint and Constr Management Center,,,,,Tunnel Management,Physical
+ITS Roadway Equipment,Class 5,High,High,High,Tunnel Management,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Tunnel Management,Physical
+Traffic Operations Personnel,,,,,Tunnel Management,Physical
+Other Traffic Management Centers,Class 1,Low,Moderate,Moderate,Tunnel Management,Physical
+Other ITS Roadway Equipment,Class 4,High,High,Moderate,Tunnel Management,Physical
+Vehicle Characteristics,,,,,Tunnel Management,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Commercial Vehicle Parking,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Commercial Vehicle Parking,Physical
+Commercial Vehicle OBE,Class 4,High,High,Moderate,Commercial Vehicle Parking,Physical
+Fleet and Freight Management Center,Class 4,High,High,Moderate,Commercial Vehicle Parking,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Commercial Vehicle Parking,Physical
+Commercial Vehicle Driver,,,,,Commercial Vehicle Parking,Physical
+Fleet-Freight Manager,,,,,Commercial Vehicle Parking,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Commercial Vehicle Parking,Physical
+Parking Area Equipment,Class 2,Moderate,Moderate,Moderate,Commercial Vehicle Parking,Physical
+Parking Operator,,,,,Commercial Vehicle Parking,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Commercial Vehicle Parking,Physical
+Parking Manager,,,,,Commercial Vehicle Parking,Physical
+Driver,,,,,Wrong Way Vehicle Detection and Warning,Physical
+Vehicle,Class 3,Not Applicable,High,Moderate,Wrong Way Vehicle Detection and Warning,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Wrong Way Vehicle Detection and Warning,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Wrong Way Vehicle Detection and Warning,Physical
+Connected Vehicle Roadside Equipment,Class 1,Not Applicable,Moderate,Moderate,Wrong Way Vehicle Detection and Warning,Physical
+Traffic Operations Personnel,,,,,Wrong Way Vehicle Detection and Warning,Physical
+Emergency Management Center,Class 1,Low,Low,Moderate,Wrong Way Vehicle Detection and Warning,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Wrong Way Vehicle Detection and Warning,Physical
+Vehicle Characteristics,,,,,Wrong Way Vehicle Detection and Warning,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Signal Enforcement,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Signal Enforcement,Physical
+Traffic Operations Personnel,,,,,Signal Enforcement,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Low,Signal Enforcement,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Signal Enforcement,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Roadway Micro-Prediction,Physical
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Roadway Micro-Prediction,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Roadway Micro-Prediction,Physical
+Traffic Operations Personnel,,,,,Roadway Micro-Prediction,Physical
+Surface Transportation Weather Service,Class 2,Moderate,Moderate,Moderate,Roadway Micro-Prediction,Physical
+Maint and Constr Center Personnel,,,,,Roadway Micro-Prediction,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Roadway Micro-Prediction,Physical
+Fleet and Freight Management Center,Class 2,Moderate,Moderate,Moderate,International Border Registration,Physical
+Intermodal Customer System,Class 2,Moderate,Moderate,Moderate,International Border Registration,Physical
+Freight Distribution and Logistics Center,Class 2,Moderate,Moderate,Moderate,International Border Registration,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,International Border Registration,Physical
+Border Inspection Administration Center,Class 2,Moderate,Moderate,Moderate,International Border Registration,Physical
+Commercial Vehicle Administration Center,Class 2,Moderate,Moderate,Moderate,International Border Registration,Physical
+Other Border Inspection Administration Centers,Class 2,Moderate,Moderate,Moderate,International Border Registration,Physical
+Border Inspection Administration Center,Class 4,High,High,Moderate,International Border Coordination,Physical
+Border Inspection System,Class 4,High,High,Moderate,International Border Coordination,Physical
+Other Border Inspection Administration Centers,Class 2,Moderate,Moderate,Moderate,International Border Coordination,Physical
+Other Border Inspection Systems,Class 3,Moderate,High,Moderate,International Border Coordination,Physical
+Vehicle,Class 1,Low,Low,Moderate,Asset Tracking,Physical
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Asset Tracking,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Asset Tracking,Physical
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Asset Tracking,Physical
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Asset Tracking,Physical
+Maint and Constr Center Personnel,,,,,Asset Tracking,Physical
+Maint and Constr Field Personnel,,,,,Asset Tracking,Physical
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Asset Tracking,Physical
+Field,Class 1,Low,Moderate,Moderate,Asset Tracking,Physical
+Maint and Constr Vehicle Operator,,,,,Asset Tracking,Physical
+Personnel Device,Class 2,Moderate,Moderate,Moderate,Asset Tracking,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Maintenance and Construction Signal Priority,Physical
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Maintenance and Construction Signal Priority,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Maintenance and Construction Signal Priority,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Maintenance and Construction Signal Priority,Physical
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,Maintenance and Construction Signal Priority,Physical
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Maintenance and Construction Signal Priority,Physical
+Maint and Constr Center Personnel,,,,,Maintenance and Construction Signal Priority,Physical
+Maint and Constr Vehicle Operator,,,,,Maintenance and Construction Signal Priority,Physical
+Center,Class 2,Moderate,Moderate,Moderate,Remote Access,Physical
+Center Personnel,,,,,Remote Access,Physical
+Remote Access Device,Class 2,Moderate,Moderate,Moderate,Remote Access,Physical
+Traffic Management Center,Class 4,High,High,Moderate,Traffic Data Mart,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Low,Traffic Data Mart,Physical
+Connected Vehicle Roadside Equipment,Class 1,Low,Moderate,Low,Traffic Data Mart,Physical
+Transportation Information Center,Class 4,High,High,Moderate,Traffic Data Mart,Physical
+Archived Data System,Class 5,High,High,High,Traffic Data Mart,Physical
+Archived Data User System,Class 4,High,High,Low,Traffic Data Mart,Physical
+Other Archived Data Systems,Class 5,Moderate,High,High,Traffic Data Mart,Physical
+Archived Data Administrator,,,,,Traffic Data Mart,Physical
+Transit Management Center,Class 4,High,High,Moderate,Public Transportation Data Mart,Physical
+Alternate Mode Transportation Center,Class 4,High,High,Moderate,Public Transportation Data Mart,Physical
+Archived Data System,Class 5,High,High,High,Public Transportation Data Mart,Physical
+Payment Administration Center,Class 4,High,High,Moderate,Public Transportation Data Mart,Physical
+Archived Data User System,Class 4,High,High,Low,Public Transportation Data Mart,Physical
+Other Archived Data Systems,Class 5,Moderate,High,High,Public Transportation Data Mart,Physical
+Archived Data Administrator,,,,,Public Transportation Data Mart,Physical
+Traffic Management Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse,Physical
+Maint and Constr Management Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Low,Comprehensive Transportation Data Warehouse,Physical
+Connected Vehicle Roadside Equipment,Class 1,Low,Moderate,Low,Comprehensive Transportation Data Warehouse,Physical
+Intermodal Terminal,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse,Physical
+Transportation Information Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse,Physical
+Transit Management Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse,Physical
+Alternate Mode Transportation Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse,Physical
+Emissions Management Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse,Physical
+Weather Service System,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse,Physical
+Surface Transportation Weather Service,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse,Physical
+Archived Data System,Class 5,High,High,High,Comprehensive Transportation Data Warehouse,Physical
+Payment Administration Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse,Physical
+Emergency Management Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse,Physical
+Border Inspection Administration Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse,Physical
+Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse,Physical
+Archived Data User System,Class 4,High,High,Low,Comprehensive Transportation Data Warehouse,Physical
+Other Archived Data Systems,Class 5,Moderate,High,High,Comprehensive Transportation Data Warehouse,Physical
+Archived Data Administrator,,,,,Comprehensive Transportation Data Warehouse,Physical
+Other Data Sources,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse,Physical
+Asset Management System,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse,Physical
+Parking Management Center,Class 4,High,High,Moderate,Comprehensive Transportation Data Warehouse,Physical
+Archived Data System,Class 5,High,High,High,Distributed Data Warehouse,Physical
+Archived Data User System,Class 4,High,High,Low,Distributed Data Warehouse,Physical
+Other Archived Data Systems,Class 5,Moderate,High,High,Distributed Data Warehouse,Physical
+Archived Data Administrator,,,,,Distributed Data Warehouse,Physical
+Archived Data System,Class 5,High,High,High,Automated Traffic Signal Performance Measures (ATSPM),Physical
+Government Reporting Systems,Class 3,Low,High,Low,Automated Traffic Signal Performance Measures (ATSPM),Physical
+Archived Data User System,Class 4,High,High,Moderate,Automated Traffic Signal Performance Measures (ATSPM),Physical
+Other Archived Data Systems,Class 5,Moderate,High,High,Automated Traffic Signal Performance Measures (ATSPM),Physical
+Archived Data Administrator,,,,,Automated Traffic Signal Performance Measures (ATSPM),Physical
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Passive RFID Technologies,Physical
+Maint and Constr Center Personnel,,,,,Passive RFID Technologies,Physical
+Maint and Constr Field Personnel,,,,,Passive RFID Technologies,Physical
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Passive RFID Technologies,Physical
+Field,Class 1,Low,Moderate,Moderate,Passive RFID Technologies,Physical
+Personnel Device,Class 2,Moderate,Moderate,Moderate,Passive RFID Technologies,Physical
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies,Physical
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies,Physical
+Maint and Constr Center Personnel,,,,,Active RFID Technologies,Physical
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies,Physical
+Field,Class 1,Low,Moderate,Moderate,Active RFID Technologies,Physical
+Maint and Constr Vehicle Operator,,,,,Active RFID Technologies,Physical
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies and Remote Control,Physical
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies and Remote Control,Physical
+Maint and Constr Center Personnel,,,,,Active RFID Technologies and Remote Control,Physical
+Maint and Constr Field Personnel,,,,,Active RFID Technologies and Remote Control,Physical
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies and Remote Control,Physical
+Field,Class 1,Low,Moderate,Moderate,Active RFID Technologies and Remote Control,Physical
+Personnel Device,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies and Remote Control,Physical
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Active RFID Technologies and Automated Vehicle Collection,Physical
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies and Automated Vehicle Collection,Physical
+Maint and Constr Center Personnel,,,,,Active RFID Technologies and Automated Vehicle Collection,Physical
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Active RFID Technologies and Automated Vehicle Collection,Physical
+Field,Class 1,Low,Moderate,Moderate,Active RFID Technologies and Automated Vehicle Collection,Physical
+Vehicle,Class 1,Low,Low,Moderate,Asset Tracking Based Infrastructure Warnings,Physical
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Asset Tracking Based Infrastructure Warnings,Physical
+Connected Vehicle Roadside Equipment,Class 1,Low,Moderate,Moderate,Asset Tracking Based Infrastructure Warnings,Physical
+Transportation Information Center,Class 1,Low,Moderate,Moderate,Asset Tracking Based Infrastructure Warnings,Physical
+Maint and Constr Vehicle OBE,Class 1,Low,Low,Moderate,Asset Tracking Based Infrastructure Warnings,Physical
+Maint and Constr Center Personnel,,,,,Asset Tracking Based Infrastructure Warnings,Physical
+Asset Management System,Class 2,Moderate,Moderate,Moderate,Asset Tracking Based Infrastructure Warnings,Physical
+Personnel Device,Class 1,Low,Low,Moderate,Asset Tracking Based Infrastructure Warnings,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring,Physical
+Connected Vehicle Roadside Equipment,,,,,Infrastructure-Based Monitoring,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring,Physical
+Parking Area Equipment,Class 2,Moderate,Moderate,Low,Infrastructure-Based Monitoring,Physical
+Parking Operator,,,,,Infrastructure-Based Monitoring,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring,Physical
+Parking Manager,,,,,Infrastructure-Based Monitoring,Physical
+Vehicle Characteristics,,,,,Infrastructure-Based Monitoring,Physical
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring,Physical
+Light Vehicle Driver,,,,,Infrastructure-Based Monitoring,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring,Physical
+Parking Area Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring,Physical
+Parking Operator,,,,,C-ITS Based Monitoring,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring,Physical
+Parking Manager,,,,,C-ITS Based Monitoring,Physical
+Vehicle Characteristics,,,,,C-ITS Based Monitoring,Physical
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring,Physical
+Light Vehicle Driver,,,,,C-ITS Based Monitoring,Physical
+Connected Vehicle Roadside Equipment,,,,,Infrastructure-Based Monitoring,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring,Physical
+Parking Area Equipment,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring,Physical
+Parking Operator,,,,,Infrastructure-Based Monitoring,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring,Physical
+Parking Manager,,,,,Infrastructure-Based Monitoring,Physical
+Vehicle Characteristics,,,,,Infrastructure-Based Monitoring,Physical
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Infrastructure-Based Monitoring,Physical
+Light Vehicle Driver,,,,,Infrastructure-Based Monitoring,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring,Physical
+Parking Area Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring,Physical
+Parking Operator,,,,,C-ITS Based Monitoring,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring,Physical
+Parking Manager,,,,,C-ITS Based Monitoring,Physical
+Vehicle Characteristics,,,,,C-ITS Based Monitoring,Physical
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,C-ITS Based Monitoring,Physical
+Light Vehicle Driver,,,,,C-ITS Based Monitoring,Physical
+Personal Information Device,Class 4,High,High,Moderate,Local Point of Sale,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Local Point of Sale,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Local Point of Sale,Physical
+Payment Administration Center,Class 4,High,High,Moderate,Local Point of Sale,Physical
+Payment Device,Class 5,Moderate,Moderate,High,Local Point of Sale,Physical
+Parking Area Equipment,Class 5,Moderate,Moderate,High,Local Point of Sale,Physical
+Parking Operator,,,,,Local Point of Sale,Physical
+Parking Management Center,Class 4,High,High,Moderate,Local Point of Sale,Physical
+Parking Manager,,,,,Local Point of Sale,Physical
+Light Vehicle Driver,,,,,Local Point of Sale,Physical
+Personal Information Device,Class 5,High,High,High,Direct Payment Using WAW,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Direct Payment Using WAW,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Direct Payment Using WAW,Physical
+Payment Administration Center,Class 4,High,High,Moderate,Direct Payment Using WAW,Physical
+Parking Management Center,Class 5,High,High,High,Direct Payment Using WAW,Physical
+Parking Manager,,,,,Direct Payment Using WAW,Physical
+Light Vehicle OBE,,,,,Direct Payment Using WAW,Physical
+Light Vehicle Driver,,,,,Direct Payment Using WAW,Physical
+Personal Information Device,Class 4,High,High,Moderate,C-ITS Based Payment,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,C-ITS Based Payment,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,C-ITS Based Payment,Physical
+Payment Administration Center,Class 4,High,High,Moderate,C-ITS Based Payment,Physical
+Payment Device,Class 5,Moderate,Moderate,High,C-ITS Based Payment,Physical
+Parking Area Equipment,Class 5,High,High,High,C-ITS Based Payment,Physical
+Parking Operator,,,,,C-ITS Based Payment,Physical
+Parking Management Center,Class 4,High,High,Moderate,C-ITS Based Payment,Physical
+Parking Manager,,,,,C-ITS Based Payment,Physical
+Light Vehicle OBE,Class 5,High,High,High,C-ITS Based Payment,Physical
+Light Vehicle Driver,,,,,C-ITS Based Payment,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Traditional Field Control,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Traditional Field Control,Physical
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Traditional Field Control,Physical
+Emergency Personnel,,,,,Traditional Field Control,Physical
+Emergency Management Center,Class 3,Moderate,High,Moderate,Traditional Field Control,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Traditional TMC Control,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Traditional TMC Control,Physical
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Traditional TMC Control,Physical
+Emergency Personnel,,,,,Traditional TMC Control,Physical
+Emergency Management Center,Class 3,Moderate,High,Moderate,Traditional TMC Control,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Center Control,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Center Control,Physical
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,Center Control,Physical
+Emergency Personnel,,,,,Center Control,Physical
+Emergency Management Center,Class 3,Moderate,High,Moderate,Center Control,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,C-ITS Field Control,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,C-ITS Field Control,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,C-ITS Field Control,Physical
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,C-ITS Field Control,Physical
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,C-ITS Field Control,Physical
+Emergency Personnel,,,,,C-ITS Field Control,Physical
+Emergency Management Center,Class 3,Moderate,High,Moderate,C-ITS Field Control,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,C-ITS Center Control,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,C-ITS Center Control,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,C-ITS Center Control,Physical
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,C-ITS Center Control,Physical
+Emergency Vehicle OBE,Class 3,Moderate,High,Moderate,C-ITS Center Control,Physical
+Emergency Personnel,,,,,C-ITS Center Control,Physical
+Emergency Management Center,Class 3,Moderate,High,Moderate,C-ITS Center Control,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Traditional Field Control,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Traditional Field Control,Physical
+Transit Management Center,Class 1,Low,Moderate,Moderate,Traditional Field Control,Physical
+Transit Vehicle Operator,,,,,Traditional Field Control,Physical
+Transit Operations Personnel,,,,,Traditional Field Control,Physical
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Traditional Field Control,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Traditional TMC Control,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Traditional TMC Control,Physical
+Transit Management Center,Class 1,Low,Moderate,Moderate,Traditional TMC Control,Physical
+Transit Vehicle Operator,,,,,Traditional TMC Control,Physical
+Transit Operations Personnel,,,,,Traditional TMC Control,Physical
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Traditional TMC Control,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Center Control,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Center Control,Physical
+Transit Management Center,Class 1,Low,Moderate,Moderate,Center Control,Physical
+Transit Vehicle Operator,,,,,Center Control,Physical
+Transit Operations Personnel,,,,,Center Control,Physical
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Center Control,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,C-ITS Field Control,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,C-ITS Field Control,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Field Control,Physical
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,C-ITS Field Control,Physical
+Transit Management Center,Class 1,Low,Moderate,Moderate,C-ITS Field Control,Physical
+Transit Vehicle Operator,,,,,C-ITS Field Control,Physical
+Transit Operations Personnel,,,,,C-ITS Field Control,Physical
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,C-ITS Field Control,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,C-ITS Center Control,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,C-ITS Center Control,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Center Control,Physical
+Transportation Information Center,Class 1,Not Applicable,Low,Moderate,C-ITS Center Control,Physical
+Transit Management Center,Class 1,Low,Moderate,Moderate,C-ITS Center Control,Physical
+Transit Vehicle Operator,,,,,C-ITS Center Control,Physical
+Transit Operations Personnel,,,,,C-ITS Center Control,Physical
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,C-ITS Center Control,Physical
+Driver,,,,,Wide-Area Wireless,Physical
+Vehicle,Class 1,Not Applicable,Low,Moderate,Wide-Area Wireless,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Wide-Area Wireless,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Wide-Area Wireless,Physical
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Wide-Area Wireless,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Wide-Area Wireless,Physical
+Transit Vehicle Operator,,,,,Wide-Area Wireless,Physical
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Wide-Area Wireless,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Wide-Area Wireless,Physical
+Basic Vehicle,,,,,Wide-Area Wireless,Physical
+Vehicle Characteristics,,,,,Wide-Area Wireless,Physical
+Driver,,,,,Short Range Communications,Physical
+Vehicle,Class 3,Moderate,High,Moderate,Short Range Communications,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Short Range Communications,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Short Range Communications,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Short Range Communications,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Short Range Communications,Physical
+Transit Vehicle Operator,,,,,Short Range Communications,Physical
+Transit Vehicle OBE,Class 1,Low,Moderate,Moderate,Short Range Communications,Physical
+Enforcement Center,Class 2,Moderate,Moderate,Moderate,Short Range Communications,Physical
+Basic Vehicle,,,,,Short Range Communications,Physical
+Vehicle Characteristics,,,,,Short Range Communications,Physical
+Driver,,,,,Wide-Area Wireless,Physical
+Vehicle,Class 1,Not Applicable,Low,Moderate,Wide-Area Wireless,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Wide-Area Wireless,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Wide-Area Wireless,Physical
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Wide-Area Wireless,Physical
+Driver,,,,,C-ITS Short Range Communications,Physical
+Vehicle,Class 3,Low,High,Moderate,C-ITS Short Range Communications,Physical
+Other Vehicles,Class 3,Not Applicable,High,Moderate,C-ITS Short Range Communications,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,C-ITS Short Range Communications,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,C-ITS Short Range Communications,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,C-ITS Short Range Communications,Physical
+Driver,,,,,Wide Area Broadcast,Physical
+Vehicle,Class 1,Not Applicable,Low,Moderate,Wide Area Broadcast,Physical
+Traffic Management Center,Class 1,Low,Moderate,Moderate,Wide Area Broadcast,Physical
+Maint and Constr Management Center,Class 5,Low,High,High,Wide Area Broadcast,Physical
+Transportation Information Center,Class 5,Moderate,Moderate,High,Wide Area Broadcast,Physical
+Personal Information Device,Class 1,Not Applicable,Low,Low,Wide Area Broadcast,Physical
+Transit Management Center,Class 1,Low,Moderate,Moderate,Wide Area Broadcast,Physical
+Emissions Management Center,Class 1,Not Applicable,Moderate,Low,Wide Area Broadcast,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,Wide Area Broadcast,Physical
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Wide Area Broadcast,Physical
+TIC Operator,,,,,Wide Area Broadcast,Physical
+Payment Administration Center,Class 1,Low,Moderate,Low,Wide Area Broadcast,Physical
+Event Promoter System,Class 3,Moderate,High,Moderate,Wide Area Broadcast,Physical
+Emergency Management Center,Class 1,Low,Moderate,Moderate,Wide Area Broadcast,Physical
+Traveler,,,,,Wide Area Broadcast,Physical
+Traveler Support Equipment,Class 1,Not Applicable,Low,Low,Wide Area Broadcast,Physical
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,Wide Area Broadcast,Physical
+Media,Class 1,Low,Low,Moderate,Wide Area Broadcast,Physical
+Border Inspection System,Class 1,Low,Moderate,Low,Wide Area Broadcast,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Wide Area Broadcast,Physical
+Driver,,,,,C-ITS Local Broadcast,Physical
+Vehicle,Class 1,Not Applicable,Low,Low,C-ITS Local Broadcast,Physical
+Traffic Management Center,Class 1,Low,Moderate,Moderate,C-ITS Local Broadcast,Physical
+Maint and Constr Management Center,Class 5,Low,High,High,C-ITS Local Broadcast,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Low,C-ITS Local Broadcast,Physical
+Transportation Information Center,Class 5,Moderate,Moderate,High,C-ITS Local Broadcast,Physical
+Personal Information Device,Class 1,Not Applicable,Low,Low,C-ITS Local Broadcast,Physical
+Transit Management Center,Class 1,Low,Moderate,Moderate,C-ITS Local Broadcast,Physical
+Emissions Management Center,Class 1,Not Applicable,Moderate,Low,C-ITS Local Broadcast,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,C-ITS Local Broadcast,Physical
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,C-ITS Local Broadcast,Physical
+TIC Operator,,,,,C-ITS Local Broadcast,Physical
+Payment Administration Center,Class 1,Low,Moderate,Low,C-ITS Local Broadcast,Physical
+Event Promoter System,Class 3,Moderate,High,Moderate,C-ITS Local Broadcast,Physical
+Emergency Management Center,Class 1,Low,Moderate,Moderate,C-ITS Local Broadcast,Physical
+Traveler,,,,,C-ITS Local Broadcast,Physical
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,C-ITS Local Broadcast,Physical
+Media,Class 1,Low,Low,Moderate,C-ITS Local Broadcast,Physical
+Border Inspection System,Class 1,Low,Moderate,Low,C-ITS Local Broadcast,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,C-ITS Local Broadcast,Physical
+Transportation Information Center,Class 4,High,High,Moderate,Shared Use Mobility,Physical
+Personal Information Device,Class 5,High,High,High,Shared Use Mobility,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Shared Use Mobility,Physical
+TIC Operator,,,,,Shared Use Mobility,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Shared Use Mobility,Physical
+Payment Device,Class 5,Moderate,Moderate,High,Shared Use Mobility,Physical
+Traveler,,,,,Shared Use Mobility,Physical
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Shared Use Mobility,Physical
+Shared Use Transportation Center,Class 4,High,High,Moderate,Shared Use Mobility,Physical
+Micromobility Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Shared Use Mobility,Physical
+SUTC Operator,,,,,Shared Use Mobility,Physical
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Shared Use Mobility,Physical
+Transportation Information Center,Class 4,High,High,Moderate,Dynamic Ridesharing,Physical
+Personal Information Device,Class 5,High,High,High,Dynamic Ridesharing,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Dynamic Ridesharing,Physical
+TIC Operator,,,,,Dynamic Ridesharing,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Dynamic Ridesharing,Physical
+Payment Device,Class 5,Moderate,Moderate,High,Dynamic Ridesharing,Physical
+Traveler,,,,,Dynamic Ridesharing,Physical
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Dynamic Ridesharing,Physical
+Shared Use Transportation Center,Class 4,High,High,Moderate,Dynamic Ridesharing,Physical
+Micromobility Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Dynamic Ridesharing,Physical
+SUTC Operator,,,,,Dynamic Ridesharing,Physical
+Light Vehicle OBE,Class 4,High,High,Moderate,Dynamic Ridesharing,Physical
+Light Vehicle Driver,,,,,Dynamic Ridesharing,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Detector-Based Surveillance,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Detector-Based Surveillance,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Detector-Based Surveillance,Physical
+Traffic Operations Personnel,,,,,Detector-Based Surveillance,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Low,Detector-Based Surveillance,Physical
+Vehicle Characteristics,,,,,Detector-Based Surveillance,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Video Monitoring,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Video Monitoring,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Video Monitoring,Physical
+Traffic Operations Personnel,,,,,Video Monitoring,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Video Monitoring,Physical
+Vehicle Characteristics,,,,,Video Monitoring,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Bluetooth Signature Monitoring,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Bluetooth Signature Monitoring,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Bluetooth Signature Monitoring,Physical
+Traffic Operations Personnel,,,,,Bluetooth Signature Monitoring,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Low,Bluetooth Signature Monitoring,Physical
+Basic Vehicle,Class 1,Not Applicable,Moderate,Low,Bluetooth Signature Monitoring,Physical
+Vehicle,Class 2,Moderate,Moderate,Moderate,Wide-Area Wireless Communications,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Wide-Area Wireless Communications,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Wide-Area Wireless Communications,Physical
+Transit Management Center,Class 1,Low,Moderate,Low,Wide-Area Wireless Communications,Physical
+Payment Administration Center,Class 1,Low,Moderate,Low,Wide-Area Wireless Communications,Physical
+Basic Vehicle,,,,,Wide-Area Wireless Communications,Physical
+Wireless Communications  Provider System,Class 1,Not Applicable,Moderate,Low,Wide-Area Wireless Communications,Physical
+Vehicle,Class 2,Moderate,Moderate,Moderate,C-ITS Communications,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,C-ITS Communications,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Communications,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,C-ITS Communications,Physical
+Transit Management Center,Class 1,Low,Moderate,Low,C-ITS Communications,Physical
+Payment Administration Center,Class 1,Low,Moderate,Low,C-ITS Communications,Physical
+Basic Vehicle,,,,,C-ITS Communications,Physical
+Driver,,,,,Pre-Timed (Fixed Time) Control,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Pre-Timed (Fixed Time) Control,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Pre-Timed (Fixed Time) Control,Physical
+Traffic Operations Personnel,,,,,Pre-Timed (Fixed Time) Control,Physical
+Pedestrian,,,,,Pre-Timed (Fixed Time) Control,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Pre-Timed (Fixed Time) Control,Physical
+MMV User,,,,,Pre-Timed (Fixed Time) Control,Physical
+Vehicle Characteristics,,,,,Pre-Timed (Fixed Time) Control,Physical
+Driver,,,,,Fully Traffic Responsive,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Fully Traffic Responsive,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Fully Traffic Responsive,Physical
+Traffic Operations Personnel,,,,,Fully Traffic Responsive,Physical
+Pedestrian,,,,,Fully Traffic Responsive,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Fully Traffic Responsive,Physical
+MMV User,,,,,Fully Traffic Responsive,Physical
+Vehicle Characteristics,,,,,Fully Traffic Responsive,Physical
+Driver,,,,,Field Master Controlled,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Field Master Controlled,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Field Master Controlled,Physical
+Traffic Operations Personnel,,,,,Field Master Controlled,Physical
+Pedestrian,,,,,Field Master Controlled,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Field Master Controlled,Physical
+MMV User,,,,,Field Master Controlled,Physical
+Vehicle Characteristics,,,,,Field Master Controlled,Physical
+Driver,,,,,Pre-Timed (Fixed Time) Control,Physical
+Vehicle,Class 2,Moderate,Moderate,Moderate,Pre-Timed (Fixed Time) Control,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Pre-Timed (Fixed Time) Control,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Pre-Timed (Fixed Time) Control,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Pre-Timed (Fixed Time) Control,Physical
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Pre-Timed (Fixed Time) Control,Physical
+Traffic Operations Personnel,,,,,Pre-Timed (Fixed Time) Control,Physical
+Pedestrian,,,,,Pre-Timed (Fixed Time) Control,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Pre-Timed (Fixed Time) Control,Physical
+MMV User,,,,,Pre-Timed (Fixed Time) Control,Physical
+Vehicle Characteristics,,,,,Pre-Timed (Fixed Time) Control,Physical
+Driver,,,,,Fully Traffic Responsive,Physical
+Vehicle,Class 2,Moderate,Moderate,Moderate,Fully Traffic Responsive,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Fully Traffic Responsive,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Fully Traffic Responsive,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Fully Traffic Responsive,Physical
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Fully Traffic Responsive,Physical
+Traffic Operations Personnel,,,,,Fully Traffic Responsive,Physical
+Pedestrian,,,,,Fully Traffic Responsive,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Fully Traffic Responsive,Physical
+MMV User,,,,,Fully Traffic Responsive,Physical
+Vehicle Characteristics,,,,,Fully Traffic Responsive,Physical
+Driver,,,,,Field Master Controlled,Physical
+Vehicle,Class 2,Moderate,Moderate,Moderate,Field Master Controlled,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Field Master Controlled,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Field Master Controlled,Physical
+Connected Vehicle Roadside Equipment,Class 3,Moderate,High,Moderate,Field Master Controlled,Physical
+Transportation Information Center,Class 1,Not Applicable,Moderate,Moderate,Field Master Controlled,Physical
+Traffic Operations Personnel,,,,,Field Master Controlled,Physical
+Pedestrian,,,,,Field Master Controlled,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Field Master Controlled,Physical
+MMV User,,,,,Field Master Controlled,Physical
+Vehicle Characteristics,,,,,Field Master Controlled,Physical
+Driver,,,,,Dynamic Message Signs,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Dynamic Message Signs,Physical
+Maint and Constr Management Center,Class 1,Low,Low,Moderate,Dynamic Message Signs,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Dynamic Message Signs,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Dynamic Message Signs,Physical
+Transit Management Center,Class 1,Low,Low,Moderate,Dynamic Message Signs,Physical
+Traffic Operations Personnel,,,,,Dynamic Message Signs,Physical
+Emergency Management Center,Class 1,Low,Low,Moderate,Dynamic Message Signs,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Dynamic Message Signs,Physical
+Media,Class 1,Low,Low,Moderate,Dynamic Message Signs,Physical
+Driver,,,,,Advisory Radio,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Advisory Radio,Physical
+Maint and Constr Management Center,Class 1,Low,Low,Moderate,Advisory Radio,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Advisory Radio,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Advisory Radio,Physical
+Transit Management Center,Class 1,Low,Low,Moderate,Advisory Radio,Physical
+Traffic Operations Personnel,,,,,Advisory Radio,Physical
+Emergency Management Center,Class 1,Low,Low,Moderate,Advisory Radio,Physical
+Other ITS Roadway Equipment,Class 2,Moderate,Moderate,Low,Advisory Radio,Physical
+Media,Class 1,Low,Low,Moderate,Advisory Radio,Physical
+Basic Vehicle,Class 1,Not Applicable,Low,Low,Advisory Radio,Physical
+Driver,,,,,Traditional ITS Queue Warning,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Traditional ITS Queue Warning,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traditional ITS Queue Warning,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,Traditional ITS Queue Warning,Physical
+Traffic Operations Personnel,,,,,Traditional ITS Queue Warning,Physical
+Other Traffic Management Centers,Class 1,Low,Moderate,Moderate,Traditional ITS Queue Warning,Physical
+Vehicle Characteristics,,,,,Traditional ITS Queue Warning,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Traditional ITS Queue Warning,Physical
+Driver,,,,,WAW Queue Warning,Physical
+Vehicle,Class 2,Moderate,Moderate,Moderate,WAW Queue Warning,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,WAW Queue Warning,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,WAW Queue Warning,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,WAW Queue Warning,Physical
+Traffic Operations Personnel,,,,,WAW Queue Warning,Physical
+Other Traffic Management Centers,Class 1,Low,Moderate,Moderate,WAW Queue Warning,Physical
+Vehicle Characteristics,,,,,WAW Queue Warning,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,WAW Queue Warning,Physical
+Driver,,,,,C-ITS Queue Warning,Physical
+Vehicle,Class 3,Low,High,Moderate,C-ITS Queue Warning,Physical
+Other Vehicles,Class 3,Low,High,Moderate,C-ITS Queue Warning,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,C-ITS Queue Warning,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Queue Warning,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Queue Warning,Physical
+Transportation Information Center,Class 1,Low,Low,Moderate,C-ITS Queue Warning,Physical
+Traffic Operations Personnel,,,,,C-ITS Queue Warning,Physical
+Other Traffic Management Centers,Class 1,Low,Moderate,Moderate,C-ITS Queue Warning,Physical
+Basic Vehicle,,,,,C-ITS Queue Warning,Physical
+Vehicle Characteristics,,,,,C-ITS Queue Warning,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,C-ITS Queue Warning,Physical
+Driver,,,,,Traditional Reduced Speed Warning,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,Traditional Reduced Speed Warning,Physical
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Traditional Reduced Speed Warning,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Traditional Reduced Speed Warning,Physical
+Vehicle Characteristics,,,,,Traditional Reduced Speed Warning,Physical
+Driver,,,,,WAW Reduced Speed Warning,Physical
+Vehicle,Class 1,Low,Low,Moderate,WAW Reduced Speed Warning,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,WAW Reduced Speed Warning,Physical
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,WAW Reduced Speed Warning,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,WAW Reduced Speed Warning,Physical
+Transportation Information Center,Class 1,Low,Moderate,Moderate,WAW Reduced Speed Warning,Physical
+Basic Vehicle,,,,,WAW Reduced Speed Warning,Physical
+Vehicle Characteristics,,,,,WAW Reduced Speed Warning,Physical
+Driver,,,,,C-ITS Reduced Speed Warning,Physical
+Vehicle,Class 1,Low,Moderate,Moderate,C-ITS Reduced Speed Warning,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,C-ITS Reduced Speed Warning,Physical
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,C-ITS Reduced Speed Warning,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Reduced Speed Warning,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Reduced Speed Warning,Physical
+Basic Vehicle,,,,,C-ITS Reduced Speed Warning,Physical
+Vehicle Characteristics,,,,,C-ITS Reduced Speed Warning,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,Environmental Sensor Stations,Physical
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,Environmental Sensor Stations,Physical
+ITS Roadway Equipment,Class 3,Moderate,High,Moderate,Environmental Sensor Stations,Physical
+Transportation Information Center,Class 3,Low,High,Moderate,Environmental Sensor Stations,Physical
+Traffic Operations Personnel,,,,,Environmental Sensor Stations,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,Environmental Sensor Stations,Physical
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Environmental Sensor Stations,Physical
+Maint and Constr Center Personnel,,,,,Environmental Sensor Stations,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Environmental Sensor Stations,Physical
+Traffic Management Center,Class 1,Low,Moderate,Moderate,Maint and Constr Vehicle Reported,Physical
+Maint and Constr Management Center,Class 3,Moderate,High,Moderate,Maint and Constr Vehicle Reported,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,Maint and Constr Vehicle Reported,Physical
+Transportation Information Center,Class 3,Low,High,Moderate,Maint and Constr Vehicle Reported,Physical
+Traffic Operations Personnel,,,,,Maint and Constr Vehicle Reported,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,Maint and Constr Vehicle Reported,Physical
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,Maint and Constr Vehicle Reported,Physical
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Maint and Constr Vehicle Reported,Physical
+Maint and Constr Center Personnel,,,,,Maint and Constr Vehicle Reported,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,Maint and Constr Vehicle Reported,Physical
+Vehicle,Class 1,Low,Moderate,Moderate,C-ITS Vehicle Reported,Physical
+Traffic Management Center,Class 2,Moderate,Moderate,Moderate,C-ITS Vehicle Reported,Physical
+Maint and Constr Management Center,Class 1,Low,Moderate,Moderate,C-ITS Vehicle Reported,Physical
+Connected Vehicle Roadside Equipment,Class 2,Moderate,Moderate,Moderate,C-ITS Vehicle Reported,Physical
+Transportation Information Center,Class 3,Low,High,Moderate,C-ITS Vehicle Reported,Physical
+Traffic Operations Personnel,,,,,C-ITS Vehicle Reported,Physical
+Weather Service System,Class 1,Low,Moderate,Moderate,C-ITS Vehicle Reported,Physical
+Surface Transportation Weather Service,Class 1,Low,Moderate,Moderate,C-ITS Vehicle Reported,Physical
+Maint and Constr Center Personnel,,,,,C-ITS Vehicle Reported,Physical
+Roadway Environment,Class 1,Not Applicable,Low,Low,C-ITS Vehicle Reported,Physical
+Driver,,,,,Vulnerable Road User Device Transition Support,Physical
+Vehicle,Class 3,Low,High,Moderate,Vulnerable Road User Device Transition Support,Physical
+Traveler,,,,,Vulnerable Road User Device Transition Support,Physical
+Personal,Class 3,Low,High,Moderate,Vulnerable Road User Device Transition Support,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Low,Vulnerable Road User Clustering,Physical
+Personal Information Device,Class 3,Moderate,High,Moderate,Vulnerable Road User Clustering,Physical
+Pedestrian,,,,,Vulnerable Road User Clustering,Physical
+MMV User,,,,,Vulnerable Road User Clustering,Physical
+Other PIDs,Class 3,Low,High,Moderate,Vulnerable Road User Clustering,Physical
+Micromobility Vehicle OBE,Class 3,Moderate,High,Moderate,Vulnerable Road User Clustering,Physical
+Other Micromobility Vehicle OBEs,Class 3,Low,High,Moderate,Vulnerable Road User Clustering,Physical
+Maint and Constr Management Center,Class 5,Low,High,High,Personal Wayfinding,Physical
+Transportation Information Center,Class 5,Moderate,Moderate,High,Personal Wayfinding,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,Personal Wayfinding,Physical
+Transit Management Center,Class 1,Low,Moderate,Moderate,Personal Wayfinding,Physical
+Alternate Mode Transportation Center,Class 1,Low,Moderate,Low,Personal Wayfinding,Physical
+TIC Operator,,,,,Personal Wayfinding,Physical
+Traveler,,,,,Personal Wayfinding,Physical
+Traveler Support Equipment,Class 2,Moderate,Moderate,Moderate,Personal Wayfinding,Physical
+Other Transportation Information Centers,Class 2,Moderate,Moderate,Moderate,Personal Wayfinding,Physical
+MMV User,,,,,Personal Wayfinding,Physical
+Micromobility Vehicle OBE,Class 2,Moderate,Moderate,Moderate,Personal Wayfinding,Physical
+Personal Safety Device,Class 1,Low,Moderate,Moderate,Personal Wayfinding,Physical
+Pathway Equipment,Class 2,Moderate,Moderate,Moderate,Personal Wayfinding,Physical
+Pathway Communications Unit,Class 1,Not Applicable,Moderate,Low,Personal Wayfinding,Physical
+Traffic Management Center,Class 3,Moderate,High,Moderate,One-Way Convoy Driving,Physical
+Maint and Constr Management Center,Class 2,Moderate,Moderate,Moderate,One-Way Convoy Driving,Physical
+ITS Roadway Equipment,Class 2,Moderate,Moderate,Moderate,One-Way Convoy Driving,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,One-Way Convoy Driving,Physical
+Personal Information Device,Class 2,Moderate,Moderate,Moderate,One-Way Convoy Driving,Physical
+Maint and Constr Vehicle OBE,Class 2,Moderate,Moderate,Moderate,One-Way Convoy Driving,Physical
+Other MCV OBEs,Class 1,Low,Moderate,Low,One-Way Convoy Driving,Physical
+Maint and Constr Vehicle Operator,,,,,One-Way Convoy Driving,Physical
+Light Vehicle OBE,Class 2,Moderate,Moderate,Moderate,One-Way Convoy Driving,Physical
+Light Vehicle Driver,,,,,One-Way Convoy Driving,Physical
+Personal Information Device,Class 5,High,High,High,Account-based,Physical
+Transit Management Center,Class 4,High,High,Moderate,Account-based,Physical
+Transit Vehicle OBE,Class 5,Moderate,Moderate,High,Account-based,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Account-based,Physical
+Payment Administration Center,Class 5,High,High,High,Account-based,Physical
+ITS Roadway Payment Equipment,Class 5,Moderate,Moderate,High,Account-based,Physical
+Payment Device,Class 5,Moderate,Moderate,High,Account-based,Physical
+Other Payment Administration Centers,Class 3,Moderate,High,Moderate,Account-based,Physical
+Parking Area Equipment,Class 5,Moderate,Moderate,High,Account-based,Physical
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Account-based,Physical
+Parking Management Center,Class 4,High,High,Moderate,Account-based,Physical
+Shared Use Transportation Center,Class 2,Moderate,Moderate,Moderate,Account-based,Physical
+Eligibility Certification Management System,Class 2,Moderate,Moderate,Moderate,Account-based,Physical
+Light Vehicle OBE,Class 5,High,High,High,Account-based,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Card-based,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Card-based,Physical
+Transit Vehicle OBE,Class 5,Moderate,Moderate,High,Card-based,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Card-based,Physical
+Payment Administration Center,Class 3,Moderate,High,Moderate,Card-based,Physical
+ITS Roadway Payment Equipment,Class 5,Moderate,Moderate,High,Card-based,Physical
+Payment Device,Class 5,Moderate,Moderate,High,Card-based,Physical
+Other Payment Administration Centers,Class 3,Moderate,High,Moderate,Card-based,Physical
+Parking Area Equipment,Class 5,Moderate,Moderate,High,Card-based,Physical
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Card-based,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Card-based,Physical
+Shared Use Transportation Center,Class 2,Moderate,Moderate,Moderate,Card-based,Physical
+Eligibility Certification Management System,Class 2,Moderate,Moderate,Moderate,Card-based,Physical
+Light Vehicle OBE,Class 5,Moderate,Moderate,High,Card-based,Physical
+Personal Information Device,Class 5,High,High,High,"Account-based, personal transport and shared use",Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,"Account-based, personal transport and shared use",Physical
+Payment Administration Center,Class 5,High,High,High,"Account-based, personal transport and shared use",Physical
+ITS Roadway Payment Equipment,Class 5,Moderate,Moderate,High,"Account-based, personal transport and shared use",Physical
+Payment Device,Class 5,Moderate,Moderate,High,"Account-based, personal transport and shared use",Physical
+Other Payment Administration Centers,Class 3,Moderate,High,Moderate,"Account-based, personal transport and shared use",Physical
+Parking Area Equipment,Class 5,Moderate,Moderate,High,"Account-based, personal transport and shared use",Physical
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,"Account-based, personal transport and shared use",Physical
+Parking Management Center,Class 4,High,High,Moderate,"Account-based, personal transport and shared use",Physical
+Shared Use Transportation Center,Class 2,Moderate,Moderate,Moderate,"Account-based, personal transport and shared use",Physical
+Eligibility Certification Management System,Class 2,Moderate,Moderate,Moderate,"Account-based, personal transport and shared use",Physical
+Light Vehicle OBE,Class 5,High,High,High,"Account-based, personal transport and shared use",Physical
+Personal Information Device,Class 5,High,High,High,Account-based with all modes,Physical
+Transit Management Center,Class 4,High,High,Moderate,Account-based with all modes,Physical
+Transit Vehicle OBE,Class 5,Moderate,Moderate,High,Account-based with all modes,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Account-based with all modes,Physical
+Payment Administration Center,Class 5,High,High,High,Account-based with all modes,Physical
+ITS Roadway Payment Equipment,Class 5,Moderate,Moderate,High,Account-based with all modes,Physical
+Payment Device,Class 5,Moderate,Moderate,High,Account-based with all modes,Physical
+Other Payment Administration Centers,Class 3,Moderate,High,Moderate,Account-based with all modes,Physical
+Parking Area Equipment,Class 5,Moderate,Moderate,High,Account-based with all modes,Physical
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Account-based with all modes,Physical
+Parking Management Center,Class 4,High,High,Moderate,Account-based with all modes,Physical
+Shared Use Transportation Center,Class 2,Moderate,Moderate,Moderate,Account-based with all modes,Physical
+Eligibility Certification Management System,Class 2,Moderate,Moderate,Moderate,Account-based with all modes,Physical
+Light Vehicle OBE,Class 5,High,High,High,Account-based with all modes,Physical
+Transportation Information Center,Class 2,Moderate,Moderate,Moderate,Pay-as-you-go,Physical
+Personal Information Device,Class 4,High,High,Moderate,Pay-as-you-go,Physical
+Transit Management Center,Class 2,Moderate,Moderate,Moderate,Pay-as-you-go,Physical
+Transit Vehicle OBE,Class 5,Moderate,Moderate,High,Pay-as-you-go,Physical
+Financial Center,Class 2,Moderate,Moderate,Moderate,Pay-as-you-go,Physical
+Payment Administration Center,Class 4,High,High,Moderate,Pay-as-you-go,Physical
+ITS Roadway Payment Equipment,Class 5,Moderate,Moderate,High,Pay-as-you-go,Physical
+Payment Device,Class 5,Moderate,Moderate,High,Pay-as-you-go,Physical
+Other Payment Administration Centers,Class 3,Moderate,High,Moderate,Pay-as-you-go,Physical
+Parking Area Equipment,Class 5,Moderate,Moderate,High,Pay-as-you-go,Physical
+Traveler Support Equipment,Class 5,Moderate,Moderate,High,Pay-as-you-go,Physical
+Parking Management Center,Class 2,Moderate,Moderate,Moderate,Pay-as-you-go,Physical
+Shared Use Transportation Center,Class 2,Moderate,Moderate,Moderate,Pay-as-you-go,Physical
+Eligibility Certification Management System,Class 2,Moderate,Moderate,Moderate,Pay-as-you-go,Physical
+Light Vehicle OBE,Class 5,Moderate,Moderate,High,Pay-as-you-go,Physical
+Driver,,,,,Maneuver Coordination,Physical
+Vehicle,Class 3,Low,High,Moderate,Maneuver Coordination,Physical
+Other Vehicles,Class 3,Low,High,Moderate,Maneuver Coordination,Physical
+Emergency Vehicle OBE,Class 3,Low,High,Low,Maneuver Coordination,Physical
+Basic Vehicle,,,,,Maneuver Coordination,Physical
+Vehicle Characteristics,,,,,Maneuver Coordination,Physical
+Potential Obstacles,,,,,Maneuver Coordination,Physical
+Vulnerable Road Users,,,,,Maneuver Coordination,Physical
