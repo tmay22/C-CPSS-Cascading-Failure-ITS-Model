@@ -7,10 +7,10 @@ import csv
 def buildFromPath(path):
 
     # Set sub-paths for nodes and realtionships csvs
-    nodePath = path+"Physical_Nodes.csv"
-    nodeSecurity = path + "Physical_Security.csv"
-    nodeFlows = path+"InformationFlow_Triples.csv"
-    flowSecurity = path + "InformationFlow_SecurityDetails.csv"
+    nodePath = path+"Node_Names.csv"
+    nodeSecurity = path + "Node_Security.csv"
+    nodeFlows = path+"Flow_SourceDest.csv"
+    flowSecurity = path + "Flow_Security.csv"
 
 
     # Create System Nodes
@@ -31,7 +31,8 @@ def buildFromPath(path):
                 newCyber = row[1]
                 newPhysical = row[2]
                 newSocial = row[3]
-                newFunctions = row[4]
+                newLayer = row[4]
+
 
                 # Check if name already exists
                 if newName not in Globals.systemList:
@@ -43,10 +44,10 @@ def buildFromPath(path):
                     if newSocial == '1':
                         social = True
                     # Make Obj
-                    sysObj = CPSS_System.systemNode(name,cyber,physical,social)
-                    sysObj.functions = newFunctions
+                    sysObj = CPSS_System.systemNode(name,cyber,physical,social,newLayer)
+                    newArchName = f'[{newLayer}] {name}'
                     # Add to Globals
-                    Globals.systemList[name] = sysObj      
+                    Globals.systemList[newArchName] = sysObj      
             lineCount = lineCount+1
     # Cleanup
 
@@ -76,10 +77,13 @@ def buildFromPath(path):
                 newIntegrity = row[3]
                 newAvailability = row[4]
                 newServicePackage = row[5]
+                newArchitecture = row[6]
+
+                name = f'[{newArchitecture}] {newNodeName}'
 
                 # Check if name exists, add to object's security dict
-                if newNodeName in Globals.systemList:
-                    currentSystemObj = Globals.systemList[newNodeName]
+                if name in Globals.systemList:
+                    currentSystemObj = Globals.systemList[name]
                     currentDict = currentSystemObj.securityDict
                     newCIA = CPSS_System.ciaTriad(newConfidentiality, newIntegrity, newAvailability, newSecurityClass)      
                     currentDict[newServicePackage]=newCIA
@@ -109,20 +113,24 @@ def buildFromPath(path):
                 sourceInput = row[0]
                 flowInput = row[1]
                 destInput = row[2]
+                sourceType = row[3]
+                destType = row[4]
 
+                sourceName = f'[{sourceType}] {sourceInput}'
+                destName = f'[{destType}] {destInput}'
                 checkSrc = False
                 checkDst = False
                 # Check if name existts
-                if sourceInput in Globals.systemList:
+                if sourceName in Globals.systemList:
                     checkSrc = True
-                if destInput in Globals.systemList:
+                if destName in Globals.systemList:
                     checkDst = True
 
                 # If both nodes exist create relationships
                 if checkSrc and checkDst:
                     # Assign src and dest vals
-                    sourceNode = sourceInput
-                    destNode = destInput
+                    sourceNode = sourceName
+                    destNode = destName
                     
                     # Get Global Obj
                     dstObj = Globals.systemList[destNode]
@@ -132,9 +140,21 @@ def buildFromPath(path):
                     srcObj.addDegree()
                     dstObj.addAffectedBy(srcObj, 100)
                     
-                    # Create new information flow in Globals
-                    newFlow = CPSS_System.informationFlow(flowInput, srcObj, dstObj)
-                    Globals.informationFlowList[flowInput] = newFlow
+                    # Create new information flow in Globals as long as it isn't a relationship
+                    if 'relationship' not in flowInput:
+                        if flowInput in Globals.informationFlowList:
+                            activeFlow = Globals.informationFlowList[flowInput]
+                            sourceDest = srcObj, dstObj
+                            activeFlow.sourceDestList.append(sourceDest)
+                        else:
+                            activeFlow = CPSS_System.informationFlow(flowInput)
+                            sourceDest = srcObj, dstObj
+                            activeFlow.sourceDestList.append(sourceDest)
+                            Globals.informationFlowList[flowInput] = activeFlow
+                    
+
+
+                   
                     
             lineCount = lineCount + 1
 

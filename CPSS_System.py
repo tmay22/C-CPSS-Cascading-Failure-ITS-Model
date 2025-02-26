@@ -41,13 +41,15 @@ class systemNode:
     # reachability : percentage of nodes in network that can be reached by this node
     # degree: amount of connections out
     # securityDict: security dictionary of serviceName and CIA triad score
-    # functions = string of functions if any
+    # arcgitectureLayer: WHat layer of the Arc-ITS architecture it is (e.g. Enterprise, physical, functional)
 
 
     # Initialise object #NEED TO INPUT ITS DATABASE TYPE
-    def __init__(self, inputName, inputCyber, inputPhysical, inputSocial):
+    def __init__(self, inputName, inputCyber, inputPhysical, inputSocial, inputArchitectureLayer):
         self.id = uuid4()
-        self.sysName = inputName
+        tempName = f'[{inputArchitectureLayer}] {inputName}'
+        self.sysName = tempName
+        self.describeName = inputName
         self.isCyber = inputCyber
         self.isPhysical = inputPhysical
         self.isSocial = inputSocial
@@ -56,7 +58,7 @@ class systemNode:
         self.degree = 0
         self.reachability = 0
         self.securityDict = {}
-        self.functions = "empty"
+        self.architectureLayer=inputArchitectureLayer
 
 
     
@@ -106,13 +108,12 @@ class informationFlow:
     # securityDict = dictionary of serviceName and CIA triad score
     # useFips = T/F FIPS standards
 
-    def __init__(self, inputFlowName, inputSrcObj, inputDestObj):
+    def __init__(self, inputFlowName,):
         self.flowName = inputFlowName
         self.securityTriad = "empty"
         self.canAuthenticate = False
         self.useFips = False
-        self.srcObj = inputSrcObj
-        self.destObj = inputDestObj
+        self.sourceDestList = []
 
 class CPSS_forGraph:
     

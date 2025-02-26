@@ -19,7 +19,7 @@ def mainMenu():
             print(" TODO #(2) See consequence of Outage and Cascading Failure data (With Criticality)")
             print("(3) Print system key data")
             print("(4) Graph output of whole system")
-            print("(5) Sort nodes by highest Cyber reachability")
+            print("(5) Sort nodes by highest Cyber reachability (Physical ITS Architecture Layer)")
             print("# TODO (6) Compare CPS and CPSS Consequence Simulations")
             print("(B) Back ")
             queryData= input("Choose Option: ")
@@ -132,11 +132,11 @@ def menu_3_SystemKeyData():
     finalAffector = []
     finalAffectedBy = []
 
-    for affector, criticality in affectorDict:
-        finalAffector.append(affector)
+    for item in affectorDict:
+        finalAffector.append(item.sysName)
     
-    for affectedBy, criticality in affectedByDict:
-        finalAffectedBy.append(affectedBy)
+    for item in affectedByDict:
+        finalAffectedBy.append(item.sysName)
 
     # Print output
     print(f'Key data for {node}\nCyber: {isCyber} | Physical: {isPhysical} | Social: {isSocial}')
@@ -156,7 +156,7 @@ def menu_4_GraphGlobalNetwork():
   
 def menu_5_SortCyberReachability():
     print("----------------------------------------")
-    print("Sort and Print Nodes with Descending from Highest Cyber Reachability")
+    print("Sort and Print Nodes with Descending from Highest Cyber Reachability (Physical ITS Architecture Layer)")
     print("----------------------------------------")
     
     valDict = {}
@@ -164,10 +164,11 @@ def menu_5_SortCyberReachability():
     for keyEntry in Globals.systemList:
         currentObj = Globals.systemList[keyEntry]
         if currentObj.isCyber:
-            if currentObj.reachability in valDict:
-                valDict[currentObj.reachability].append(currentObj.sysName)
-            else:
-                valDict[currentObj.reachability] = [currentObj.sysName]
+            if "Physical" in currentObj.architectureLayer:
+                if currentObj.reachability in valDict:
+                    valDict[currentObj.reachability].append(currentObj.sysName)
+                else:
+                    valDict[currentObj.reachability] = [currentObj.sysName]
     
     keys = list(valDict.keys())
     keys.sort(reverse=True)
