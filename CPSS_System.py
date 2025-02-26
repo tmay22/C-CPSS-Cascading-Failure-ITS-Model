@@ -42,7 +42,7 @@ class systemNode:
     # degree: amount of connections out
     # securityDict: security dictionary of serviceName and CIA triad score
     # arcgitectureLayer: WHat layer of the Arc-ITS architecture it is (e.g. Enterprise, physical, functional)
-
+    # noSocialReachability : percentage of all nodes in network that can be reached by this node if exclusive social nodes are removed (of origianl node count)
 
     # Initialise object #NEED TO INPUT ITS DATABASE TYPE
     def __init__(self, inputName, inputCyber, inputPhysical, inputSocial, inputArchitectureLayer):
@@ -57,6 +57,7 @@ class systemNode:
         self.affectedByDict = {}
         self.degree = 0
         self.reachability = 0
+        self.noSocialReachability = 0
         self.securityDict = {}
         self.architectureLayer=inputArchitectureLayer
 
@@ -91,6 +92,36 @@ class systemNode:
             if currentLevelList:
                 for item in currentLevelList:
                     itemEffects = item.queryConsequences(maximumOrderOfEffect, currentOrderOfEffect)
+                    if itemEffects:
+                        for key in itemEffects:
+                            if key in currentRecursionDict:
+                                currentRecursionDict[key].extend(itemEffects[key])
+                            else:
+                                currentRecursionDict[key]=(itemEffects[key])
+            return currentRecursionDict
+        else:
+            breakpoint  
+
+    # Query what consequences failure of one node may have on the systems
+    # Note does not remove duplicates
+    # Does not consider nodes that are only social
+    def queryConsequences_noSocial(self,  maximumOrderOfEffect, currentOrderOfEffect):
+        # check to see if this has gone too far donw and stop infinite recursion
+        if currentOrderOfEffect < maximumOrderOfEffect:
+            # increase orderOfEffect
+            currentOrderOfEffect = currentOrderOfEffect + 1
+            currenntLevelAffectors = self.affectorDict
+            currentLevelList = []
+            for sysObj in currenntLevelAffectors:
+                sysName, criticality = currenntLevelAffectors[sysObj]
+                if sysObj.isCyber or sysObj.isPhysical:
+                    if not sysObj.isSocial:
+                        currentLevelList.append(sysObj)
+            currentRecursionDict = {}
+            currentRecursionDict[currentOrderOfEffect] = currentLevelList
+            if currentLevelList:
+                for item in currentLevelList:
+                    itemEffects = item.queryConsequences_noSocial(maximumOrderOfEffect, currentOrderOfEffect)
                     if itemEffects:
                         for key in itemEffects:
                             if key in currentRecursionDict:

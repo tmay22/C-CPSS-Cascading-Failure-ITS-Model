@@ -1,0 +1,2185 @@
+﻿InformationFlowName,Confidentiality,Integrity,Availability,FIPSsStandard
+transit vehicle operator signal indications,Not Applicable,High,Moderate,TRUE
+detected unequipped vehicles and VRUs,Not Applicable,High,Moderate,TRUE
+detected obstacles,Not Applicable,High,Moderate,TRUE
+detected unequipped vehicles and VRUs,Not Applicable,High,Moderate,TRUE
+detected obstacles,Not Applicable,High,Moderate,TRUE
+vehicle maneuver coordination,Low,High,Low,TRUE
+detected unequipped vehicles and VRUs,Not Applicable,High,Moderate,TRUE
+special vehicle alert,Moderate,High,Moderate,TRUE
+special vehicle alert,Moderate,High,Moderate,TRUE
+special vehicle alert,Moderate,High,Moderate,TRUE
+special vehicle alert,Moderate,High,Moderate,TRUE
+vehicle maneuver coordination,Low,High,Low,TRUE
+transit maintenance schedules,Low,Moderate,Moderate,TRUE
+detected obstacles,Not Applicable,High,Moderate,TRUE
+detected unequipped vehicles and VRUs,Not Applicable,High,Moderate,TRUE
+detected unequipped vehicles and VRUs,Not Applicable,High,Moderate,TRUE
+detected unequipped vehicles and VRUs,Not Applicable,High,Moderate,TRUE
+detected unequipped vehicles and VRUs,Not Applicable,High,Moderate,TRUE
+vehicle maneuver coordination,Low,High,Low,TRUE
+detected obstacles,Not Applicable,High,Moderate,TRUE
+detected unequipped vehicles and VRUs,Not Applicable,High,Moderate,TRUE
+detected unequipped vehicles and VRUs,Not Applicable,High,Moderate,TRUE
+detected obstacles,Not Applicable,High,Moderate,TRUE
+detected obstacles,Not Applicable,High,Moderate,TRUE
+special vehicle alert,Not Applicable,High,Moderate,TRUE
+incident information for public,Low,Moderate,Moderate,TRUE
+low emissions zone operations information for public,Low,Moderate,Moderate,TRUE
+incident information for public,Low,Moderate,Moderate,TRUE
+incident information for public,Low,Moderate,Moderate,TRUE
+border clearance event records,Moderate,Moderate,Moderate,TRUE
+incident information for public,Low,Moderate,Moderate,TRUE
+incident information for public,Low,Moderate,Moderate,TRUE
+evacuation assistance information,Low,High,Moderate,TRUE
+shelter recommendations,Low,Moderate,Moderate,TRUE
+broadcast traveler information,Not Applicable,Moderate,Low,TRUE
+road weather advisories,Low,High,Moderate,TRUE
+trip plan,Moderate,Moderate,Moderate,TRUE
+emergency traveler information,Low,High,Moderate,TRUE
+parking plan,Moderate,Moderate,Moderate,TRUE
+transit fare request,Low,Moderate,Low,TRUE
+transit trip request,Moderate,Moderate,Low,TRUE
+demand responsive transit request,Moderate,Moderate,Moderate,TRUE
+trip confirmation,Moderate,Moderate,Moderate,TRUE
+guidance updates,Low,Moderate,Low,TRUE
+traveler alerts,Moderate,Moderate,Low,TRUE
+wayfinding information,Moderate,Moderate,Moderate,TRUE
+interactive traveler information,Moderate,Moderate,Low,TRUE
+freight-specific traveler information,Moderate,Moderate,Low,TRUE
+travel services information,Low,Moderate,Low,TRUE
+road closure information,Low,Moderate,Moderate,TRUE
+lane closure information,Low,Moderate,Low,TRUE
+freight-specific traveler information,Moderate,Moderate,Low,TRUE
+parking availability,Not Applicable,Moderate,Moderate,TRUE
+wayfinding plan,Moderate,Moderate,Moderate,TRUE
+broadcast traveler information,Not Applicable,Moderate,Moderate,TRUE
+restricted lanes information,Not Applicable,Moderate,Moderate,TRUE
+reduced speed warning info,Not Applicable,Moderate,Moderate,TRUE
+road closure information,Low,Moderate,Moderate,TRUE
+lane closure information,Low,Moderate,Low,TRUE
+vehicle situation data parameters,Low,Moderate,Moderate,TRUE
+queue warning information,Low,Moderate,Low,TRUE
+road network conditions,Low,Moderate,Moderate,TRUE
+speed management information,Low,Moderate,Moderate,TRUE
+logged vehicle routes,High,Moderate,Moderate,TRUE
+intersection status,Not Applicable,Moderate,Moderate,TRUE
+road weather advisories,Low,High,Moderate,TRUE
+rest area parking request,Moderate,Moderate,Moderate,TRUE
+fleet and freight threat information,Moderate,High,High,TRUE
+driver log carrier input,High,High,Moderate,TRUE
+tax filing,High,Moderate,Low,TRUE
+automated vehicle control parameters,Low,High,Moderate,TRUE
+parking plan,Moderate,Moderate,Moderate,TRUE
+parking plan,Moderate,Moderate,Moderate,TRUE
+toll data,Low,Moderate,Low,TRUE
+freight-specific traveler information,Moderate,Moderate,Low,TRUE
+parking availability,Not Applicable,Moderate,Moderate,TRUE
+service information request,Moderate,Moderate,Low,TRUE
+road weather advisories,Low,High,Moderate,TRUE
+road network environmental situation data,Low,High,Moderate,TRUE
+road network environmental situation data,Low,Moderate,Moderate,TRUE
+fare and price information,Low,Moderate,Moderate,TRUE
+freight-specific traveler information,Moderate,Moderate,Low,TRUE
+parking availability,Not Applicable,Moderate,Moderate,TRUE
+traveler information application info,Moderate,Moderate,Low,TRUE
+road weather advisory info,Low,High,Moderate,TRUE
+road network environmental situation data,Low,High,Moderate,TRUE
+road network traffic situation data,Moderate,Moderate,Moderate,TRUE
+freight-specific traveler information,Moderate,Moderate,Low,TRUE
+smart card reconciliation,Moderate,Moderate,Moderate,TRUE
+electric charging services inventory,Low,Moderate,Moderate,TRUE
+toll data request,Moderate,Moderate,Moderate,TRUE
+electric charging information,Low,Moderate,Moderate,TRUE
+traveler information for media,Low,Moderate,Moderate,TRUE
+social media presence,Moderate,Moderate,Low,TRUE
+voice-based alert notification,Low,Moderate,High,TRUE
+voice-based traveler information,Low,Moderate,Low,TRUE
+parking reservation request,Moderate,Moderate,Moderate,TRUE
+loading zone reservation request,Moderate,Moderate,Moderate,TRUE
+trip plan,Moderate,Moderate,Moderate,TRUE
+traveler alerts,Moderate,Moderate,Low,TRUE
+wayfinding information,Moderate,Moderate,Moderate,TRUE
+wayfinding plan,Moderate,Moderate,Moderate,TRUE
+guidance updates,Low,Moderate,Low,TRUE
+alternate mode information,Low,Moderate,Low,TRUE
+traveler alerts,Moderate,Moderate,Low,TRUE
+work and rest declarations,Moderate,Moderate,Moderate,TRUE
+alert response,Moderate,Moderate,Moderate,TRUE
+cv driver input,Moderate,Moderate,Moderate,TRUE
+electric charging reservation request,Moderate,Moderate,Moderate,TRUE
+guidance updates,Low,Moderate,Low,TRUE
+pathway equipment application info,Moderate,Moderate,Moderate,TRUE
+parking plan,Moderate,Moderate,Moderate,TRUE
+trip plan,Moderate,Moderate,Moderate,TRUE
+travel services information,Low,Moderate,Low,TRUE
+interactive traveler information,Moderate,Moderate,Low,TRUE
+shelter recommendations,Low,Moderate,Moderate,TRUE
+evacuation assistance information,Low,High,Moderate,TRUE
+emergency traveler information,Low,High,Moderate,TRUE
+transit service information,Low,Moderate,Low,TRUE
+infrastructure safety warning notification,Low,Moderate,Moderate,TRUE
+trip plan,Moderate,Moderate,Moderate,TRUE
+road network environmental situation data,Low,Moderate,Moderate,TRUE
+TIC operations information presentation,Moderate,High,High,TRUE
+traveler archive data,Moderate,Moderate,Low,TRUE
+payment request,Moderate,Moderate,Moderate,TRUE
+account updates,Moderate,Moderate,Moderate,TRUE
+commercial vehicle location data,Moderate,Moderate,Moderate,TRUE
+trip access coordination,Moderate,Moderate,Moderate,TRUE
+road network environmental situation data,Low,High,Moderate,TRUE
+road weather advisories,Low,High,Moderate,TRUE
+road network conditions,Low,Moderate,Moderate,TRUE
+alert status,High,High,High,TRUE
+emergency traveler information,Low,High,Moderate,TRUE
+evacuee match information,Low,High,Moderate,TRUE
+traffic image meta data,Low,Moderate,Moderate,TRUE
+travel services information,Low,Moderate,Low,TRUE
+parking information,Moderate,Moderate,Moderate,TRUE
+emergency traveler information,Low,High,Moderate,TRUE
+road network conditions,Low,Moderate,Moderate,TRUE
+traffic images,Low,Moderate,Low,TRUE
+wayfinding plan,Moderate,Moderate,Moderate,TRUE
+travel service information request,Low,Moderate,Moderate,TRUE
+parking plan,Moderate,Moderate,Moderate,TRUE
+travel service reservation request,Low,Moderate,Moderate,TRUE
+interactive traveler information,Moderate,Moderate,Low,TRUE
+shelter recommendations,Low,Moderate,Moderate,TRUE
+evacuation assistance information,Low,High,Moderate,TRUE
+emergency traveler information,Low,High,Moderate,TRUE
+broadcast traveler information,Not Applicable,Moderate,Low,TRUE
+road network environmental situation data,Low,Moderate,Moderate,TRUE
+wayfinding information,Moderate,Moderate,Moderate,TRUE
+freight traveler information preferences,Moderate,Moderate,Moderate,TRUE
+driver operations feedback,Not Applicable,Moderate,Moderate,TRUE
+commercial vehicle driver updates,Low,Moderate,Moderate,TRUE
+CVO pass/pull-in message,Not Applicable,Moderate,Moderate,TRUE
+commercial vehicle status,Low,Moderate,Moderate,TRUE
+alerts,Low,Moderate,Moderate,TRUE
+on-board safety data,High,High,Moderate,TRUE
+cv trip request,Moderate,Moderate,Low,TRUE
+cv driver safety alert,Low,High,High,TRUE
+transport order status,Moderate,Moderate,Moderate,TRUE
+cv driver safety status,Moderate,High,Moderate,TRUE
+commercial vehicle location data,Moderate,Moderate,Moderate,TRUE
+commercial vehicle identities,Moderate,Moderate,Moderate,TRUE
+trip log,Moderate,Moderate,Moderate,TRUE
+route deviation alert,High,High,Moderate,TRUE
+intermodal dispatch info,Moderate,Moderate,Moderate,TRUE
+rest area parking request,Moderate,Moderate,Moderate,TRUE
+expedited clearance registration,Moderate,Moderate,Moderate,TRUE
+electronic lock data,Low,Moderate,Low,TRUE
+border clearance data,Moderate,Moderate,Moderate,TRUE
+container seal status,Moderate,Moderate,Moderate,TRUE
+tag data,Low,Moderate,Low,TRUE
+freight equipment information,Moderate,Moderate,Moderate,TRUE
+trip log information,Moderate,Moderate,Moderate,TRUE
+commercial vehicle parking arrival/departure times,Low,Moderate,Moderate,TRUE
+cv driver information presentation,Low,Moderate,Moderate,TRUE
+commercial vehicle identities,Moderate,Moderate,Moderate,TRUE
+commercial vehicle location data,Moderate,Moderate,Moderate,TRUE
+hazmat notification,Moderate,High,High,TRUE
+hazmat notification,Moderate,High,High,TRUE
+freight delivery status,Moderate,Moderate,Moderate,TRUE
+on-board vehicle data,Moderate,Moderate,Moderate,TRUE
+tag data,Low,Moderate,Low,TRUE
+tag data,Low,Moderate,Low,TRUE
+driver alert response,Moderate,Moderate,Moderate,TRUE
+container pickup request,Moderate,Moderate,Moderate,TRUE
+container delivery confirmation,Moderate,Moderate,Moderate,TRUE
+container transfer location,Moderate,Moderate,Moderate,TRUE
+container identification request,Low,Moderate,Low,TRUE
+intermodal freight event information,Moderate,Moderate,Moderate,TRUE
+terminal reservation,Moderate,Moderate,Moderate,TRUE
+container manifest,Moderate,Moderate,Low,TRUE
+freight transportation status,Moderate,Moderate,Moderate,TRUE
+freight equipment information,Moderate,Moderate,Moderate,TRUE
+container seal status,Moderate,Moderate,Moderate,TRUE
+container manifest,Moderate,Moderate,Low,TRUE
+tag data,Low,Moderate,Low,TRUE
+container seal status,Moderate,Moderate,Moderate,TRUE
+container manifest,Moderate,High,Moderate,TRUE
+container seal status,Moderate,Moderate,Moderate,TRUE
+container transfer location request,Moderate,Moderate,Moderate,TRUE
+safety inspection record,Moderate,Moderate,Moderate,TRUE
+on-board safety data,High,High,Moderate,TRUE
+driver log,High,High,Moderate,TRUE
+hazmat notification,High,High,High,TRUE
+driver to fleet request,High,Moderate,Moderate,TRUE
+vehicle environmental data,Low,Moderate,Moderate,TRUE
+intermodal terminal status,Low,Moderate,Moderate,TRUE
+commercial vehicle identities,Moderate,Moderate,Moderate,TRUE
+commercial vehicle breach,Moderate,High,Moderate,TRUE
+local signal priority request,Not Applicable,Moderate,Low,TRUE
+special vehicle alert,Not Applicable,High,Moderate,TRUE
+intermodal freight archive data,Moderate,Moderate,Low,TRUE
+intermodal terminal status,Low,Moderate,Moderate,TRUE
+container availability status,Moderate,Moderate,Moderate,TRUE
+intermodal terminal status,Low,Moderate,Moderate,TRUE
+freight equipment information,Moderate,Moderate,Moderate,TRUE
+fleet status,Moderate,High,High,TRUE
+available truck capacity,Moderate,Moderate,Moderate,TRUE
+booking status,Moderate,Moderate,Moderate,TRUE
+freight breach,Moderate,High,Moderate,TRUE
+freight transportation status,Moderate,Moderate,Moderate,TRUE
+available truck capacity,Moderate,Moderate,Moderate,TRUE
+driver log,High,High,Moderate,TRUE
+fleet and freight alerts,Moderate,High,Moderate,TRUE
+container pickup confirmation,Moderate,Moderate,Moderate,TRUE
+cv trip request,Moderate,Moderate,Low,TRUE
+toll data request,Moderate,Moderate,Moderate,TRUE
+commercial vehicle trip information,Moderate,Moderate,Moderate,TRUE
+freight traveler information preferences,Moderate,Moderate,Moderate,TRUE
+driver log carrier input,High,High,Moderate,TRUE
+trip identification number,Moderate,Moderate,Low,TRUE
+booking status,Moderate,Moderate,Moderate,TRUE
+manifest data,Moderate,High,Moderate,TRUE
+cv repair status,Moderate,Moderate,Low,TRUE
+credential application,High,Moderate,Low,TRUE
+audit data,Moderate,Moderate,Low,TRUE
+malfunction report,Moderate,Moderate,Moderate,TRUE
+unique identifiers,High,High,Moderate,TRUE
+on-board safety data,High,High,Moderate,TRUE
+freight transportation status,Moderate,Moderate,Moderate,TRUE
+trigger mass data,Moderate,Moderate,Moderate,TRUE
+load appointment status,Moderate,Moderate,Moderate,TRUE
+breach response,Moderate,High,Moderate,TRUE
+hazmat information,High,High,High,TRUE
+commercial vehicle incident notification,Moderate,High,Moderate,TRUE
+hazmat notification,High,High,High,TRUE
+toll data request,Moderate,Moderate,Moderate,TRUE
+commercial vehicle disable,Low,Moderate,Low,TRUE
+driver log,High,High,Moderate,TRUE
+on-board safety data,High,High,Moderate,TRUE
+route deviation alert,High,High,Moderate,TRUE
+mass declarations,Moderate,Moderate,Low,TRUE
+speed data,Moderate,Moderate,Moderate,TRUE
+on-board vehicle data,Moderate,Moderate,Moderate,TRUE
+driver log,High,High,Moderate,TRUE
+safe vehicle disable,High,High,High,TRUE
+mass data,Moderate,Moderate,Low,TRUE
+unique identifiers,High,High,Moderate,TRUE
+combination data,Moderate,Moderate,Low,TRUE
+driver log,High,High,Moderate,TRUE
+commercial vehicle identities,Moderate,Moderate,Moderate,TRUE
+expected driver identity characteristics,High,Moderate,Moderate,TRUE
+commercial vehicle disable status,Low,Moderate,Low,TRUE
+unique identifiers,High,High,Moderate,TRUE
+screening event record,Moderate,High,Moderate,TRUE
+driver log inspector display,High,High,Moderate,TRUE
+fleet to driver update,High,Moderate,Moderate,TRUE
+request for permit,Moderate,Moderate,Moderate,TRUE
+hazmat information,High,High,High,TRUE
+safety inspection record,Moderate,Moderate,Moderate,TRUE
+trigger area,Moderate,Moderate,Low,TRUE
+trigger area notification,Low,High,Moderate,TRUE
+driver log,High,High,Moderate,TRUE
+combination declarations,Moderate,Moderate,Moderate,TRUE
+container transport assignment,High,High,Moderate,TRUE
+expected driver identity characteristics,High,Moderate,Moderate,TRUE
+freight transportation status,Moderate,Moderate,Moderate,TRUE
+terminal reservation request,Moderate,Moderate,Moderate,TRUE
+booking status,Moderate,Moderate,Moderate,TRUE
+container pickup confirmation,Moderate,Moderate,Moderate,TRUE
+container delivery request,Moderate,Moderate,Moderate,TRUE
+freight monitoring parameters,Moderate,Moderate,Low,TRUE
+road weather advisories,Low,High,Moderate,TRUE
+transit vehicle location data,Moderate,Moderate,Moderate,TRUE
+request for payment,Moderate,Moderate,High,TRUE
+authorization request,Moderate,Moderate,Moderate,TRUE
+transit vehicle operator display,Low,Moderate,Low,TRUE
+authorization request,Moderate,Moderate,Moderate,TRUE
+transit vehicle operator authentication information,Moderate,High,High,TRUE
+freight transportation status,Moderate,Moderate,Moderate,TRUE
+alarm notification,Moderate,High,Moderate,TRUE
+secure area sensor data,Moderate,Moderate,Moderate,TRUE
+demand response passenger and use data,Moderate,Moderate,Moderate,TRUE
+fare collection data,Moderate,Moderate,Moderate,TRUE
+transit vehicle emissions,Moderate,Moderate,Moderate,TRUE
+transit vehicle loading data,Moderate,Moderate,Moderate,TRUE
+transfer request,Moderate,Moderate,Moderate,TRUE
+transit vehicle schedule performance,Low,Moderate,Low,TRUE
+transit vehicle conditions,Moderate,Moderate,Moderate,TRUE
+service information response,Moderate,Moderate,Low,TRUE
+transit traveler information coordination,Low,Moderate,Moderate,TRUE
+transit fare coordination,Low,Moderate,Moderate,TRUE
+transit service coordination,Moderate,Moderate,Moderate,TRUE
+multimodal archive data,Moderate,Moderate,Low,TRUE
+alternate mode service coordination,Low,Moderate,Moderate,TRUE
+service information response,Moderate,Moderate,Moderate,TRUE
+payment device update,Moderate,Moderate,High,TRUE
+alternate mode information,Low,Moderate,Low,TRUE
+alarm notification,Moderate,High,Moderate,TRUE
+alternate mode information,Low,Moderate,Low,TRUE
+transit vehicle control,Moderate,High,High,TRUE
+collision warning information,Low,Moderate,Moderate,TRUE
+traveler interface updates,Not Applicable,Moderate,Moderate,TRUE
+secure area surveillance data,Moderate,Moderate,Moderate,TRUE
+vehicle path prediction,Not Applicable,High,Moderate,TRUE
+alternate mode service data,Moderate,Moderate,Low,TRUE
+emergency transit schedule information,Low,High,High,TRUE
+transit user information,Moderate,Moderate,Moderate,TRUE
+authorization response,Moderate,Moderate,Moderate,TRUE
+transit traveler information,Low,Moderate,Moderate,TRUE
+transit system status assessment,Moderate,Moderate,Moderate,TRUE
+transit emergency data,Moderate,High,High,TRUE
+alert status,High,High,High,TRUE
+alarm acknowledge,Moderate,High,Moderate,TRUE
+emergency plan coordination,High,High,High,TRUE
+transit incident information,Low,Moderate,Moderate,TRUE
+event transit service plans,Moderate,Moderate,Moderate,TRUE
+trip access coordination,Moderate,Moderate,Moderate,TRUE
+smart card reconciliation,Moderate,Moderate,Moderate,TRUE
+account updates,Moderate,Moderate,Moderate,TRUE
+service registry,Low,Moderate,Moderate,TRUE
+payment request,Moderate,Moderate,Moderate,TRUE
+emergency transit service response,High,High,High,TRUE
+vehicle signage data,Low,Moderate,Moderate,TRUE
+low emissions zone operations information,Moderate,Moderate,Low,TRUE
+transit vehicle information,Low,Moderate,Moderate,TRUE
+transfer status,Moderate,Moderate,Moderate,TRUE
+vehicle path prediction,Not Applicable,High,Moderate,TRUE
+transit vehicle information,Low,Moderate,Moderate,TRUE
+local signal priority request,Not Applicable,Moderate,Low,TRUE
+fare management information,High,Moderate,Moderate,TRUE
+special vehicle alert,Not Applicable,High,Moderate,TRUE
+transit traveler request,Moderate,Moderate,Moderate,TRUE
+transit operations personnel input,Moderate,High,High,TRUE
+transit vehicle operator input,Low,Moderate,Low,TRUE
+transit vehicle operator availability,Moderate,Moderate,Moderate,TRUE
+transit park and ride information,Moderate,Moderate,Low,TRUE
+transit schedule adherence information,Low,Moderate,Moderate,TRUE
+transit information for media,Low,Moderate,Moderate,TRUE
+local signal priority request,Not Applicable,Moderate,Low,TRUE
+environmental sensor control,Moderate,Moderate,Moderate,TRUE
+environmental conditions data status,Low,Moderate,Low,TRUE
+special vehicle alert,Not Applicable,High,Moderate,TRUE
+vehicle signage data,Low,Moderate,Moderate,TRUE
+driver information,Not Applicable,Moderate,Moderate,TRUE
+transportation weather information,Low,Moderate,Moderate,TRUE
+transportation weather information,Low,Moderate,Moderate,TRUE
+environmental sensor data,Low,Moderate,Moderate,TRUE
+transportation weather information,Low,Moderate,Moderate,TRUE
+work zone warning status,Moderate,Moderate,Moderate,TRUE
+roadway micro forecast,Low,Moderate,Low,TRUE
+qualified environmental conditions data,Low,Moderate,Moderate,TRUE
+environmental conditions data status,Low,Moderate,Low,TRUE
+transportation weather information,Low,Moderate,Moderate,TRUE
+roadway micro forecast,Low,Moderate,Low,TRUE
+traffic operator input,Moderate,High,High,TRUE
+transportation weather information,Low,Moderate,Moderate,TRUE
+asset locations,Moderate,Moderate,Moderate,TRUE
+work zone warning notification,Not Applicable,Moderate,Moderate,TRUE
+infrastructure monitoring sensor control,Moderate,High,Low,TRUE
+local signal priority request,Not Applicable,Moderate,Low,TRUE
+environmental sensor control,Moderate,Moderate,Moderate,TRUE
+environmental sensor data,Low,Moderate,Moderate,TRUE
+video surveillance control,Moderate,Moderate,Moderate,TRUE
+local METR information for users,Not Applicable,High,Moderate,TRUE
+traffic detector control,Moderate,Moderate,Low,TRUE
+transportation weather information,Low,Moderate,Moderate,TRUE
+maint and constr vehicle location data,Moderate,Moderate,Moderate,TRUE
+maint and constr vehicle conditions,Moderate,Moderate,Moderate,TRUE
+infrastructure conditions data,Moderate,Moderate,Moderate,TRUE
+maint and constr vehicle operational data,Moderate,Moderate,Moderate,TRUE
+maint and constr dispatch status,Moderate,Moderate,Moderate,TRUE
+work zone status,Moderate,Moderate,Moderate,TRUE
+roadway dynamic signage data,Moderate,Moderate,Moderate,TRUE
+emissions monitoring application information,Moderate,Moderate,Low,TRUE
+qualified environmental conditions data,Low,Moderate,Moderate,TRUE
+emissions violation notification,Moderate,Moderate,Moderate,TRUE
+emissions archive data,Moderate,Moderate,Low,TRUE
+low emissions zone coordination,Moderate,Moderate,Low,TRUE
+low emissions zone operations information,Moderate,Moderate,Low,TRUE
+wide area air quality data,Moderate,Moderate,Moderate,TRUE
+low emissions zone operations information,Moderate,Moderate,Low,TRUE
+controlled zone application info,Moderate,Moderate,Low,TRUE
+low emissions zone coordination,Moderate,Moderate,Low,TRUE
+air quality sensor control,Moderate,Moderate,Low,TRUE
+emissions sensor control,Moderate,Moderate,Low,TRUE
+low emissions zone coordination,Moderate,Moderate,Low,TRUE
+air quality information,Not Applicable,Moderate,Low,TRUE
+mobile source emissions data,Low,Moderate,Moderate,TRUE
+transit emissions data,Low,Moderate,Low,TRUE
+air quality information,Not Applicable,Moderate,Low,TRUE
+weather information,Low,Moderate,Moderate,TRUE
+weather information,Low,Moderate,Moderate,TRUE
+weather archive data,Moderate,Moderate,Low,TRUE
+weather information,Low,Moderate,Low,TRUE
+weather information,Low,Moderate,Moderate,TRUE
+qualified environmental conditions data,Low,Moderate,Low,TRUE
+weather information,Low,Moderate,Moderate,TRUE
+access violation notification,Moderate,High,Moderate,TRUE
+environmental conditions data status,Low,Moderate,Low,TRUE
+wide area air quality data,Moderate,Moderate,Low,TRUE
+qualified environmental conditions data,Low,Moderate,Moderate,TRUE
+environmental conditions data status,Low,Moderate,Low,TRUE
+weather information,Low,Moderate,Moderate,TRUE
+air quality information,Not Applicable,Moderate,Low,TRUE
+low emissions zone operations information,Moderate,Moderate,Low,TRUE
+emissions operator presentation,Moderate,High,High,TRUE
+qualified environmental conditions data,Low,Moderate,Moderate,TRUE
+trip status,Moderate,Moderate,Low,TRUE
+shelter request,Moderate,Moderate,Moderate,TRUE
+traveler payment information,High,High,Moderate,TRUE
+user account setup,High,High,Moderate,TRUE
+transfer request,Moderate,Moderate,Moderate,TRUE
+trip confirmation,Moderate,Moderate,Moderate,TRUE
+transit information user request,Moderate,Moderate,Moderate,TRUE
+transit stop request,High,Moderate,Moderate,TRUE
+wayfinding request,Moderate,Moderate,Moderate,TRUE
+transit user information,Moderate,Moderate,Moderate,TRUE
+cv trip request,Moderate,Moderate,Low,TRUE
+travel services request,Moderate,Moderate,Moderate,TRUE
+freight traveler information preferences,Moderate,Moderate,Moderate,TRUE
+traveler request,Moderate,Moderate,Moderate,TRUE
+trip feedback,Moderate,Moderate,Low,TRUE
+traveler sourced updates,Moderate,Moderate,Low,TRUE
+wayfinding feedback,Moderate,Moderate,Moderate,TRUE
+actuate secure payment,Moderate,Moderate,High,TRUE
+payment violation notification,Moderate,Moderate,Moderate,TRUE
+vehicle security status thresholds,Moderate,Moderate,Moderate,TRUE
+stolen vehicle notification,Moderate,Moderate,Moderate,TRUE
+emergency notification,Moderate,High,Moderate,TRUE
+user account setup,High,High,Moderate,TRUE
+payment device update,Moderate,Moderate,High,TRUE
+actuate secure payment,Moderate,Moderate,High,TRUE
+payment device token information,Moderate,Moderate,Moderate,TRUE
+evacuation assistance request,Moderate,Moderate,Moderate,TRUE
+traveler payment information,High,High,Moderate,TRUE
+user account setup,High,High,Moderate,TRUE
+personal updates,Not Applicable,Moderate,Moderate,TRUE
+transit stop request,High,Moderate,Moderate,TRUE
+personal location,Not Applicable,High,Moderate,TRUE
+transfer request,Moderate,Moderate,Moderate,TRUE
+request for payment,Moderate,Moderate,High,TRUE
+personal crossing safety information,Not Applicable,Moderate,Low,TRUE
+user profile,Moderate,Moderate,Low,TRUE
+container availability request,Moderate,Moderate,Moderate,TRUE
+expedited clearance registration,Moderate,Moderate,Moderate,TRUE
+manifest data,Moderate,Moderate,Moderate,TRUE
+freight transport payment information,Moderate,Moderate,Low,TRUE
+freight transport booking,Moderate,Moderate,Moderate,TRUE
+load matching info,Moderate,Moderate,Moderate,TRUE
+freight traveler information preferences,Moderate,Moderate,Moderate,TRUE
+freight transport payment information,Moderate,Moderate,Low,TRUE
+freight transport booking,Moderate,Moderate,Moderate,TRUE
+container seal status,Moderate,Moderate,High,TRUE
+available loads,Moderate,Moderate,Moderate,TRUE
+trip identification number,Moderate,Moderate,Low,TRUE
+alert response,Moderate,Moderate,Moderate,TRUE
+fleet manager inquiry,Moderate,High,High,TRUE
+available loads,Moderate,Moderate,Moderate,TRUE
+personal location,Not Applicable,High,Moderate,TRUE
+traveler sourced updates,Moderate,Moderate,Low,TRUE
+emergency traveler information request,Moderate,High,Moderate,TRUE
+trip request,Moderate,Moderate,Moderate,TRUE
+user account setup,High,High,Moderate,TRUE
+trip confirmation,Moderate,Moderate,Moderate,TRUE
+personal signal service request,Low,Moderate,Low,TRUE
+freight transportation status,Moderate,Moderate,Moderate,TRUE
+transit user information,Moderate,Moderate,Moderate,TRUE
+traveler request,Moderate,Moderate,Low,TRUE
+container pickup request,Moderate,Moderate,Moderate,TRUE
+load matching systems coordination,Moderate,Moderate,Moderate,TRUE
+expedited clearance registration,Moderate,Moderate,Moderate,TRUE
+manifest data,Moderate,High,Moderate,TRUE
+booking status,Moderate,Moderate,Moderate,TRUE
+freight traveler information preferences,Moderate,Moderate,Low,TRUE
+personal location,Not Applicable,High,Moderate,TRUE
+traveler payment request,Moderate,Moderate,Moderate,TRUE
+demand responsive transit plan,Moderate,Moderate,Moderate,TRUE
+connection protection instructions,Moderate,Moderate,Moderate,TRUE
+transit vehicle operator information,Low,Moderate,Moderate,TRUE
+transit traveler information,Low,Moderate,Moderate,TRUE
+transit operations status,Moderate,High,High,TRUE
+route assignment,Moderate,High,High,TRUE
+authorization response,Moderate,Moderate,Moderate,TRUE
+personal transit information,Moderate,Moderate,Moderate,TRUE
+transit schedule information,Low,Moderate,Moderate,TRUE
+user account reports,High,High,Moderate,TRUE
+transfer status,Moderate,Moderate,Moderate,TRUE
+trip plan,Moderate,Moderate,Moderate,TRUE
+transit probe data,Low,Moderate,Low,TRUE
+transit trip plan,Moderate,Moderate,Low,TRUE
+traveler interface updates,Not Applicable,Moderate,Moderate,TRUE
+registered secureIDs,High,High,Moderate,TRUE
+service information request,Moderate,Moderate,Moderate,TRUE
+driver identity characteristics,High,Moderate,High,TRUE
+low emissions zone coordination,Moderate,Moderate,Low,TRUE
+transit and fare schedules,Low,Moderate,Moderate,TRUE
+transit traveler information coordination,Low,Moderate,Moderate,TRUE
+transit fare coordination,Low,Moderate,Moderate,TRUE
+transit service coordination,Moderate,Moderate,Moderate,TRUE
+transfer status,Moderate,Moderate,Moderate,TRUE
+transit alternate mode information,Low,Moderate,Moderate,TRUE
+emergency transit schedule information,Low,High,Moderate,TRUE
+transit vehicle operator authentication update,Moderate,High,High,TRUE
+remote vehicle disable,Moderate,High,Moderate,TRUE
+alarm acknowledge,Moderate,High,Moderate,TRUE
+transit stop locations,Low,Moderate,Moderate,TRUE
+transit stop request,High,Moderate,Moderate,TRUE
+fare management information,High,Moderate,Moderate,TRUE
+alternate mode service coordination,Low,Moderate,Low,TRUE
+user account setup,High,High,Moderate,TRUE
+transit fare information,Low,High,Moderate,TRUE
+emergency acknowledge,Low,Moderate,Low,TRUE
+emergency notification,Moderate,High,Moderate,TRUE
+personal location,Not Applicable,High,Moderate,TRUE
+shared vehicle access request,Moderate,Moderate,Moderate,TRUE
+shared use confirmation,Moderate,Moderate,Moderate,TRUE
+VRU cluster information,Low,High,Moderate,TRUE
+user profile,Moderate,Moderate,Low,TRUE
+VRU path prediction,Low,High,Moderate,TRUE
+actuate secure payment,Moderate,Moderate,High,TRUE
+traveler payment information,High,High,Moderate,TRUE
+user account setup,High,High,Moderate,TRUE
+METR discrepancy report,Moderate,Moderate,Low,TRUE
+personal updates,Not Applicable,Moderate,Moderate,TRUE
+expedited traveler registration,Moderate,Moderate,Moderate,TRUE
+shared use request,Moderate,Moderate,Moderate,TRUE
+transit system data,Low,Moderate,Low,TRUE
+transit incident information,Low,Moderate,Moderate,TRUE
+transit schedule adherence information,Low,Moderate,Moderate,TRUE
+transit and fare schedules,Low,Moderate,Moderate,TRUE
+transit user guidance application info,Moderate,Moderate,Low,TRUE
+work plan feedback,Low,Moderate,Low,TRUE
+transit probe data,Low,Moderate,Low,TRUE
+emergency notification relay,Moderate,High,Moderate,TRUE
+emergency transit schedule information,Low,High,Moderate,TRUE
+transit archive data,Moderate,Moderate,Low,TRUE
+traffic control priority request,Low,Moderate,Moderate,TRUE
+METR discrepancy report,Moderate,Moderate,Low,TRUE
+shared vehicle access enable,Moderate,Moderate,Moderate,TRUE
+communications signature,Not Applicable,Moderate,Low,TRUE
+safety device control,Low,Moderate,Moderate,TRUE
+VRU hazard event,Low,High,Moderate,TRUE
+dynamic bus lane request,Moderate,Moderate,Moderate,TRUE
+service patrol dispatch request,Moderate,Moderate,Moderate,TRUE
+transportation operational strategies,Moderate,Moderate,Moderate,TRUE
+device control request,Moderate,High,Moderate,TRUE
+incident information,High,Moderate,Moderate,TRUE
+device status,Moderate,Moderate,Low,TRUE
+device data,Moderate,Moderate,Low,TRUE
+traffic image meta data,Low,Moderate,Moderate,TRUE
+traffic images,Low,Moderate,Moderate,TRUE
+transportation operational strategies,Moderate,Moderate,Moderate,TRUE
+request for enforcement,Moderate,Moderate,Low,TRUE
+current lane restrictions,Low,High,Moderate,TRUE
+lane violation notification,Moderate,Moderate,Moderate,TRUE
+traffic archive data,Moderate,Moderate,Low,TRUE
+environmental conditions data,Low,Moderate,Low,TRUE
+road network environmental situation data,Low,Moderate,Moderate,TRUE
+road network conditions,Low,Moderate,Moderate,TRUE
+emergency traffic control information,Moderate,High,Moderate,TRUE
+lighting management application info,Moderate,Moderate,Low,TRUE
+resource deployment status,Moderate,Moderate,Moderate,TRUE
+incident response status,Moderate,Moderate,Moderate,TRUE
+alert status,High,High,High,TRUE
+emergency routes,High,High,High,TRUE
+road network status assessment,Moderate,High,High,TRUE
+emergency traffic coordination,Moderate,High,High,TRUE
+transportation operational strategies,Moderate,Moderate,Moderate,TRUE
+traffic image meta data,Low,Moderate,Moderate,TRUE
+incident information,High,Moderate,Moderate,TRUE
+road network conditions,Low,Moderate,Moderate,TRUE
+traffic images,Low,Moderate,Moderate,TRUE
+transportation operational strategies,Moderate,Moderate,Moderate,TRUE
+event confirmation,Moderate,High,Moderate,TRUE
+transportation operational strategies,Moderate,Moderate,Moderate,TRUE
+emergency plan coordination,High,High,High,TRUE
+cooperative cruise control application data,Moderate,High,Moderate,TRUE
+environmental conditions data,Low,Moderate,Low,TRUE
+speed management information,Low,Moderate,Moderate,TRUE
+intersection status,Not Applicable,Moderate,Moderate,TRUE
+road network conditions,Low,Moderate,Moderate,TRUE
+traffic images,Low,Moderate,Moderate,TRUE
+road network conditions,Low,Moderate,Moderate,TRUE
+transportation operational strategies,Moderate,Moderate,Moderate,TRUE
+environmental monitoring application info,Moderate,Moderate,Low,TRUE
+traffic control information,Low,Moderate,Moderate,TRUE
+road closure application info,Moderate,Moderate,Low,TRUE
+situation data collection parameters,Moderate,Moderate,Low,TRUE
+traffic monitoring application info,Moderate,Moderate,Low,TRUE
+controlled zone application info,Moderate,Moderate,Low,TRUE
+queue warning application information,Moderate,Moderate,Low,TRUE
+infrastructure safety warning notification,Low,Moderate,Moderate,TRUE
+intermodal freight traffic information,Moderate,Moderate,Moderate,TRUE
+incident information,High,Moderate,Moderate,TRUE
+wrong way vehicle notification,Low,Moderate,Moderate,TRUE
+low emissions zone coordination,Moderate,Moderate,Low,TRUE
+road network conditions,Low,Moderate,Moderate,TRUE
+traffic operator data,Moderate,Moderate,Moderate,TRUE
+traffic image meta data,Low,Moderate,Moderate,TRUE
+dynamic bus lane status,Moderate,Moderate,Moderate,TRUE
+automated lane control data,Moderate,High,Moderate,TRUE
+traffic control priority status,Low,Moderate,Moderate,TRUE
+road network environmental situation data,Low,Moderate,Moderate,TRUE
+road network conditions,Low,Moderate,Moderate,TRUE
+traffic images,Low,Moderate,Moderate,TRUE
+traffic image meta data,Low,Moderate,Moderate,TRUE
+restricted lanes information,Not Applicable,Moderate,Moderate,TRUE
+reduced speed warning info,Not Applicable,Moderate,Moderate,TRUE
+lane closure information,Low,Moderate,Low,TRUE
+transportation operational strategies,Moderate,Moderate,Moderate,TRUE
+road weather information,Low,Moderate,Low,TRUE
+infrastructure safety warning,Low,Moderate,Moderate,TRUE
+environmental conditions data,Low,Moderate,Low,TRUE
+lane closure information,Low,Moderate,Low,TRUE
+maint and constr work plans,Low,High,High,TRUE
+roadway maintenance status,Low,Moderate,Moderate,TRUE
+resource request,Moderate,Moderate,Moderate,TRUE
+current infrastructure restrictions,Low,High,High,TRUE
+work zone information,Low,Moderate,Moderate,TRUE
+infrastructure safety warning,Low,Moderate,Moderate,TRUE
+environmental monitoring application info,Moderate,Moderate,Low,TRUE
+vehicle signage application info,Moderate,Moderate,Moderate,TRUE
+work zone safety application info,Low,Moderate,Moderate,TRUE
+speed warning application info,Moderate,High,Moderate,TRUE
+roadway advisory radio data,Moderate,Moderate,Moderate,TRUE
+work zone information,Low,Moderate,Moderate,TRUE
+road weather information,Low,Moderate,Low,TRUE
+maint and constr archive data,Moderate,Moderate,Low,TRUE
+asset location safety warning,Low,Moderate,Moderate,TRUE
+maint and constr vehicle system control,Moderate,High,Moderate,TRUE
+maint and constr dispatch information,Moderate,Moderate,Moderate,TRUE
+work zone warning device control,Not Applicable,Moderate,Moderate,TRUE
+environmental sensor control,Moderate,High,Moderate,TRUE
+road weather information,Low,Moderate,Low,TRUE
+environmental conditions data,Low,Moderate,Low,TRUE
+current infrastructure restrictions,Low,High,Moderate,TRUE
+environmental conditions data,Low,Moderate,Low,TRUE
+road weather information,Low,Moderate,Low,TRUE
+maint and constr work plans,Low,High,High,TRUE
+maint and constr work plans,Low,High,High,TRUE
+roadway maintenance status,Low,Moderate,Moderate,TRUE
+barrier system control,Moderate,High,Moderate,TRUE
+road treatment data,Low,Moderate,Moderate,TRUE
+traffic image meta data,Low,Moderate,Moderate,TRUE
+roadway treatment system control,Moderate,High,Moderate,TRUE
+road weather information,Low,Moderate,Low,TRUE
+current infrastructure restrictions,Low,High,Moderate,TRUE
+parking traffic information,Low,Moderate,Low,TRUE
+transportation operational strategies,Moderate,Moderate,Moderate,TRUE
+threat information,Moderate,High,High,TRUE
+work zone information,Low,Moderate,Moderate,TRUE
+road network conditions,Low,Moderate,Moderate,TRUE
+incident information,High,Moderate,Moderate,TRUE
+border incident information,Moderate,Moderate,Moderate,TRUE
+traffic images,Low,Moderate,Moderate,TRUE
+traffic image meta data,Low,Moderate,Moderate,TRUE
+traffic information for media,Low,Moderate,Moderate,TRUE
+traffic images,Low,Moderate,Moderate,TRUE
+rail crossing advisories,Moderate,Moderate,Moderate,TRUE
+multimodal crossing inhibit,Low,Moderate,Low,TRUE
+field device coordination,Low,Moderate,Moderate,TRUE
+traffic metering application info,Moderate,Moderate,Low,TRUE
+work zone warning device control,Moderate,High,Moderate,TRUE
+environmental sensor control,Moderate,Moderate,Moderate,TRUE
+video surveillance control,Moderate,Moderate,Moderate,TRUE
+roadway dynamic signage data,Moderate,Moderate,Moderate,TRUE
+traffic detector control,Moderate,Moderate,Low,TRUE
+current infrastructure restrictions,Low,High,High,TRUE
+special vehicle restricted use information,Moderate,Moderate,Moderate,TRUE
+infrastructure monitoring sensor control,Moderate,High,Low,TRUE
+maint and constr resource response,Moderate,Moderate,Moderate,TRUE
+environmental conditions data,Low,Moderate,Low,TRUE
+road network status assessment,Moderate,High,High,TRUE
+maint and constr work plans,Low,High,High,TRUE
+roadway maintenance status,Low,Moderate,Moderate,TRUE
+traffic control priority request,Low,Moderate,Moderate,TRUE
+speed monitoring control,Moderate,High,Low,TRUE
+OBE status,Moderate,Moderate,Low,TRUE
+vehicle location and motion,Not Applicable,High,Moderate,TRUE
+METR discrepancy report,Moderate,Moderate,Low,TRUE
+vehicle service request,Moderate,High,Moderate,TRUE
+vehicle diagnostic data,Moderate,High,Moderate,TRUE
+vehicle control,Moderate,High,High,TRUE
+map update coordination,Low,High,Moderate,TRUE
+collision warning information,Low,Moderate,Moderate,TRUE
+device configuration coordination,Low,High,Moderate,TRUE
+loading zone use request,Moderate,Moderate,Moderate,TRUE
+emergency notification relay,Moderate,High,Moderate,TRUE
+emergency notification,Moderate,High,Moderate,TRUE
+vehicle collision information,Moderate,High,Moderate,TRUE
+service record,Moderate,Moderate,Moderate,TRUE
+vehicle incident record,Moderate,Moderate,Low,TRUE
+driver update information,Low,Moderate,Moderate,TRUE
+intersection geometry,Low,High,Moderate,TRUE
+automated lane control data,Moderate,High,Moderate,TRUE
+intersection geometry,Low,High,Moderate,TRUE
+map updates,Not Applicable,High,Moderate,TRUE
+pathway map updates,Not Applicable,Moderate,Low,TRUE
+map updates,Not Applicable,High,Moderate,TRUE
+parking facility geometry,Low,High,Moderate,TRUE
+vehicle location and motion,Not Applicable,High,Moderate,TRUE
+roadway geometry,Low,High,Moderate,TRUE
+METR discrepancy report,Moderate,Moderate,Low,TRUE
+map updates,Not Applicable,High,Moderate,TRUE
+parking facility geometry,Low,High,Moderate,TRUE
+roadway geometry,Low,High,Moderate,TRUE
+intersection geometry,Low,High,Moderate,TRUE
+map updates,Not Applicable,High,Moderate,TRUE
+vehicle environmental data,Low,Moderate,Moderate,TRUE
+parking facility geometry,Low,High,Moderate,TRUE
+vehicle environmental data,Low,Moderate,Moderate,TRUE
+vehicle location and motion,Not Applicable,High,Moderate,TRUE
+vehicle hazard event,Low,High,Moderate,TRUE
+vehicle path prediction,Not Applicable,High,Moderate,TRUE
+emergency notification relay,Moderate,High,Moderate,TRUE
+emergency acknowledge,Low,Moderate,Low,TRUE
+emergency notification,Moderate,High,Moderate,TRUE
+wrong way vehicle detected,Not Applicable,Moderate,Moderate,TRUE
+vehicle control event,Low,Moderate,Moderate,TRUE
+map update sharing,Not Applicable,High,Low,TRUE
+vehicle profile,Low,High,Moderate,TRUE
+intersection infringement info,Low,High,Moderate,TRUE
+vehicle location and motion,Not Applicable,High,Moderate,TRUE
+vehicle location and motion for mapping,Moderate,Moderate,Low,TRUE
+driver updates,Not Applicable,Moderate,Moderate,TRUE
+request for service,Moderate,High,High,TRUE
+vehicle platoon coordination,Low,High,Moderate,TRUE
+vehicle platoon coordination,Low,High,Moderate,TRUE
+map updates,Not Applicable,High,Moderate,TRUE
+wrong way vehicle detected,Not Applicable,Moderate,Moderate,TRUE
+cooperative adaptive cruise control status,Moderate,Moderate,Moderate,TRUE
+vehicle cluster coordination,Low,High,Moderate,TRUE
+access request,Moderate,Moderate,Moderate,TRUE
+vehicle location and motion for surveillance,Not Applicable,Moderate,Moderate,TRUE
+vehicle cluster coordination,Low,High,Moderate,TRUE
+automated vehicle control status,Moderate,Moderate,Moderate,TRUE
+vehicle situation data,Moderate,Moderate,Low,TRUE
+vehicle control event,Low,Moderate,Moderate,TRUE
+vehicle reported emissions,Moderate,Moderate,Moderate,TRUE
+vehicle environmental data,Low,Moderate,Low,TRUE
+vehicle profile,Low,Moderate,Moderate,TRUE
+intersection infringement info,Low,High,Moderate,TRUE
+vehicle location and motion,Not Applicable,High,Moderate,TRUE
+vehicle situation data,Moderate,Moderate,Low,TRUE
+stop sign gap assist control,Moderate,High,Low,TRUE
+barrier system control,Moderate,High,Moderate,TRUE
+roadway warning system control,Moderate,High,Moderate,TRUE
+lighting system control data,Moderate,Moderate,Low,TRUE
+signal system configuration,Low,High,Moderate,TRUE
+signal control plans,Moderate,High,Moderate,TRUE
+map operator updates,Not Applicable,Moderate,Moderate,TRUE
+signal control commands,Moderate,High,Moderate,TRUE
+safeguard system control,High,High,High,TRUE
+rail crossing control data,Moderate,High,Moderate,TRUE
+rail crossing request,Moderate,Moderate,Moderate,TRUE
+mixed use safety warning control,Moderate,Moderate,Low,TRUE
+infrastructure restriction warning control,Moderate,High,Low,TRUE
+environmental sensor control,Moderate,Moderate,Low,TRUE
+variable speed limit control,Moderate,High,Moderate,TRUE
+signal control device configuration,Moderate,High,Moderate,TRUE
+restricted lanes application info,Low,Moderate,Moderate,TRUE
+speed management application information,Low,High,Moderate,TRUE
+intersection management application info,Moderate,High,Low,TRUE
+vehicle signage application info,Moderate,Moderate,Moderate,TRUE
+rail crossing application info,Moderate,Moderate,Low,TRUE
+stop sign gap assist info,Moderate,High,Low,TRUE
+intersection safety application info,Moderate,Moderate,Low,TRUE
+infrastructure monitoring sensor control,Moderate,High,Low,TRUE
+road weather advisory info,Low,High,Moderate,TRUE
+reversible lane control,Moderate,High,Moderate,TRUE
+speed warning application info,Moderate,High,Moderate,TRUE
+signal enforcement device control,Moderate,Moderate,Moderate,TRUE
+roadway advisory radio data,Moderate,Moderate,Moderate,TRUE
+passive vehicle monitoring control,Moderate,Moderate,Low,TRUE
+shoulder management control,Moderate,High,Moderate,TRUE
+roadway dynamic signage data,Moderate,Moderate,Moderate,TRUE
+infrastructure restriction warning info,Low,Moderate,Moderate,TRUE
+vehicle control event,Low,Moderate,Moderate,TRUE
+lane management control,Moderate,High,Moderate,TRUE
+vehicle cluster coordination,Low,High,Moderate,TRUE
+vehicle hazard event,Low,High,Moderate,TRUE
+vehicle path prediction,Not Applicable,High,Moderate,TRUE
+emergency notification relay,Moderate,High,Moderate,TRUE
+emergency acknowledge,Low,Moderate,Low,TRUE
+map update sharing,Not Applicable,High,Low,TRUE
+vehicle platoon coordination,Low,High,Moderate,TRUE
+vehicle location and motion,Not Applicable,High,Moderate,TRUE
+vehicle environmental data,Low,Moderate,Moderate,TRUE
+vehicle profile,Low,Moderate,Moderate,TRUE
+intersection infringement info,Low,High,Moderate,TRUE
+vehicle location and motion,Not Applicable,High,Moderate,TRUE
+pathway map updates,Not Applicable,Moderate,Low,TRUE
+intersection geometry,Low,High,Moderate,TRUE
+emergency notification,Moderate,High,Moderate,TRUE
+environmental conditions data,Low,Moderate,Low,TRUE
+road weather information,Low,Moderate,Low,TRUE
+traffic metering control,Moderate,High,Moderate,TRUE
+traffic detector control,Moderate,Moderate,Low,TRUE
+speed monitoring control,Moderate,High,Moderate,TRUE
+traffic image meta data,Low,Moderate,Moderate,TRUE
+field device coordination,Low,Moderate,Moderate,TRUE
+wrong way vehicle detected,Not Applicable,Moderate,Moderate,TRUE
+maint and constr resource request,Moderate,Moderate,Moderate,TRUE
+video surveillance control,Moderate,Moderate,Moderate,TRUE
+road network status assessment,Moderate,High,High,TRUE
+transportation operational strategies,Moderate,Moderate,Moderate,TRUE
+traffic control priority status,Low,Moderate,Moderate,TRUE
+incident information,High,Moderate,Moderate,TRUE
+road network conditions,Low,Moderate,Moderate,TRUE
+traffic images,Low,Moderate,Moderate,TRUE
+work plan feedback,Low,Moderate,Low,TRUE
+speed warning application status,Moderate,Moderate,Low,TRUE
+automated lane status,Moderate,Moderate,Moderate,TRUE
+lighting management application status,Moderate,Moderate,Low,TRUE
+traffic metering application status,Moderate,Moderate,Low,TRUE
+speed management application status,Moderate,Moderate,Low,TRUE
+intersection management application status,Moderate,Moderate,Low,TRUE
+roadway dynamic signage data,Moderate,Moderate,Moderate,TRUE
+rail crossing application status,Moderate,Moderate,Low,TRUE
+traffic monitoring application status,Moderate,Moderate,Low,TRUE
+traffic situation data,Moderate,Moderate,Low,TRUE
+infrastructure restriction warning status,Low,Moderate,Low,TRUE
+intersection safety application status,Moderate,Moderate,Low,TRUE
+road weather advisory status,Moderate,Moderate,Moderate,TRUE
+environmental situation data,Low,Moderate,Moderate,TRUE
+restricted lanes application status,Moderate,Moderate,Low,TRUE
+vehicle signage application status,Moderate,Moderate,Low,TRUE
+environmental situation data,Low,Moderate,Moderate,TRUE
+request for enforcement,Moderate,Moderate,Low,TRUE
+intersection infringement info,Low,High,Moderate,TRUE
+asset locations,Moderate,Moderate,Moderate,TRUE
+environmental monitoring application status,Moderate,Moderate,Low,TRUE
+infrastructure situation data,Moderate,Moderate,High,TRUE
+vehicle signage application status,Moderate,Moderate,Low,TRUE
+queue warning application status,Moderate,Moderate,Low,TRUE
+speed warning application status,Moderate,Moderate,Low,TRUE
+controlled zone application status,Moderate,Moderate,Low,TRUE
+environmental monitoring application status,Moderate,Moderate,Low,TRUE
+cooperative cruise control application status,Moderate,High,Moderate,TRUE
+road closure application status,Moderate,Moderate,Low,TRUE
+stop sign gap assist RSE status,Moderate,Moderate,Moderate,TRUE
+local border wait times,Not Applicable,Moderate,Low,TRUE
+wrong way vehicle detected,Not Applicable,Moderate,Moderate,TRUE
+work zone safety application status,Moderate,Moderate,Low,TRUE
+reduced speed notification,Low,Moderate,Moderate,TRUE
+vehicle location data for mapping,Moderate,Moderate,Low,TRUE
+intersection safety warning,Not Applicable,High,Moderate,TRUE
+traffic gap information,Low,High,Moderate,TRUE
+intersection status,Not Applicable,Moderate,Moderate,TRUE
+arriving train information,Not Applicable,High,Moderate,TRUE
+infrastructure restriction warning notification,Low,Moderate,Low,TRUE
+speed management information,Low,Moderate,Moderate,TRUE
+vehicle signage data,Low,Moderate,Moderate,TRUE
+automated vehicle control parameters,Low,High,Moderate,TRUE
+roadway geometry,Low,High,Moderate,TRUE
+intersection geometry,Low,High,Moderate,TRUE
+map updates,Not Applicable,High,Moderate,TRUE
+driver information,Not Applicable,High,Moderate,TRUE
+driver information,Not Applicable,High,Moderate,TRUE
+traveler safety information,Not Applicable,High,Low,TRUE
+road weather advisories,Low,High,Moderate,TRUE
+rail crossing warning,Not Applicable,High,Moderate,TRUE
+vehicle reported emissions,Moderate,Moderate,Moderate,TRUE
+restricted lanes information,Not Applicable,Moderate,Moderate,TRUE
+cooperative adaptive cruise control parameters,Low,High,Moderate,TRUE
+vehicle cluster coordination,Low,High,Moderate,TRUE
+proxied personal location,Not Applicable,Moderate,Moderate,TRUE
+access permission,Moderate,Moderate,Moderate,TRUE
+low emissions zone parameters,Not Applicable,Moderate,Moderate,TRUE
+lane closure information,Low,Moderate,Low,TRUE
+local METR information for users,Not Applicable,High,Moderate,TRUE
+access violation notification,Moderate,High,Moderate,TRUE
+vehicle situation data parameters,Low,Moderate,Moderate,TRUE
+parking facility geometry,Low,High,Moderate,TRUE
+queue warning information,Not Applicable,Moderate,Low,TRUE
+location correction,Not Applicable,High,High,TRUE
+local traveler information,Not Applicable,Moderate,Low,TRUE
+road closure information,Low,Moderate,Moderate,TRUE
+barrier system status,Moderate,High,Moderate,TRUE
+RSE application status,Moderate,Moderate,Low,TRUE
+local border wait times,Not Applicable,Moderate,Low,TRUE
+transit vehicle information,Low,Moderate,Moderate,TRUE
+incident scene safety application status,Moderate,Moderate,Moderate,TRUE
+vehicle occupancy,Low,Moderate,Moderate,TRUE
+restricted lanes application status,Moderate,Moderate,Low,TRUE
+incident scene warning notification,Moderate,Moderate,Moderate,TRUE
+METR application status,Moderate,Moderate,Low,TRUE
+rail crossing operational status,Moderate,Moderate,Moderate,TRUE
+rail crossing blockage notification,Moderate,High,High,TRUE
+lane violation notification,Moderate,Moderate,Moderate,TRUE
+local situation data,Low,Moderate,Low,TRUE
+signal priority status,Low,Moderate,Low,TRUE
+barrier system status,Moderate,High,Moderate,TRUE
+signal priority status,Low,Moderate,Low,TRUE
+parking availability,Not Applicable,Moderate,Moderate,TRUE
+container seal status,Moderate,Moderate,Moderate,TRUE
+freight equipment information,Moderate,Moderate,Moderate,TRUE
+container location,Moderate,Moderate,Moderate,TRUE
+container identification,Moderate,Moderate,Moderate,TRUE
+location correction,Not Applicable,High,High,TRUE
+intersection geometry,Low,High,Moderate,TRUE
+RSE status,Moderate,Moderate,High,TRUE
+local signal priority request,Not Applicable,Moderate,Low,TRUE
+RSE status,Moderate,Moderate,High,TRUE
+work zone warning,Not Applicable,Moderate,Low,TRUE
+parking management application status,Moderate,Moderate,Low,TRUE
+personnel safety warning,Not Applicable,High,Low,TRUE
+wrong way vehicle detected,Not Applicable,Moderate,Moderate,TRUE
+RSE application information,Moderate,Moderate,Low,TRUE
+controlled zone application status,Moderate,Moderate,Low,TRUE
+METR application status,Moderate,Moderate,Low,TRUE
+signal priority service request,Not Applicable,Moderate,Low,TRUE
+work zone warning notification,Not Applicable,Moderate,Moderate,TRUE
+signal priority status,Low,Moderate,Low,TRUE
+wrong way vehicle detected,Not Applicable,Moderate,Moderate,TRUE
+incident scene warning notification,Moderate,Moderate,Moderate,TRUE
+vehicle occupancy,Low,Moderate,Moderate,TRUE
+barrier system control,Moderate,High,Moderate,TRUE
+road weather advisory status,Moderate,Moderate,Moderate,TRUE
+signal service request,Not Applicable,Moderate,Low,TRUE
+traffic situation data,Moderate,Moderate,Moderate,TRUE
+signal preemption request,Not Applicable,High,Moderate,TRUE
+vehicle entries and exits,Moderate,Moderate,Moderate,TRUE
+traffic situation data,Moderate,Moderate,Moderate,TRUE
+personal location information,Not Applicable,Moderate,Low,TRUE
+work zone warning notification,Not Applicable,Moderate,Moderate,TRUE
+environmental situation data,Low,Moderate,Moderate,TRUE
+intersection status monitoring,Low,Moderate,Moderate,TRUE
+local traveler information,Not Applicable,Moderate,Low,TRUE
+highway control status,Moderate,High,Moderate,TRUE
+emissions situation data,Low,Moderate,Low,TRUE
+signal priority status,Low,Moderate,Low,TRUE
+transit stop request,High,Moderate,Moderate,TRUE
+transit user guidance application status,Moderate,Moderate,Low,TRUE
+local METR information for users,Not Applicable,High,Moderate,TRUE
+environmental situation data,Low,High,Moderate,TRUE
+transit stop guidance,Not Applicable,Moderate,Moderate,TRUE
+emissions monitoring application status,Moderate,Moderate,Low,TRUE
+intersection safety warning,Not Applicable,High,Moderate,TRUE
+personal crossing safety information,Not Applicable,Moderate,Low,TRUE
+intersection status,Not Applicable,Moderate,Moderate,TRUE
+arriving train information,Not Applicable,High,High,TRUE
+intersection geometry,Low,High,Moderate,TRUE
+traveler information application status,Moderate,Moderate,Low,TRUE
+rail crossing warning,Not Applicable,High,Moderate,TRUE
+lane management information,Moderate,Moderate,Moderate,TRUE
+signal control status,Low,High,Moderate,TRUE
+rail crossing blockage notification,Moderate,High,High,TRUE
+rail crossing status,Moderate,Moderate,Moderate,TRUE
+infrastructure restriction warning status,Low,Moderate,Moderate,TRUE
+mixed use safety warning status,Low,Moderate,Low,TRUE
+crossing permission,Not Applicable,High,Low,TRUE
+variable speed limit status,Low,Moderate,Moderate,TRUE
+right-of-way request notification,Low,Moderate,Moderate,TRUE
+roadway dynamic signage status,Moderate,Moderate,Moderate,TRUE
+traffic metering status,Moderate,Moderate,Moderate,TRUE
+traffic images,Low,Moderate,Low,TRUE
+traffic detector data,Low,Moderate,Moderate,TRUE
+speed monitoring information,Moderate,Moderate,Moderate,TRUE
+driver information,Not Applicable,High,Moderate,TRUE
+environmental sensor data,Low,Moderate,Moderate,TRUE
+shoulder management information,Moderate,High,Moderate,TRUE
+traffic detector data,Low,Moderate,Moderate,TRUE
+speed monitoring information,Moderate,Moderate,Moderate,TRUE
+signal enforcement device status,Moderate,Moderate,Moderate,TRUE
+traffic image meta data,Low,Moderate,Moderate,TRUE
+roadway advisory radio status,Moderate,Moderate,Moderate,TRUE
+wrong way vehicle detected,Not Applicable,Moderate,Moderate,TRUE
+stop sign gap assist status,Moderate,Moderate,Moderate,TRUE
+signal fault data,Low,High,Moderate,TRUE
+lighting system status,Moderate,Moderate,Moderate,TRUE
+safeguard system status,Moderate,High,Moderate,TRUE
+reversible lane status,Moderate,Moderate,Moderate,TRUE
+infrastructure monitoring sensor data,High,Moderate,Moderate,TRUE
+barrier system status,Moderate,High,Moderate,TRUE
+roadway warning system status,Moderate,Moderate,Moderate,TRUE
+asset location safety warning,Low,Moderate,Moderate,TRUE
+passive vehicle monitoring data,Moderate,Moderate,Moderate,TRUE
+emergency plan coordination,High,High,High,TRUE
+METR TCD discrepancy status,Low,Moderate,Moderate,TRUE
+work zone information,Low,Moderate,Moderate,TRUE
+road weather information,Low,Moderate,Low,TRUE
+maint and constr work plans,Low,High,High,TRUE
+road weather information,Low,Moderate,Low,TRUE
+maint and constr resource response,Moderate,Moderate,Moderate,TRUE
+maint and constr work plans,Low,High,High,TRUE
+road network status assessment,Moderate,High,High,TRUE
+current infrastructure restrictions,Low,High,Moderate,TRUE
+maint and constr work plans,Low,High,High,TRUE
+roadway maintenance status,Low,Moderate,Moderate,TRUE
+incident information,High,Moderate,Moderate,TRUE
+work zone information,Low,Moderate,Moderate,TRUE
+current infrastructure restrictions,Low,High,High,TRUE
+freight equipment information,Moderate,Moderate,Moderate,TRUE
+alert status,High,High,High,TRUE
+roadway maintenance status,Low,Moderate,Moderate,TRUE
+environmental sensor data,Low,High,Moderate,TRUE
+METR TCD discrepancy status,Low,Moderate,Moderate,TRUE
+METR coordination,Moderate,High,Moderate,TRUE
+maint and constr fleet information,Moderate,Moderate,Moderate,TRUE
+asset inventory locations,Moderate,Moderate,Moderate,TRUE
+asset status update,Moderate,Moderate,Low,TRUE
+roadway maintenance status,Low,Moderate,Low,TRUE
+maint and constr resource coordination,Moderate,Moderate,Moderate,TRUE
+METR coordination,Moderate,High,Moderate,TRUE
+work zone information,Low,Moderate,Moderate,TRUE
+road weather information,Low,Moderate,Low,TRUE
+maint and constr administrative request,Moderate,Moderate,Moderate,TRUE
+maint and constr work performance,Moderate,Moderate,Moderate,TRUE
+storage facility request,Moderate,Moderate,Low,TRUE
+equipment maintenance status,Moderate,Moderate,Moderate,TRUE
+work plan coordination,Low,Moderate,Low,TRUE
+signal violation notification,Moderate,Moderate,Low,TRUE
+roadway dynamic signage status,Moderate,Moderate,Moderate,TRUE
+incident scene warning status,Moderate,Moderate,Moderate,TRUE
+incident scene warning,Low,High,High,TRUE
+driver information,Not Applicable,High,High,TRUE
+crossing permission,Not Applicable,High,Low,TRUE
+work zone warning,Not Applicable,Moderate,Low,TRUE
+environmental sensor coordination,Moderate,Moderate,Low,TRUE
+rail crossing blockage notification,Moderate,High,High,TRUE
+lane management coordination,Moderate,Moderate,Moderate,TRUE
+violation notification,Moderate,Moderate,Moderate,TRUE
+speed monitoring information,Moderate,Moderate,Moderate,TRUE
+roadside archive data,Moderate,Moderate,Low,TRUE
+traffic image meta data,Low,Moderate,Moderate,TRUE
+infrastructure monitoring sensor data,High,Moderate,Moderate,TRUE
+traffic images,Low,Moderate,Moderate,TRUE
+rail crossing operational status,Moderate,Moderate,Moderate,TRUE
+dynamic sign coordination,Moderate,Moderate,Moderate,TRUE
+maint and constr operations information presentation,Not Applicable,Moderate,Moderate,TRUE
+shoulder management coordination,Moderate,Moderate,Moderate,TRUE
+variable speed limit coordination,Moderate,Moderate,Moderate,TRUE
+barrier system coordination,High,Moderate,Moderate,TRUE
+reversible lane coordination,High,High,Moderate,TRUE
+roadway warning coordination,Moderate,Moderate,Moderate,TRUE
+roadway treatment coordination,Moderate,Moderate,Moderate,TRUE
+traffic metering coordination,Moderate,Moderate,Moderate,TRUE
+traffic images,Low,Moderate,Moderate,TRUE
+right-of-way request coordination,Moderate,Moderate,Moderate,TRUE
+signal control coordination,Moderate,Moderate,Moderate,TRUE
+video surveillance coordination,Moderate,Moderate,Moderate,TRUE
+passive vehicle monitoring coordination,Moderate,Moderate,Low,TRUE
+vehicle occupancy coordination,Moderate,Moderate,Low,TRUE
+traffic detector coordination,Moderate,Moderate,Low,TRUE
+advisory radio coordination,Moderate,Moderate,Low,TRUE
+traffic image meta data,Low,Moderate,Moderate,TRUE
+environmental sensor data,Low,Moderate,Moderate,TRUE
+work zone warning notification,Not Applicable,Moderate,Moderate,TRUE
+traffic gap information,Low,High,High,TRUE
+arriving train information,Not Applicable,High,High,TRUE
+mixed use crossing status,Not Applicable,High,Moderate,TRUE
+infrastructure restriction warning,Low,Moderate,Moderate,TRUE
+vehicle entries and exits,Moderate,Moderate,Moderate,TRUE
+roadway dynamic signage status,Moderate,Moderate,Moderate,TRUE
+intersection control status,Low,High,Moderate,TRUE
+roadway advisory radio status,Moderate,Moderate,Moderate,TRUE
+roadway treatment system status,Moderate,Moderate,Moderate,TRUE
+infrastructure monitoring sensor data,High,Moderate,Moderate,TRUE
+barrier system status,Moderate,High,Moderate,TRUE
+work zone warning status,Moderate,Moderate,Moderate,TRUE
+broadcast advisories,Not Applicable,Low,Low,TRUE
+environmental sensor data,Low,Moderate,Moderate,TRUE
+field equipment status for METR,Moderate,High,Moderate,TRUE
+traffic detector data,Low,Moderate,Moderate,TRUE
+environmental sensor data,Low,Moderate,Moderate,TRUE
+environmental sensor data,Low,Moderate,Moderate,TRUE
+noise data,Low,Moderate,Low,TRUE
+vehicle emissions data,Moderate,Moderate,Low,TRUE
+air quality sensor data,Not Applicable,Moderate,Low,TRUE
+track status,Low,High,High,TRUE
+driver information,Not Applicable,High,Moderate,TRUE
+roadway dynamic signage status,Moderate,Moderate,Moderate,TRUE
+wrong way vehicle detected,Not Applicable,Moderate,Moderate,TRUE
+reduced speed warning info,Not Applicable,Moderate,Moderate,TRUE
+incident scene warning notification,Moderate,Moderate,Moderate,TRUE
+barrier system status,Moderate,High,Moderate,TRUE
+conflict monitor status,Low,High,Moderate,TRUE
+vehicle signage local data,Low,Moderate,Moderate,TRUE
+driver information,Not Applicable,High,Moderate,TRUE
+asset ID,Low,Moderate,Moderate,TRUE
+host vehicle status,Low,Moderate,High,TRUE
+asset ID,Low,Moderate,Moderate,TRUE
+field equipment status presentation,Moderate,High,High,TRUE
+field equipment status,Moderate,Moderate,Moderate,TRUE
+field equipment status,Low,Moderate,High,TRUE
+field equipment status,Moderate,Moderate,Moderate,TRUE
+center operator input,Moderate,Moderate,Moderate,TRUE
+asset ID,Low,Moderate,Moderate,TRUE
+support personnel equipment input,Moderate,Moderate,High,TRUE
+field equipment status,Moderate,Moderate,Moderate,TRUE
+position corrections,Not Applicable,High,High,TRUE
+commercial vehicle administrative request,Moderate,Moderate,High,TRUE
+MMV user input,Not Applicable,Moderate,Moderate,TRUE
+personal input,Not Applicable,Moderate,Low,TRUE
+METR application information,Moderate,Moderate,Low,TRUE
+field equipment status presentation,Moderate,High,High,TRUE
+center equipment configuration settings,Moderate,High,High,TRUE
+cv driver credential,High,Moderate,Moderate,TRUE
+METR information,Low,High,Moderate,TRUE
+maint and constr vehicle operator input,Not Applicable,Moderate,High,TRUE
+driver environmental input,Low,Moderate,Low,TRUE
+support equipment status presentation,Moderate,Moderate,High,TRUE
+service maintenance status,Moderate,Moderate,Moderate,TRUE
+center operator input,High,High,High,TRUE
+center equipment commands,Moderate,High,High,TRUE
+communications signature,Not Applicable,Moderate,Low,TRUE
+vehicle service information,Moderate,High,Moderate,TRUE
+vehicle service response,Moderate,High,Moderate,TRUE
+vehicle software install/upgrade,Low,High,Moderate,TRUE
+vehicle commands,Moderate,High,Moderate,TRUE
+vehicle configuration settings,Moderate,High,Moderate,TRUE
+field personnel equipment input,Moderate,Moderate,High,TRUE
+center equipment software install/upgrade,Moderate,High,Moderate,TRUE
+request for data review,High,Moderate,Moderate,TRUE
+crossing call,Not Applicable,High,Low,TRUE
+roadway maintenance status,Low,Moderate,Moderate,TRUE
+work zone information,Low,Moderate,Moderate,TRUE
+road weather information,Low,Moderate,Low,TRUE
+parking coordination,Moderate,Moderate,Low,TRUE
+other data source archive data,Moderate,Moderate,Low,TRUE
+work plan coordination,Low,Moderate,Low,TRUE
+archive coordination,Moderate,High,High,TRUE
+asset inventory,Moderate,Moderate,Low,TRUE
+parking operator input,Moderate,High,High,TRUE
+multimodal crossing status,Low,Moderate,Low,TRUE
+multimodal crossing status,Low,Moderate,Low,TRUE
+lane management inputs,Low,Moderate,Low,TRUE
+cv driver credential,High,Moderate,Moderate,TRUE
+barrier system control,Moderate,High,Moderate,TRUE
+archive management requests,Moderate,Moderate,Moderate,TRUE
+alerts and advisories,Moderate,High,Moderate,TRUE
+driver input information,Moderate,High,High,TRUE
+host vehicle status,Low,Moderate,High,TRUE
+alerts and advisories,Moderate,High,Moderate,TRUE
+threat support data,Moderate,High,High,TRUE
+alerts and advisories,Moderate,High,Moderate,TRUE
+alerts and advisories,Moderate,High,Moderate,TRUE
+maint and constr resource coordination,Moderate,Moderate,Moderate,TRUE
+alerts and advisories,Moderate,High,Moderate,TRUE
+METR management information,Moderate,High,Moderate,TRUE
+alerts and advisories,Moderate,High,Moderate,TRUE
+maint and constr equipment repair status,Low,Moderate,Moderate,TRUE
+asset damage assessment,Moderate,Moderate,Moderate,TRUE
+asset archive data,Moderate,Moderate,Low,TRUE
+maintenance and repair needs,Low,Moderate,Moderate,TRUE
+asset restrictions,Moderate,Moderate,Low,TRUE
+alerts and advisories,Moderate,High,Moderate,TRUE
+proxied ITS information,High,High,High,TRUE
+cert request,High,High,High,FALSE
+personnel updates,Low,High,Moderate,TRUE
+remote vehicle control commands,Moderate,Moderate,Moderate,TRUE
+personnel location,Not Applicable,High,Moderate,TRUE
+personnel location,Not Applicable,High,Moderate,TRUE
+asset locations,Moderate,Moderate,Moderate,TRUE
+incident scene status,Moderate,Moderate,Moderate,TRUE
+ITS information,High,High,High,TRUE
+incident scene images,Moderate,Moderate,Moderate,TRUE
+ITS information,High,High,High,TRUE
+local ITS information,High,High,High,TRUE
+local ITS information,High,High,High,TRUE
+ITS information,High,High,High,TRUE
+ITS information,High,High,High,TRUE
+METR coordination,Moderate,High,Moderate,TRUE
+proxied ITS information,High,High,High,TRUE
+personnel device status,Moderate,Moderate,Low,TRUE
+certification results,High,High,Moderate,TRUE
+identifier coordination,Low,High,Low,TRUE
+service identifiers,Low,High,Low,TRUE
+service identifiers,Low,High,Low,TRUE
+service identifiers,Low,High,Low,TRUE
+identifier coordination,Low,High,Low,TRUE
+decision support information,Moderate,Moderate,Moderate,TRUE
+personnel device status,Moderate,Moderate,Low,TRUE
+misbehavior report,Moderate,Moderate,Moderate,FALSE
+personnel location,Not Applicable,High,Moderate,TRUE
+incident scene images,Moderate,Moderate,Moderate,TRUE
+incident command input,Moderate,Moderate,Moderate,TRUE
+incident scene status,Moderate,Moderate,Moderate,TRUE
+personnel updates,Low,High,Moderate,TRUE
+personnel location,Not Applicable,High,Moderate,TRUE
+service identifiers,Low,High,Low,TRUE
+METR information,Low,High,Moderate,TRUE
+local ITS information,High,High,High,TRUE
+wrong way vehicle detected,Not Applicable,Moderate,Moderate,TRUE
+RSE application information,Moderate,Moderate,Low,TRUE
+system-generated discrepancy report,Moderate,Moderate,Moderate,TRUE
+METR coordination,Moderate,High,Moderate,TRUE
+discrepancy suppression information,Moderate,Moderate,Moderate,TRUE
+device identification,Moderate,Moderate,Moderate,TRUE
+consolidated discrepancy report,Moderate,Moderate,Moderate,TRUE
+permission application,High,High,Moderate,TRUE
+METR information approval request,Moderate,High,Moderate,TRUE
+METR feedback,Moderate,Moderate,Low,TRUE
+METR device status,Moderate,Moderate,Moderate,TRUE
+METR information,Low,High,Moderate,TRUE
+METR information,Low,High,Moderate,TRUE
+METR management information,Moderate,High,Moderate,TRUE
+discrepancy report details,Moderate,Moderate,Moderate,TRUE
+system status,High,High,High,TRUE
+enrollment request,Moderate,High,High,FALSE
+auth request,High,High,Moderate,FALSE
+ITS information,High,High,High,TRUE
+device test response,High,High,High,TRUE
+application test response,High,High,High,TRUE
+ITS information,High,High,High,TRUE
+service advertisement,Not Applicable,Moderate,Moderate,TRUE
+ITS information,High,High,High,TRUE
+voice-based traveler request,Low,Moderate,Low,TRUE
+object registration,Low,High,Moderate,TRUE
+data query,High,Moderate,Moderate,TRUE
+data provision,High,High,Moderate,TRUE
+data subscription,High,High,Moderate,TRUE
+device enrollment information,High,High,Moderate,TRUE
+misbehavior report,Moderate,Moderate,Low,TRUE
+ITS information,High,High,High,TRUE
+enrollment credentials,High,High,Moderate,TRUE
+authorization coordination,High,High,High,TRUE
+field equipment commands,Low,Moderate,High,TRUE
+field equipment configuration settings,Moderate,Moderate,Moderate,TRUE
+field equipment status presentation,Moderate,High,High,TRUE
+equipment status presentation,Moderate,High,High,TRUE
+RSE application install/upgrade,High,High,High,TRUE
+maintenance materials storage status,Moderate,Moderate,Moderate,TRUE
+RSE configuration settings,High,High,High,TRUE
+equipment availability,Moderate,Moderate,Low,TRUE
+security policy and networking information,Low,High,High,TRUE
+security credential revocations,Low,High,High,TRUE
+security credentials,High,High,Moderate,TRUE
+revocation coordination,High,High,High,TRUE
+misbehavior analysis coordination,High,High,High,TRUE
+DDS operations information presentation,Moderate,High,High,TRUE
+equipment control commands,High,High,High,TRUE
+host commercial vehicle status,Moderate,Moderate,Moderate,TRUE
+cv driver credential,High,Moderate,Moderate,TRUE
+data query,High,Moderate,Moderate,TRUE
+data provision,High,High,Moderate,TRUE
+data publication,High,High,Moderate,TRUE
+data subscription,High,High,Moderate,TRUE
+border card data,High,Moderate,High,TRUE
+field equipment software install/upgrade,Moderate,High,High,TRUE
+permission request coordination,High,High,Moderate,TRUE
+credentials management operator presentation,Not Applicable,High,High,TRUE
+host emergency vehicle status,Moderate,Moderate,Moderate,TRUE
+host transit vehicle status,Moderate,Moderate,Moderate,TRUE
+archive analysis requests,Moderate,Moderate,Low,TRUE
+archived data product requests,Moderate,Moderate,Low,TRUE
+government reporting data receipt,Low,High,Low,TRUE
+maint and constr administrative information,Moderate,Moderate,Moderate,TRUE
+border card data,High,Moderate,High,TRUE
+commercial vehicle permit information,Moderate,Moderate,Moderate,TRUE
+enrollment coordination,High,High,High,TRUE
+RSE application information,Moderate,Moderate,Low,TRUE
+RSE application install/upgrade,High,High,Moderate,TRUE
+equipment control commands,High,High,Moderate,TRUE
+equipment maintenance request,Moderate,Moderate,Moderate,TRUE
+map update notification,Low,High,Moderate,TRUE
+permission update request,High,High,High,TRUE
+credential fee coordination,Low,Moderate,Low,TRUE
+center status,High,High,High,TRUE
+accident report,Moderate,Moderate,Moderate,TRUE
+route restrictions,Low,Moderate,Low,TRUE
+cv driver record,High,High,Moderate,TRUE
+credentials status information,High,High,Moderate,TRUE
+credentials information,High,High,Moderate,TRUE
+safety status information,Moderate,Moderate,Moderate,TRUE
+safety inspection report,High,High,Moderate,TRUE
+permission application receipt,High,High,Moderate,TRUE
+user permission sets,High,High,Moderate,TRUE
+permission request coordination,High,High,Moderate,TRUE
+user permission sets,High,High,Moderate,TRUE
+permission request received,High,High,High,TRUE
+secure center operator data,Moderate,Moderate,Moderate,TRUE
+personnel device software install/upgrade,High,High,Moderate,TRUE
+permission request,High,High,Moderate,TRUE
+personnel device configuration settings,Moderate,Moderate,Moderate,TRUE
+data publication,High,High,Moderate,TRUE
+service maintenance request,Moderate,Moderate,Moderate,TRUE
+center equipment status,Moderate,Moderate,Moderate,TRUE
+center operator data,High,High,High,TRUE
+field equipment software install/upgrade,Moderate,High,Moderate,TRUE
+field equipment commands,Low,Moderate,Moderate,TRUE
+field equipment configuration settings,Moderate,Moderate,Moderate,TRUE
+personnel device commands,Moderate,Moderate,Moderate,TRUE
+non-compliance report,Moderate,Moderate,Low,TRUE
+enrollment coordination,High,High,High,TRUE
+update driver log activity,High,Moderate,Moderate,TRUE
+check driver log activity,High,High,Moderate,TRUE
+commercial vehicle permit information,Moderate,Moderate,Moderate,TRUE
+non-compliance report,Moderate,Moderate,Low,TRUE
+malfunction report,Moderate,Moderate,Moderate,TRUE
+driver log,High,High,Moderate,TRUE
+driver log,High,High,Moderate,TRUE
+mass data,Moderate,Moderate,Moderate,TRUE
+driver log,High,High,Moderate,TRUE
+driver log carrier input,High,High,Moderate,TRUE
+driver log address,High,High,Moderate,TRUE
+security credentials,High,High,Moderate,TRUE
+revocation coordination,High,High,High,TRUE
+data query publication,High,High,Moderate,TRUE
+driver log,High,High,Moderate,TRUE
+location and time,Moderate,High,High,TRUE
+secure area surveillance data,Moderate,Moderate,Moderate,TRUE
+secure area sensor data,Moderate,Moderate,Moderate,TRUE
+infrastructure monitoring sensor data,High,Moderate,Moderate,TRUE
+location and time,Moderate,High,High,TRUE
+location and time,Moderate,High,High,TRUE
+location and time,Low,High,High,TRUE
+driver log,High,High,Moderate,TRUE
+location and time,Moderate,High,High,TRUE
+authorization coordination,High,High,High,TRUE
+location and time,Moderate,High,High,TRUE
+location and time,Low,High,High,TRUE
+location and time,Moderate,High,High,TRUE
+map update coordination,Low,High,Moderate,TRUE
+map operator input,Not Applicable,High,High,TRUE
+combination data,Moderate,Moderate,Low,TRUE
+location and time,Moderate,High,High,TRUE
+ORDS operations information presentation,Not Applicable,High,High,TRUE
+misbehavior analysis coordination,High,High,High,TRUE
+center fault data,Moderate,Moderate,Moderate,TRUE
+field equipment fault data,Moderate,Moderate,Moderate,TRUE
+RSE fault data,Moderate,Moderate,Moderate,TRUE
+time local form,Not Applicable,High,Moderate,TRUE
+time local form,Not Applicable,High,Moderate,TRUE
+time local form,Not Applicable,High,Moderate,TRUE
+object discovery,Low,High,Moderate,TRUE
+service monitor information presentation,Not Applicable,High,High,TRUE
+data query publication,High,High,Moderate,TRUE
+data query,High,Moderate,Moderate,TRUE
+data provision,High,High,Moderate,TRUE
+data publication,High,High,Moderate,TRUE
+data subscription,High,High,Moderate,TRUE
+data query publication,High,High,Moderate,TRUE
+RSE fault data,Moderate,Moderate,Moderate,TRUE
+service monitor operator input,Not Applicable,High,High,TRUE
+load matching systems coordination,Moderate,Moderate,Moderate,TRUE
+time,Not Applicable,High,Moderate,TRUE
+time,Not Applicable,High,Moderate,TRUE
+time,Not Applicable,High,Moderate,TRUE
+time,Not Applicable,High,Moderate,TRUE
+time,Not Applicable,High,Moderate,TRUE
+personnel device fault data,Moderate,Moderate,Moderate,TRUE
+maint and constr material information,Moderate,High,High,TRUE
+certification operator presentation,High,High,High,TRUE
+ORDS operator input,Not Applicable,High,High,TRUE
+credentials management operator input,Not Applicable,High,High,TRUE
+DDS operator input,Moderate,High,High,TRUE
+wide area broadcast ITS information,Not Applicable,Moderate,Low,TRUE
+OBE fault data,Moderate,Moderate,Moderate,TRUE
+time local form,Not Applicable,High,Moderate,TRUE
+maint and constr vehicle measures,Low,Moderate,High,TRUE
+emergency traveler information request,Moderate,High,Moderate,TRUE
+local ITS information,High,High,High,TRUE
+travel services request,Moderate,Moderate,Moderate,TRUE
+traveler request,Moderate,Moderate,Moderate,TRUE
+trip feedback,Moderate,Moderate,Low,TRUE
+user profile,Moderate,Moderate,Low,TRUE
+shelter request,Moderate,Moderate,Moderate,TRUE
+stolen vehicle signal,Moderate,Moderate,Moderate,TRUE
+traveler sourced updates,Moderate,Moderate,Low,TRUE
+user account setup,High,High,Moderate,TRUE
+trip request,Moderate,Moderate,Low,TRUE
+user account setup,High,High,Moderate,TRUE
+trip confirmation,Moderate,Moderate,Moderate,TRUE
+SUTC operator input,Moderate,High,High,TRUE
+communications signature,Not Applicable,Moderate,Low,TRUE
+traveler credentials,High,Moderate,Moderate,TRUE
+evacuation assistance request,Moderate,Moderate,Moderate,TRUE
+actuate secure payment,Moderate,Moderate,High,TRUE
+application test stimulus,High,High,High,TRUE
+vehicle payment information,High,High,Moderate,TRUE
+vehicle security status,Moderate,Moderate,Moderate,TRUE
+vehicle charging profile,Moderate,Moderate,Low,TRUE
+actuate secure payment,Moderate,Moderate,High,TRUE
+payment device update,Moderate,Moderate,High,TRUE
+trip status,Moderate,Moderate,Low,TRUE
+road pricing equipment status,Moderate,Moderate,Moderate,TRUE
+communications signature,Not Applicable,Moderate,Low,TRUE
+vehicle payment information,High,High,Moderate,TRUE
+road use history,High,High,Moderate,TRUE
+road pricing equipment status,Moderate,Moderate,Moderate,TRUE
+actuate secure payment,Moderate,Moderate,High,TRUE
+vehicle payment information,High,High,Moderate,TRUE
+road use history,High,High,Moderate,TRUE
+request for payment,Moderate,Moderate,High,TRUE
+MMV user updates,Not Applicable,Moderate,Moderate,TRUE
+local ITS information,High,High,High,TRUE
+communications signature,Not Applicable,Moderate,Low,TRUE
+VRU hazard event,Low,High,Moderate,TRUE
+VRU path prediction,Low,High,Moderate,TRUE
+VRU cluster information,Low,High,Moderate,TRUE
+MMV profile,Not Applicable,Moderate,Moderate,TRUE
+personal location,Not Applicable,High,Moderate,TRUE
+MMV location,Moderate,Moderate,Moderate,TRUE
+MMV profile,Not Applicable,Moderate,Moderate,TRUE
+personal updates,Not Applicable,Moderate,Moderate,TRUE
+MMV identification,Not Applicable,Moderate,Moderate,TRUE
+MMV profile,Not Applicable,Moderate,Moderate,TRUE
+wayfinding feedback,Moderate,Moderate,Moderate,TRUE
+wayfinding request,Moderate,Moderate,Moderate,TRUE
+trip status,Moderate,Moderate,Low,TRUE
+personal location,Not Applicable,High,Moderate,TRUE
+pathway equipment state,Low,Moderate,Moderate,TRUE
+communications signature,Not Applicable,Moderate,Low,TRUE
+pathway equipment state,Low,Moderate,Moderate,TRUE
+pathway signage information,Low,Moderate,Moderate,TRUE
+pathway equipment state,Not Applicable,Moderate,Moderate,TRUE
+pathway equipment status,Not Applicable,Moderate,Moderate,TRUE
+traveler pathway updates,Low,Moderate,Moderate,TRUE
+safety device inputs,Low,Moderate,Moderate,TRUE
+pathway signage information,Low,Moderate,Moderate,TRUE
+vehicle control,Moderate,High,High,TRUE
+pathway equipment status,Not Applicable,Moderate,Moderate,TRUE
+pathway equipment state,Low,Moderate,Moderate,TRUE
+pathway equipment status,Not Applicable,Moderate,Moderate,TRUE
+VRU hazard event,Low,High,Moderate,TRUE
+VRU path prediction,Low,High,Moderate,TRUE
+VRU cluster information,Low,High,Moderate,TRUE
+traveler pathway updates,Low,Moderate,Moderate,TRUE
+discrepancy report details,Moderate,Moderate,Moderate,TRUE
+system-generated discrepancy report,Moderate,Moderate,Moderate,TRUE
+electric charging reservation confirmation,Moderate,Moderate,Moderate,TRUE
+electric charging station information,Low,Moderate,Moderate,TRUE
+traveler interface updates,Not Applicable,Moderate,Moderate,TRUE
+device configuration coordination,Low,High,Moderate,TRUE
+light vehicle driver input,Moderate,High,High,TRUE
+account updates,Moderate,Moderate,Moderate,FALSE
+discrepancy suppression information,Moderate,Moderate,Moderate,TRUE
+electric charging station management information,Moderate,Moderate,Moderate,TRUE
+consolidated discrepancy report,Moderate,Moderate,Moderate,TRUE
+system-generated discrepancy report,Moderate,Moderate,Moderate,TRUE
+METR coordination,Moderate,High,Moderate,TRUE
+METR information,Low,High,Moderate,TRUE
+system-generated discrepancy report,Moderate,Moderate,Moderate,TRUE
+actuate secure payment,Moderate,Moderate,High,TRUE
+METR coordination,Moderate,High,Moderate,TRUE
+METR information,Low,High,Moderate,TRUE
+METR coordination,Moderate,High,Moderate,TRUE
+discrepancy suppression information,Moderate,Moderate,Moderate,TRUE
+discrepancy report details,Moderate,Moderate,Moderate,TRUE
+consolidated discrepancy report,Moderate,Moderate,Moderate,TRUE
+METR information,Low,High,Moderate,TRUE
+METR input,Not Applicable,High,High,TRUE
+service registry,Low,Moderate,Moderate,TRUE
+system-generated discrepancy report,Moderate,Moderate,Moderate,TRUE
+METR information,Low,High,Moderate,TRUE
+METR information,Low,High,Moderate,TRUE
+system-generated discrepancy report,Moderate,Moderate,Moderate,TRUE
+system-generated discrepancy report,Moderate,Moderate,Moderate,TRUE
+METR information for users,Low,High,Moderate,TRUE
+METR information for users,Low,High,Moderate,TRUE
+electric service requests info,Moderate,Moderate,Moderate,TRUE
+METR information approval,Moderate,High,Moderate,TRUE
+METR application information,Moderate,Moderate,Low,TRUE
+system-generated discrepancy report,Moderate,Moderate,Moderate,TRUE
+METR coordination,Moderate,High,Moderate,TRUE
+METR information,Low,High,Moderate,TRUE
+METR feedback,Moderate,High,Low,TRUE
+METR information approval request,Moderate,High,Moderate,TRUE
+METR feedback,Moderate,High,Low,TRUE
+METR information,Low,High,Moderate,TRUE
+METR management information,Moderate,High,Moderate,TRUE
+discrepancy suppression information,Moderate,Moderate,Moderate,TRUE
+METR coordination,Moderate,High,Moderate,TRUE
+METR information,Low,High,Moderate,TRUE
+METR input,Not Applicable,High,High,TRUE
+METR input,Not Applicable,High,High,TRUE
+METR information approval,Moderate,High,Moderate,TRUE
+light vehicle driver updates,Not Applicable,Moderate,Moderate,TRUE
+METR management information,Moderate,High,Moderate,TRUE
+METR device status,Moderate,Moderate,Moderate,TRUE
+discrepancy suppression information,Moderate,Moderate,Moderate,TRUE
+discrepancy report details,Moderate,Moderate,Moderate,TRUE
+consolidated discrepancy report,Moderate,Moderate,Moderate,TRUE
+discrepancy report details,Moderate,Moderate,Moderate,TRUE
+consolidated discrepancy report,Moderate,Moderate,Moderate,TRUE
+METR information,Low,High,Moderate,TRUE
+unverified METR information,Moderate,High,Moderate,TRUE
+METR coordination,Moderate,High,Moderate,TRUE
+traveler sourced updates,Moderate,Moderate,Low,TRUE
+METR information,Low,High,Moderate,TRUE
+METR coordination,Moderate,High,Moderate,TRUE
+system-generated discrepancy report,Moderate,Moderate,Moderate,TRUE
+METR coordination,Moderate,High,Moderate,TRUE
+METR information,Low,High,Moderate,TRUE
+METR information,Low,High,Moderate,TRUE
+verified METR information,Moderate,High,Moderate,TRUE
+expedited clearance information,Moderate,Moderate,Moderate,TRUE
+environmental conditions,Not Applicable,Low,Low,TRUE
+comm-derived travel performance data,Not Applicable,Moderate,Low,TRUE
+local ITS information relay,High,High,High,TRUE
+local ITS information,High,High,High,TRUE
+ITS information,High,High,High,TRUE
+refusal of entry information,Moderate,High,Moderate,TRUE
+secure center operator input,Moderate,Moderate,Moderate,TRUE
+expedited clearance application information,Moderate,Moderate,Moderate,TRUE
+center operator data,Moderate,Moderate,Moderate,TRUE
+inspection results,Moderate,Moderate,Low,TRUE
+vulnerable road user presence,,,,FALSE
+vulnerable road user presence,,,,FALSE
+physical presence,,,,FALSE
+physical presence,,,,FALSE
+trip feedback,Moderate,Moderate,Low,TRUE
+border field equipment data,Moderate,Moderate,Moderate,TRUE
+unlock codes,High,High,Moderate,FALSE
+SS root cert,Not Applicable,High,High,FALSE
+signed target CA cert,Not Applicable,High,High,FALSE
+signed CTL,Not Applicable,High,High,FALSE
+CCMS policies,Not Applicable,High,Moderate,TRUE
+CCMS policies,Not Applicable,High,Moderate,TRUE
+CCMS policies,Not Applicable,High,Moderate,TRUE
+comm-derived travel performance data,Not Applicable,Moderate,Low,TRUE
+unsigned CTL,Not Applicable,High,High,FALSE
+roadway characteristics,Not Applicable,Low,Low,TRUE
+registered EEs,High,High,Moderate,FALSE
+auth token,High,High,Moderate,FALSE
+signed CTL,Not Applicable,High,High,FALSE
+electric charging utility info,Moderate,Moderate,Moderate,TRUE
+meter control,Moderate,Moderate,Moderate,TRUE
+usage and billing info,Moderate,Moderate,Moderate,TRUE
+signed CTL,Not Applicable,High,High,FALSE
+parking reservation confirmation,Moderate,Moderate,Moderate,TRUE
+environmental conditions,Not Applicable,Low,Low,TRUE
+parking arrival information,Not Applicable,Moderate,Moderate,TRUE
+parking information,Moderate,Moderate,Moderate,TRUE
+registered secureIDs,High,High,Moderate,TRUE
+traveler payment request,Moderate,Moderate,Moderate,TRUE
+user account reports,High,High,Moderate,TRUE
+payment violation notification,Moderate,Moderate,Moderate,TRUE
+loading zone information,Low,Moderate,Moderate,TRUE
+payment request,Moderate,Moderate,Moderate,TRUE
+parking information,Moderate,Moderate,Moderate,TRUE
+rest area parking information,Moderate,Moderate,Moderate,TRUE
+parking management application info,Moderate,Moderate,Low,TRUE
+parking information,Moderate,Moderate,Moderate,TRUE
+certification operator input,High,High,High,TRUE
+CVC override mode,Not Applicable,High,High,TRUE
+loading zone reservation confirmation,Low,Moderate,Moderate,TRUE
+parking area reservation information,Moderate,Moderate,Moderate,TRUE
+environmental conditions,Not Applicable,Low,Low,TRUE
+vehicle characteristics,,,,FALSE
+vehicle characteristics,,,,FALSE
+vehicle characteristics,,,,FALSE
+parking manager input,Moderate,High,High,TRUE
+parking status,Moderate,High,High,TRUE
+parking archive data,Moderate,Moderate,Low,TRUE
+parking payment instructions,Low,Moderate,Moderate,TRUE
+signed target CA cert,Not Applicable,High,High,FALSE
+parking area transit information,Low,Moderate,Moderate,TRUE
+parking area management information,Moderate,Moderate,Low,TRUE
+loading zone application info,Low,Moderate,Moderate,TRUE
+authorization response,Moderate,Moderate,Moderate,TRUE
+account updates,Moderate,Moderate,Moderate,TRUE
+service registry,Low,Moderate,Moderate,TRUE
+parking coordination,Moderate,Moderate,Low,TRUE
+revocation data,High,High,High,FALSE
+signed target CA cert,Not Applicable,High,High,FALSE
+account updates,Moderate,Moderate,Moderate,TRUE
+payment request,Moderate,Moderate,Moderate,TRUE
+shared use status,Moderate,Moderate,Moderate,TRUE
+shared vehicle information,Moderate,Moderate,Moderate,TRUE
+shared use response,Moderate,Moderate,Moderate,TRUE
+shared use response,Moderate,Moderate,Moderate,TRUE
+certificate revocations,Not Applicable,High,High,FALSE
+MMV access enable,Moderate,Moderate,Moderate,TRUE
+certificate revocations,Not Applicable,High,High,FALSE
+certificate revocations,Not Applicable,High,High,FALSE
+certificate revocations,Not Applicable,High,High,FALSE
+misbehavior report,Moderate,Moderate,Moderate,FALSE
+enrollment cert,Moderate,High,High,FALSE
+RA cert,Not Applicable,High,High,FALSE
+shared use status,Moderate,Moderate,Moderate,TRUE
+emergency notification relay,Moderate,High,Moderate,TRUE
+device test stimulus,High,High,High,TRUE
+trip request,Moderate,Moderate,Low,TRUE
+personal signal service request,Low,Moderate,Low,TRUE
+personal location,Not Applicable,High,Moderate,TRUE
+personal location,Not Applicable,High,Moderate,TRUE
+VRU hazard event,Low,High,Moderate,TRUE
+trip access coordination,Moderate,Moderate,Moderate,TRUE
+VRU cluster information,Low,High,Moderate,TRUE
+auth certs,Moderate,High,Moderate,TRUE
+emergency acknowledge,Low,Moderate,Low,TRUE
+emergency notification,Moderate,High,Moderate,TRUE
+personal location,Not Applicable,High,Moderate,TRUE
+traveler eligibility,Moderate,Moderate,Moderate,TRUE
+shared vehicle access enable,Moderate,Moderate,Moderate,TRUE
+SUTC operations information presentation,Moderate,High,High,TRUE
+VRU path prediction,Low,High,Moderate,TRUE
+signed CTL,Not Applicable,High,High,FALSE
+unlock codes,High,High,Moderate,FALSE
+enrollment request,Moderate,High,High,FALSE
+enrollment cert,Moderate,High,High,FALSE
+RA cert,Not Applicable,High,High,FALSE
+other bootstrap data,High,High,High,FALSE
+certificate chain file,Not Applicable,High,High,FALSE
+CA certs,Not Applicable,High,Moderate,TRUE
+CCMS policies,Not Applicable,High,Moderate,TRUE
+certificate revocations,Not Applicable,High,Moderate,FALSE
+cert linkage input,High,High,High,FALSE
+cert linkage input,High,High,High,FALSE
+enrollment cert,Moderate,High,High,FALSE
+enrollment cert,Moderate,High,High,FALSE
+auth certs,Moderate,High,Moderate,TRUE
+user profile,Moderate,Moderate,Low,TRUE
+certificate revocations,Not Applicable,High,Moderate,FALSE
+cert request,High,High,High,FALSE
+signed target CA cert,Not Applicable,High,High,FALSE
+certificate revocations,Not Applicable,High,High,FALSE
+signed CTL,Not Applicable,High,High,FALSE
+linkage value request,Moderate,High,High,FALSE
+cert request,High,High,High,FALSE
+cert request,High,High,High,FALSE
+signed CTL,Not Applicable,High,High,FALSE
+registered EEs,High,High,Moderate,FALSE
+CCMS policies,Not Applicable,High,Moderate,TRUE
+misbehavior report,Moderate,Moderate,Moderate,FALSE
+enrollment cert,Moderate,High,High,FALSE
+RA cert,Not Applicable,High,High,FALSE
+CA certs,Not Applicable,High,Moderate,TRUE
+certificate chain file,Not Applicable,High,Moderate,FALSE
+auth certs,Moderate,High,Moderate,TRUE
+certificate chain file,Not Applicable,High,High,FALSE
+unlock codes,High,High,Moderate,FALSE
+actuate secure payment,Moderate,Moderate,High,TRUE
+event plans,Moderate,High,Moderate,TRUE
+driver information,Low,Moderate,Moderate,TRUE
+current charging status,Not Applicable,Moderate,Moderate,TRUE
+meter data,Moderate,Moderate,Low,TRUE
+authorization request,Moderate,Moderate,Moderate,TRUE
+payment device information,Moderate,Moderate,High,TRUE
+payment administration requests,Moderate,High,High,TRUE
+payment device information,Moderate,Moderate,High,TRUE
+registration,Moderate,Moderate,Moderate,TRUE
+payment device information,Moderate,Moderate,High,TRUE
+actuate secure payment,Moderate,Moderate,High,TRUE
+actuate secure payment,Moderate,Moderate,High,TRUE
+payment device information,Moderate,Moderate,High,TRUE
+actuate secure payment,Moderate,Moderate,High,TRUE
+remote surveillance control,Moderate,High,Moderate,TRUE
+actuate secure payment,Moderate,Moderate,High,TRUE
+emergency data request,Moderate,Moderate,Moderate,TRUE
+incident notification response,Moderate,Moderate,Moderate,TRUE
+alert notification,High,High,High,TRUE
+emergency route request,High,High,High,TRUE
+emergency plan coordination,High,High,High,TRUE
+transportation system status,Low,High,Moderate,TRUE
+evacuation information,Low,High,Moderate,TRUE
+electric charging station data,Low,Moderate,Moderate,TRUE
+incident information,High,Moderate,Moderate,TRUE
+event plans,Moderate,High,Moderate,TRUE
+emergency acknowledge,Low,Moderate,Low,TRUE
+user account coordination,Moderate,Moderate,Moderate,TRUE
+toll coordination,Moderate,Moderate,Moderate,TRUE
+payment coordination,Moderate,High,Moderate,TRUE
+registration,Moderate,Moderate,Moderate,TRUE
+registration,Moderate,Moderate,Moderate,TRUE
+emergency traffic control request,Moderate,High,Moderate,TRUE
+user account reports,High,High,Moderate,TRUE
+actuate secure payment,Moderate,Moderate,High,TRUE
+traveler eligibility request,Moderate,Moderate,Moderate,TRUE
+trip access coordination,Moderate,Moderate,Moderate,TRUE
+payment methods,Moderate,Moderate,Low,TRUE
+payment methods,Moderate,Moderate,Low,TRUE
+registered secureIDs,High,High,Moderate,TRUE
+road use charges,Moderate,Moderate,Moderate,TRUE
+traveler payment request,Moderate,Moderate,Moderate,TRUE
+access violation notification,Moderate,High,Moderate,TRUE
+authorization response,Moderate,Moderate,Moderate,TRUE
+toll service change response,Low,Moderate,High,TRUE
+user account coordination,Moderate,Moderate,Moderate,TRUE
+toll coordination,Moderate,Moderate,Moderate,TRUE
+payment coordination,Moderate,High,Moderate,TRUE
+license request,High,Moderate,Low,TRUE
+authorization response,Moderate,Moderate,Moderate,TRUE
+authorization request,Moderate,Moderate,Moderate,TRUE
+event plans,Moderate,High,Moderate,TRUE
+event plans,Moderate,High,Moderate,TRUE
+event information,Moderate,High,Moderate,TRUE
+event plans,Moderate,High,Moderate,TRUE
+emissions operator input,Moderate,High,High,TRUE
+payment transaction status,Low,Moderate,Moderate,TRUE
+user account reports,High,High,Moderate,TRUE
+road use charges,Moderate,Moderate,Moderate,TRUE
+resource deployment status,Moderate,Moderate,Moderate,TRUE
+road pricing equipment fault,Moderate,Moderate,Moderate,TRUE
+payment transactions,Moderate,Moderate,Moderate,TRUE
+road use history,High,High,Moderate,TRUE
+payment methods,Moderate,Moderate,Low,TRUE
+registered secureIDs,High,High,Moderate,TRUE
+vehicle payment update,Moderate,Moderate,Moderate,TRUE
+vehicle payment update,Moderate,Moderate,Moderate,TRUE
+incident scene warning device control,Moderate,High,Moderate,TRUE
+secure area surveillance control,Moderate,High,Moderate,TRUE
+evacuation coordination,Moderate,Moderate,Moderate,TRUE
+emergency plan coordination,High,High,High,TRUE
+transportation system status,Low,High,Moderate,TRUE
+incident report,High,Moderate,Moderate,TRUE
+license request,High,Moderate,Low,TRUE
+incident command information coordination,Moderate,Moderate,Moderate,TRUE
+toll service change request,Low,Moderate,High,TRUE
+incident response coordination,Moderate,Moderate,Moderate,TRUE
+occupant information,High,High,High,TRUE
+road weather advisories for emergency response,Moderate,Moderate,Moderate,TRUE
+emergency dispatch requests,Moderate,High,Moderate,TRUE
+decision support information,Moderate,Moderate,Moderate,TRUE
+suggested route,Moderate,High,Moderate,TRUE
+incident response status,Moderate,Moderate,Moderate,TRUE
+event confirmation,Moderate,High,Moderate,TRUE
+incident information,High,Moderate,Moderate,TRUE
+citation,Moderate,Moderate,Moderate,TRUE
+medical records request,High,High,High,TRUE
+care facility status request,Low,High,High,TRUE
+threat information,Moderate,High,High,TRUE
+incident response status,Moderate,Moderate,Moderate,TRUE
+emergency plan coordination,High,High,High,TRUE
+alert notification coordination,High,High,High,TRUE
+evacuation information,Low,High,Moderate,TRUE
+secure area sensor control,Moderate,High,Moderate,TRUE
+public health request,High,High,High,TRUE
+evacuation information,Low,High,Moderate,TRUE
+emergency operations status,Moderate,High,High,TRUE
+stolen vehicle recovery coordination,Moderate,Moderate,Moderate,TRUE
+threat information coordination,Moderate,High,High,TRUE
+resource coordination,Moderate,Moderate,Moderate,TRUE
+transportation system status,Low,High,Moderate,TRUE
+transportation system status,Low,High,Moderate,TRUE
+emergency archive data,Moderate,Moderate,Low,TRUE
+incident scene warning device control,Moderate,High,Moderate,TRUE
+work plan feedback,Low,Moderate,Low,TRUE
+threat information,Moderate,High,High,TRUE
+maint and constr resource request,Moderate,Moderate,Moderate,TRUE
+incident response status,Moderate,Moderate,Moderate,TRUE
+disable commercial vehicle,High,High,High,TRUE
+emergency plan coordination,High,High,High,TRUE
+hazmat information request,Moderate,Moderate,Moderate,TRUE
+evacuation information,Low,High,Moderate,TRUE
+incident information,High,Moderate,Moderate,TRUE
+special vehicle restricted use information,Moderate,Moderate,Moderate,TRUE
+threat information,Moderate,High,High,TRUE
+road closure notification,Moderate,Moderate,Moderate,TRUE
+resource request,Moderate,Moderate,Moderate,TRUE
+alert notification,High,High,High,TRUE
+incident information,High,Moderate,Moderate,TRUE
+alarm acknowledge,Moderate,High,Moderate,TRUE
+threat information,Moderate,High,High,TRUE
+incident response status,Moderate,Moderate,Moderate,TRUE
+alert notification,High,High,High,TRUE
+emergency transit service request,High,High,High,TRUE
+emergency plan coordination,High,High,High,TRUE
+incident scene safety application info,Moderate,Moderate,Low,TRUE
+evacuation information,Low,High,Moderate,TRUE
+payment instructions,Moderate,Moderate,Moderate,TRUE
+vehicle security status changes,Moderate,Moderate,Moderate,TRUE
+emergency acknowledge,Low,Moderate,Low,TRUE
+alert notification,High,High,High,TRUE
+transportation system status,Low,High,Moderate,TRUE
+evacuation information,Low,High,Moderate,TRUE
+commercial vehicle incident response information,Moderate,High,Moderate,TRUE
+transportation system status,Low,High,Moderate,TRUE
+trigger control,Moderate,Moderate,Low,TRUE
+archive status,High,High,Moderate,TRUE
+track status,Low,Moderate,Moderate,TRUE
+arriving train information,Not Applicable,High,High,TRUE
+track status,Low,Moderate,Moderate,TRUE
+arriving train information,Not Applicable,High,High,TRUE
+information on violators,High,Moderate,Moderate,TRUE
+personnel monitoring,Not Applicable,Moderate,Low,TRUE
+trigger area definition,Low,High,Moderate,TRUE
+personnel monitoring,Not Applicable,Moderate,Low,TRUE
+information on violators,High,Moderate,Low,TRUE
+information on violators,High,Moderate,Moderate,TRUE
+automated enforcement parameters,Low,Moderate,Low,TRUE
+speed monitoring control,Moderate,High,Low,TRUE
+service request,Moderate,Moderate,Moderate,TRUE
+payment information presentation,Moderate,High,High,TRUE
+targeted list,Moderate,Moderate,Low,TRUE
+vehicle signage data,Low,Moderate,Moderate,TRUE
+barrier system control,Moderate,High,Moderate,TRUE
+local signal preemption request,Not Applicable,High,Moderate,TRUE
+local signal preemption request,Not Applicable,High,Moderate,TRUE
+service patrol dispatch response,Moderate,Moderate,Moderate,TRUE
+service patrol incident status,Moderate,Moderate,Moderate,TRUE
+emergency vehicle tracking data,Moderate,Moderate,Moderate,TRUE
+maint and constr center personnel input,High,High,High,TRUE
+special vehicle alert,Not Applicable,High,Moderate,TRUE
+archive status,High,High,Moderate,TRUE
+driver information,Not Applicable,Moderate,Moderate,TRUE
+maint and constr vehicle status coordination,Low,Moderate,Low,TRUE
+work zone warning notification,Not Applicable,Moderate,Moderate,TRUE
+personnel input,Low,Moderate,Low,TRUE
+field personnel equipment input,Moderate,High,High,TRUE
+field personnel equipment input,Moderate,High,High,TRUE
+local METR information for users,Not Applicable,High,Moderate,TRUE
+maint and constr vehicle operator presentation,Moderate,High,High,TRUE
+archive status,High,High,Moderate,TRUE
+archive status,High,High,Moderate,TRUE
+archive status,High,High,Moderate,TRUE
+TIC operator input,Moderate,High,High,TRUE
+remote vehicle status,Moderate,Moderate,Moderate,TRUE
+asset locations,Moderate,Moderate,Moderate,TRUE
+archive status,High,High,Moderate,TRUE
+maint and constr vehicle condition presentation,Moderate,High,High,TRUE
+archive status,High,High,Moderate,TRUE
+maint and constr vehicle conditions,Moderate,Moderate,Moderate,TRUE
+maint and constr vehicle control,Moderate,High,High,TRUE
+maint and constr vehicle status coordination,Low,Moderate,Low,TRUE
+work zone warning notification,Not Applicable,Moderate,Moderate,TRUE
+system-generated discrepancy report,Moderate,Moderate,Moderate,TRUE
+local METR information for users,Not Applicable,High,Moderate,TRUE
+personnel safety warning,Not Applicable,High,Low,TRUE
+archive status,High,High,Moderate,TRUE
+archive management data,Moderate,Moderate,Moderate,TRUE
+archive coordination,Moderate,High,High,TRUE
+archive analysis results,High,High,Low,TRUE
+archive request confirmation,Low,Moderate,Moderate,TRUE
+archived data products,High,High,Low,TRUE
+government reporting system data,Low,High,Low,TRUE
+data collection and monitoring control,Moderate,Moderate,Low,TRUE
+archive status,High,High,Moderate,TRUE
+local METR information for users,Not Applicable,High,Moderate,TRUE
+archive status,High,High,Moderate,TRUE
+archive status,High,High,Moderate,TRUE
+archive status,High,High,Moderate,TRUE
+archive status,High,High,Moderate,TRUE
+archive status,High,High,Moderate,TRUE
+archive status,High,High,Moderate,TRUE
+archive status,High,High,Moderate,TRUE
+settlement,Moderate,Moderate,Moderate,TRUE
+incident scene warning notification,Moderate,Moderate,Moderate,TRUE
+toll probe data,Low,Moderate,Low,TRUE
+toll data,Low,Moderate,Low,TRUE
+toll data,Low,Moderate,Low,TRUE
+toll probe data,Low,Moderate,Low,TRUE
+toll data,Low,Moderate,Low,TRUE
+reconciliation response,Moderate,Moderate,Moderate,TRUE
+settlement,Moderate,Moderate,Moderate,TRUE
+trip access coordination,Moderate,Moderate,Moderate,TRUE
+payment methods financial institution,Moderate,Moderate,Low,TRUE
+settlement,Moderate,Moderate,Moderate,TRUE
+settlement,Moderate,Moderate,Moderate,TRUE
+payment methods financial institution,Moderate,Moderate,Low,TRUE
+settlement,Moderate,Moderate,Moderate,TRUE
+traffic image meta data,Low,Moderate,Moderate,TRUE
+settlement,Moderate,Moderate,Moderate,TRUE
+trip access coordination,Moderate,Moderate,Moderate,TRUE
+alarm acknowledge,Moderate,High,Moderate,TRUE
+authorization response,Moderate,Moderate,Moderate,TRUE
+road use charges,Moderate,Moderate,Moderate,TRUE
+payment request,Moderate,Moderate,Moderate,TRUE
+payment violation notification,Moderate,Moderate,Moderate,TRUE
+payment archive data,Moderate,Moderate,Low,TRUE
+road use charge info,Low,High,High,TRUE
+authorization response,Moderate,Moderate,Moderate,TRUE
+device control request,Moderate,High,Moderate,TRUE
+reconciliation response,Moderate,Moderate,Moderate,TRUE
+payment methods,Moderate,Moderate,Low,TRUE
+registered secureIDs,High,High,Moderate,TRUE
+access violation notification,Moderate,High,Moderate,TRUE
+traveler payment request,Moderate,Moderate,Moderate,TRUE
+user account reports,High,High,Moderate,TRUE
+low emissions zone coordination,Moderate,Moderate,Low,TRUE
+road closure notification,Moderate,Moderate,Moderate,TRUE
+incident scene status,Moderate,Moderate,Moderate,TRUE
+decision support information,Moderate,Moderate,Moderate,TRUE
+medical records request,High,High,High,TRUE
+patient status,High,High,High,TRUE
+care facility status request,Low,High,High,TRUE
+patient transport status,High,High,High,TRUE
+emergency traffic coordination,Moderate,High,High,TRUE
+incident scene warning status,Moderate,Moderate,Moderate,TRUE
+personnel safety warning,Not Applicable,High,Low,TRUE
+incident scene status,Moderate,Moderate,Moderate,TRUE
+emergency dispatch response,Moderate,High,Moderate,TRUE
+emergency vehicle tracking data,Moderate,Moderate,Moderate,TRUE
+incident scene warning,Low,High,High,TRUE
+emergency personnel information presentation,Moderate,Moderate,Moderate,TRUE
+authorization response,Moderate,Moderate,Moderate,TRUE
+incident scene images,Moderate,Moderate,Moderate,TRUE
+personnel monitoring,Not Applicable,Moderate,Low,TRUE
+container seal interrogation,Low,Moderate,Moderate,TRUE
+incident information,High,Moderate,Moderate,TRUE
+device status,Moderate,Moderate,Moderate,TRUE
+device data,Moderate,Moderate,Low,TRUE
+road network conditions,Low,Moderate,Moderate,TRUE
+traffic images,Low,Moderate,Low,TRUE
+incident scene warning notification,Moderate,Moderate,Moderate,TRUE
+emergency personnel input,Moderate,Moderate,Moderate,TRUE
+incident scene images,Moderate,Moderate,Moderate,TRUE
+personnel monitoring,Not Applicable,Moderate,Low,TRUE
+personal input,Not Applicable,Moderate,Low,TRUE
+crossing call,Not Applicable,High,Low,TRUE
+incident scene images,Moderate,Moderate,Moderate,TRUE
+incident scene status,Moderate,Moderate,Moderate,TRUE
+decision support information,Moderate,Moderate,Moderate,TRUE
+transportation operational strategies,Moderate,Moderate,Moderate,TRUE
+personnel input,Low,Moderate,Low,TRUE
+trigger area notification,Low,High,Moderate,TRUE
+request tag data,Not Applicable,Moderate,Low,TRUE
+commercial vehicle violation notification,High,Moderate,Low,TRUE
+CVO pass/pull-in message,Not Applicable,High,High,TRUE
+safety inspection request,Moderate,Moderate,Moderate,TRUE
+electronic screening request,Moderate,High,Moderate,TRUE
+screening event record,Moderate,High,Moderate,TRUE
+roadside data message,Moderate,High,Moderate,TRUE
+pass/pull-in,Low,High,Moderate,TRUE
+driver log,High,High,Moderate,TRUE
+request tag data,Not Applicable,Moderate,Low,TRUE
+electronic lock data request,Low,Moderate,Low,TRUE
+border clearance event,Moderate,Moderate,Low,TRUE
+border clearance data request,Moderate,Moderate,Low,TRUE
+clearance notification,Moderate,Moderate,Moderate,TRUE
+safety inspection record,Moderate,Moderate,Moderate,TRUE
+safety inspection record,Moderate,Moderate,Moderate,TRUE
+safety inspection report,High,High,Moderate,TRUE
+incident information for public,Low,Moderate,Low,TRUE
+route restrictions,Low,Moderate,Low,TRUE
+request for driver log,High,High,Moderate,TRUE
+security credentials,High,High,Moderate,TRUE
+request security credentials,High,High,Moderate,TRUE
+request driver log address,High,High,Moderate,TRUE
+commercial vehicle incident notification,Moderate,High,Moderate,TRUE
+weigh-in-motion information,Moderate,Moderate,Moderate,TRUE
+container seal interrogation,Low,Moderate,Low,TRUE
+accident report,Moderate,Moderate,Moderate,TRUE
+request for driver log,High,High,Moderate,TRUE
+daily site activity data,High,Moderate,Low,TRUE
+commercial vehicle violation notification,High,Moderate,Low,TRUE
+citation,Moderate,Moderate,Moderate,TRUE
+on-board safety data,High,High,Moderate,TRUE
+CVO inspector information,Not Applicable,High,High,TRUE
+traveler personal information,Moderate,High,Moderate,TRUE
+border pass/pull-in,Not Applicable,High,Moderate,TRUE
+border wait times data,Not Applicable,Moderate,Low,TRUE
+expedited clearance application information,Moderate,Moderate,Moderate,TRUE
+expedited clearance information,Moderate,Moderate,Moderate,TRUE
+inspection results,Moderate,Moderate,Low,TRUE
+pre-arrival notification,Moderate,High,Moderate,TRUE
+lane management inputs,Low,Moderate,Low,TRUE
+manifest data,Moderate,High,Moderate,TRUE
+remote surveillance control,Moderate,High,Moderate,TRUE
+consolidated agency response,High,High,Moderate,TRUE
+border information archive data,Moderate,Moderate,Low,TRUE
+expedited traveler registration status,Moderate,Moderate,Moderate,TRUE
+expedited clearance status,Moderate,Moderate,Moderate,TRUE
+expedited clearance information,Moderate,Moderate,Moderate,TRUE
+clearance notification,Moderate,Moderate,Moderate,TRUE
+client verification request,Moderate,Moderate,Moderate,TRUE
+border crossing status information,Low,Moderate,Low,TRUE
+traveler border clearance status,Low,High,Moderate,TRUE
+refusal of entry information,Moderate,High,Moderate,TRUE
+border field equipment data,Moderate,Moderate,Moderate,TRUE
+arrival notification,Low,Moderate,Low,TRUE
+inspection results,Moderate,Moderate,Low,TRUE
+inspection results,Moderate,Moderate,Low,TRUE
+border incident information,Moderate,Moderate,Moderate,TRUE
+border incident information,Moderate,Moderate,Moderate,TRUE
+border clearance status,High,Moderate,Moderate,TRUE
+request tag data,Not Applicable,Moderate,Low,TRUE
+clearance notification,Moderate,Moderate,Moderate,TRUE
+border pass/pull-in,Not Applicable,High,Moderate,TRUE
+request tag data,Not Applicable,Moderate,Low,TRUE
+container seal interrogation,Low,Moderate,Low,TRUE
+vehicle signage local data,Low,Moderate,Moderate,TRUE
+border security input,Moderate,Moderate,Low,TRUE
+accident report,Moderate,Moderate,Moderate,TRUE
+trigger area notification,Low,High,Moderate,TRUE
+safety status information,Moderate,Moderate,Moderate,TRUE
+citation,Moderate,Moderate,Moderate,TRUE
+border clearance status,High,Moderate,Moderate,TRUE
+trip declaration identifiers,Moderate,Moderate,Moderate,TRUE
+safety inspection report,High,High,Moderate,TRUE
+credentials status information,High,High,Moderate,TRUE
+carrier participation report,Moderate,Moderate,Low,TRUE
+cv driver record,High,High,Moderate,TRUE
+cv driver record,High,High,Moderate,TRUE
+credentials status information,High,Moderate,Moderate,TRUE
+credentials information,High,Moderate,Moderate,TRUE
+safety status information,Moderate,Moderate,Moderate,TRUE
+targeted list,Moderate,Moderate,Low,TRUE
+trigger area notification,Low,High,Moderate,TRUE
+commercial vehicle permit information,Moderate,Moderate,Moderate,TRUE
+safety status information,Moderate,Moderate,Moderate,TRUE
+driver input,Moderate,High,High,TRUE
+CVO inspector input,Not Applicable,High,High,TRUE
+driver log inspector annotations,High,High,Moderate,TRUE
+commercial vehicle administration information presentation,Moderate,High,High,TRUE
+carrier participation report,Moderate,Moderate,Low,TRUE
+cv driver record,High,High,Moderate,TRUE
+credentials information,High,High,Moderate,TRUE
+credentials information,High,High,Moderate,TRUE
+trigger control,Moderate,Moderate,Low,TRUE
+commercial vehicle permit information,Moderate,Moderate,Moderate,TRUE
+safety inspection report,High,High,Moderate,TRUE
+credential fee coordination,Low,Moderate,Low,TRUE
+commercial vehicle permit information,Moderate,Moderate,Moderate,TRUE
+accident report,Moderate,Moderate,Moderate,TRUE
+route restrictions,Low,Moderate,Low,TRUE
+credentials status information,High,Moderate,Moderate,TRUE
+cv driver record,High,High,Moderate,TRUE
+citation,Moderate,Moderate,Moderate,TRUE
+commercial vehicle permit information,Moderate,Moderate,Moderate,TRUE
+route restrictions,Low,Moderate,Low,TRUE
+safety inspection report,High,High,Moderate,TRUE
+compliance review report,Moderate,Moderate,Moderate,TRUE
+accident report,Moderate,Moderate,Moderate,TRUE
+commercial vehicle archive data,Moderate,Moderate,Low,TRUE
+route restrictions,Low,Moderate,Low,TRUE
+citation,Moderate,Moderate,Moderate,TRUE
+credentials status information,High,Moderate,Moderate,TRUE
+credentials information,High,Moderate,Moderate,TRUE
+safety status information,Moderate,Moderate,Low,TRUE
+citation,Moderate,Moderate,Moderate,TRUE
+trigger area,Moderate,Moderate,Low,TRUE
+trigger area notification,Low,High,Moderate,TRUE
+commercial vehicle permit,Moderate,Moderate,Moderate,TRUE
+commercial vehicle permit information,Moderate,Moderate,Moderate,TRUE
+driver log,High,High,Moderate,TRUE
+transportation border clearance assessment,Moderate,High,Moderate,TRUE
+border agency clearance results,Low,High,Moderate,TRUE
+screening results,Moderate,Moderate,Low,TRUE
+client verification information,Moderate,Moderate,Moderate,TRUE
+border clearance status,High,High,Moderate,TRUE
+border clearance status,High,Moderate,Moderate,TRUE
+safety inspection report,High,High,Moderate,TRUE
+clearance notification,Moderate,Moderate,Moderate,TRUE
+carrier participation report,Moderate,Moderate,Low,TRUE
+accident report,Moderate,Moderate,Moderate,TRUE
+credentials status information,High,Moderate,Moderate,TRUE
+safety status information,Moderate,Moderate,Moderate,TRUE
+daily site activity data,High,Moderate,Low,TRUE
+commercial vehicle violation notification,High,Moderate,Low,TRUE
+payment request,Moderate,Moderate,Moderate,TRUE
+shelter information,Low,Moderate,Moderate,TRUE
+alert notification coordination,High,High,High,TRUE
+traveler input,Not Applicable,Moderate,Low,TRUE
+traveler input,Not Applicable,Moderate,Low,TRUE
+traveler input,Not Applicable,Moderate,Low,TRUE
+traveler input,Not Applicable,Moderate,Low,TRUE
+travel service reservations,Moderate,Moderate,Moderate,TRUE
+railroad advisories,Low,Moderate,Moderate,TRUE
+shelter information,Low,Moderate,Moderate,TRUE
+railroad schedules,Low,Moderate,Moderate,TRUE
+emergency operations input,Moderate,High,High,TRUE
+stolen vehicle recovery coordination,Moderate,Moderate,Moderate,TRUE
+threat information coordination,Moderate,High,High,TRUE
+resource coordination,Moderate,Moderate,Moderate,TRUE
+incident response coordination,Moderate,Moderate,Moderate,TRUE
+expedited clearance status,Moderate,Moderate,Moderate,TRUE
+travel service information,Low,Moderate,Moderate,TRUE
+rail incident response status,Moderate,Moderate,Moderate,TRUE
+care facility status,High,High,High,TRUE
+medical records,High,High,High,TRUE
+care facility status,High,High,High,TRUE
+medical records,High,High,High,TRUE
+care facility general status,Low,Moderate,Moderate,TRUE
+population and housing data,Moderate,Moderate,Moderate,TRUE
+public health response,High,High,High,TRUE
+rail system status assessment,Moderate,Moderate,Moderate,TRUE
+evacuation coordination,Moderate,Moderate,Moderate,TRUE
+emergency plan coordination,High,High,High,TRUE
+incident information,High,Moderate,Moderate,TRUE
+railroad schedules,Low,Moderate,Moderate,TRUE
+railroad advisories,Low,Moderate,Moderate,TRUE
+work plan feedback,Low,Moderate,Low,TRUE
+railroad schedules,Low,Moderate,Moderate,TRUE
+railroad schedules,Low,Moderate,Moderate,TRUE
+threat data for analysis,Moderate,High,High,TRUE
+incident command information coordination,Moderate,Moderate,Moderate,TRUE
+environmental sensor coordination,Moderate,Moderate,Low,TRUE
+roadway treatment coordination,Moderate,Moderate,Moderate,TRUE
+stolen vehicle signal activation,Moderate,Moderate,Moderate,TRUE
+vehicle control override,High,High,Low,TRUE
+incident command information,Moderate,Moderate,Moderate,TRUE
+traffic detector coordination,Moderate,Moderate,Low,TRUE
+threat information,Moderate,High,High,TRUE
+vehicle occupancy coordination,Moderate,Moderate,Low,TRUE
+secure area surveillance control,Moderate,High,Moderate,TRUE
+secure area sensor control,Moderate,High,Moderate,TRUE
+infrastructure monitoring sensor control,Moderate,High,Moderate,TRUE
+border incident response status,Moderate,Moderate,Moderate,TRUE
+alert notification for social media,Low,Moderate,Moderate,TRUE
+incident information for media,Low,Moderate,Moderate,TRUE
+decision support information,Moderate,Moderate,Moderate,TRUE
+advisory radio coordination,Moderate,Moderate,Low,TRUE
+emergency plan coordination,High,High,High,TRUE
+transportation system status,Low,High,Moderate,TRUE
+incident report,High,Moderate,Moderate,TRUE
+shoulder management coordination,Moderate,Moderate,Moderate,TRUE
+variable speed limit coordination,Moderate,Moderate,Moderate,TRUE
+barrier system coordination,High,Moderate,Moderate,TRUE
+lane management coordination,Moderate,Moderate,Moderate,TRUE
+roadway warning coordination,Moderate,Moderate,Moderate,TRUE
+incident scene warning notification,Moderate,Moderate,Moderate,TRUE
+traffic metering coordination,Moderate,Moderate,Moderate,TRUE
+dynamic sign coordination,Moderate,Moderate,Moderate,TRUE
+right-of-way request coordination,Moderate,Moderate,Moderate,TRUE
+signal control coordination,Moderate,Moderate,Moderate,TRUE
+video surveillance coordination,Moderate,Moderate,Moderate,TRUE
+passive vehicle monitoring coordination,Moderate,Moderate,Low,TRUE
+reversible lane coordination,High,High,Moderate,TRUE
+actuate secure payment,Moderate,Moderate,High,TRUE
+decision support information,Moderate,Moderate,Moderate,TRUE
+shared use confirmation,Moderate,Moderate,Moderate,TRUE
+shared use request,Moderate,Moderate,Moderate,TRUE
+traveler interface updates,Not Applicable,Moderate,Moderate,TRUE
+alarm notification,Moderate,High,Moderate,TRUE
+payment device update,Moderate,Moderate,High,TRUE
+road network conditions,Low,Moderate,Moderate,TRUE
+authorization request,Moderate,Moderate,Moderate,TRUE
+emergency traveler information,Low,High,Moderate,TRUE
+user account setup,High,High,Moderate,TRUE
+authorization request,Moderate,Moderate,Moderate,TRUE
+transit stop passenger status,Low,Moderate,Moderate,TRUE
+alarm notification,Moderate,High,Moderate,TRUE
+transit stop request,High,Moderate,Moderate,TRUE
+fare collection data,Moderate,Moderate,Moderate,TRUE
+request for payment,Moderate,Moderate,High,TRUE
+traveler sourced updates,Moderate,Moderate,Low,TRUE
+border clearance status,High,Moderate,Moderate,TRUE
+manifest receipt confirmation,High,Moderate,Moderate,TRUE
+expedited clearance status,Moderate,Moderate,Moderate,TRUE
+expedited clearance information,Moderate,Moderate,Moderate,TRUE
+clearance notification,Moderate,Moderate,Moderate,TRUE
+special needs data,Moderate,Moderate,Moderate,TRUE
+traffic images,Low,Moderate,Low,TRUE
+interactive traveler information,Moderate,Moderate,Low,TRUE
+wayfinding request,Moderate,Moderate,Moderate,TRUE
+external reports,Low,Moderate,Low,TRUE
+electric charging information,Low,Moderate,Moderate,TRUE
+traffic image meta data,Low,Moderate,Moderate,TRUE
+alternate mode information,Low,Moderate,Low,TRUE
+transit service information,Low,Moderate,Low,TRUE
+parking information,Moderate,Moderate,Moderate,TRUE
+traveler sourced updates,Moderate,Moderate,Low,TRUE
+vehicle signage local data,Low,Moderate,Moderate,TRUE
+parking area information,Moderate,Moderate,Low,TRUE
+loading zone application status,Moderate,Moderate,Moderate,TRUE
+parking area status,Moderate,High,High,TRUE
+payment device update,Moderate,Moderate,High,TRUE
+request for payment,Moderate,Moderate,High,TRUE
+authorization request,Moderate,Moderate,Moderate,TRUE
+transit traveler request,Moderate,Moderate,Moderate,TRUE
+rest area parking information,Moderate,Moderate,Moderate,TRUE
+parking area reservation status,Moderate,Moderate,Moderate,TRUE
+parking facility geometry,Low,High,Moderate,TRUE
+loading zone parking information,Moderate,Moderate,Moderate,TRUE
+driver parking information,Low,Moderate,Moderate,TRUE
+incident notification,Moderate,Moderate,Moderate,TRUE
+incident scene images,Moderate,Moderate,Moderate,TRUE
+expedited clearance information,Moderate,Moderate,Moderate,TRUE
+driver parking information,Low,Moderate,Moderate,TRUE
+trip confirmation,Moderate,Moderate,Moderate,TRUE
+incident scene status,Moderate,Moderate,Moderate,TRUE
+travel services request,Moderate,Moderate,Moderate,TRUE
+traveler request,Moderate,Moderate,Moderate,TRUE
+shelter request,Moderate,Moderate,Moderate,TRUE
+evacuation assistance request,Moderate,Moderate,Moderate,TRUE
+traveler sourced updates,Moderate,Moderate,Low,TRUE
+parking area arrival information,Moderate,Moderate,Low,TRUE
+trip request,Moderate,Moderate,Low,TRUE
+authorization request,Moderate,Moderate,Moderate,TRUE
+transit stop request,High,Moderate,Moderate,TRUE
+transit traveler information,Low,Moderate,Moderate,TRUE
+driver parking information,Low,Moderate,Moderate,TRUE
+payment transaction status,Low,Moderate,Moderate,TRUE
+vehicle payment update,Moderate,Moderate,Moderate,TRUE
+parking payment transactions,Moderate,Moderate,Moderate,TRUE
+transit information user request,Moderate,Moderate,Moderate,TRUE
+emergency traveler information request,Moderate,High,Moderate,TRUE
