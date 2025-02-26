@@ -21,6 +21,7 @@ def mainMenu():
             print("(4) Graph output of whole system")
             print("(5) Sort Nodes by Highest Cyber Reachability (Physical ITS Architecture Layer)")
             print("(6) Sort Nodes by Biggest Impact to Reachability that Social Nodes Have")
+            print("(7) Sort Nodes by Highest Cyber Degree (Physical ITS Architecture Layer)")
             print("(B) Back ")
             queryData= input("Choose Option: ")
             print("You Selected " + queryData)
@@ -37,6 +38,8 @@ def mainMenu():
                 menu_5_SortCyberReachability()
             elif queryData == "6":
                 menu_6_SortCyberSocialReachabilityDiff()
+            elif queryData == "7":
+                menu_7_SortCyberDegree()
             elif queryData == "B" or queryData == "b":
                 return 
             else:
@@ -150,17 +153,43 @@ def menu_2_SocialVsNonSocial():
                 noSocialConsequencePrint.append(pair.sysName)
                 noSocialConsequenceList.append(pair.sysName)
 
-    # Calculate graph consequence permeation
-    numCons = len(consequenceList)
-    numNoSocialCons = len(noSocialConsequenceList)
-    numNodes = len(Globals.systemList)
+    # Lists with no duplciates
+    consequencesNoDupes = []
+    consequencesNoSocialNoDupes = []
 
-    percCons = numCons/numNodes
-    percNoSocialCons = numNoSocialCons/numNodes
-    percDiff = percCons-percNoSocialCons
-    print(f'Consequences (including Social nodes) of an outage at node {node} will effect {percCons} of total system \n{consequencePrint}\n \n')
-    print(f'\nConsequences (including Social nodes) of an outage at node {node} will effect {percNoSocialCons} of total system \n {noSocialConsequencePrint}\n')
-    print(f'Difference in graph consequence permeation of {percDiff}')
+    for consequence in consequenceList:
+        if consequence not in consequencesNoDupes:
+            consequencesNoDupes.append(consequence)
+    
+    for consequence in noSocialConsequenceList:
+        if consequence not in consequencesNoSocialNoDupes:
+            consequencesNoSocialNoDupes.append(consequence)
+    
+    lenCons = len(consequencesNoDupes)
+    lensConsNoSocial = len(consequencesNoSocialNoDupes)
+
+    # Create a list of the lost consequences
+    lostConsequenceList = []
+
+    for consequence in consequenceList:
+        if consequence not in noSocialConsequenceList:
+            lostConsequenceList.append(consequence)
+    
+    lostLen = len(lostConsequenceList)
+
+    # Calculate percentages
+
+    totalNodes = len(Globals.systemList)
+    consPerc = lenCons/totalNodes
+    consNoSocialPerc = lensConsNoSocial/totalNodes
+    lostLenPerc = lostLen / totalNodes
+
+
+
+    print(f'Consequences (including Social nodes) of an outage at node {node} is {consPerc} of system. \n{consequencePrint}\n \n')
+    print(f'\nConsequences (including Social nodes) of an outage at node {node} is {consNoSocialPerc} of system. \n {noSocialConsequencePrint}\n')
+    
+    print(f'Difference in graph consequence permeation of {lostLenPerc}')
     
  
 
@@ -236,14 +265,16 @@ def menu_5_SortCyberReachability():
   
 
     # Print output
-    print(f'Cyber nodes with the highest reachability: {valDict_sort}\n')
+    print(f'Cyber nodes with the highest reachability:')
+    for line in valDict_sort:
+        print(f'{line} : {valDict_sort[line]}')
     print("----------------------------------------")
 
 def menu_6_SortCyberSocialReachabilityDiff():
     print("----------------------------------------")
     print("Sort Nodes by Biggest Impact to Reachability that Social Nodes Have")
     print("----------------------------------------")
-    
+    # Note that the percentage is based on the total nodes in the original system for both percentages.
     valDict = {}
 
     for keyEntry in Globals.systemList:
@@ -267,6 +298,38 @@ def menu_6_SortCyberSocialReachabilityDiff():
   
 
     # Print output
-    print(f'Cyber nodes whose reachability impact changes the most with the inclusion of social nodes: {valDict_sort}\n')
+    print(f'Cyber nodes whose reachability impact changes the most with the inclusion of social nodes: ')
+    for line in valDict_sort:
+        print(f'{line} : {valDict_sort[line]}')
     print("----------------------------------------")
   
+
+def menu_7_SortCyberDegree():
+    print("----------------------------------------")
+    print("Sort and Print Nodes with Descending from Highest Cyber Degree (Physical ITS Architecture Layer)")
+    print("----------------------------------------")
+    
+    valDict = {}
+
+    for keyEntry in Globals.systemList:
+        currentObj = Globals.systemList[keyEntry]
+        if currentObj.isCyber:
+            if "Physical" in currentObj.architectureLayer:
+                if currentObj.degree in valDict:
+                    valDict[currentObj.degree].append(currentObj.sysName)
+                else:
+                    valDict[currentObj.degree] = [currentObj.sysName]
+    
+    keys = list(valDict.keys())
+    keys.sort(reverse=True)
+    valDict_sort = {key: valDict[key] for key in keys}
+        
+
+    finalValDict = {}
+  
+
+    # Print output
+    print(f'Cyber nodes with the highest degree:\n')
+    for line in valDict_sort:
+        print(f'{line} : {valDict_sort[line]}')
+    print("----------------------------------------")
