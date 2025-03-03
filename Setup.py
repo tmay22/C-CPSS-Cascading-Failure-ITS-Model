@@ -11,6 +11,7 @@ def buildFromPath(path):
     nodeSecurity = path + "Node_Security.csv"
     nodeFlows = path+"Flow_SourceDest.csv"
     flowSecurity = path + "Flow_Security.csv"
+    flowComms = path + "Flow_Comms.csv"
 
 
     # Create System Nodes
@@ -206,6 +207,51 @@ def buildFromPath(path):
             
             lineCount = lineCount + 1
 
+    del csv_reader
+    del flowSecurityFile
+
+    # Create Flow Communications Data Layer
+
+    with open(flowComms) as flowCommsFile:
+        lineCount = 0
+        csv_reader = csv.reader(flowCommsFile, delimiter=',')
+
+        for row in csv_reader:
+          
+            # Get data from row if not title row
+            if lineCount !=0:
+                profileName = row[0]
+                levelName = row[1]
+                informationFlow = row[2]
+
+                checkSrc = False
+                # Check if name existts
+                if informationFlow in Globals.informationFlowList:
+                    checkSrc = True
+
+                # check if commProfile exists
+                if profileName in Globals.communicationProfiles:
+                    checkComm = True
+                else:
+                    checkComm = False
+
+                
+                # If flow exists
+                if checkSrc:
+                    inforFlowObj = Globals.informationFlowList[informationFlow]
+                    if not checkComm:
+                        newProfile = CPSS_System.communicationProfiles(profileName)
+                        inforFlowObj.addDict(levelName, profileName)
+                        newProfile.linkedFlows.append(inforFlowObj)
+                        inforFlowObj.commProfiles.append(newProfile)
+                        Globals.communicationProfiles[profileName]=newProfile
+                    else:
+                        getProfile = Globals.communicationProfiles[profileName]
+                        inforFlowObj.addDict(levelName, profileName)
+                        getProfile.linkedFlows.append(inforFlowObj)
+                        inforFlowObj.commProfiles.append(getProfile)
+            
+            lineCount = lineCount + 1
 
 
     # Setup Graph
