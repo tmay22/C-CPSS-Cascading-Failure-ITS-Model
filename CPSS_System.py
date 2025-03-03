@@ -138,13 +138,60 @@ class informationFlow:
     # flowName: name of the information flow
     # securityDict = dictionary of serviceName and CIA triad score
     # useFips = T/F FIPS standards
+    # commProfiles = Data layer of Communications solutions
+    # communicationsDictionary: levels are 1-ItsApplicationEntity , 2-Facilities, 3-Security, 4-Management, 5-TransNet, 6-Access, 7-Unspecified
+    
 
     def __init__(self, inputFlowName,):
         self.flowName = inputFlowName
+        self.id = uuid4()
         self.securityTriad = "empty"
         self.canAuthenticate = False
         self.useFips = False
         self.sourceDestList = []
+        self.commProfiles= []
+        self.communicationsDictionary = {}
+        self.communicationsDictionary["1-ItsApplicationEntity"]=[]
+        self.communicationsDictionary["2-Facilities"]=[]
+        self.communicationsDictionary["3-Security"]=[]
+        self.communicationsDictionary["4-Management"]=[]
+        self.communicationsDictionary["5-TransNet"]=[]
+        self.communicationsDictionary["6-Access"]=[]
+        self.communicationsDictionary["7-Unspecified"]=[]
+        # Add an entry to the communications dictionary
+    def addDict(self, levelName, commsProfile):
+        if "ITS Application Entity" in levelName:
+            dictSearch = "1-ItsApplicationEntity"
+        elif "Facilities" in levelName:
+            dictSearch = "2-Facilities"
+        elif "Security" in levelName:
+            dictSearch = "3-Security"
+        elif "Mgmt" in levelName:
+            dictSearch = "4-Management"
+        elif "TransNet" in levelName:
+            dictSearch = "5-TransNet"
+        elif "Access" in levelName:
+            dictSearch = "6-Access"
+        else:
+            dictSearch = "7-Unspecified"
+        
+        arrayVal = self.communicationsDictionary[dictSearch]
+        arrayVal.append(commsProfile)
+        
+class communicationProfiles:
+    # Object that represents a communication solution
+
+    # solutionId: identifier of solution
+    # solutionName: name of the communication solution
+    # linkedFLows = linked informationFLows
+    def __init__(self, inProfileName):
+        self.profileName = inProfileName
+        self.id = uuid4()
+
+        self.linkedFlows = []
+        
+
+    
 
 class CPSS_forGraph:
     

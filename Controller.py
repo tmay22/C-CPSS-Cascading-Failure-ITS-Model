@@ -15,13 +15,15 @@ def mainMenu():
             print("----------------------------------------")
             print("What would you like to do?")
             print("----------------------------------------")
-            print("(1) Calculate Cascading Failure Data (Nil Criticality)")
+            print("(1) Calculate System Node Cascading Failure Data (Nil Criticality)")
             print("(2) Calculate and Compare Cascading Failure Data Including and Excluding Social-Only Nodes (Nil-Criticality)")
             print("(3) Print system key data")
             print("(4) Graph output of whole system")
-            print("(5) Sort Nodes by Highest Cyber Reachability (Physical ITS Architecture Layer)")
+            print("(5) Sort Nodes by Highest Cyber Reachability (Physical or  ITS Architecture Layer)")
             print("(6) Sort Nodes by Biggest Impact to Reachability that Social Nodes Have")
             print("(7) Sort Nodes by Highest Cyber Degree (Physical ITS Architecture Layer)")
+            print("(8) Calculate Communication Profile Cascading Failure Data (Nil Criticality)")
+            print("(9) Calculate and Compare Communication Profile Cascading Failure Including and Excluding SOcial-Only Nodes (Nil-Criticality)")
             print("(B) Back ")
             queryData= input("Choose Option: ")
             print("You Selected " + queryData)
@@ -40,6 +42,10 @@ def mainMenu():
                 menu_6_SortCyberSocialReachabilityDiff()
             elif queryData == "7":
                 menu_7_SortCyberDegree()
+            elif queryData == "8":
+                menu_8_CommProfile_ConsequenceData()
+            elif queryData == "9":
+                menu_9_CommProfile_ConsequenceData_SocialVsNonSocial()
             elif queryData == "B" or queryData == "b":
                 return 
             else:
@@ -333,3 +339,206 @@ def menu_7_SortCyberDegree():
     for line in valDict_sort:
         print(f'{line} : {valDict_sort[line]}')
     print("----------------------------------------")
+
+
+
+# See the consequences of a communication profile outage and the effects of cascading failure
+def menu_8_CommProfile_ConsequenceData():
+    print("----------------------------------------")
+    print("See Consequence of an Communication Profile Outage and Cascading Failure Data with Nil Criticality Considerations")
+    print("----------------------------------------")
+    # Collect inputs
+    comm=input("Give Communication Profile name for query: ")
+    print("Your input: " + comm)
+    number= input("Give Number of Orders of Consequence: ")
+    print("You input: " + number)
+    # Data check
+    # Later?
+    print("----------------------------------------")
+    # Convert input string to integer
+    number=int(number)
+
+    # Get Comm Profile Obj
+    myComm = Globals.communicationProfiles[comm]
+    totalConsequences = []
+
+    for eachFlow in myComm.linkedFlows:
+        flowName = eachFlow.flowName
+        for eachSrcDest in eachFlow.sourceDestList:
+            destNode = eachSrcDest[1]
+            consequences = destNode.queryConsequences(number,0)
+            totalConsequences.append(consequences)
+
+    # RECURSION IS BUGGY AND NOT WORKING STILL
+    consequencePrint = []
+    consequenceList = []
+    for counter in totalConsequences:
+        for counterTwo in counter:
+            consequencePrint.append(counterTwo)
+            currentLevel = counter[counterTwo]
+            for pair in currentLevel:
+                if pair:
+                    consequencePrint.append(pair.sysName)
+                    consequenceList.append(pair.sysName)
+
+
+    print(f'Consequences of an outage at node {comm} are: {consequencePrint}\n')
+
+    
+    # Now print the graph
+    originalList = Globals.systemList
+    sysNameList = []
+    for counter in originalList:
+        sysNameList.append(originalList[counter].sysName)
+
+    graphList = []
+    # Set all systems as False in beginning and set all seed values to false,
+    # Unless is the original node (seed), or a consequence
+    tempSysNameList = []
+    numSys = len(originalList)
+    for system in sysNameList:
+        isConsequence=False
+        isSeed = False
+        for consequence in consequenceList:
+            if consequence in system:
+                isConsequence=True
+                
+        newGraphNode = CPSS_System.CPSS_forGraph(system,isSeed,isConsequence)
+        if isConsequence:
+            tempSysNameList.append(system)
+        graphList.append(newGraphNode)
+
+    Graph.graphCascadingFailure(graphList)
+    affectedSys = len(tempSysNameList)
+    percAffected = affectedSys / numSys
+
+    print (f'An outage an communications profile {comm} will effect {percAffected} of wider system.')
+
+
+def menu_9_CommProfile_ConsequenceData_SocialVsNonSocial():
+    print("----------------------------------------")
+    print("Compare Social and Non-Social Node Consequence of an Communication Profile Outage and Cascading Failure Data with Nil Criticality Considerations")
+    print("----------------------------------------")
+    # Collect inputs
+    comm=input("Give Communication Profile name for query: ")
+    print("Your input: " + comm)
+    number= input("Give Number of Orders of Consequence: ")
+    print("You input: " + number)
+    # Data check
+    # Later?
+    print("----------------------------------------")
+    # Convert input string to integer
+    number=int(number)
+
+    # Get Comm Profile Obj
+    myComm = Globals.communicationProfiles[comm]
+    nsTotalConsequences = []
+
+    for eachFlow in myComm.linkedFlows:
+        flowName = eachFlow.flowName
+        for eachSrcDest in eachFlow.sourceDestList:
+            destNode = eachSrcDest[1]
+            consequences = destNode.queryConsequences_noSocial(number,0)
+            nsTotalConsequences.append(consequences)
+
+    # RECURSION IS BUGGY AND NOT WORKING STILL
+    nsConsequencePrint = []
+    nsConsequenceList = []
+    for counter in nsTotalConsequences:
+        for counterTwo in counter:
+            nsConsequencePrint.append(counterTwo)
+            currentLevel = counter[counterTwo]
+            for pair in currentLevel:
+                if pair:
+                    nsConsequencePrint.append(pair.sysName)
+                    nsConsequenceList.append(pair.sysName)
+
+
+    #print(f'No Social Consequences of an outage at node {comm} are: {nsConsequencePrint}\n')
+
+    
+    # Now print the graph
+    originalList = Globals.systemList
+    sysNameList = []
+    for counter in originalList:
+        sysNameList.append(originalList[counter].sysName)
+
+    graphList = []
+    # Set all systems as False in beginning and set all seed values to false,
+    # Unless is the original node (seed), or a consequence
+    tempSysNameList = []
+    numSys = len(originalList)
+    for system in sysNameList:
+        isConsequence=False
+        isSeed = False
+        for consequence in nsConsequenceList:
+            if consequence in system:
+                isConsequence=True
+                
+        newGraphNode = CPSS_System.CPSS_forGraph(system,isSeed,isConsequence)
+        if isConsequence:
+            tempSysNameList.append(system)
+        graphList.append(newGraphNode)
+
+    affectedSys = len(tempSysNameList)
+    nsPercAffected = affectedSys / numSys
+
+        # Get Comm Profile Obj
+    myComm = Globals.communicationProfiles[comm]
+    totalConsequences = []
+
+    for eachFlow in myComm.linkedFlows:
+        flowName = eachFlow.flowName
+        for eachSrcDest in eachFlow.sourceDestList:
+            destNode = eachSrcDest[1]
+            consequences = destNode.queryConsequences(number,0)
+            totalConsequences.append(consequences)
+
+    # RECURSION IS BUGGY AND NOT WORKING STILL
+    consequencePrint = []
+    consequenceList = []
+    for counter in totalConsequences:
+        for counterTwo in counter:
+            consequencePrint.append(counterTwo)
+            currentLevel = counter[counterTwo]
+            for pair in currentLevel:
+                if pair:
+                    consequencePrint.append(pair.sysName)
+                    consequenceList.append(pair.sysName)
+
+
+    #print(f'Consequences of an outage at node {comm} are: {consequencePrint}\n')
+
+    
+    # Now print the graph
+    originalList = Globals.systemList
+    sysNameList = []
+    for counter in originalList:
+        sysNameList.append(originalList[counter].sysName)
+
+    graphList = []
+    # Set all systems as False in beginning and set all seed values to false,
+    # Unless is the original node (seed), or a consequence
+    tempSysNameList = []
+    numSys = len(originalList)
+    for system in sysNameList:
+        isConsequence=False
+        isSeed = False
+        for consequence in consequenceList:
+            if consequence in system:
+                isConsequence=True
+                
+        newGraphNode = CPSS_System.CPSS_forGraph(system,isSeed,isConsequence)
+        if isConsequence:
+            tempSysNameList.append(system)
+        graphList.append(newGraphNode)
+
+    affectedSys = len(tempSysNameList)
+    percAffected = affectedSys / numSys
+
+    diff = percAffected-nsPercAffected
+
+    
+    print (f'No Social Consequences: An outage at communications profile {comm} will effect {nsPercAffected} of wider system.')
+    print (f'Standard Consequences:  An outage at communications profile {comm} will effect {percAffected} of wider system.')
+    print (f'Difference is: {diff}')
