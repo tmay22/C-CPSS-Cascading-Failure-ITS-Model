@@ -1,0 +1,169 @@
+NodeName,isCyber,isPhysical,isSocial,ArchitectureLayer
+Khorathidin Central Emergency Vehicle OBE 01,1,1,0,Physical
+Khorathindin Central Emergency Personnel 01,0,1,1,Physical
+Khorathidin Central Emergency Management Center,1,1,0,Physical
+Other Emergency Management Centers,1,1,0,Physical
+Khorathidin Central Emergency System Operator 01,1,1,1,Physical
+Other EV OBEs,1,1,0,Physical
+Personnel Device 01,1,1,0,Physical
+Bangkok Emergency Management Center,1,1,0,Physical
+Phnom Penh Emergency Management Center,1,1,0,Physical
+Samut Prakan Emergency Management Center,1,1,0,Physical
+Nonthaburi Emergency Management Center,1,1,0,Physical
+Chiang Mai Emergency Management Center,1,1,0,Physical
+Khorathidin Central Emergency System Operator 02,1,1,1,Physical
+Khorathidin Central Emergency System Operator 03,1,1,1,Physical
+Khorathidin Central Emergency System Operator 04,1,1,1,Physical
+Khorathidin Central Emergency System Operator 05,1,1,1,Physical
+Bangkok Emergency System Operator 01,1,1,1,Physical
+Bangkok Emergency System Operator 02,1,1,1,Physical
+Bangkok Emergency System Operator 03,1,1,1,Physical
+Bangkok Emergency System Operator 04,1,1,1,Physical
+Bangkok Emergency System Operator 05,1,1,1,Physical
+Khorathidin Central Emergency Vehicle OBE 02,1,1,0,Physical
+Khorathidin Central Emergency Vehicle OBE 03,1,1,0,Physical
+Khorathidin Central Emergency Vehicle OBE 04,1,1,0,Physical
+Khorathidin Central Emergency Vehicle OBE 05,1,1,0,Physical
+Khorathidin Central Emergency Vehicle OBE 06,1,1,0,Physical
+Khorathidin Central Emergency Vehicle OBE 07,1,1,0,Physical
+Khorathidin Central Emergency Vehicle OBE 08,1,1,0,Physical
+Khorathidin Central Emergency Vehicle OBE 09,1,1,0,Physical
+Khorathidin Central Emergency Vehicle OBE 10,1,1,0,Physical
+Khorathidin Central Emergency Vehicle OBE 11,1,1,0,Physical
+Khorathidin Central Emergency Vehicle OBE 12,1,1,0,Physical
+Khorathidin Central Emergency Vehicle OBE 13,1,1,0,Physical
+Khorathidin Central Emergency Vehicle OBE 14,1,1,0,Physical
+Khorathidin Central Emergency Vehicle OBE 15,1,1,0,Physical
+Bangkok Emergency Vehicle OBE 01,1,1,0,Physical
+Bangkok Emergency Vehicle OBE 02,1,1,0,Physical
+Bangkok Emergency Vehicle OBE 03,1,1,0,Physical
+Bangkok Emergency Vehicle OBE 04,1,1,0,Physical
+Bangkok Emergency Vehicle OBE 05,1,1,0,Physical
+Bangkok Emergency Vehicle OBE 06,1,1,0,Physical
+Bangkok Emergency Vehicle OBE 07,1,1,0,Physical
+Bangkok Emergency Vehicle OBE 08,1,1,0,Physical
+Bangkok Emergency Vehicle OBE 09,1,1,0,Physical
+Bangkok Emergency Vehicle OBE 10,1,1,0,Physical
+Bangkok Emergency Vehicle OBE 11,1,1,0,Physical
+Bangkok Emergency Vehicle OBE 12,1,1,0,Physical
+Bangkok Emergency Vehicle OBE 13,1,1,0,Physical
+Bangkok Emergency Vehicle OBE 14,1,1,0,Physical
+Bangkok Emergency Vehicle OBE 15,1,1,0,Physical
+Khorathindin Central Emergency Personnel 02,0,1,1,Physical
+Khorathindin Central Emergency Personnel 03,0,1,1,Physical
+Khorathindin Central Emergency Personnel 04,0,1,1,Physical
+Khorathindin Central Emergency Personnel 05,0,1,1,Physical
+Khorathindin Central Emergency Personnel 06,0,1,1,Physical
+Khorathindin Central Emergency Personnel 07,0,1,1,Physical
+Khorathindin Central Emergency Personnel 08,0,1,1,Physical
+Khorathindin Central Emergency Personnel 09,0,1,1,Physical
+Khorathindin Central Emergency Personnel 10,0,1,1,Physical
+Khorathindin Central Emergency Personnel 11,0,1,1,Physical
+Khorathindin Central Emergency Personnel 12,0,1,1,Physical
+Khorathindin Central Emergency Personnel 13,0,1,1,Physical
+Khorathindin Central Emergency Personnel 14,0,1,1,Physical
+Khorathindin Central Emergency Personnel 15,0,1,1,Physical
+Khorathindin Central Emergency Personnel 16,0,1,1,Physical
+Khorathindin Central Emergency Personnel 17,0,1,1,Physical
+Khorathindin Central Emergency Personnel 18,0,1,1,Physical
+Khorathindin Central Emergency Personnel 19,0,1,1,Physical
+Khorathindin Central Emergency Personnel 20,0,1,1,Physical
+Khorathindin Central Emergency Personnel 21,0,1,1,Physical
+Khorathindin Central Emergency Personnel 22,0,1,1,Physical
+Khorathindin Central Emergency Personnel 23,0,1,1,Physical
+Khorathindin Central Emergency Personnel 24,0,1,1,Physical
+Khorathindin Central Emergency Personnel 25,0,1,1,Physical
+Khorathindin Central Emergency Personnel 26,0,1,1,Physical
+Khorathindin Central Emergency Personnel 27,0,1,1,Physical
+Khorathindin Central Emergency Personnel 28,0,1,1,Physical
+Khorathindin Central Emergency Personnel 29,0,1,1,Physical
+Khorathindin Central Emergency Personnel 30,0,1,1,Physical
+Bangkok Emergency Personnel 01,0,1,1,Physical
+Bangkok Emergency Personnel 02,0,1,1,Physical
+Bangkok Emergency Personnel 03,0,1,1,Physical
+Bangkok Emergency Personnel 04,0,1,1,Physical
+Bangkok Emergency Personnel 05,0,1,1,Physical
+Bangkok Emergency Personnel 06,0,1,1,Physical
+Bangkok Emergency Personnel 07,0,1,1,Physical
+Bangkok Emergency Personnel 08,0,1,1,Physical
+Bangkok Emergency Personnel 09,0,1,1,Physical
+Bangkok Emergency Personnel 10,0,1,1,Physical
+Bangkok Emergency Personnel 11,0,1,1,Physical
+Bangkok Emergency Personnel 12,0,1,1,Physical
+Bangkok Emergency Personnel 13,0,1,1,Physical
+Bangkok Emergency Personnel 14,0,1,1,Physical
+Bangkok Emergency Personnel 15,0,1,1,Physical
+Bangkok Emergency Personnel 16,0,1,1,Physical
+Bangkok Emergency Personnel 17,0,1,1,Physical
+Bangkok Emergency Personnel 18,0,1,1,Physical
+Bangkok Emergency Personnel 19,0,1,1,Physical
+Bangkok Emergency Personnel 20,0,1,1,Physical
+Bangkok Emergency Personnel 21,0,1,1,Physical
+Bangkok Emergency Personnel 22,0,1,1,Physical
+Bangkok Emergency Personnel 23,0,1,1,Physical
+Bangkok Emergency Personnel 24,0,1,1,Physical
+Bangkok Emergency Personnel 25,0,1,1,Physical
+Bangkok Emergency Personnel 26,0,1,1,Physical
+Bangkok Emergency Personnel 27,0,1,1,Physical
+Bangkok Emergency Personnel 28,0,1,1,Physical
+Bangkok Emergency Personnel 29,0,1,1,Physical
+Bangkok Emergency Personnel 30,0,1,1,Physical
+Personnel Device 02,1,1,0,Physical
+Personnel Device 03,1,1,0,Physical
+Personnel Device 04,1,1,0,Physical
+Personnel Device 05,1,1,0,Physical
+Personnel Device 06,1,1,0,Physical
+Personnel Device 07,1,1,0,Physical
+Personnel Device 08,1,1,0,Physical
+Personnel Device 09,1,1,0,Physical
+Personnel Device 10,1,1,0,Physical
+Personnel Device 11,1,1,0,Physical
+Personnel Device 12,1,1,0,Physical
+Personnel Device 13,1,1,0,Physical
+Personnel Device 14,1,1,0,Physical
+Personnel Device 15,1,1,0,Physical
+Personnel Device 16,1,1,0,Physical
+Personnel Device 17,1,1,0,Physical
+Personnel Device 18,1,1,0,Physical
+Personnel Device 19,1,1,0,Physical
+Personnel Device 20,1,1,0,Physical
+Personnel Device 21,1,1,0,Physical
+Personnel Device 22,1,1,0,Physical
+Personnel Device 23,1,1,0,Physical
+Personnel Device 24,1,1,0,Physical
+Personnel Device 25,1,1,0,Physical
+Personnel Device 26,1,1,0,Physical
+Personnel Device 27,1,1,0,Physical
+Personnel Device 28,1,1,0,Physical
+Personnel Device 29,1,1,0,Physical
+Personnel Device 30,1,1,0,Physical
+Personnel Device 31,1,1,0,Physical
+Personnel Device 32,1,1,0,Physical
+Personnel Device 33,1,1,0,Physical
+Personnel Device 34,1,1,0,Physical
+Personnel Device 35,1,1,0,Physical
+Personnel Device 36,1,1,0,Physical
+Personnel Device 37,1,1,0,Physical
+Personnel Device 38,1,1,0,Physical
+Personnel Device 39,1,1,0,Physical
+Personnel Device 40,1,1,0,Physical
+Personnel Device 41,1,1,0,Physical
+Personnel Device 42,1,1,0,Physical
+Personnel Device 43,1,1,0,Physical
+Personnel Device 44,1,1,0,Physical
+Personnel Device 45,1,1,0,Physical
+Personnel Device 46,1,1,0,Physical
+Personnel Device 47,1,1,0,Physical
+Personnel Device 48,1,1,0,Physical
+Personnel Device 49,1,1,0,Physical
+Personnel Device 50,1,1,0,Physical
+Personnel Device 51,1,1,0,Physical
+Personnel Device 52,1,1,0,Physical
+Personnel Device 53,1,1,0,Physical
+Personnel Device 54,1,1,0,Physical
+Personnel Device 55,1,1,0,Physical
+Personnel Device 56,1,1,0,Physical
+Personnel Device 57,1,1,0,Physical
+Personnel Device 58,1,1,0,Physical
+Personnel Device 59,1,1,0,Physical
+Personnel Device 60,1,1,0,Physical

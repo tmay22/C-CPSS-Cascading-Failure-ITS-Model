@@ -1,0 +1,119 @@
+ProfileName,LevelName,FlowName
+Data for Distribution (TBD),ITS Application Entity,commercial vehicle location data
+(None-Comm),Access,commercial vehicle location data
+(None-Comm),TransNet,commercial vehicle location data
+(None-Comm),Security,commercial vehicle location data
+(None-Comm),Mgmt,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+US: SAE Other J2735,ITS Application Entity,commercial vehicle location data
+US: SAE Other J2735,Facilities,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Security,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,TransNet,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Access,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,TransNet,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Security,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Mgmt,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Facilities,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Access,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Mgmt,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Security,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Security,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Access,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Mgmt,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),TransNet,commercial vehicle location data
+Data for Distribution (TBD),ITS Application Entity,commercial vehicle location data
+(None-Comm),Access,commercial vehicle location data
+(None-Comm),TransNet,commercial vehicle location data
+(None-Comm),Security,commercial vehicle location data
+(None-Comm),Mgmt,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+US: SAE Other J2735,ITS Application Entity,commercial vehicle location data
+US: SAE Other J2735,Facilities,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Security,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,TransNet,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Access,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,TransNet,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Security,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Mgmt,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Facilities,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Access,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Mgmt,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Security,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Security,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Access,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Mgmt,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),TransNet,commercial vehicle location data
+(None-Comm),Access,commercial vehicle location data
+(None-Comm),TransNet,commercial vehicle location data
+(None-Comm),Security,commercial vehicle location data
+(None-Comm),Mgmt,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+C-C: NTCIP Messaging,TransNet,commercial vehicle location data
+C-C: NTCIP Messaging,Security,commercial vehicle location data
+C-C: NTCIP Messaging,TransNet,commercial vehicle location data
+C-C: NTCIP Messaging,Mgmt,commercial vehicle location data
+C-C: NTCIP Messaging,Mgmt,commercial vehicle location data
+C-C: NTCIP Messaging,Facilities,commercial vehicle location data
+C-C: NTCIP Messaging,Access,commercial vehicle location data
+C-C: DATEX Messaging,Security,commercial vehicle location data
+C-C: DATEX Messaging,Access,commercial vehicle location data
+C-C: DATEX Messaging,Mgmt,commercial vehicle location data
+C-C: DATEX Messaging,Mgmt,commercial vehicle location data
+C-C: DATEX Messaging,TransNet,commercial vehicle location data
+C-C: DATEX Messaging,TransNet,commercial vehicle location data
+I-I: Secure Internet (ITS),TransNet,commercial vehicle location data
+I-I: Secure Internet (ITS),Security,commercial vehicle location data
+I-I: Secure Internet (ITS),Mgmt,commercial vehicle location data
+I-I: Secure Internet (ITS),Access,commercial vehicle location data
+I-I: Secure Internet (ITS),TransNet,commercial vehicle location data
+OMG DDS,Access,commercial vehicle location data
+OMG DDS,Facilities,commercial vehicle location data
+OMG DDS,Facilities,commercial vehicle location data
+OMG DDS,Security,commercial vehicle location data
+OMG DDS,TransNet,commercial vehicle location data
+OMG DDS,TransNet,commercial vehicle location data
+OMG DDS,Mgmt,commercial vehicle location data
+OMG DDS,Facilities,commercial vehicle location data
+Apache Kafka,Facilities,commercial vehicle location data
+Apache Kafka,TransNet,commercial vehicle location data
+Apache Kafka,Facilities,commercial vehicle location data
+Apache Kafka,TransNet,commercial vehicle location data
+Apache Kafka,Access,commercial vehicle location data
+Apache Kafka,Security,commercial vehicle location data
+Apache Kafka,Mgmt,commercial vehicle location data
+OASIS AMQP,TransNet,commercial vehicle location data
+OASIS AMQP,Facilities,commercial vehicle location data
+OASIS AMQP,Mgmt,commercial vehicle location data
+OASIS AMQP,Access,commercial vehicle location data
+OASIS AMQP,Security,commercial vehicle location data
+OASIS AMQP,TransNet,commercial vehicle location data
+OASIS MQTT,Mgmt,commercial vehicle location data
+OASIS MQTT,Access,commercial vehicle location data
+OASIS MQTT,TransNet,commercial vehicle location data
+OASIS MQTT,Security,commercial vehicle location data
+OASIS MQTT,TransNet,commercial vehicle location data
+OASIS MQTT,Facilities,commercial vehicle location data
+OASIS MQTT,Security,commercial vehicle location data

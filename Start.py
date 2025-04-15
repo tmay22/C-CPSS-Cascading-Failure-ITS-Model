@@ -3,7 +3,7 @@ import Setup
 
 def main():
     #Setup.defaultBuild()
-    Setup.buildFromPath("DataSets/ARC-IT_ITS/")
+    Setup.buildFromPath("DataSets/ARC-ODIN-DAWN/")
     Controller.mainMenu()
 
 

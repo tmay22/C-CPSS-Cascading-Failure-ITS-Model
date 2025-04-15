@@ -1,0 +1,240 @@
+NodeName,isCyber,isPhysical,isSocial,ArchitectureLayer
+Chao Phraya Imports Commercial Vehicle Administration Center,1,1,0,Physical
+Khorathidin Wholegrains and Producers Commercial Vehicle Administration Center,1,1,0,Physical
+Klongtoey Movements Pty Ltd Commercial Vehicle Administration Center,1,1,0,Physical
+Buri Ram Logistics Solutions Commercial Vehicle Administration Center,1,1,0,Physical
+Bassac Traders Inc. Commercial Vehicle Administration Center,1,1,0,Physical
+Khorathidin Petroleum Commercial Vehicle Administration Center,1,1,0,Physical
+Khorathidin Transportation Information Center,1,1,0,Physical
+Chao Phraya Imports Fleet and Freight Management Center,1,1,0,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,1,1,0,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,1,1,0,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,1,1,0,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,1,1,0,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,1,1,0,Physical
+Ananda Chaisuriyakul - Fleet-Freight Manager,0,1,1,Physical
+Supalak Wattanachai - Fleet-Freight Manager,0,1,1,Physical
+Kritsada Thongchai - Fleet-Freight Manager,0,1,1,Physical
+Napat Srisuwan - Fleet-Freight Manager,0,1,1,Physical
+Pimchanok Boonyarat - Fleet-Freight Manager,0,1,1,Physical
+Thanakorn Rattanapong - Fleet-Freight Manager,0,1,1,Physical
+CPI V01 EQ01 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V02 EQ02 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V03 EQ03 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V04 EQ04 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V05 EQ05 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V06 EQ06 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 01 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 02 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 03 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 04 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 05 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 06 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 07 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 08 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 09 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 10 - Commercial Vehicle OBE,1,1,0,Physical
+KM01 - Commercial Vehicle OBE,1,1,0,Physical
+KM02 - Commercial Vehicle OBE,1,1,0,Physical
+KM03 - Commercial Vehicle OBE,1,1,0,Physical
+KM04 - Commercial Vehicle OBE,1,1,0,Physical
+KM05 - Commercial Vehicle OBE,1,1,0,Physical
+KM06 - Commercial Vehicle OBE,1,1,0,Physical
+KM07 - Commercial Vehicle OBE,1,1,0,Physical
+KM08 - Commercial Vehicle OBE,1,1,0,Physical
+KM09 - Commercial Vehicle OBE,1,1,0,Physical
+KM10 - Commercial Vehicle OBE,1,1,0,Physical
+KM11 - Commercial Vehicle OBE,1,1,0,Physical
+KM12 - Commercial Vehicle OBE,1,1,0,Physical
+KM13 - Commercial Vehicle OBE,1,1,0,Physical
+KM14 - Commercial Vehicle OBE,1,1,0,Physical
+KM15 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0001 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0002 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0003 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0003 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0005 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0006 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0007 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0008 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0009 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0010 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen01 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen02 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen03 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen04 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen05 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen06 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen07 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen08 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen 09 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen10 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen11 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen12 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 001 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 002 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 003 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 004 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 005 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 006 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 007 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 008 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 009 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 010 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 011 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 012 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 013 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 014 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 015 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 016 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 017 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 018 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 019 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 020 - Commercial Vehicle OBE,1,1,0,Physical
+Arthit Kanchanapong - Commercial Vehicle Driver,0,1,1,Physical
+Benjamas Thammarat - Commercial Vehicle Driver,0,1,1,Physical
+Chaiwat Phanurat - Commercial Vehicle Driver,0,1,1,Physical
+Darika Suphakit - Commercial Vehicle Driver,0,1,1,Physical
+Ekkachai Prasertkul - Commercial Vehicle Driver,0,1,1,Physical
+Fah Chantarak - Commercial Vehicle Driver,0,1,1,Physical
+Ganya Rattanawan - Commercial Vehicle Driver,0,1,1,Physical
+Hiran Phongpanich - Commercial Vehicle Driver,0,1,1,Physical
+Issara Wongchai - Commercial Vehicle Driver,0,1,1,Physical
+Jirawat Boonmee - Commercial Vehicle Driver,0,1,1,Physical
+Kanchana Srisopa - Commercial Vehicle Driver,0,1,1,Physical
+Lalita Thanaporn - Commercial Vehicle Driver,0,1,1,Physical
+Manop Chotiphan - Commercial Vehicle Driver,0,1,1,Physical
+Nattaya Kongsiri - Commercial Vehicle Driver,0,1,1,Physical
+Ornpreeya Sakulchai - Commercial Vehicle Driver,0,1,1,Physical
+Pattaraporn Jitpraphai - Commercial Vehicle Driver,0,1,1,Physical
+Ratchata Nimsakul - Commercial Vehicle Driver,0,1,1,Physical
+Sakchai Pradchaphet - Commercial Vehicle Driver,0,1,1,Physical
+Tassanee Yodkamol - Commercial Vehicle Driver,0,1,1,Physical
+Udom Siripong - Commercial Vehicle Driver,0,1,1,Physical
+Vichai Thongprasert - Commercial Vehicle Driver,0,1,1,Physical
+Wanida Kittisakul - Commercial Vehicle Driver,0,1,1,Physical
+Yutthana Chaisuwan - Commercial Vehicle Driver,0,1,1,Physical
+Amara Boonyasiri - Commercial Vehicle Driver,0,1,1,Physical
+Boonchai Tansakul - Commercial Vehicle Driver,0,1,1,Physical
+Chutima Pattanapong - Commercial Vehicle Driver,0,1,1,Physical
+Duangjai Wongthip - Commercial Vehicle Driver,0,1,1,Physical
+Ekachai Suwannarat - Commercial Vehicle Driver,0,1,1,Physical
+Fuangfah Kittipong - Commercial Vehicle Driver,0,1,1,Physical
+Gun Noppakun - Commercial Vehicle Driver,0,1,1,Physical
+Hansa Chotirat - Commercial Vehicle Driver,0,1,1,Physical
+Inthira Saengchai - Commercial Vehicle Driver,0,1,1,Physical
+Jariya Phanichkul - Commercial Vehicle Driver,0,1,1,Physical
+Kamol Boonsri - Commercial Vehicle Driver,0,1,1,Physical
+Lawan Thongchai - Commercial Vehicle Driver,0,1,1,Physical
+Metha Rattanapong - Commercial Vehicle Driver,0,1,1,Physical
+Nicha Suphaphanich - Commercial Vehicle Driver,0,1,1,Physical
+Orawan Srisuwan - Commercial Vehicle Driver,0,1,1,Physical
+Phanupong Wongpracha - Commercial Vehicle Driver,0,1,1,Physical
+Ratchanee Jitsakulchai - Commercial Vehicle Driver,0,1,1,Physical
+Somchai Wattanapanichkul - Commercial Vehicle Driver,0,1,1,Physical
+Tanaporn Boonprakob - Commercial Vehicle Driver,0,1,1,Physical
+Uthai Sirisopa - Commercial Vehicle Driver,0,1,1,Physical
+Viyada Thanaratkul - Commercial Vehicle Driver,0,1,1,Physical
+Worawut Chaisiriwanichkul - Commercial Vehicle Driver,0,1,1,Physical
+Yuwadee Phongsiriwanichkul - Commercial Vehicle Driver,0,1,1,Physical
+Anupong Boonratana - Commercial Vehicle Driver,0,1,1,Physical
+Suthida Krissada - Commercial Vehicle Driver,0,1,1,Physical
+Chonlada Wongsawat - Commercial Vehicle Driver,0,1,1,Physical
+Nanticha Suksawat - Commercial Vehicle Driver,0,1,1,Physical
+Patchara Narongsak - Commercial Vehicle Driver,0,1,1,Physical
+Thidarat Wongsawat - Commercial Vehicle Driver,0,1,1,Physical
+Worawut Mahawong - Commercial Vehicle Driver,0,1,1,Physical
+Nanticha Suksawat - Commercial Vehicle Driver,0,1,1,Physical
+Patchara Narongsak - Commercial Vehicle Driver,0,1,1,Physical
+Thidarat Wongsawat - Commercial Vehicle Driver,0,1,1,Physical
+Worawut Mahawong - Commercial Vehicle Driver,0,1,1,Physical
+Nanticha Suksawat - Commercial Vehicle Driver,0,1,1,Physical
+Patchara Narongsak - Commercial Vehicle Driver,0,1,1,Physical
+Thidarat Wongsawat - Commercial Vehicle Driver,0,1,1,Physical
+Worawut Mahawong - Commercial Vehicle Driver,0,1,1,Physical
+Worawut Mahawong - Commercial Vehicle Driver,0,1,1,Physical
+Bussaba Rattanapong - Commercial Vehicle Driver,0,1,1,Physical
+Chatchai Kittisak - Commercial Vehicle Driver,0,1,1,Physical
+Daran Boonprasert - Commercial Vehicle Driver,0,1,1,Physical
+Ekkarat Phanichkul - Commercial Vehicle Driver,0,1,1,Physical
+Fon Thongchai - Commercial Vehicle Driver,0,1,1,Physical
+Gunnika Wattanapanich - Commercial Vehicle Driver,0,1,1,Physical
+Hiran Boonsiri - Commercial Vehicle Driver,0,1,1,Physical
+Issariya Chotiphan - Commercial Vehicle Driver,0,1,1,Physical
+Jitsupa Prasertkul - Commercial Vehicle Driver,0,1,1,Physical
+Kamonchanok Srisuwan - Commercial Vehicle Driver,0,1,1,Physical
+Lerdchai Chantarak - Commercial Vehicle Driver,0,1,1,Physical
+CP1514 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+CP5892 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+CP5896 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+CP4451 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+CP9855 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+CP0192 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+KW2048 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KW4729- Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KW9943 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KW5928 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KW7859 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KW4711 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KW9860  - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KW2187 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KW3175 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KW8930 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KM0291 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KM3678 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KM7120 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KM9442 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KM0911 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KM8775 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KM9902 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KM5146 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KM5468 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KM5578- Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KM4617 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KM7859 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KM9734 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KM5685 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+KM59806 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+BR4511 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+BR7918 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+BR5411 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+BR9879 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+BR3417 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+BR4132 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+BR4185 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+BR3526 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+BR6872 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+BR4248 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+BT4869 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+BT2371 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+BT4452 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+BT1429 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+BT8367 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+BT3567 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+BT4251 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+BT4139 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+BT7652 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+BT8371 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+BT8833 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+BT8200 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP8901 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KP3167 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KP4069 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KP3561 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP4578 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP4172 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP6448 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP5562 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP5002 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KP4451 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KP3951 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KP3912 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KP7254 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KP5921 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KP1427 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KP4975 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP4595 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP5212 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP9987 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KP4981 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+GPS - Location and Time Data Source,1,1,0,Physical

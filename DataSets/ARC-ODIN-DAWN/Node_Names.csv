@@ -1,0 +1,558 @@
+NodeName,isCyber,isPhysical,isSocial,ArchitectureLayer
+Chao Phraya Imports Commercial Vehicle Administration Center,1,1,0,Physical
+Khorathidin Wholegrains and Producers Commercial Vehicle Administration Center,1,1,0,Physical
+Klongtoey Movements Pty Ltd Commercial Vehicle Administration Center,1,1,0,Physical
+Buri Ram Logistics Solutions Commercial Vehicle Administration Center,1,1,0,Physical
+Bassac Traders Inc. Commercial Vehicle Administration Center,1,1,0,Physical
+Khorathidin Petroleum Commercial Vehicle Administration Center,1,1,0,Physical
+Khorathidin Transportation Information Center,1,1,0,Physical
+Chao Phraya Imports Fleet and Freight Management Center,1,1,0,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,1,1,0,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,1,1,0,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,1,1,0,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,1,1,0,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,1,1,0,Physical
+Ananda Chaisuriyakul - Fleet-Freight Manager,0,1,1,Physical
+Supalak Wattanachai - Fleet-Freight Manager,0,1,1,Physical
+Kritsada Thongchai - Fleet-Freight Manager,0,1,1,Physical
+Napat Srisuwan - Fleet-Freight Manager,0,1,1,Physical
+Pimchanok Boonyarat - Fleet-Freight Manager,0,1,1,Physical
+Thanakorn Rattanapong - Fleet-Freight Manager,0,1,1,Physical
+CPI V01 EQ01 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V02 EQ02 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V03 EQ03 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V04 EQ04 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V05 EQ05 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V06 EQ06 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 01 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 02 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 03 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 04 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 05 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 06 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 07 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 08 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 09 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 10 - Commercial Vehicle OBE,1,1,0,Physical
+KM01 - Commercial Vehicle OBE,1,1,0,Physical
+KM02 - Commercial Vehicle OBE,1,1,0,Physical
+KM03 - Commercial Vehicle OBE,1,1,0,Physical
+KM04 - Commercial Vehicle OBE,1,1,0,Physical
+KM05 - Commercial Vehicle OBE,1,1,0,Physical
+KM06 - Commercial Vehicle OBE,1,1,0,Physical
+KM07 - Commercial Vehicle OBE,1,1,0,Physical
+KM08 - Commercial Vehicle OBE,1,1,0,Physical
+KM09 - Commercial Vehicle OBE,1,1,0,Physical
+KM10 - Commercial Vehicle OBE,1,1,0,Physical
+KM11 - Commercial Vehicle OBE,1,1,0,Physical
+KM12 - Commercial Vehicle OBE,1,1,0,Physical
+KM13 - Commercial Vehicle OBE,1,1,0,Physical
+KM14 - Commercial Vehicle OBE,1,1,0,Physical
+KM15 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0001 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0002 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0003 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0003 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0005 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0006 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0007 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0008 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0009 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0010 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen01 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen02 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen03 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen04 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen05 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen06 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen07 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen08 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen 09 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen10 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen11 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen12 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 001 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 002 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 003 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 004 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 005 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 006 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 007 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 008 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 009 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 010 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 011 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 012 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 013 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 014 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 015 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 016 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 017 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 018 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 019 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 020 - Commercial Vehicle OBE,1,1,0,Physical
+Arthit Kanchanapong - Commercial Vehicle Driver,0,1,1,Physical
+Benjamas Thammarat - Commercial Vehicle Driver,0,1,1,Physical
+Chaiwat Phanurat - Commercial Vehicle Driver,0,1,1,Physical
+Darika Suphakit - Commercial Vehicle Driver,0,1,1,Physical
+Ekkachai Prasertkul - Commercial Vehicle Driver,0,1,1,Physical
+Fah Chantarak - Commercial Vehicle Driver,0,1,1,Physical
+Ganya Rattanawan - Commercial Vehicle Driver,0,1,1,Physical
+Hiran Phongpanich - Commercial Vehicle Driver,0,1,1,Physical
+Issara Wongchai - Commercial Vehicle Driver,0,1,1,Physical
+Jirawat Boonmee - Commercial Vehicle Driver,0,1,1,Physical
+Kanchana Srisopa - Commercial Vehicle Driver,0,1,1,Physical
+Lalita Thanaporn - Commercial Vehicle Driver,0,1,1,Physical
+Manop Chotiphan - Commercial Vehicle Driver,0,1,1,Physical
+Nattaya Kongsiri - Commercial Vehicle Driver,0,1,1,Physical
+Ornpreeya Sakulchai - Commercial Vehicle Driver,0,1,1,Physical
+Pattaraporn Jitpraphai - Commercial Vehicle Driver,0,1,1,Physical
+Ratchata Nimsakul - Commercial Vehicle Driver,0,1,1,Physical
+Sakchai Pradchaphet - Commercial Vehicle Driver,0,1,1,Physical
+Tassanee Yodkamol - Commercial Vehicle Driver,0,1,1,Physical
+Udom Siripong - Commercial Vehicle Driver,0,1,1,Physical
+Vichai Thongprasert - Commercial Vehicle Driver,0,1,1,Physical
+Wanida Kittisakul - Commercial Vehicle Driver,0,1,1,Physical
+Yutthana Chaisuwan - Commercial Vehicle Driver,0,1,1,Physical
+Amara Boonyasiri - Commercial Vehicle Driver,0,1,1,Physical
+Boonchai Tansakul - Commercial Vehicle Driver,0,1,1,Physical
+Chutima Pattanapong - Commercial Vehicle Driver,0,1,1,Physical
+Duangjai Wongthip - Commercial Vehicle Driver,0,1,1,Physical
+Ekachai Suwannarat - Commercial Vehicle Driver,0,1,1,Physical
+Fuangfah Kittipong - Commercial Vehicle Driver,0,1,1,Physical
+Gun Noppakun - Commercial Vehicle Driver,0,1,1,Physical
+Hansa Chotirat - Commercial Vehicle Driver,0,1,1,Physical
+Inthira Saengchai - Commercial Vehicle Driver,0,1,1,Physical
+Jariya Phanichkul - Commercial Vehicle Driver,0,1,1,Physical
+Kamol Boonsri - Commercial Vehicle Driver,0,1,1,Physical
+Lawan Thongchai - Commercial Vehicle Driver,0,1,1,Physical
+Metha Rattanapong - Commercial Vehicle Driver,0,1,1,Physical
+Nicha Suphaphanich - Commercial Vehicle Driver,0,1,1,Physical
+Orawan Srisuwan - Commercial Vehicle Driver,0,1,1,Physical
+Phanupong Wongpracha - Commercial Vehicle Driver,0,1,1,Physical
+Ratchanee Jitsakulchai - Commercial Vehicle Driver,0,1,1,Physical
+Somchai Wattanapanichkul - Commercial Vehicle Driver,0,1,1,Physical
+Tanaporn Boonprakob - Commercial Vehicle Driver,0,1,1,Physical
+Uthai Sirisopa - Commercial Vehicle Driver,0,1,1,Physical
+Viyada Thanaratkul - Commercial Vehicle Driver,0,1,1,Physical
+Worawut Chaisiriwanichkul - Commercial Vehicle Driver,0,1,1,Physical
+Yuwadee Phongsiriwanichkul - Commercial Vehicle Driver,0,1,1,Physical
+Anupong Boonratana - Commercial Vehicle Driver,0,1,1,Physical
+Suthida Krissada - Commercial Vehicle Driver,0,1,1,Physical
+Chonlada Wongsawat - Commercial Vehicle Driver,0,1,1,Physical
+Nanticha Suksawat - Commercial Vehicle Driver,0,1,1,Physical
+Patchara Narongsak - Commercial Vehicle Driver,0,1,1,Physical
+Thidarat Wongsawat - Commercial Vehicle Driver,0,1,1,Physical
+Worawut Mahawong - Commercial Vehicle Driver,0,1,1,Physical
+Nanticha Suksawat - Commercial Vehicle Driver,0,1,1,Physical
+Patchara Narongsak - Commercial Vehicle Driver,0,1,1,Physical
+Thidarat Wongsawat - Commercial Vehicle Driver,0,1,1,Physical
+Worawut Mahawong - Commercial Vehicle Driver,0,1,1,Physical
+Nanticha Suksawat - Commercial Vehicle Driver,0,1,1,Physical
+Patchara Narongsak - Commercial Vehicle Driver,0,1,1,Physical
+Thidarat Wongsawat - Commercial Vehicle Driver,0,1,1,Physical
+Worawut Mahawong - Commercial Vehicle Driver,0,1,1,Physical
+Worawut Mahawong - Commercial Vehicle Driver,0,1,1,Physical
+Bussaba Rattanapong - Commercial Vehicle Driver,0,1,1,Physical
+Chatchai Kittisak - Commercial Vehicle Driver,0,1,1,Physical
+Daran Boonprasert - Commercial Vehicle Driver,0,1,1,Physical
+Ekkarat Phanichkul - Commercial Vehicle Driver,0,1,1,Physical
+Fon Thongchai - Commercial Vehicle Driver,0,1,1,Physical
+Gunnika Wattanapanich - Commercial Vehicle Driver,0,1,1,Physical
+Hiran Boonsiri - Commercial Vehicle Driver,0,1,1,Physical
+Issariya Chotiphan - Commercial Vehicle Driver,0,1,1,Physical
+Jitsupa Prasertkul - Commercial Vehicle Driver,0,1,1,Physical
+Kamonchanok Srisuwan - Commercial Vehicle Driver,0,1,1,Physical
+Lerdchai Chantarak - Commercial Vehicle Driver,0,1,1,Physical
+CP1514 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+CP5892 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+CP5896 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+CP4451 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+CP9855 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+CP0192 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+KW2048 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KW4729- Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KW9943 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KW5928 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KW7859 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KW4711 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KW9860  - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KW2187 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KW3175 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KW8930 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KM0291 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KM3678 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KM7120 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KM9442 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KM0911 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KM8775 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KM9902 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KM5146 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KM5468 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KM5578- Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KM4617 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KM7859 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KM9734 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KM5685 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+KM59806 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+BR4511 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+BR7918 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+BR5411 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+BR9879 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+BR3417 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+BR4132 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+BR4185 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+BR3526 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+BR6872 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+BR4248 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+BT4869 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+BT2371 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+BT4452 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+BT1429 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+BT8367 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+BT3567 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+BT4251 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+BT4139 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+BT7652 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+BT8371 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+BT8833 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+BT8200 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP8901 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KP3167 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KP4069 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KP3561 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP4578 - Scania V8 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP4172 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP6448 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP5562 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP5002 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KP4451 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KP3951 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KP3912 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KP7254 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KP5921 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KP1427 - Volvo FH16 - Basic Commercial Vehicle,0,1,0,Physical
+KP4975 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP4595 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP5212 - Scania R 770 - Basic Commercial Vehicle,0,1,0,Physical
+KP9987 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+KP4981 - Komatsu 930E-5 - Basic Commercial Vehicle,0,1,0,Physical
+GPS - Location and Time Data Source,1,1,0,Physical
+Bangkok Emergency Management Center,1,1,0,Physical
+Pnom Pehn Emergency Management Center,1,1,0,Physical
+Khorathidin Regional Emergency Management Center,1,1,0,Physical
+Chao Phraya Imports Fleet and Freight Management Center,1,1,0,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,1,1,0,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,1,1,0,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,1,1,0,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,1,1,0,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,1,1,0,Physical
+CPI V01 EQ01 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V02 EQ02 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V03 EQ03 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V04 EQ04 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V05 EQ05 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V06 EQ06 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 01 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 02 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 03 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 04 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 05 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 06 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 07 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 08 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 09 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 10 - Commercial Vehicle OBE,1,1,0,Physical
+KM01 - Commercial Vehicle OBE,1,1,0,Physical
+KM02 - Commercial Vehicle OBE,1,1,0,Physical
+KM03 - Commercial Vehicle OBE,1,1,0,Physical
+KM04 - Commercial Vehicle OBE,1,1,0,Physical
+KM05 - Commercial Vehicle OBE,1,1,0,Physical
+KM06 - Commercial Vehicle OBE,1,1,0,Physical
+KM07 - Commercial Vehicle OBE,1,1,0,Physical
+KM08 - Commercial Vehicle OBE,1,1,0,Physical
+KM09 - Commercial Vehicle OBE,1,1,0,Physical
+KM10 - Commercial Vehicle OBE,1,1,0,Physical
+KM11 - Commercial Vehicle OBE,1,1,0,Physical
+KM12 - Commercial Vehicle OBE,1,1,0,Physical
+KM13 - Commercial Vehicle OBE,1,1,0,Physical
+KM14 - Commercial Vehicle OBE,1,1,0,Physical
+KM15 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0001 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0002 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0003 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0003 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0005 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0006 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0007 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0008 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0009 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0010 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen01 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen02 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen03 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen04 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen05 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen06 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen07 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen08 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen 09 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen10 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen11 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen12 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 001 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 002 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 003 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 004 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 005 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 006 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 007 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 008 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 009 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 010 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 011 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 012 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 013 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 014 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 015 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 016 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 017 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 018 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 019 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 020 - Commercial Vehicle OBE,1,1,0,Physical
+CP Container 01 - Freight Equipment,0,1,0,Physical
+CP Container 02 - Freight Equipment,0,1,0,Physical
+CP Container 03 - Freight Equipment,0,1,0,Physical
+CP Container 04 - Freight Equipment,0,1,0,Physical
+CP Container 05 - Freight Equipment,0,1,0,Physical
+CP Container 06 - Freight Equipment,0,1,0,Physical
+KWP Carrier 001 - Freight Equipment,0,1,0,Physical
+KWP Carrier 002 - Freight Equipment,0,1,0,Physical
+KWP Carrier 003 - Freight Equipment,0,1,0,Physical
+KWP Carrier 004 - Freight Equipment,0,1,0,Physical
+KWP Carrier 005 - Freight Equipment,0,1,0,Physical
+KWP Carrier 006 - Freight Equipment,0,1,0,Physical
+KWP Carrier 007 - Freight Equipment,0,1,0,Physical
+KWP Carrier 008 - Freight Equipment,0,1,0,Physical
+KWP Carrier 009 - Freight Equipment,0,1,0,Physical
+KWP Carrier 010 - Freight Equipment,0,1,0,Physical
+KlMo Cont 01 - Freight Equipment,0,1,0,Physical
+KlMo Cont 02 - Freight Equipment,0,1,0,Physical
+KlMo Cont 03 - Freight Equipment,0,1,0,Physical
+KlMo Cont 04 - Freight Equipment,0,1,0,Physical
+KlMo Cont 05 - Freight Equipment,0,1,0,Physical
+KlMo Cont 06 - Freight Equipment,0,1,0,Physical
+KlMo Cont 07 - Freight Equipment,0,1,0,Physical
+KlMo Cont 08 - Freight Equipment,0,1,0,Physical
+KlMo Cont 09 - Freight Equipment,0,1,0,Physical
+KlMo Cont 10 - Freight Equipment,0,1,0,Physical
+KlMo Cont 11 - Freight Equipment,0,1,0,Physical
+KlMo Cont 12 - Freight Equipment,0,1,0,Physical
+KlMo Cont 13 - Freight Equipment,0,1,0,Physical
+KlMo Cont 14 - Freight Equipment,0,1,0,Physical
+KlMo Cont 15 - Freight Equipment,0,1,0,Physical
+Ram Log x1 - Freight Equipment,0,1,0,Physical
+Ram Log x2 - Freight Equipment,0,1,0,Physical
+Ram Log x3 - Freight Equipment,0,1,0,Physical
+Ram Log x4 - Freight Equipment,0,1,0,Physical
+Ram Log x5 - Freight Equipment,0,1,0,Physical
+Ram Log x6 - Freight Equipment,0,1,0,Physical
+Ram Log x7 - Freight Equipment,0,1,0,Physical
+Ram Log x8 - Freight Equipment,0,1,0,Physical
+Ram Log x9 - Freight Equipment,0,1,0,Physical
+Ram Log x10 - Freight Equipment,0,1,0,Physical
+BT FlatPack 01 - Freight Equipment,0,1,0,Physical
+BT FlatPack 02 - Freight Equipment,0,1,0,Physical
+BT FlatPack 03 - Freight Equipment,0,1,0,Physical
+BT FlatPack 04 - Freight Equipment,0,1,0,Physical
+BT FlatPack 05 - Freight Equipment,0,1,0,Physical
+BT FlatPack 06 - Freight Equipment,0,1,0,Physical
+BT FlatPack 07 - Freight Equipment,0,1,0,Physical
+BT FlatPack 08 - Freight Equipment,0,1,0,Physical
+BT FlatPack 09 - Freight Equipment,0,1,0,Physical
+BT FlatPack 10 - Freight Equipment,0,1,0,Physical
+BT FlatPack 11 - Freight Equipment,0,1,0,Physical
+BT FlatPack 12 - Freight Equipment,0,1,0,Physical
+FuelContainer 001 - Freight Equipment,0,1,0,Physical
+FuelContainer 002 - Freight Equipment,0,1,0,Physical
+FuelContainer 003 - Freight Equipment,0,1,0,Physical
+FuelContainer 004 - Freight Equipment,0,1,0,Physical
+FuelContainer 005 - Freight Equipment,0,1,0,Physical
+FuelContainer 006 - Freight Equipment,0,1,0,Physical
+FuelContainer 007 - Freight Equipment,0,1,0,Physical
+FuelContainer 008 - Freight Equipment,0,1,0,Physical
+FuelContainer 009 - Freight Equipment,0,1,0,Physical
+FuelContainer 010 - Freight Equipment,0,1,0,Physical
+FuelContainer 011 - Freight Equipment,0,1,0,Physical
+FuelContainer 012 - Freight Equipment,0,1,0,Physical
+FuelContainer 013 - Freight Equipment,0,1,0,Physical
+FuelContainer 014 - Freight Equipment,0,1,0,Physical
+FuelContainer 015 - Freight Equipment,0,1,0,Physical
+FuelContainer 016 - Freight Equipment,0,1,0,Physical
+FuelContainer 017 - Freight Equipment,0,1,0,Physical
+FuelContainer 018 - Freight Equipment,0,1,0,Physical
+FuelContainer 019 - Freight Equipment,0,1,0,Physical
+FuelContainer 020 - Freight Equipment,0,1,0,Physical
+Bangkok Emergency Management Center,1,1,0,Physical
+Pnom Pehn Emergency Management Center,1,1,0,Physical
+Khorathidin Regional Emergency Management Center,1,1,0,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,1,1,0,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,1,1,0,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,1,1,0,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,1,1,0,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,1,1,0,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,1,1,0,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,1,1,0,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,1,1,0,Physical
+Bangkok Fire 01 - Emergency Vehicle OBE,1,1,0,Physical
+Bangkok Fire 02 - Emergency Vehicle OBE,1,1,0,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,1,1,0,Physical
+Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,1,1,0,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,1,1,0,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,1,1,0,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,1,1,0,Physical
+Pnom Pehn Fire 01 - Emergency Vehicle OBE,1,1,0,Physical
+Pnom Pehn Fire 02 - Emergency Vehicle OBE,1,1,0,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,1,1,0,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,1,1,0,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,1,1,0,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,1,1,0,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,1,1,0,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,1,1,0,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,1,1,0,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,1,1,0,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,1,1,0,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,1,1,0,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,1,1,0,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,1,1,0,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,1,1,0,Physical
+Kittipong Suthamchai - Emergency System Operator,0,1,1,Physical
+Nattaporn Rattanapong - Emergency System Operator,0,1,1,Physical
+Sasithorn Boonyasiri - Emergency System Operator,0,1,1,Physical
+Worachai Kanchanarat - Emergency System Operator,0,1,1,Physical
+Pimnara Chotiphan - Emergency System Operator,0,1,1,Physical
+Anusorn Wattanachai - Emergency System Operator,0,1,1,Physical
+Jirapat Srisuwan - Emergency System Operator,0,1,1,Physical
+Lalita Phanichkul - Emergency System Operator,0,1,1,Physical
+Thanawat Thongprasert - Emergency System Operator,0,1,1,Physical
+Oranuch Siripong - Emergency System Operator,0,1,1,Physical
+357192084561234 Galaxy S25 Ultra - Personnel Device,1,1,0,Physical
+864209153782145 iPhone 16 Pro Max - Personnel Device,1,1,0,Physical
+351984206713589 Pixel 9 XL - Personnel Device,1,1,0,Physical
+864512309876231 Xperia Z7 - Personnel Device,1,1,0,Physical
+352091847563210 OnePlus 13T - Personnel Device,1,1,0,Physical
+861234509876543 Redmi Note 15 Pro - Personnel Device,1,1,0,Physical
+359876120345678 Moto G100 - Personnel Device,1,1,0,Physical
+864209875612340 Nokia X50 - Personnel Device,1,1,0,Physical
+352098761234567 Huawei P60 Pro - Personnel Device,1,1,0,Physical
+861234567890123 Oppo Find X7 - Personnel Device,1,1,0,Physical
+352091234567890 Vivo X90 - Personnel Device,1,1,0,Physical
+861234098765432 Realme GT Neo 6 - Personnel Device,1,1,0,Physical
+352098765432109 Asus ROG Phone 8 - Personnel Device,1,1,0,Physical
+861234567809876 Lenovo Legion Y90 - Personnel Device,1,1,0,Physical
+352091234098765 Honor Magic 6 - Personnel Device,1,1,0,Physical
+861234567801234 ZTE Axon 50 - Personnel Device,1,1,0,Physical
+352098765401234 BlackBerry Key5 - Personnel Device,1,1,0,Physical
+861234567890124 HTC U23 Pro - Personnel Device,1,1,0,Physical
+352091234567801 Sony Xperia 1 VI - Personnel Device,1,1,0,Physical
+861234567890125 LG Velvet 2 - Personnel Device,1,1,0,Physical
+352098765432101 Meizu 20 Pro - Personnel Device,1,1,0,Physical
+861234567890126 Sharp Aquos R8 - Personnel Device,1,1,0,Physical
+352091234567802 Micromax Infinity 5 - Personnel Device,1,1,0,Physical
+861234567890127 Infinix Zero Ultra - Personnel Device,1,1,0,Physical
+352098765432102 Tecno Phantom X3 - Personnel Device,1,1,0,Physical
+861234567890128 Itel Vision 5 - Personnel Device,1,1,0,Physical
+352091234567803 Lava Agni 3 - Personnel Device,1,1,0,Physical
+861234567890129 Coolpad Legacy 2 - Personnel Device,1,1,0,Physical
+352098765432103 Alcatel 5X - Personnel Device,1,1,0,Physical
+861234567890130 Fairphone 5 - Personnel Device,1,1,0,Physical
+352091234567804 Cat S65 - Personnel Device,1,1,0,Physical
+861234567890131 Doogee S100 - Personnel Device,1,1,0,Physical
+352098765432104 Ulefone Armor 15 - Personnel Device,1,1,0,Physical
+861234567890132 BLU G91 Max - Personnel Device,1,1,0,Physical
+352091234567805 Kyocera DuraForce Ultra - Personnel Device,1,1,0,Physical
+861234567890133 Palm Phone 2 - Personnel Device,1,1,0,Physical
+352098765432105 Google Pixel Fold - Personnel Device,1,1,0,Physical
+861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,1,1,0,Physical
+352091234567806 Motorola Razr 2025 - Personnel Device,1,1,0,Physical
+861234567890135 Xiaomi Mi Mix 5 - Personnel Device,1,1,0,Physical
+351982104567890 Galaxy S26 Ultra - Personnel Device,1,1,0,Physical
+864209153784321 iPhone 17 Pro Max - Personnel Device,1,1,0,Physical
+352091847563211 Pixel 10 XL - Personnel Device,1,1,0,Physical
+864512309876232 Xperia Z8 - Personnel Device,1,1,0,Physical
+352091847563212 OnePlus 14T - Personnel Device,1,1,0,Physical
+861234509876544 Redmi Note 16 Pro - Personnel Device,1,1,0,Physical
+359876120345679 Moto G200 - Personnel Device,1,1,0,Physical
+864209875612341 Nokia X60 - Personnel Device,1,1,0,Physical
+352098761234568 Huawei P70 Pro - Personnel Device,1,1,0,Physical
+861234567890124 Oppo Find X8 - Personnel Device,1,1,0,Physical
+352091234567891 Vivo X100 - Personnel Device,1,1,0,Physical
+861234098765433 Realme GT Neo 7 - Personnel Device,1,1,0,Physical
+352098765432110 Asus ROG Phone 9 - Personnel Device,1,1,0,Physical
+861234567809877 Lenovo Legion Y100 - Personnel Device,1,1,0,Physical
+352091234098766 Honor Magic 7 - Personnel Device,1,1,0,Physical
+861234567801235 ZTE Axon 60 - Personnel Device,1,1,0,Physical
+352098765401235 BlackBerry Key6 - Personnel Device,1,1,0,Physical
+861234567890125 HTC U24 Pro - Personnel Device,1,1,0,Physical
+352091234567802 Sony Xperia 1 VII - Personnel Device,1,1,0,Physical
+861234567890126 LG Velvet 3 - Personnel Device,1,1,0,Physical
+Kamonchanok Srisuwan - Emergency Personnel,0,1,1,Physical
+Nattapong Wattanachai - Emergency Personnel,0,1,1,Physical
+Pimchanok Boonyarat - Emergency Personnel,0,1,1,Physical
+Thanakorn Rattanapong - Emergency Personnel,0,1,1,Physical
+Supalak Thongchai - Emergency Personnel,0,1,1,Physical
+Ananda Chaisuriyakul - Emergency Personnel,0,1,1,Physical
+Kritsada Phanurat - Emergency Personnel,0,1,1,Physical
+Nicha Suphaphanich - Emergency Personnel,0,1,1,Physical
+Ornpreeya Sakulchai - Emergency Personnel,0,1,1,Physical
+Ratchata Nimsakul - Emergency Personnel,0,1,1,Physical
+Sakchai Pradchaphet - Emergency Personnel,0,1,1,Physical
+Tassanee Yodkamol - Emergency Personnel,0,1,1,Physical
+Udom Siripong - Emergency Personnel,0,1,1,Physical
+Vichai Thongprasert - Emergency Personnel,0,1,1,Physical
+Wanida Kittisakul - Emergency Personnel,0,1,1,Physical
+Yutthana Chaisuwan - Emergency Personnel,0,1,1,Physical
+Amara Boonyasiri - Emergency Personnel,0,1,1,Physical
+Boonchai Tansakul - Emergency Personnel,0,1,1,Physical
+Chutima Pattanapong - Emergency Personnel,0,1,1,Physical
+Duangjai Wongthip - Emergency Personnel,0,1,1,Physical
+Ekachai Suwannarat - Emergency Personnel,0,1,1,Physical
+Fuangfah Kittipong - Emergency Personnel,0,1,1,Physical
+Gun Noppakun - Emergency Personnel,0,1,1,Physical
+Hansa Chotirat - Emergency Personnel,0,1,1,Physical
+Inthira Saengchai - Emergency Personnel,0,1,1,Physical
+Jariya Phanichkul - Emergency Personnel,0,1,1,Physical
+Kamol Boonsri - Emergency Personnel,0,1,1,Physical
+Lawan Thongchai - Emergency Personnel,0,1,1,Physical
+Metha Rattanapong - Emergency Personnel,0,1,1,Physical
+Nattaya Kongsiri - Emergency Personnel,0,1,1,Physical
+Anusorn Wattanapanich - Emergency Personnel,0,1,1,Physical
+Darika Suphakit - Emergency Personnel,0,1,1,Physical
+Ekkachai Prasertkul - Emergency Personnel,0,1,1,Physical
+Fon Chantarak - Emergency Personnel,0,1,1,Physical
+Ganya Rattanawan - Emergency Personnel,0,1,1,Physical
+Hiran Phongpanich - Emergency Personnel,0,1,1,Physical
+Issara Wongchai - Emergency Personnel,0,1,1,Physical
+Jirawat Boonmee - Emergency Personnel,0,1,1,Physical
+Kanchana Srisopa - Emergency Personnel,0,1,1,Physical
+Lalita Thanaporn - Emergency Personnel,0,1,1,Physical
+Manop Chotiphan - Emergency Personnel,0,1,1,Physical
+Napat Srisuwan - Emergency Personnel,0,1,1,Physical
+Orawan Srisopa - Emergency Personnel,0,1,1,Physical
+Pattaraporn Jitpraphai - Emergency Personnel,0,1,1,Physical
+Phanupong Wongpracha - Emergency Personnel,0,1,1,Physical
+Ratchanee Jitsakulchai - Emergency Personnel,0,1,1,Physical
+Somchai Wattanapanichkul - Emergency Personnel,0,1,1,Physical
+Tanaporn Boonprakob - Emergency Personnel,0,1,1,Physical
+Uthai Sirisopa - Emergency Personnel,0,1,1,Physical
+Viyada Thanaratkul - Emergency Personnel,0,1,1,Physical
+Worawut Chaisiriwanichkul - Emergency Personnel,0,1,1,Physical
+Yuwadee Phongsiriwanichkul - Emergency Personnel,0,1,1,Physical
+Arthit Kanchanapong - Emergency Personnel,0,1,1,Physical
+Benjamas Thammarat - Emergency Personnel,0,1,1,Physical
+Chaiwat Phanurat - Emergency Personnel,0,1,1,Physical
+Ekkarat Suwannarat - Emergency Personnel,0,1,1,Physical
+Fah Thongprasert - Emergency Personnel,0,1,1,Physical
+Gun Noppadolchai - Emergency Personnel,0,1,1,Physical
+Hansa Chotiphanichkul - Emergency Personnel,0,1,1,Physical
+Inthira Saengsuwan - Emergency Personnel,0,1,1,Physical

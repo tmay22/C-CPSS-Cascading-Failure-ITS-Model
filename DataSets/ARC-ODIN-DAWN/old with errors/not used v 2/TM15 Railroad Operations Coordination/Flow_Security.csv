@@ -1,0 +1,10 @@
+﻿InformationFlowName,Confidentiality,Integrity,Availability,FIPSsStandard
+rail crossing request,Moderate,Moderate,Moderate,TRUE
+rail crossing control data,Moderate,High,Moderate,TRUE
+road network conditions,Low,Moderate,Moderate,TRUE
+rail crossing advisories,Moderate,Moderate,Moderate,TRUE
+rail crossing status,Moderate,Moderate,Moderate,TRUE
+railroad advisories,Low,Moderate,Moderate,TRUE
+railroad schedules,Low,Moderate,Moderate,TRUE
+railroad advisories,Low,Moderate,Moderate,TRUE
+railroad schedules,Low,Moderate,Moderate,TRUE

@@ -1,0 +1,606 @@
+﻿Source,InformationFlow,Destination,SourceLayer,DestLayer
+Bangkok Emergency Management Center,hazmat information request,Fleet and Freight Management Center,Physical,Physical
+Pnom Pehn Emergency Management Center,hazmat information request,Fleet and Freight Management Center,Physical,Physical
+Khorathidin Regional Emergency Management Center,hazmat information request,Fleet and Freight Management Center,Physical,Physical
+Chao Phraya Imports Fleet and Freight Management Center,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+Chao Phraya Imports Fleet and Freight Management Center,hazmat information,Pnom Pehn Emergency Management Center,Physical,Physical
+Chao Phraya Imports Fleet and Freight Management Center,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,hazmat information,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat information,Bangkok Emergency Management Center,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,hazmat information,Pnom Pehn Emergency Management Center,Physical,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,hazmat information,Bangkok Emergency Management Center,Physical,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+Chao Phraya Imports Fleet and Freight Management Center,hazmat information,CPI V01 EQ01 - Commercial Vehicle OBE,Physical,Physical
+Chao Phraya Imports Fleet and Freight Management Center,hazmat information,CPI V02 EQ02 - Commercial Vehicle OBE,Physical,Physical
+Chao Phraya Imports Fleet and Freight Management Center,hazmat information,CPI V03 EQ03 - Commercial Vehicle OBE,Physical,Physical
+Chao Phraya Imports Fleet and Freight Management Center,hazmat information,CPI V04 EQ04 - Commercial Vehicle OBE,Physical,Physical
+Chao Phraya Imports Fleet and Freight Management Center,hazmat information,CPI V05 EQ05 - Commercial Vehicle OBE,Physical,Physical
+Chao Phraya Imports Fleet and Freight Management Center,hazmat information,CPI V06 EQ06 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,hazmat information,KWP Sensor 01 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,hazmat information,KWP Sensor 02 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,hazmat information,KWP Sensor 03 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,hazmat information,KWP Sensor 04 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,hazmat information,KWP Sensor 05 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,hazmat information,KWP Sensor 06 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,hazmat information,KWP Sensor 07 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,hazmat information,KWP Sensor 08 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,hazmat information,KWP Sensor 09 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,hazmat information,KWP Sensor 10 - Commercial Vehicle OBE,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat information,KM01 - Commercial Vehicle OBE,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat information,KM02 - Commercial Vehicle OBE,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat information,KM03 - Commercial Vehicle OBE,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat information,KM04 - Commercial Vehicle OBE,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat information,KM05 - Commercial Vehicle OBE,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat information,KM06 - Commercial Vehicle OBE,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat information,KM07 - Commercial Vehicle OBE,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat information,KM08 - Commercial Vehicle OBE,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat information,KM09 - Commercial Vehicle OBE,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat information,KM10 - Commercial Vehicle OBE,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat information,KM11 - Commercial Vehicle OBE,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat information,KM12 - Commercial Vehicle OBE,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat information,KM13 - Commercial Vehicle OBE,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat information,KM14 - Commercial Vehicle OBE,Physical,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,hazmat information,KM15 - Commercial Vehicle OBE,Physical,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,hazmat information,BRLS0001 - Commercial Vehicle OBE,Physical,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,hazmat information,BRLS0002 - Commercial Vehicle OBE,Physical,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,hazmat information,BRLS0003 - Commercial Vehicle OBE,Physical,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,hazmat information,BRLS0003 - Commercial Vehicle OBE,Physical,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,hazmat information,BRLS0005 - Commercial Vehicle OBE,Physical,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,hazmat information,BRLS0006 - Commercial Vehicle OBE,Physical,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,hazmat information,BRLS0007 - Commercial Vehicle OBE,Physical,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,hazmat information,BRLS0008 - Commercial Vehicle OBE,Physical,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,hazmat information,BRLS0009 - Commercial Vehicle OBE,Physical,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,hazmat information,BRLS0010 - Commercial Vehicle OBE,Physical,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,hazmat information,BasSen01 - Commercial Vehicle OBE,Physical,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,hazmat information,BasSen02 - Commercial Vehicle OBE,Physical,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,hazmat information,BasSen03 - Commercial Vehicle OBE,Physical,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,hazmat information,BasSen04 - Commercial Vehicle OBE,Physical,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,hazmat information,BasSen05 - Commercial Vehicle OBE,Physical,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,hazmat information,BasSen06 - Commercial Vehicle OBE,Physical,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,hazmat information,BasSen07 - Commercial Vehicle OBE,Physical,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,hazmat information,BasSen08 - Commercial Vehicle OBE,Physical,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,hazmat information,BasSen 09 - Commercial Vehicle OBE,Physical,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,hazmat information,BasSen10 - Commercial Vehicle OBE,Physical,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,hazmat information,BasSen11 - Commercial Vehicle OBE,Physical,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,hazmat information,BasSen12 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 001 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 002 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 003 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 004 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 005 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 006 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 007 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 008 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 009 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 010 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 011 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 012 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 013 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 014 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 015 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 016 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 017 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 018 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 019 - Commercial Vehicle OBE,Physical,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,hazmat information,KPetrol Mon 020 - Commercial Vehicle OBE,Physical,Physical
+CPI V01 EQ01 - Commercial Vehicle OBE,freight equipment information,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CPI V02 EQ02 - Commercial Vehicle OBE,freight equipment information,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CPI V03 EQ03 - Commercial Vehicle OBE,freight equipment information,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CPI V04 EQ04 - Commercial Vehicle OBE,freight equipment information,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CPI V05 EQ05 - Commercial Vehicle OBE,freight equipment information,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CPI V06 EQ06 - Commercial Vehicle OBE,freight equipment information,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 01 - Commercial Vehicle OBE,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 02 - Commercial Vehicle OBE,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 03 - Commercial Vehicle OBE,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 04 - Commercial Vehicle OBE,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 05 - Commercial Vehicle OBE,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 06 - Commercial Vehicle OBE,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 07 - Commercial Vehicle OBE,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 08 - Commercial Vehicle OBE,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 09 - Commercial Vehicle OBE,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 10 - Commercial Vehicle OBE,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KM01 - Commercial Vehicle OBE,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM02 - Commercial Vehicle OBE,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM03 - Commercial Vehicle OBE,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM04 - Commercial Vehicle OBE,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM05 - Commercial Vehicle OBE,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM06 - Commercial Vehicle OBE,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM07 - Commercial Vehicle OBE,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM08 - Commercial Vehicle OBE,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM09 - Commercial Vehicle OBE,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM10 - Commercial Vehicle OBE,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM11 - Commercial Vehicle OBE,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM12 - Commercial Vehicle OBE,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM13 - Commercial Vehicle OBE,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM14 - Commercial Vehicle OBE,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM15 - Commercial Vehicle OBE,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+BRLS0001 - Commercial Vehicle OBE,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0002 - Commercial Vehicle OBE,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0003 - Commercial Vehicle OBE,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0003 - Commercial Vehicle OBE,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0005 - Commercial Vehicle OBE,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0006 - Commercial Vehicle OBE,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0007 - Commercial Vehicle OBE,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0008 - Commercial Vehicle OBE,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0009 - Commercial Vehicle OBE,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0010 - Commercial Vehicle OBE,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BasSen01 - Commercial Vehicle OBE,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen02 - Commercial Vehicle OBE,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen03 - Commercial Vehicle OBE,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen04 - Commercial Vehicle OBE,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen05 - Commercial Vehicle OBE,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen06 - Commercial Vehicle OBE,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen07 - Commercial Vehicle OBE,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen08 - Commercial Vehicle OBE,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen 09 - Commercial Vehicle OBE,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen10 - Commercial Vehicle OBE,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen11 - Commercial Vehicle OBE,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen12 - Commercial Vehicle OBE,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 001 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 002 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 003 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 004 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 005 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 006 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 007 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 008 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 009 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 010 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 011 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 012 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 013 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 014 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 015 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 016 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 017 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 018 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 019 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 020 - Commercial Vehicle OBE,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+CPI V01 EQ01 - Commercial Vehicle OBE,hazmat notification,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CPI V02 EQ02 - Commercial Vehicle OBE,hazmat notification,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CPI V03 EQ03 - Commercial Vehicle OBE,hazmat notification,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CPI V04 EQ04 - Commercial Vehicle OBE,hazmat notification,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CPI V05 EQ05 - Commercial Vehicle OBE,hazmat notification,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CPI V06 EQ06 - Commercial Vehicle OBE,hazmat notification,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 01 - Commercial Vehicle OBE,hazmat notification,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 02 - Commercial Vehicle OBE,hazmat notification,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 03 - Commercial Vehicle OBE,hazmat notification,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 04 - Commercial Vehicle OBE,hazmat notification,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 05 - Commercial Vehicle OBE,hazmat notification,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 06 - Commercial Vehicle OBE,hazmat notification,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 07 - Commercial Vehicle OBE,hazmat notification,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 08 - Commercial Vehicle OBE,hazmat notification,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 09 - Commercial Vehicle OBE,hazmat notification,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 10 - Commercial Vehicle OBE,hazmat notification,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KM01 - Commercial Vehicle OBE,hazmat notification,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM02 - Commercial Vehicle OBE,hazmat notification,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM03 - Commercial Vehicle OBE,hazmat notification,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM04 - Commercial Vehicle OBE,hazmat notification,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM05 - Commercial Vehicle OBE,hazmat notification,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM06 - Commercial Vehicle OBE,hazmat notification,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM07 - Commercial Vehicle OBE,hazmat notification,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM08 - Commercial Vehicle OBE,hazmat notification,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM09 - Commercial Vehicle OBE,hazmat notification,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM10 - Commercial Vehicle OBE,hazmat notification,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM11 - Commercial Vehicle OBE,hazmat notification,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM12 - Commercial Vehicle OBE,hazmat notification,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM13 - Commercial Vehicle OBE,hazmat notification,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM14 - Commercial Vehicle OBE,hazmat notification,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM15 - Commercial Vehicle OBE,hazmat notification,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+BRLS0001 - Commercial Vehicle OBE,hazmat notification,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0002 - Commercial Vehicle OBE,hazmat notification,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0003 - Commercial Vehicle OBE,hazmat notification,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0003 - Commercial Vehicle OBE,hazmat notification,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0005 - Commercial Vehicle OBE,hazmat notification,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0006 - Commercial Vehicle OBE,hazmat notification,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0007 - Commercial Vehicle OBE,hazmat notification,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0008 - Commercial Vehicle OBE,hazmat notification,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0009 - Commercial Vehicle OBE,hazmat notification,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0010 - Commercial Vehicle OBE,hazmat notification,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BasSen01 - Commercial Vehicle OBE,hazmat notification,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen02 - Commercial Vehicle OBE,hazmat notification,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen03 - Commercial Vehicle OBE,hazmat notification,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen04 - Commercial Vehicle OBE,hazmat notification,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen05 - Commercial Vehicle OBE,hazmat notification,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen06 - Commercial Vehicle OBE,hazmat notification,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen07 - Commercial Vehicle OBE,hazmat notification,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen08 - Commercial Vehicle OBE,hazmat notification,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen 09 - Commercial Vehicle OBE,hazmat notification,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen10 - Commercial Vehicle OBE,hazmat notification,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen11 - Commercial Vehicle OBE,hazmat notification,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen12 - Commercial Vehicle OBE,hazmat notification,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 001 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 002 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 003 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 004 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 005 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 006 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 007 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 008 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 009 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 010 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 011 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 012 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 013 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 014 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 015 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 016 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 017 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 018 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 019 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 020 - Commercial Vehicle OBE,hazmat notification,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+CPI V01 EQ01 - Commercial Vehicle OBE,commercial vehicle location data,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CPI V02 EQ02 - Commercial Vehicle OBE,commercial vehicle location data,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CPI V03 EQ03 - Commercial Vehicle OBE,commercial vehicle location data,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CPI V04 EQ04 - Commercial Vehicle OBE,commercial vehicle location data,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CPI V05 EQ05 - Commercial Vehicle OBE,commercial vehicle location data,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CPI V06 EQ06 - Commercial Vehicle OBE,commercial vehicle location data,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 01 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 02 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 03 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 04 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 05 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 06 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 07 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 08 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 09 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Sensor 10 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KM01 - Commercial Vehicle OBE,commercial vehicle location data,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM02 - Commercial Vehicle OBE,commercial vehicle location data,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM03 - Commercial Vehicle OBE,commercial vehicle location data,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM04 - Commercial Vehicle OBE,commercial vehicle location data,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM05 - Commercial Vehicle OBE,commercial vehicle location data,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM06 - Commercial Vehicle OBE,commercial vehicle location data,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM07 - Commercial Vehicle OBE,commercial vehicle location data,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM08 - Commercial Vehicle OBE,commercial vehicle location data,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM09 - Commercial Vehicle OBE,commercial vehicle location data,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM10 - Commercial Vehicle OBE,commercial vehicle location data,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM11 - Commercial Vehicle OBE,commercial vehicle location data,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM12 - Commercial Vehicle OBE,commercial vehicle location data,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM13 - Commercial Vehicle OBE,commercial vehicle location data,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM14 - Commercial Vehicle OBE,commercial vehicle location data,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KM15 - Commercial Vehicle OBE,commercial vehicle location data,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+BRLS0001 - Commercial Vehicle OBE,commercial vehicle location data,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0002 - Commercial Vehicle OBE,commercial vehicle location data,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0003 - Commercial Vehicle OBE,commercial vehicle location data,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0003 - Commercial Vehicle OBE,commercial vehicle location data,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0005 - Commercial Vehicle OBE,commercial vehicle location data,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0006 - Commercial Vehicle OBE,commercial vehicle location data,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0007 - Commercial Vehicle OBE,commercial vehicle location data,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0008 - Commercial Vehicle OBE,commercial vehicle location data,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0009 - Commercial Vehicle OBE,commercial vehicle location data,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BRLS0010 - Commercial Vehicle OBE,commercial vehicle location data,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BasSen01 - Commercial Vehicle OBE,commercial vehicle location data,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen02 - Commercial Vehicle OBE,commercial vehicle location data,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen03 - Commercial Vehicle OBE,commercial vehicle location data,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen04 - Commercial Vehicle OBE,commercial vehicle location data,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen05 - Commercial Vehicle OBE,commercial vehicle location data,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen06 - Commercial Vehicle OBE,commercial vehicle location data,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen07 - Commercial Vehicle OBE,commercial vehicle location data,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen08 - Commercial Vehicle OBE,commercial vehicle location data,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen 09 - Commercial Vehicle OBE,commercial vehicle location data,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen10 - Commercial Vehicle OBE,commercial vehicle location data,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen11 - Commercial Vehicle OBE,commercial vehicle location data,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BasSen12 - Commercial Vehicle OBE,commercial vehicle location data,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 001 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 002 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 003 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 004 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 005 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 006 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 007 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 008 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 009 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 010 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 011 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 012 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 013 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 014 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 015 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 016 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 017 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 018 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 019 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+KPetrol Mon 020 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+CPI V01 EQ01 - Commercial Vehicle OBE,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+CPI V02 EQ02 - Commercial Vehicle OBE,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+CPI V03 EQ03 - Commercial Vehicle OBE,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+CPI V04 EQ04 - Commercial Vehicle OBE,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+CPI V05 EQ05 - Commercial Vehicle OBE,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+CPI V06 EQ06 - Commercial Vehicle OBE,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+KWP Sensor 01 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 02 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 03 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 04 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 05 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 06 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 07 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 08 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 09 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 10 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KM01 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+KM02 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+KM03 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+KM04 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+KM05 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+KM06 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+KM07 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+KM08 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+KM09 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+KM10 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+KM11 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+KM12 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+KM13 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+KM14 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+KM15 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+BRLS0001 - Commercial Vehicle OBE,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0002 - Commercial Vehicle OBE,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0003 - Commercial Vehicle OBE,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0003 - Commercial Vehicle OBE,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0005 - Commercial Vehicle OBE,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0006 - Commercial Vehicle OBE,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0007 - Commercial Vehicle OBE,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0008 - Commercial Vehicle OBE,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0009 - Commercial Vehicle OBE,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0010 - Commercial Vehicle OBE,hazmat notification,Pnom Pehn Emergency Management Center,Physical,Physical
+BasSen01 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+BasSen02 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+BasSen03 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+BasSen04 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+BasSen05 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+BasSen06 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+BasSen07 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+BasSen08 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+BasSen 09 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+BasSen10 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+BasSen11 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+BasSen12 - Commercial Vehicle OBE,hazmat notification,Bangkok Emergency Management Center,Physical,Physical
+KPetrol Mon 001 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 002 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 003 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 004 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 005 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 006 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 007 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 008 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 009 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 010 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 011 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 012 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 013 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 014 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 015 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 016 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 017 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 018 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 019 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 020 - Commercial Vehicle OBE,hazmat notification,Khorathidin Regional Emergency Management Center,Physical,Physical
+CPI V01 EQ01 - Commercial Vehicle OBE,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+CPI V02 EQ02 - Commercial Vehicle OBE,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+CPI V03 EQ03 - Commercial Vehicle OBE,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+CPI V04 EQ04 - Commercial Vehicle OBE,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+CPI V05 EQ05 - Commercial Vehicle OBE,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+CPI V06 EQ06 - Commercial Vehicle OBE,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+KWP Sensor 01 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 02 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 03 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 04 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 05 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 06 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 07 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 08 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 09 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KWP Sensor 10 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KM01 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+KM02 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+KM03 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+KM04 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+KM05 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+KM06 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+KM07 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+KM08 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+KM09 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+KM10 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+KM11 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+KM12 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+KM13 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+KM14 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+KM15 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+BRLS0001 - Commercial Vehicle OBE,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0002 - Commercial Vehicle OBE,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0003 - Commercial Vehicle OBE,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0003 - Commercial Vehicle OBE,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0005 - Commercial Vehicle OBE,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0006 - Commercial Vehicle OBE,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0007 - Commercial Vehicle OBE,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0008 - Commercial Vehicle OBE,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0009 - Commercial Vehicle OBE,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+BRLS0010 - Commercial Vehicle OBE,commercial vehicle location data,Pnom Pehn Emergency Management Center,Physical,Physical
+BasSen01 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+BasSen02 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+BasSen03 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+BasSen04 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+BasSen05 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+BasSen06 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+BasSen07 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+BasSen08 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+BasSen 09 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+BasSen10 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+BasSen11 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+BasSen12 - Commercial Vehicle OBE,commercial vehicle location data,Bangkok Emergency Management Center,Physical,Physical
+KPetrol Mon 001 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 002 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 003 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 004 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 005 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 006 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 007 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 008 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 009 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 010 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 011 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 012 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 013 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 014 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 015 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 016 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 017 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 018 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 019 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+KPetrol Mon 020 - Commercial Vehicle OBE,commercial vehicle location data,Khorathidin Regional Emergency Management Center,Physical,Physical
+CP Container 01 - Freight Equipment,freight equipment information,CPI V01 EQ01 - Commercial Vehicle OBE,Physical,Physical
+CP Container 02 - Freight Equipment,freight equipment information,CPI V02 EQ02 - Commercial Vehicle OBE,Physical,Physical
+CP Container 03 - Freight Equipment,freight equipment information,CPI V03 EQ03 - Commercial Vehicle OBE,Physical,Physical
+CP Container 04 - Freight Equipment,freight equipment information,CPI V04 EQ04 - Commercial Vehicle OBE,Physical,Physical
+CP Container 05 - Freight Equipment,freight equipment information,CPI V05 EQ05 - Commercial Vehicle OBE,Physical,Physical
+CP Container 06 - Freight Equipment,freight equipment information,CPI V06 EQ06 - Commercial Vehicle OBE,Physical,Physical
+KWP Carrier 001 - Freight Equipment,freight equipment information,KWP Sensor 01 - Commercial Vehicle OBE,Physical,Physical
+KWP Carrier 002 - Freight Equipment,freight equipment information,KWP Sensor 02 - Commercial Vehicle OBE,Physical,Physical
+KWP Carrier 003 - Freight Equipment,freight equipment information,KWP Sensor 03 - Commercial Vehicle OBE,Physical,Physical
+KWP Carrier 004 - Freight Equipment,freight equipment information,KWP Sensor 04 - Commercial Vehicle OBE,Physical,Physical
+KWP Carrier 005 - Freight Equipment,freight equipment information,KWP Sensor 05 - Commercial Vehicle OBE,Physical,Physical
+KWP Carrier 006 - Freight Equipment,freight equipment information,KWP Sensor 06 - Commercial Vehicle OBE,Physical,Physical
+KWP Carrier 007 - Freight Equipment,freight equipment information,KWP Sensor 07 - Commercial Vehicle OBE,Physical,Physical
+KWP Carrier 008 - Freight Equipment,freight equipment information,KWP Sensor 08 - Commercial Vehicle OBE,Physical,Physical
+KWP Carrier 009 - Freight Equipment,freight equipment information,KWP Sensor 09 - Commercial Vehicle OBE,Physical,Physical
+KWP Carrier 010 - Freight Equipment,freight equipment information,KWP Sensor 10 - Commercial Vehicle OBE,Physical,Physical
+KlMo Cont 01 - Freight Equipment,freight equipment information,KM01 - Commercial Vehicle OBE,Physical,Physical
+KlMo Cont 02 - Freight Equipment,freight equipment information,KM02 - Commercial Vehicle OBE,Physical,Physical
+KlMo Cont 03 - Freight Equipment,freight equipment information,KM03 - Commercial Vehicle OBE,Physical,Physical
+KlMo Cont 04 - Freight Equipment,freight equipment information,KM04 - Commercial Vehicle OBE,Physical,Physical
+KlMo Cont 05 - Freight Equipment,freight equipment information,KM05 - Commercial Vehicle OBE,Physical,Physical
+KlMo Cont 06 - Freight Equipment,freight equipment information,KM06 - Commercial Vehicle OBE,Physical,Physical
+KlMo Cont 07 - Freight Equipment,freight equipment information,KM07 - Commercial Vehicle OBE,Physical,Physical
+KlMo Cont 08 - Freight Equipment,freight equipment information,KM08 - Commercial Vehicle OBE,Physical,Physical
+KlMo Cont 09 - Freight Equipment,freight equipment information,KM09 - Commercial Vehicle OBE,Physical,Physical
+KlMo Cont 10 - Freight Equipment,freight equipment information,KM10 - Commercial Vehicle OBE,Physical,Physical
+KlMo Cont 11 - Freight Equipment,freight equipment information,KM11 - Commercial Vehicle OBE,Physical,Physical
+KlMo Cont 12 - Freight Equipment,freight equipment information,KM12 - Commercial Vehicle OBE,Physical,Physical
+KlMo Cont 13 - Freight Equipment,freight equipment information,KM13 - Commercial Vehicle OBE,Physical,Physical
+KlMo Cont 14 - Freight Equipment,freight equipment information,KM14 - Commercial Vehicle OBE,Physical,Physical
+KlMo Cont 15 - Freight Equipment,freight equipment information,KM15 - Commercial Vehicle OBE,Physical,Physical
+Ram Log x1 - Freight Equipment,freight equipment information,BRLS0001 - Commercial Vehicle OBE,Physical,Physical
+Ram Log x2 - Freight Equipment,freight equipment information,BRLS0002 - Commercial Vehicle OBE,Physical,Physical
+Ram Log x3 - Freight Equipment,freight equipment information,BRLS0003 - Commercial Vehicle OBE,Physical,Physical
+Ram Log x4 - Freight Equipment,freight equipment information,BRLS0003 - Commercial Vehicle OBE,Physical,Physical
+Ram Log x5 - Freight Equipment,freight equipment information,BRLS0005 - Commercial Vehicle OBE,Physical,Physical
+Ram Log x6 - Freight Equipment,freight equipment information,BRLS0006 - Commercial Vehicle OBE,Physical,Physical
+Ram Log x7 - Freight Equipment,freight equipment information,BRLS0007 - Commercial Vehicle OBE,Physical,Physical
+Ram Log x8 - Freight Equipment,freight equipment information,BRLS0008 - Commercial Vehicle OBE,Physical,Physical
+Ram Log x9 - Freight Equipment,freight equipment information,BRLS0009 - Commercial Vehicle OBE,Physical,Physical
+Ram Log x10 - Freight Equipment,freight equipment information,BRLS0010 - Commercial Vehicle OBE,Physical,Physical
+BT FlatPack 01 - Freight Equipment,freight equipment information,BasSen01 - Commercial Vehicle OBE,Physical,Physical
+BT FlatPack 02 - Freight Equipment,freight equipment information,BasSen02 - Commercial Vehicle OBE,Physical,Physical
+BT FlatPack 03 - Freight Equipment,freight equipment information,BasSen03 - Commercial Vehicle OBE,Physical,Physical
+BT FlatPack 04 - Freight Equipment,freight equipment information,BasSen04 - Commercial Vehicle OBE,Physical,Physical
+BT FlatPack 05 - Freight Equipment,freight equipment information,BasSen05 - Commercial Vehicle OBE,Physical,Physical
+BT FlatPack 06 - Freight Equipment,freight equipment information,BasSen06 - Commercial Vehicle OBE,Physical,Physical
+BT FlatPack 07 - Freight Equipment,freight equipment information,BasSen07 - Commercial Vehicle OBE,Physical,Physical
+BT FlatPack 08 - Freight Equipment,freight equipment information,BasSen08 - Commercial Vehicle OBE,Physical,Physical
+BT FlatPack 09 - Freight Equipment,freight equipment information,BasSen 09 - Commercial Vehicle OBE,Physical,Physical
+BT FlatPack 10 - Freight Equipment,freight equipment information,BasSen10 - Commercial Vehicle OBE,Physical,Physical
+BT FlatPack 11 - Freight Equipment,freight equipment information,BasSen11 - Commercial Vehicle OBE,Physical,Physical
+BT FlatPack 12 - Freight Equipment,freight equipment information,BasSen12 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 001 - Freight Equipment,freight equipment information,KPetrol Mon 001 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 002 - Freight Equipment,freight equipment information,KPetrol Mon 002 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 003 - Freight Equipment,freight equipment information,KPetrol Mon 003 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 004 - Freight Equipment,freight equipment information,KPetrol Mon 004 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 005 - Freight Equipment,freight equipment information,KPetrol Mon 005 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 006 - Freight Equipment,freight equipment information,KPetrol Mon 006 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 007 - Freight Equipment,freight equipment information,KPetrol Mon 007 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 008 - Freight Equipment,freight equipment information,KPetrol Mon 008 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 009 - Freight Equipment,freight equipment information,KPetrol Mon 009 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 010 - Freight Equipment,freight equipment information,KPetrol Mon 010 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 011 - Freight Equipment,freight equipment information,KPetrol Mon 011 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 012 - Freight Equipment,freight equipment information,KPetrol Mon 012 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 013 - Freight Equipment,freight equipment information,KPetrol Mon 013 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 014 - Freight Equipment,freight equipment information,KPetrol Mon 014 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 015 - Freight Equipment,freight equipment information,KPetrol Mon 015 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 016 - Freight Equipment,freight equipment information,KPetrol Mon 016 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 017 - Freight Equipment,freight equipment information,KPetrol Mon 017 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 018 - Freight Equipment,freight equipment information,KPetrol Mon 018 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 019 - Freight Equipment,freight equipment information,KPetrol Mon 019 - Commercial Vehicle OBE,Physical,Physical
+FuelContainer 020 - Freight Equipment,freight equipment information,KPetrol Mon 020 - Commercial Vehicle OBE,Physical,Physical
+CP Container 01 - Freight Equipment,freight equipment information,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CP Container 02 - Freight Equipment,freight equipment information,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CP Container 03 - Freight Equipment,freight equipment information,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CP Container 04 - Freight Equipment,freight equipment information,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CP Container 05 - Freight Equipment,freight equipment information,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+CP Container 06 - Freight Equipment,freight equipment information,Chao Phraya Imports Fleet and Freight Management Center,Physical,Physical
+KWP Carrier 001 - Freight Equipment,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Carrier 002 - Freight Equipment,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Carrier 003 - Freight Equipment,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Carrier 004 - Freight Equipment,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Carrier 005 - Freight Equipment,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Carrier 006 - Freight Equipment,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Carrier 007 - Freight Equipment,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Carrier 008 - Freight Equipment,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Carrier 009 - Freight Equipment,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KWP Carrier 010 - Freight Equipment,freight equipment information,Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Physical,Physical
+KlMo Cont 01 - Freight Equipment,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KlMo Cont 02 - Freight Equipment,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KlMo Cont 03 - Freight Equipment,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KlMo Cont 04 - Freight Equipment,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KlMo Cont 05 - Freight Equipment,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KlMo Cont 06 - Freight Equipment,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KlMo Cont 07 - Freight Equipment,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KlMo Cont 08 - Freight Equipment,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KlMo Cont 09 - Freight Equipment,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KlMo Cont 10 - Freight Equipment,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KlMo Cont 11 - Freight Equipment,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KlMo Cont 12 - Freight Equipment,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KlMo Cont 13 - Freight Equipment,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KlMo Cont 14 - Freight Equipment,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+KlMo Cont 15 - Freight Equipment,freight equipment information,Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Physical,Physical
+Ram Log x1 - Freight Equipment,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+Ram Log x2 - Freight Equipment,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+Ram Log x3 - Freight Equipment,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+Ram Log x4 - Freight Equipment,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+Ram Log x5 - Freight Equipment,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+Ram Log x6 - Freight Equipment,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+Ram Log x7 - Freight Equipment,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+Ram Log x8 - Freight Equipment,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+Ram Log x9 - Freight Equipment,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+Ram Log x10 - Freight Equipment,freight equipment information,Buri Ram Logistics Solutions Fleet and Freight Management Center,Physical,Physical
+BT FlatPack 01 - Freight Equipment,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BT FlatPack 02 - Freight Equipment,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BT FlatPack 03 - Freight Equipment,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BT FlatPack 04 - Freight Equipment,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BT FlatPack 05 - Freight Equipment,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BT FlatPack 06 - Freight Equipment,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BT FlatPack 07 - Freight Equipment,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BT FlatPack 08 - Freight Equipment,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BT FlatPack 09 - Freight Equipment,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BT FlatPack 10 - Freight Equipment,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BT FlatPack 11 - Freight Equipment,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+BT FlatPack 12 - Freight Equipment,freight equipment information,Bassac Traders Inc. Fleet and Freight Management Center,Physical,Physical
+FuelContainer 001 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 002 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 003 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 004 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 005 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 006 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 007 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 008 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 009 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 010 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 011 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 012 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 013 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 014 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 015 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 016 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 017 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 018 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 019 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical
+FuelContainer 020 - Freight Equipment,freight equipment information,Khorathidin Petroleum Fleet and Freight Management Center,Physical,Physical

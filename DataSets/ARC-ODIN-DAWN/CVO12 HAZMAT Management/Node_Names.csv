@@ -1,0 +1,156 @@
+NodeName,isCyber,isPhysical,isSocial,ArchitectureLayer
+Bangkok Emergency Management Center,1,1,0,Physical
+Pnom Pehn Emergency Management Center,1,1,0,Physical
+Khorathidin Regional Emergency Management Center,1,1,0,Physical
+Chao Phraya Imports Fleet and Freight Management Center,1,1,0,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,1,1,0,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,1,1,0,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,1,1,0,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,1,1,0,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,1,1,0,Physical
+CPI V01 EQ01 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V02 EQ02 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V03 EQ03 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V04 EQ04 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V05 EQ05 - Commercial Vehicle OBE,1,1,0,Physical
+CPI V06 EQ06 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 01 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 02 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 03 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 04 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 05 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 06 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 07 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 08 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 09 - Commercial Vehicle OBE,1,1,0,Physical
+KWP Sensor 10 - Commercial Vehicle OBE,1,1,0,Physical
+KM01 - Commercial Vehicle OBE,1,1,0,Physical
+KM02 - Commercial Vehicle OBE,1,1,0,Physical
+KM03 - Commercial Vehicle OBE,1,1,0,Physical
+KM04 - Commercial Vehicle OBE,1,1,0,Physical
+KM05 - Commercial Vehicle OBE,1,1,0,Physical
+KM06 - Commercial Vehicle OBE,1,1,0,Physical
+KM07 - Commercial Vehicle OBE,1,1,0,Physical
+KM08 - Commercial Vehicle OBE,1,1,0,Physical
+KM09 - Commercial Vehicle OBE,1,1,0,Physical
+KM10 - Commercial Vehicle OBE,1,1,0,Physical
+KM11 - Commercial Vehicle OBE,1,1,0,Physical
+KM12 - Commercial Vehicle OBE,1,1,0,Physical
+KM13 - Commercial Vehicle OBE,1,1,0,Physical
+KM14 - Commercial Vehicle OBE,1,1,0,Physical
+KM15 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0001 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0002 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0003 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0003 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0005 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0006 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0007 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0008 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0009 - Commercial Vehicle OBE,1,1,0,Physical
+BRLS0010 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen01 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen02 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen03 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen04 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen05 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen06 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen07 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen08 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen 09 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen10 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen11 - Commercial Vehicle OBE,1,1,0,Physical
+BasSen12 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 001 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 002 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 003 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 004 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 005 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 006 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 007 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 008 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 009 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 010 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 011 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 012 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 013 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 014 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 015 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 016 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 017 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 018 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 019 - Commercial Vehicle OBE,1,1,0,Physical
+KPetrol Mon 020 - Commercial Vehicle OBE,1,1,0,Physical
+CP Container 01 - Freight Equipment,0,1,0,Physical
+CP Container 02 - Freight Equipment,0,1,0,Physical
+CP Container 03 - Freight Equipment,0,1,0,Physical
+CP Container 04 - Freight Equipment,0,1,0,Physical
+CP Container 05 - Freight Equipment,0,1,0,Physical
+CP Container 06 - Freight Equipment,0,1,0,Physical
+KWP Carrier 001 - Freight Equipment,0,1,0,Physical
+KWP Carrier 002 - Freight Equipment,0,1,0,Physical
+KWP Carrier 003 - Freight Equipment,0,1,0,Physical
+KWP Carrier 004 - Freight Equipment,0,1,0,Physical
+KWP Carrier 005 - Freight Equipment,0,1,0,Physical
+KWP Carrier 006 - Freight Equipment,0,1,0,Physical
+KWP Carrier 007 - Freight Equipment,0,1,0,Physical
+KWP Carrier 008 - Freight Equipment,0,1,0,Physical
+KWP Carrier 009 - Freight Equipment,0,1,0,Physical
+KWP Carrier 010 - Freight Equipment,0,1,0,Physical
+KlMo Cont 01 - Freight Equipment,0,1,0,Physical
+KlMo Cont 02 - Freight Equipment,0,1,0,Physical
+KlMo Cont 03 - Freight Equipment,0,1,0,Physical
+KlMo Cont 04 - Freight Equipment,0,1,0,Physical
+KlMo Cont 05 - Freight Equipment,0,1,0,Physical
+KlMo Cont 06 - Freight Equipment,0,1,0,Physical
+KlMo Cont 07 - Freight Equipment,0,1,0,Physical
+KlMo Cont 08 - Freight Equipment,0,1,0,Physical
+KlMo Cont 09 - Freight Equipment,0,1,0,Physical
+KlMo Cont 10 - Freight Equipment,0,1,0,Physical
+KlMo Cont 11 - Freight Equipment,0,1,0,Physical
+KlMo Cont 12 - Freight Equipment,0,1,0,Physical
+KlMo Cont 13 - Freight Equipment,0,1,0,Physical
+KlMo Cont 14 - Freight Equipment,0,1,0,Physical
+KlMo Cont 15 - Freight Equipment,0,1,0,Physical
+Ram Log x1 - Freight Equipment,0,1,0,Physical
+Ram Log x2 - Freight Equipment,0,1,0,Physical
+Ram Log x3 - Freight Equipment,0,1,0,Physical
+Ram Log x4 - Freight Equipment,0,1,0,Physical
+Ram Log x5 - Freight Equipment,0,1,0,Physical
+Ram Log x6 - Freight Equipment,0,1,0,Physical
+Ram Log x7 - Freight Equipment,0,1,0,Physical
+Ram Log x8 - Freight Equipment,0,1,0,Physical
+Ram Log x9 - Freight Equipment,0,1,0,Physical
+Ram Log x10 - Freight Equipment,0,1,0,Physical
+BT FlatPack 01 - Freight Equipment,0,1,0,Physical
+BT FlatPack 02 - Freight Equipment,0,1,0,Physical
+BT FlatPack 03 - Freight Equipment,0,1,0,Physical
+BT FlatPack 04 - Freight Equipment,0,1,0,Physical
+BT FlatPack 05 - Freight Equipment,0,1,0,Physical
+BT FlatPack 06 - Freight Equipment,0,1,0,Physical
+BT FlatPack 07 - Freight Equipment,0,1,0,Physical
+BT FlatPack 08 - Freight Equipment,0,1,0,Physical
+BT FlatPack 09 - Freight Equipment,0,1,0,Physical
+BT FlatPack 10 - Freight Equipment,0,1,0,Physical
+BT FlatPack 11 - Freight Equipment,0,1,0,Physical
+BT FlatPack 12 - Freight Equipment,0,1,0,Physical
+FuelContainer 001 - Freight Equipment,0,1,0,Physical
+FuelContainer 002 - Freight Equipment,0,1,0,Physical
+FuelContainer 003 - Freight Equipment,0,1,0,Physical
+FuelContainer 004 - Freight Equipment,0,1,0,Physical
+FuelContainer 005 - Freight Equipment,0,1,0,Physical
+FuelContainer 006 - Freight Equipment,0,1,0,Physical
+FuelContainer 007 - Freight Equipment,0,1,0,Physical
+FuelContainer 008 - Freight Equipment,0,1,0,Physical
+FuelContainer 009 - Freight Equipment,0,1,0,Physical
+FuelContainer 010 - Freight Equipment,0,1,0,Physical
+FuelContainer 011 - Freight Equipment,0,1,0,Physical
+FuelContainer 012 - Freight Equipment,0,1,0,Physical
+FuelContainer 013 - Freight Equipment,0,1,0,Physical
+FuelContainer 014 - Freight Equipment,0,1,0,Physical
+FuelContainer 015 - Freight Equipment,0,1,0,Physical
+FuelContainer 016 - Freight Equipment,0,1,0,Physical
+FuelContainer 017 - Freight Equipment,0,1,0,Physical
+FuelContainer 018 - Freight Equipment,0,1,0,Physical
+FuelContainer 019 - Freight Equipment,0,1,0,Physical
+FuelContainer 020 - Freight Equipment,0,1,0,Physical

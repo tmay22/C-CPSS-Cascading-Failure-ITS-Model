@@ -1,0 +1,2748 @@
+ProfileName,LevelName,FlowName
+(None-Comm),Access,driver to fleet request
+(None-Comm),TransNet,driver to fleet request
+(None-Comm),Security,driver to fleet request
+(None-Comm),Mgmt,driver to fleet request
+(None-Data),Facilities,driver to fleet request
+(None-Data),ITS Application Entity,driver to fleet request
+(None-Data),Facilities,driver to fleet request
+(None-Data),ITS Application Entity,driver to fleet request
+(None-Data),Facilities,driver to fleet request
+(None-Data),ITS Application Entity,driver to fleet request
+(None-Data),Facilities,driver to fleet request
+(None-Data),ITS Application Entity,driver to fleet request
+I-M: Wireless SNMPv3/TLS,Security,driver to fleet request
+I-M: Wireless SNMPv3/TLS,TransNet,driver to fleet request
+I-M: Wireless SNMPv3/TLS,Access,driver to fleet request
+I-M: Wireless SNMPv3/TLS,TransNet,driver to fleet request
+I-M: Wireless SNMPv3/TLS,Security,driver to fleet request
+I-M: Wireless SNMPv3/TLS,Mgmt,driver to fleet request
+I-M: Wireless SNMPv3/TLS,Facilities,driver to fleet request
+I-M: Secure Wireless Internet (EU),TransNet,driver to fleet request
+I-M: Secure Wireless Internet (EU),Access,driver to fleet request
+I-M: Secure Wireless Internet (EU),TransNet,driver to fleet request
+I-M: Secure Wireless Internet (EU),Mgmt,driver to fleet request
+I-M: Secure Wireless Internet (EU),Security,driver to fleet request
+I-M: Secure Wireless Internet (ITS),TransNet,driver to fleet request
+I-M: Secure Wireless Internet (ITS),Security,driver to fleet request
+I-M: Secure Wireless Internet (ITS),Access,driver to fleet request
+I-M: Secure Wireless Internet (ITS),Mgmt,driver to fleet request
+I-M: Secure Wireless Internet (ITS),TransNet,driver to fleet request
+(None-Comm),Access,on-board safety data
+(None-Comm),TransNet,on-board safety data
+(None-Comm),Security,on-board safety data
+(None-Comm),Mgmt,on-board safety data
+(None-Comm),Access,on-board safety data
+(None-Comm),TransNet,on-board safety data
+(None-Comm),Security,on-board safety data
+(None-Comm),Mgmt,on-board safety data
+(None-Comm),Access,on-board safety data
+(None-Comm),TransNet,on-board safety data
+(None-Comm),Security,on-board safety data
+(None-Comm),Mgmt,on-board safety data
+(None-Comm),Access,on-board safety data
+(None-Comm),TransNet,on-board safety data
+(None-Comm),Security,on-board safety data
+(None-Comm),Mgmt,on-board safety data
+(None-Data),Facilities,on-board safety data
+(None-Data),ITS Application Entity,on-board safety data
+(None-Data),Facilities,on-board safety data
+(None-Data),ITS Application Entity,on-board safety data
+(None-Data),Facilities,on-board safety data
+(None-Data),ITS Application Entity,on-board safety data
+I-M: Wireless SNMPv3/TLS,Security,on-board safety data
+I-M: Wireless SNMPv3/TLS,TransNet,on-board safety data
+I-M: Wireless SNMPv3/TLS,Access,on-board safety data
+I-M: Wireless SNMPv3/TLS,TransNet,on-board safety data
+I-M: Wireless SNMPv3/TLS,Security,on-board safety data
+I-M: Wireless SNMPv3/TLS,Mgmt,on-board safety data
+I-M: Wireless SNMPv3/TLS,Facilities,on-board safety data
+I-M: Secure Wireless Internet (EU),TransNet,on-board safety data
+I-M: Secure Wireless Internet (EU),Access,on-board safety data
+I-M: Secure Wireless Internet (EU),TransNet,on-board safety data
+I-M: Secure Wireless Internet (EU),Mgmt,on-board safety data
+I-M: Secure Wireless Internet (EU),Security,on-board safety data
+I-M: Secure Wireless Internet (ITS),TransNet,on-board safety data
+I-M: Secure Wireless Internet (ITS),Security,on-board safety data
+I-M: Secure Wireless Internet (ITS),Access,on-board safety data
+I-M: Secure Wireless Internet (ITS),Mgmt,on-board safety data
+I-M: Secure Wireless Internet (ITS),TransNet,on-board safety data
+US: SAE J3067 (J2735 SE),ITS Application Entity,on-board safety data
+US: SAE J3067 (J2735 SE),Facilities,on-board safety data
+(None-Data),Facilities,on-board safety data
+(None-Data),ITS Application Entity,on-board safety data
+(None-Data),Facilities,on-board safety data
+(None-Data),ITS Application Entity,on-board safety data
+(None-Data),Facilities,on-board safety data
+(None-Data),ITS Application Entity,on-board safety data
+I-M: Wireless SNMPv3/TLS,Security,on-board safety data
+I-M: Wireless SNMPv3/TLS,TransNet,on-board safety data
+I-M: Wireless SNMPv3/TLS,Access,on-board safety data
+I-M: Wireless SNMPv3/TLS,TransNet,on-board safety data
+I-M: Wireless SNMPv3/TLS,Security,on-board safety data
+I-M: Wireless SNMPv3/TLS,Mgmt,on-board safety data
+I-M: Wireless SNMPv3/TLS,Facilities,on-board safety data
+US: SAE J3067 (J2735 SE),ITS Application Entity,on-board safety data
+US: SAE J3067 (J2735 SE),Facilities,on-board safety data
+V-X: Local Unicast Wireless (1609.2),Security,on-board safety data
+V-X: Local Unicast Wireless (1609.2),TransNet,on-board safety data
+V-X: Local Unicast Wireless (1609.2),Mgmt,on-board safety data
+V-X: Local Unicast Wireless (1609.2),Access,on-board safety data
+V-X: Local Unicast Wireless (EU),Mgmt,on-board safety data
+V-X: Local Unicast Wireless (EU),Access,on-board safety data
+V-X: Local Unicast Wireless (EU),Mgmt,on-board safety data
+V-X: Local Unicast Wireless (EU),TransNet,on-board safety data
+V-X: Local Unicast Wireless (EU),Security,on-board safety data
+(None-Comm),Access,on-board safety data
+(None-Comm),TransNet,on-board safety data
+(None-Comm),Security,on-board safety data
+(None-Comm),Mgmt,on-board safety data
+(None-Data),Facilities,on-board safety data
+(None-Data),ITS Application Entity,on-board safety data
+(None-Data),Facilities,on-board safety data
+(None-Data),ITS Application Entity,on-board safety data
+(None-Data),Facilities,on-board safety data
+(None-Data),ITS Application Entity,on-board safety data
+I-M: Wireless SNMPv3/TLS,Security,on-board safety data
+I-M: Wireless SNMPv3/TLS,TransNet,on-board safety data
+I-M: Wireless SNMPv3/TLS,Access,on-board safety data
+I-M: Wireless SNMPv3/TLS,TransNet,on-board safety data
+I-M: Wireless SNMPv3/TLS,Security,on-board safety data
+I-M: Wireless SNMPv3/TLS,Mgmt,on-board safety data
+I-M: Wireless SNMPv3/TLS,Facilities,on-board safety data
+I-M: Secure Wireless Internet (EU),TransNet,on-board safety data
+I-M: Secure Wireless Internet (EU),Access,on-board safety data
+I-M: Secure Wireless Internet (EU),TransNet,on-board safety data
+I-M: Secure Wireless Internet (EU),Mgmt,on-board safety data
+I-M: Secure Wireless Internet (EU),Security,on-board safety data
+I-M: Secure Wireless Internet (ITS),TransNet,on-board safety data
+I-M: Secure Wireless Internet (ITS),Security,on-board safety data
+I-M: Secure Wireless Internet (ITS),Access,on-board safety data
+I-M: Secure Wireless Internet (ITS),Mgmt,on-board safety data
+I-M: Secure Wireless Internet (ITS),TransNet,on-board safety data
+US: SAE J3067 (J2735 SE),ITS Application Entity,on-board safety data
+US: SAE J3067 (J2735 SE),Facilities,on-board safety data
+(None-Comm),Access,on-board safety data
+(None-Comm),TransNet,on-board safety data
+(None-Comm),Security,on-board safety data
+(None-Comm),Mgmt,on-board safety data
+(None-Data),Facilities,on-board safety data
+(None-Data),ITS Application Entity,on-board safety data
+(None-Data),Facilities,on-board safety data
+(None-Data),ITS Application Entity,on-board safety data
+(None-Data),Facilities,on-board safety data
+(None-Data),ITS Application Entity,on-board safety data
+C-C: NTCIP Messaging,TransNet,on-board safety data
+C-C: NTCIP Messaging,Security,on-board safety data
+C-C: NTCIP Messaging,TransNet,on-board safety data
+C-C: NTCIP Messaging,Mgmt,on-board safety data
+C-C: NTCIP Messaging,Mgmt,on-board safety data
+C-C: NTCIP Messaging,Facilities,on-board safety data
+C-C: NTCIP Messaging,Access,on-board safety data
+C-C: DATEX Messaging,Security,on-board safety data
+C-C: DATEX Messaging,Access,on-board safety data
+C-C: DATEX Messaging,Mgmt,on-board safety data
+C-C: DATEX Messaging,Mgmt,on-board safety data
+C-C: DATEX Messaging,TransNet,on-board safety data
+C-C: DATEX Messaging,TransNet,on-board safety data
+I-I: Secure Internet (ITS),TransNet,on-board safety data
+I-I: Secure Internet (ITS),Security,on-board safety data
+I-I: Secure Internet (ITS),Mgmt,on-board safety data
+I-I: Secure Internet (ITS),Access,on-board safety data
+I-I: Secure Internet (ITS),TransNet,on-board safety data
+US: SAE J3067 (J2735 SE),ITS Application Entity,on-board safety data
+US: SAE J3067 (J2735 SE),Facilities,on-board safety data
+(None-Comm),Access,on-board safety data
+(None-Comm),TransNet,on-board safety data
+(None-Comm),Security,on-board safety data
+(None-Comm),Mgmt,on-board safety data
+(None-Data),Facilities,on-board safety data
+(None-Data),ITS Application Entity,on-board safety data
+(None-Data),Facilities,on-board safety data
+(None-Data),ITS Application Entity,on-board safety data
+(None-Data),Facilities,on-board safety data
+(None-Data),ITS Application Entity,on-board safety data
+I-F: SNMPv1,Security,on-board safety data
+I-F: SNMPv1,Facilities,on-board safety data
+I-F: SNMPv1,Access,on-board safety data
+I-F: SNMPv1,TransNet,on-board safety data
+I-F: SNMPv1,Mgmt,on-board safety data
+I-F: SNMPv3/TLS,TransNet,on-board safety data
+I-F: SNMPv3/TLS,Security,on-board safety data
+I-F: SNMPv3/TLS,TransNet,on-board safety data
+I-F: SNMPv3/TLS,Security,on-board safety data
+I-F: SNMPv3/TLS,Access,on-board safety data
+I-F: SNMPv3/TLS,Facilities,on-board safety data
+I-F: SNMPv3/TLS,Mgmt,on-board safety data
+I-F: SNMPv1/TLS,Access,on-board safety data
+I-F: SNMPv1/TLS,Mgmt,on-board safety data
+I-F: SNMPv1/TLS,TransNet,on-board safety data
+I-F: SNMPv1/TLS,Facilities,on-board safety data
+I-F: SNMPv1/TLS,Security,on-board safety data
+I-F: SNMPv1/TLS,TransNet,on-board safety data
+C-C: DATEX Messaging,Security,on-board safety data
+C-C: DATEX Messaging,Access,on-board safety data
+C-C: DATEX Messaging,Mgmt,on-board safety data
+C-C: DATEX Messaging,Mgmt,on-board safety data
+C-C: DATEX Messaging,TransNet,on-board safety data
+C-C: DATEX Messaging,TransNet,on-board safety data
+I-I: Secure Internet (ITS),TransNet,on-board safety data
+I-I: Secure Internet (ITS),Security,on-board safety data
+I-I: Secure Internet (ITS),Mgmt,on-board safety data
+I-I: Secure Internet (ITS),Access,on-board safety data
+I-I: Secure Internet (ITS),TransNet,on-board safety data
+US: SAE J3067 (J2735 SE),ITS Application Entity,on-board safety data
+US: SAE J3067 (J2735 SE),Facilities,on-board safety data
+I-F: ODG-OCIT-O,Security,on-board safety data
+I-F: ODG-OCIT-O,Facilities,on-board safety data
+I-F: ODG-OCIT-O,TransNet,on-board safety data
+I-F: ODG-OCIT-O,Mgmt,on-board safety data
+I-F: ODG-OCIT-O,Access,on-board safety data
+I-F: UTMC,Security,on-board safety data
+I-F: UTMC,Mgmt,on-board safety data
+I-F: UTMC,Facilities,on-board safety data
+I-F: UTMC,TransNet,on-board safety data
+I-F: UTMC,TransNet,on-board safety data
+I-F: UTMC,Access,on-board safety data
+I-F: DMS and RWIS Comms,Access,on-board safety data
+I-F: DMS and RWIS Comms,Mgmt,on-board safety data
+I-F: DMS and RWIS Comms,Security,on-board safety data
+I-F: DMS and RWIS Comms,TransNet,on-board safety data
+I-F: DMS and RWIS Comms,Facilities,on-board safety data
+I-F: AU TRAFF Comms,Access,on-board safety data
+I-F: AU TRAFF Comms,TransNet,on-board safety data
+I-F: AU TRAFF Comms,Security,on-board safety data
+I-F: AU TRAFF Comms,TransNet,on-board safety data
+I-F: AU TRAFF Comms,Facilities,on-board safety data
+I-F: AU TRAFF Comms,Mgmt,on-board safety data
+(None-Comm),Access,on-board vehicle data
+(None-Comm),TransNet,on-board vehicle data
+(None-Comm),Security,on-board vehicle data
+(None-Comm),Mgmt,on-board vehicle data
+(None-Data),Facilities,on-board vehicle data
+(None-Data),ITS Application Entity,on-board vehicle data
+(None-Data),Facilities,on-board vehicle data
+(None-Data),ITS Application Entity,on-board vehicle data
+(None-Data),Facilities,on-board vehicle data
+(None-Data),ITS Application Entity,on-board vehicle data
+(None-Data),Facilities,on-board vehicle data
+(None-Data),ITS Application Entity,on-board vehicle data
+I-M: Wireless SNMPv3/TLS,Security,on-board vehicle data
+I-M: Wireless SNMPv3/TLS,TransNet,on-board vehicle data
+I-M: Wireless SNMPv3/TLS,Access,on-board vehicle data
+I-M: Wireless SNMPv3/TLS,TransNet,on-board vehicle data
+I-M: Wireless SNMPv3/TLS,Security,on-board vehicle data
+I-M: Wireless SNMPv3/TLS,Mgmt,on-board vehicle data
+I-M: Wireless SNMPv3/TLS,Facilities,on-board vehicle data
+I-M: Secure Wireless Internet (EU),TransNet,on-board vehicle data
+I-M: Secure Wireless Internet (EU),Access,on-board vehicle data
+I-M: Secure Wireless Internet (EU),TransNet,on-board vehicle data
+I-M: Secure Wireless Internet (EU),Mgmt,on-board vehicle data
+I-M: Secure Wireless Internet (EU),Security,on-board vehicle data
+I-M: Secure Wireless Internet (ITS),TransNet,on-board vehicle data
+I-M: Secure Wireless Internet (ITS),Security,on-board vehicle data
+I-M: Secure Wireless Internet (ITS),Access,on-board vehicle data
+I-M: Secure Wireless Internet (ITS),Mgmt,on-board vehicle data
+I-M: Secure Wireless Internet (ITS),TransNet,on-board vehicle data
+(None-Comm),Access,on-board vehicle data
+(None-Comm),TransNet,on-board vehicle data
+(None-Comm),Security,on-board vehicle data
+(None-Comm),Mgmt,on-board vehicle data
+(None-Data),Facilities,on-board vehicle data
+(None-Data),ITS Application Entity,on-board vehicle data
+(None-Data),Facilities,on-board vehicle data
+(None-Data),ITS Application Entity,on-board vehicle data
+(None-Data),Facilities,on-board vehicle data
+(None-Data),ITS Application Entity,on-board vehicle data
+(None-Data),Facilities,on-board vehicle data
+(None-Data),ITS Application Entity,on-board vehicle data
+I-M: Wireless SNMPv3/TLS,Security,on-board vehicle data
+I-M: Wireless SNMPv3/TLS,TransNet,on-board vehicle data
+I-M: Wireless SNMPv3/TLS,Access,on-board vehicle data
+I-M: Wireless SNMPv3/TLS,TransNet,on-board vehicle data
+I-M: Wireless SNMPv3/TLS,Security,on-board vehicle data
+I-M: Wireless SNMPv3/TLS,Mgmt,on-board vehicle data
+I-M: Wireless SNMPv3/TLS,Facilities,on-board vehicle data
+I-M: Secure Wireless Internet (EU),TransNet,on-board vehicle data
+I-M: Secure Wireless Internet (EU),Access,on-board vehicle data
+I-M: Secure Wireless Internet (EU),TransNet,on-board vehicle data
+I-M: Secure Wireless Internet (EU),Mgmt,on-board vehicle data
+I-M: Secure Wireless Internet (EU),Security,on-board vehicle data
+I-M: Secure Wireless Internet (ITS),TransNet,on-board vehicle data
+I-M: Secure Wireless Internet (ITS),Security,on-board vehicle data
+I-M: Secure Wireless Internet (ITS),Access,on-board vehicle data
+I-M: Secure Wireless Internet (ITS),Mgmt,on-board vehicle data
+I-M: Secure Wireless Internet (ITS),TransNet,on-board vehicle data
+(None-Comm),Access,trip log
+(None-Comm),TransNet,trip log
+(None-Comm),Security,trip log
+(None-Comm),Mgmt,trip log
+(None-Data),Facilities,trip log
+(None-Data),ITS Application Entity,trip log
+(None-Data),Facilities,trip log
+(None-Data),ITS Application Entity,trip log
+(None-Data),Facilities,trip log
+(None-Data),ITS Application Entity,trip log
+(None-Data),Facilities,trip log
+(None-Data),ITS Application Entity,trip log
+I-M: Wireless SNMPv3/TLS,Security,trip log
+I-M: Wireless SNMPv3/TLS,TransNet,trip log
+I-M: Wireless SNMPv3/TLS,Access,trip log
+I-M: Wireless SNMPv3/TLS,TransNet,trip log
+I-M: Wireless SNMPv3/TLS,Security,trip log
+I-M: Wireless SNMPv3/TLS,Mgmt,trip log
+I-M: Wireless SNMPv3/TLS,Facilities,trip log
+I-M: Secure Wireless Internet (EU),TransNet,trip log
+I-M: Secure Wireless Internet (EU),Access,trip log
+I-M: Secure Wireless Internet (EU),TransNet,trip log
+I-M: Secure Wireless Internet (EU),Mgmt,trip log
+I-M: Secure Wireless Internet (EU),Security,trip log
+I-M: Secure Wireless Internet (ITS),TransNet,trip log
+I-M: Secure Wireless Internet (ITS),Security,trip log
+I-M: Secure Wireless Internet (ITS),Access,trip log
+I-M: Secure Wireless Internet (ITS),Mgmt,trip log
+I-M: Secure Wireless Internet (ITS),TransNet,trip log
+Data for Distribution (TBD),ITS Application Entity,commercial vehicle location data
+(None-Comm),Access,commercial vehicle location data
+(None-Comm),TransNet,commercial vehicle location data
+(None-Comm),Security,commercial vehicle location data
+(None-Comm),Mgmt,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+US: SAE Other J2735,ITS Application Entity,commercial vehicle location data
+US: SAE Other J2735,Facilities,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Security,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,TransNet,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Access,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,TransNet,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Security,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Mgmt,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Facilities,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Access,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Mgmt,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Security,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Security,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Access,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Mgmt,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),TransNet,commercial vehicle location data
+Data for Distribution (TBD),ITS Application Entity,commercial vehicle location data
+(None-Comm),Access,commercial vehicle location data
+(None-Comm),TransNet,commercial vehicle location data
+(None-Comm),Security,commercial vehicle location data
+(None-Comm),Mgmt,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+US: SAE Other J2735,ITS Application Entity,commercial vehicle location data
+US: SAE Other J2735,Facilities,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Security,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,TransNet,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Access,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,TransNet,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Security,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Mgmt,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Facilities,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Access,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Mgmt,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Security,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Security,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Access,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Mgmt,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),TransNet,commercial vehicle location data
+(None-Comm),Access,commercial vehicle location data
+(None-Comm),TransNet,commercial vehicle location data
+(None-Comm),Security,commercial vehicle location data
+(None-Comm),Mgmt,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+C-C: NTCIP Messaging,TransNet,commercial vehicle location data
+C-C: NTCIP Messaging,Security,commercial vehicle location data
+C-C: NTCIP Messaging,TransNet,commercial vehicle location data
+C-C: NTCIP Messaging,Mgmt,commercial vehicle location data
+C-C: NTCIP Messaging,Mgmt,commercial vehicle location data
+C-C: NTCIP Messaging,Facilities,commercial vehicle location data
+C-C: NTCIP Messaging,Access,commercial vehicle location data
+C-C: DATEX Messaging,Security,commercial vehicle location data
+C-C: DATEX Messaging,Access,commercial vehicle location data
+C-C: DATEX Messaging,Mgmt,commercial vehicle location data
+C-C: DATEX Messaging,Mgmt,commercial vehicle location data
+C-C: DATEX Messaging,TransNet,commercial vehicle location data
+C-C: DATEX Messaging,TransNet,commercial vehicle location data
+I-I: Secure Internet (ITS),TransNet,commercial vehicle location data
+I-I: Secure Internet (ITS),Security,commercial vehicle location data
+I-I: Secure Internet (ITS),Mgmt,commercial vehicle location data
+I-I: Secure Internet (ITS),Access,commercial vehicle location data
+I-I: Secure Internet (ITS),TransNet,commercial vehicle location data
+OMG DDS,Access,commercial vehicle location data
+OMG DDS,Facilities,commercial vehicle location data
+OMG DDS,Facilities,commercial vehicle location data
+OMG DDS,Security,commercial vehicle location data
+OMG DDS,TransNet,commercial vehicle location data
+OMG DDS,TransNet,commercial vehicle location data
+OMG DDS,Mgmt,commercial vehicle location data
+OMG DDS,Facilities,commercial vehicle location data
+Apache Kafka,Facilities,commercial vehicle location data
+Apache Kafka,TransNet,commercial vehicle location data
+Apache Kafka,Facilities,commercial vehicle location data
+Apache Kafka,TransNet,commercial vehicle location data
+Apache Kafka,Access,commercial vehicle location data
+Apache Kafka,Security,commercial vehicle location data
+Apache Kafka,Mgmt,commercial vehicle location data
+OASIS AMQP,TransNet,commercial vehicle location data
+OASIS AMQP,Facilities,commercial vehicle location data
+OASIS AMQP,Mgmt,commercial vehicle location data
+OASIS AMQP,Access,commercial vehicle location data
+OASIS AMQP,Security,commercial vehicle location data
+OASIS AMQP,TransNet,commercial vehicle location data
+OASIS MQTT,Mgmt,commercial vehicle location data
+OASIS MQTT,Access,commercial vehicle location data
+OASIS MQTT,TransNet,commercial vehicle location data
+OASIS MQTT,Security,commercial vehicle location data
+OASIS MQTT,TransNet,commercial vehicle location data
+OASIS MQTT,Facilities,commercial vehicle location data
+OASIS MQTT,Security,commercial vehicle location data
+(None-Comm),Access,cv driver safety status
+(None-Comm),TransNet,cv driver safety status
+(None-Comm),Security,cv driver safety status
+(None-Comm),Mgmt,cv driver safety status
+(None-Data),Facilities,cv driver safety status
+(None-Data),ITS Application Entity,cv driver safety status
+(None-Data),Facilities,cv driver safety status
+(None-Data),ITS Application Entity,cv driver safety status
+(None-Data),Facilities,cv driver safety status
+(None-Data),ITS Application Entity,cv driver safety status
+(None-Data),Facilities,cv driver safety status
+(None-Data),ITS Application Entity,cv driver safety status
+I-M: Wireless SNMPv3/TLS,Security,cv driver safety status
+I-M: Wireless SNMPv3/TLS,TransNet,cv driver safety status
+I-M: Wireless SNMPv3/TLS,Access,cv driver safety status
+I-M: Wireless SNMPv3/TLS,TransNet,cv driver safety status
+I-M: Wireless SNMPv3/TLS,Security,cv driver safety status
+I-M: Wireless SNMPv3/TLS,Mgmt,cv driver safety status
+I-M: Wireless SNMPv3/TLS,Facilities,cv driver safety status
+I-M: Secure Wireless Internet (EU),TransNet,cv driver safety status
+I-M: Secure Wireless Internet (EU),Access,cv driver safety status
+I-M: Secure Wireless Internet (EU),TransNet,cv driver safety status
+I-M: Secure Wireless Internet (EU),Mgmt,cv driver safety status
+I-M: Secure Wireless Internet (EU),Security,cv driver safety status
+I-M: Secure Wireless Internet (ITS),TransNet,cv driver safety status
+I-M: Secure Wireless Internet (ITS),Security,cv driver safety status
+I-M: Secure Wireless Internet (ITS),Access,cv driver safety status
+I-M: Secure Wireless Internet (ITS),Mgmt,cv driver safety status
+I-M: Secure Wireless Internet (ITS),TransNet,cv driver safety status
+(None-Comm),Access,fleet to driver update
+(None-Comm),TransNet,fleet to driver update
+(None-Comm),Security,fleet to driver update
+(None-Comm),Mgmt,fleet to driver update
+(None-Data),Facilities,fleet to driver update
+(None-Data),ITS Application Entity,fleet to driver update
+(None-Data),Facilities,fleet to driver update
+(None-Data),ITS Application Entity,fleet to driver update
+(None-Data),Facilities,fleet to driver update
+(None-Data),ITS Application Entity,fleet to driver update
+(None-Data),Facilities,fleet to driver update
+(None-Data),ITS Application Entity,fleet to driver update
+I-M: Wireless SNMPv3/TLS,Security,fleet to driver update
+I-M: Wireless SNMPv3/TLS,TransNet,fleet to driver update
+I-M: Wireless SNMPv3/TLS,Access,fleet to driver update
+I-M: Wireless SNMPv3/TLS,TransNet,fleet to driver update
+I-M: Wireless SNMPv3/TLS,Security,fleet to driver update
+I-M: Wireless SNMPv3/TLS,Mgmt,fleet to driver update
+I-M: Wireless SNMPv3/TLS,Facilities,fleet to driver update
+I-M: Secure Wireless Internet (EU),TransNet,fleet to driver update
+I-M: Secure Wireless Internet (EU),Access,fleet to driver update
+I-M: Secure Wireless Internet (EU),TransNet,fleet to driver update
+I-M: Secure Wireless Internet (EU),Mgmt,fleet to driver update
+I-M: Secure Wireless Internet (EU),Security,fleet to driver update
+I-M: Secure Wireless Internet (ITS),TransNet,fleet to driver update
+I-M: Secure Wireless Internet (ITS),Security,fleet to driver update
+I-M: Secure Wireless Internet (ITS),Access,fleet to driver update
+I-M: Secure Wireless Internet (ITS),Mgmt,fleet to driver update
+I-M: Secure Wireless Internet (ITS),TransNet,fleet to driver update
+(None-Comm),Access,cv repair status
+(None-Comm),TransNet,cv repair status
+(None-Comm),Security,cv repair status
+(None-Comm),Mgmt,cv repair status
+(None-Data),Facilities,cv repair status
+(None-Data),ITS Application Entity,cv repair status
+(None-Data),Facilities,cv repair status
+(None-Data),ITS Application Entity,cv repair status
+(None-Data),Facilities,cv repair status
+(None-Data),ITS Application Entity,cv repair status
+(None-Data),Facilities,cv repair status
+(None-Data),ITS Application Entity,cv repair status
+C-C: NTCIP Messaging,TransNet,cv repair status
+C-C: NTCIP Messaging,Security,cv repair status
+C-C: NTCIP Messaging,TransNet,cv repair status
+C-C: NTCIP Messaging,Mgmt,cv repair status
+C-C: NTCIP Messaging,Mgmt,cv repair status
+C-C: NTCIP Messaging,Facilities,cv repair status
+C-C: NTCIP Messaging,Access,cv repair status
+C-C: DATEX Messaging,Security,cv repair status
+C-C: DATEX Messaging,Access,cv repair status
+C-C: DATEX Messaging,Mgmt,cv repair status
+C-C: DATEX Messaging,Mgmt,cv repair status
+C-C: DATEX Messaging,TransNet,cv repair status
+C-C: DATEX Messaging,TransNet,cv repair status
+I-I: Secure Internet (ITS),TransNet,cv repair status
+I-I: Secure Internet (ITS),Security,cv repair status
+I-I: Secure Internet (ITS),Mgmt,cv repair status
+I-I: Secure Internet (ITS),Access,cv repair status
+I-I: Secure Internet (ITS),TransNet,cv repair status
+OMG DDS,Access,cv repair status
+OMG DDS,Facilities,cv repair status
+OMG DDS,Facilities,cv repair status
+OMG DDS,Security,cv repair status
+OMG DDS,TransNet,cv repair status
+OMG DDS,TransNet,cv repair status
+OMG DDS,Mgmt,cv repair status
+OMG DDS,Facilities,cv repair status
+Apache Kafka,Facilities,cv repair status
+Apache Kafka,TransNet,cv repair status
+Apache Kafka,Facilities,cv repair status
+Apache Kafka,TransNet,cv repair status
+Apache Kafka,Access,cv repair status
+Apache Kafka,Security,cv repair status
+Apache Kafka,Mgmt,cv repair status
+OASIS AMQP,TransNet,cv repair status
+OASIS AMQP,Facilities,cv repair status
+OASIS AMQP,Mgmt,cv repair status
+OASIS AMQP,Access,cv repair status
+OASIS AMQP,Security,cv repair status
+OASIS AMQP,TransNet,cv repair status
+OASIS MQTT,Mgmt,cv repair status
+OASIS MQTT,Access,cv repair status
+OASIS MQTT,TransNet,cv repair status
+OASIS MQTT,Security,cv repair status
+OASIS MQTT,TransNet,cv repair status
+OASIS MQTT,Facilities,cv repair status
+OASIS MQTT,Security,cv repair status
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+(None-Comm),Access,road network conditions
+(None-Comm),TransNet,road network conditions
+(None-Comm),Security,road network conditions
+(None-Comm),Mgmt,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Security,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Facilities,road network conditions
+C-C: NTCIP Messaging,Access,road network conditions
+US: TMDD,Facilities,road network conditions
+US: TMDD,ITS Application Entity,road network conditions
+EU: DATEX,Facilities,road network conditions
+EU: DATEX,ITS Application Entity,road network conditions
+C-C: DATEX Messaging,Security,road network conditions
+C-C: DATEX Messaging,Access,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+I-I: Secure Internet (ITS),Security,road network conditions
+I-I: Secure Internet (ITS),Mgmt,road network conditions
+I-I: Secure Internet (ITS),Access,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+OMG DDS,Access,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Security,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,Mgmt,road network conditions
+OMG DDS,Facilities,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Access,road network conditions
+Apache Kafka,Security,road network conditions
+Apache Kafka,Mgmt,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS AMQP,Facilities,road network conditions
+OASIS AMQP,Mgmt,road network conditions
+OASIS AMQP,Access,road network conditions
+OASIS AMQP,Security,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS MQTT,Mgmt,road network conditions
+OASIS MQTT,Access,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Security,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Facilities,road network conditions
+OASIS MQTT,Security,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+(None-Comm),Access,road network conditions
+(None-Comm),TransNet,road network conditions
+(None-Comm),Security,road network conditions
+(None-Comm),Mgmt,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Security,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Facilities,road network conditions
+C-C: NTCIP Messaging,Access,road network conditions
+US: TMDD,Facilities,road network conditions
+US: TMDD,ITS Application Entity,road network conditions
+EU: DATEX,Facilities,road network conditions
+EU: DATEX,ITS Application Entity,road network conditions
+C-C: DATEX Messaging,Security,road network conditions
+C-C: DATEX Messaging,Access,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+I-I: Secure Internet (ITS),Security,road network conditions
+I-I: Secure Internet (ITS),Mgmt,road network conditions
+I-I: Secure Internet (ITS),Access,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+OMG DDS,Access,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Security,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,Mgmt,road network conditions
+OMG DDS,Facilities,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Access,road network conditions
+Apache Kafka,Security,road network conditions
+Apache Kafka,Mgmt,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS AMQP,Facilities,road network conditions
+OASIS AMQP,Mgmt,road network conditions
+OASIS AMQP,Access,road network conditions
+OASIS AMQP,Security,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS MQTT,Mgmt,road network conditions
+OASIS MQTT,Access,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Security,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Facilities,road network conditions
+OASIS MQTT,Security,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+(None-Comm),Access,road network conditions
+(None-Comm),TransNet,road network conditions
+(None-Comm),Security,road network conditions
+(None-Comm),Mgmt,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Security,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Facilities,road network conditions
+C-C: NTCIP Messaging,Access,road network conditions
+US: TMDD,Facilities,road network conditions
+US: TMDD,ITS Application Entity,road network conditions
+EU: DATEX,Facilities,road network conditions
+EU: DATEX,ITS Application Entity,road network conditions
+C-C: DATEX Messaging,Security,road network conditions
+C-C: DATEX Messaging,Access,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+I-I: Secure Internet (ITS),Security,road network conditions
+I-I: Secure Internet (ITS),Mgmt,road network conditions
+I-I: Secure Internet (ITS),Access,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+OMG DDS,Access,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Security,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,Mgmt,road network conditions
+OMG DDS,Facilities,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Access,road network conditions
+Apache Kafka,Security,road network conditions
+Apache Kafka,Mgmt,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS AMQP,Facilities,road network conditions
+OASIS AMQP,Mgmt,road network conditions
+OASIS AMQP,Access,road network conditions
+OASIS AMQP,Security,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS MQTT,Mgmt,road network conditions
+OASIS MQTT,Access,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Security,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Facilities,road network conditions
+OASIS MQTT,Security,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+(None-Comm),Access,road network conditions
+(None-Comm),TransNet,road network conditions
+(None-Comm),Security,road network conditions
+(None-Comm),Mgmt,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Security,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Facilities,road network conditions
+C-C: NTCIP Messaging,Access,road network conditions
+US: TMDD,Facilities,road network conditions
+US: TMDD,ITS Application Entity,road network conditions
+EU: DATEX,Facilities,road network conditions
+EU: DATEX,ITS Application Entity,road network conditions
+C-C: DATEX Messaging,Security,road network conditions
+C-C: DATEX Messaging,Access,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+I-I: Secure Internet (ITS),Security,road network conditions
+I-I: Secure Internet (ITS),Mgmt,road network conditions
+I-I: Secure Internet (ITS),Access,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+OMG DDS,Access,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Security,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,Mgmt,road network conditions
+OMG DDS,Facilities,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Access,road network conditions
+Apache Kafka,Security,road network conditions
+Apache Kafka,Mgmt,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS AMQP,Facilities,road network conditions
+OASIS AMQP,Mgmt,road network conditions
+OASIS AMQP,Access,road network conditions
+OASIS AMQP,Security,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS MQTT,Mgmt,road network conditions
+OASIS MQTT,Access,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Security,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Facilities,road network conditions
+OASIS MQTT,Security,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+(None-Comm),Access,road network conditions
+(None-Comm),TransNet,road network conditions
+(None-Comm),Security,road network conditions
+(None-Comm),Mgmt,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Security,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Facilities,road network conditions
+C-C: NTCIP Messaging,Access,road network conditions
+US: TMDD,Facilities,road network conditions
+US: TMDD,ITS Application Entity,road network conditions
+EU: DATEX,Facilities,road network conditions
+EU: DATEX,ITS Application Entity,road network conditions
+C-C: DATEX Messaging,Security,road network conditions
+C-C: DATEX Messaging,Access,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+I-I: Secure Internet (ITS),Security,road network conditions
+I-I: Secure Internet (ITS),Mgmt,road network conditions
+I-I: Secure Internet (ITS),Access,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+OMG DDS,Access,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Security,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,Mgmt,road network conditions
+OMG DDS,Facilities,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Access,road network conditions
+Apache Kafka,Security,road network conditions
+Apache Kafka,Mgmt,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS AMQP,Facilities,road network conditions
+OASIS AMQP,Mgmt,road network conditions
+OASIS AMQP,Access,road network conditions
+OASIS AMQP,Security,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS MQTT,Mgmt,road network conditions
+OASIS MQTT,Access,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Security,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Facilities,road network conditions
+OASIS MQTT,Security,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+(None-Comm),Access,road network conditions
+(None-Comm),TransNet,road network conditions
+(None-Comm),Security,road network conditions
+(None-Comm),Mgmt,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Security,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Facilities,road network conditions
+C-C: NTCIP Messaging,Access,road network conditions
+US: TMDD,Facilities,road network conditions
+US: TMDD,ITS Application Entity,road network conditions
+EU: DATEX,Facilities,road network conditions
+EU: DATEX,ITS Application Entity,road network conditions
+C-C: DATEX Messaging,Security,road network conditions
+C-C: DATEX Messaging,Access,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+I-I: Secure Internet (ITS),Security,road network conditions
+I-I: Secure Internet (ITS),Mgmt,road network conditions
+I-I: Secure Internet (ITS),Access,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+OMG DDS,Access,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Security,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,Mgmt,road network conditions
+OMG DDS,Facilities,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Access,road network conditions
+Apache Kafka,Security,road network conditions
+Apache Kafka,Mgmt,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS AMQP,Facilities,road network conditions
+OASIS AMQP,Mgmt,road network conditions
+OASIS AMQP,Access,road network conditions
+OASIS AMQP,Security,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS MQTT,Mgmt,road network conditions
+OASIS MQTT,Access,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Security,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Facilities,road network conditions
+OASIS MQTT,Security,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+(None-Comm),Access,road network conditions
+(None-Comm),TransNet,road network conditions
+(None-Comm),Security,road network conditions
+(None-Comm),Mgmt,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Security,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Facilities,road network conditions
+C-C: NTCIP Messaging,Access,road network conditions
+US: TMDD,Facilities,road network conditions
+US: TMDD,ITS Application Entity,road network conditions
+EU: DATEX,Facilities,road network conditions
+EU: DATEX,ITS Application Entity,road network conditions
+C-C: DATEX Messaging,Security,road network conditions
+C-C: DATEX Messaging,Access,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+I-I: Secure Internet (ITS),Security,road network conditions
+I-I: Secure Internet (ITS),Mgmt,road network conditions
+I-I: Secure Internet (ITS),Access,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+OMG DDS,Access,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Security,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,Mgmt,road network conditions
+OMG DDS,Facilities,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Access,road network conditions
+Apache Kafka,Security,road network conditions
+Apache Kafka,Mgmt,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS AMQP,Facilities,road network conditions
+OASIS AMQP,Mgmt,road network conditions
+OASIS AMQP,Access,road network conditions
+OASIS AMQP,Security,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS MQTT,Mgmt,road network conditions
+OASIS MQTT,Access,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Security,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Facilities,road network conditions
+OASIS MQTT,Security,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+(None-Comm),Access,road network conditions
+(None-Comm),TransNet,road network conditions
+(None-Comm),Security,road network conditions
+(None-Comm),Mgmt,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Security,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Facilities,road network conditions
+C-C: NTCIP Messaging,Access,road network conditions
+US: TMDD,Facilities,road network conditions
+US: TMDD,ITS Application Entity,road network conditions
+EU: DATEX,Facilities,road network conditions
+EU: DATEX,ITS Application Entity,road network conditions
+C-C: DATEX Messaging,Security,road network conditions
+C-C: DATEX Messaging,Access,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+I-I: Secure Internet (ITS),Security,road network conditions
+I-I: Secure Internet (ITS),Mgmt,road network conditions
+I-I: Secure Internet (ITS),Access,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+OMG DDS,Access,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Security,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,Mgmt,road network conditions
+OMG DDS,Facilities,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Access,road network conditions
+Apache Kafka,Security,road network conditions
+Apache Kafka,Mgmt,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS AMQP,Facilities,road network conditions
+OASIS AMQP,Mgmt,road network conditions
+OASIS AMQP,Access,road network conditions
+OASIS AMQP,Security,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS MQTT,Mgmt,road network conditions
+OASIS MQTT,Access,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Security,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Facilities,road network conditions
+OASIS MQTT,Security,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+(None-Comm),Access,road network conditions
+(None-Comm),TransNet,road network conditions
+(None-Comm),Security,road network conditions
+(None-Comm),Mgmt,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Security,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Facilities,road network conditions
+C-C: NTCIP Messaging,Access,road network conditions
+US: TMDD,Facilities,road network conditions
+US: TMDD,ITS Application Entity,road network conditions
+EU: DATEX,Facilities,road network conditions
+EU: DATEX,ITS Application Entity,road network conditions
+C-C: DATEX Messaging,Security,road network conditions
+C-C: DATEX Messaging,Access,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+I-I: Secure Internet (ITS),Security,road network conditions
+I-I: Secure Internet (ITS),Mgmt,road network conditions
+I-I: Secure Internet (ITS),Access,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+OMG DDS,Access,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Security,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,Mgmt,road network conditions
+OMG DDS,Facilities,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Access,road network conditions
+Apache Kafka,Security,road network conditions
+Apache Kafka,Mgmt,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS AMQP,Facilities,road network conditions
+OASIS AMQP,Mgmt,road network conditions
+OASIS AMQP,Access,road network conditions
+OASIS AMQP,Security,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS MQTT,Mgmt,road network conditions
+OASIS MQTT,Access,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Security,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Facilities,road network conditions
+OASIS MQTT,Security,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+(None-Comm),Access,road network conditions
+(None-Comm),TransNet,road network conditions
+(None-Comm),Security,road network conditions
+(None-Comm),Mgmt,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Security,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Facilities,road network conditions
+C-C: NTCIP Messaging,Access,road network conditions
+US: TMDD,Facilities,road network conditions
+US: TMDD,ITS Application Entity,road network conditions
+EU: DATEX,Facilities,road network conditions
+EU: DATEX,ITS Application Entity,road network conditions
+C-C: DATEX Messaging,Security,road network conditions
+C-C: DATEX Messaging,Access,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+I-I: Secure Internet (ITS),Security,road network conditions
+I-I: Secure Internet (ITS),Mgmt,road network conditions
+I-I: Secure Internet (ITS),Access,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+OMG DDS,Access,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Security,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,Mgmt,road network conditions
+OMG DDS,Facilities,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Access,road network conditions
+Apache Kafka,Security,road network conditions
+Apache Kafka,Mgmt,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS AMQP,Facilities,road network conditions
+OASIS AMQP,Mgmt,road network conditions
+OASIS AMQP,Access,road network conditions
+OASIS AMQP,Security,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS MQTT,Mgmt,road network conditions
+OASIS MQTT,Access,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Security,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Facilities,road network conditions
+OASIS MQTT,Security,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+(None-Comm),Access,road network conditions
+(None-Comm),TransNet,road network conditions
+(None-Comm),Security,road network conditions
+(None-Comm),Mgmt,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Security,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Facilities,road network conditions
+C-C: NTCIP Messaging,Access,road network conditions
+US: TMDD,Facilities,road network conditions
+US: TMDD,ITS Application Entity,road network conditions
+EU: DATEX,Facilities,road network conditions
+EU: DATEX,ITS Application Entity,road network conditions
+C-C: DATEX Messaging,Security,road network conditions
+C-C: DATEX Messaging,Access,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+I-I: Secure Internet (ITS),Security,road network conditions
+I-I: Secure Internet (ITS),Mgmt,road network conditions
+I-I: Secure Internet (ITS),Access,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+OMG DDS,Access,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Security,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,Mgmt,road network conditions
+OMG DDS,Facilities,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Access,road network conditions
+Apache Kafka,Security,road network conditions
+Apache Kafka,Mgmt,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS AMQP,Facilities,road network conditions
+OASIS AMQP,Mgmt,road network conditions
+OASIS AMQP,Access,road network conditions
+OASIS AMQP,Security,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS MQTT,Mgmt,road network conditions
+OASIS MQTT,Access,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Security,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Facilities,road network conditions
+OASIS MQTT,Security,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+(None-Comm),Access,road network conditions
+(None-Comm),TransNet,road network conditions
+(None-Comm),Security,road network conditions
+(None-Comm),Mgmt,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Security,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Facilities,road network conditions
+C-C: NTCIP Messaging,Access,road network conditions
+US: TMDD,Facilities,road network conditions
+US: TMDD,ITS Application Entity,road network conditions
+EU: DATEX,Facilities,road network conditions
+EU: DATEX,ITS Application Entity,road network conditions
+C-C: DATEX Messaging,Security,road network conditions
+C-C: DATEX Messaging,Access,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+I-I: Secure Internet (ITS),Security,road network conditions
+I-I: Secure Internet (ITS),Mgmt,road network conditions
+I-I: Secure Internet (ITS),Access,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+OMG DDS,Access,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Security,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,Mgmt,road network conditions
+OMG DDS,Facilities,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Access,road network conditions
+Apache Kafka,Security,road network conditions
+Apache Kafka,Mgmt,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS AMQP,Facilities,road network conditions
+OASIS AMQP,Mgmt,road network conditions
+OASIS AMQP,Access,road network conditions
+OASIS AMQP,Security,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS MQTT,Mgmt,road network conditions
+OASIS MQTT,Access,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Security,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Facilities,road network conditions
+OASIS MQTT,Security,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+Data for Distribution (TBD),ITS Application Entity,road network conditions
+(None-Comm),Access,road network conditions
+(None-Comm),TransNet,road network conditions
+(None-Comm),Security,road network conditions
+(None-Comm),Mgmt,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+(None-Data),Facilities,road network conditions
+(None-Data),ITS Application Entity,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Security,road network conditions
+C-C: NTCIP Messaging,TransNet,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Mgmt,road network conditions
+C-C: NTCIP Messaging,Facilities,road network conditions
+C-C: NTCIP Messaging,Access,road network conditions
+US: TMDD,Facilities,road network conditions
+US: TMDD,ITS Application Entity,road network conditions
+EU: DATEX,Facilities,road network conditions
+EU: DATEX,ITS Application Entity,road network conditions
+C-C: DATEX Messaging,Security,road network conditions
+C-C: DATEX Messaging,Access,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,Mgmt,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+C-C: DATEX Messaging,TransNet,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+I-I: Secure Internet (ITS),Security,road network conditions
+I-I: Secure Internet (ITS),Mgmt,road network conditions
+I-I: Secure Internet (ITS),Access,road network conditions
+I-I: Secure Internet (ITS),TransNet,road network conditions
+OMG DDS,Access,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Facilities,road network conditions
+OMG DDS,Security,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,TransNet,road network conditions
+OMG DDS,Mgmt,road network conditions
+OMG DDS,Facilities,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Facilities,road network conditions
+Apache Kafka,TransNet,road network conditions
+Apache Kafka,Access,road network conditions
+Apache Kafka,Security,road network conditions
+Apache Kafka,Mgmt,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS AMQP,Facilities,road network conditions
+OASIS AMQP,Mgmt,road network conditions
+OASIS AMQP,Access,road network conditions
+OASIS AMQP,Security,road network conditions
+OASIS AMQP,TransNet,road network conditions
+OASIS MQTT,Mgmt,road network conditions
+OASIS MQTT,Access,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Security,road network conditions
+OASIS MQTT,TransNet,road network conditions
+OASIS MQTT,Facilities,road network conditions
+OASIS MQTT,Security,road network conditions
+Data for Distribution (TBD),ITS Application Entity,incident information for public
+Data for Distribution (TBD),ITS Application Entity,incident information for public
+(None-Comm),Access,incident information for public
+(None-Comm),TransNet,incident information for public
+(None-Comm),Security,incident information for public
+(None-Comm),Mgmt,incident information for public
+(None-Data),Facilities,incident information for public
+(None-Data),ITS Application Entity,incident information for public
+(None-Data),Facilities,incident information for public
+(None-Data),ITS Application Entity,incident information for public
+C-C: NTCIP Messaging,TransNet,incident information for public
+C-C: NTCIP Messaging,Security,incident information for public
+C-C: NTCIP Messaging,TransNet,incident information for public
+C-C: NTCIP Messaging,Mgmt,incident information for public
+C-C: NTCIP Messaging,Mgmt,incident information for public
+C-C: NTCIP Messaging,Facilities,incident information for public
+C-C: NTCIP Messaging,Access,incident information for public
+US: TMDD,Facilities,incident information for public
+US: TMDD,ITS Application Entity,incident information for public
+EU: DATEX,Facilities,incident information for public
+EU: DATEX,ITS Application Entity,incident information for public
+C-C: DATEX Messaging,Security,incident information for public
+C-C: DATEX Messaging,Access,incident information for public
+C-C: DATEX Messaging,Mgmt,incident information for public
+C-C: DATEX Messaging,Mgmt,incident information for public
+C-C: DATEX Messaging,TransNet,incident information for public
+C-C: DATEX Messaging,TransNet,incident information for public
+I-I: Secure Internet (ITS),TransNet,incident information for public
+I-I: Secure Internet (ITS),Security,incident information for public
+I-I: Secure Internet (ITS),Mgmt,incident information for public
+I-I: Secure Internet (ITS),Access,incident information for public
+I-I: Secure Internet (ITS),TransNet,incident information for public
+OMG DDS,Access,incident information for public
+OMG DDS,Facilities,incident information for public
+OMG DDS,Facilities,incident information for public
+OMG DDS,Security,incident information for public
+OMG DDS,TransNet,incident information for public
+OMG DDS,TransNet,incident information for public
+OMG DDS,Mgmt,incident information for public
+OMG DDS,Facilities,incident information for public
+Apache Kafka,Facilities,incident information for public
+Apache Kafka,TransNet,incident information for public
+Apache Kafka,Facilities,incident information for public
+Apache Kafka,TransNet,incident information for public
+Apache Kafka,Access,incident information for public
+Apache Kafka,Security,incident information for public
+Apache Kafka,Mgmt,incident information for public
+OASIS AMQP,TransNet,incident information for public
+OASIS AMQP,Facilities,incident information for public
+OASIS AMQP,Mgmt,incident information for public
+OASIS AMQP,Access,incident information for public
+OASIS AMQP,Security,incident information for public
+OASIS AMQP,TransNet,incident information for public
+OASIS MQTT,Mgmt,incident information for public
+OASIS MQTT,Access,incident information for public
+OASIS MQTT,TransNet,incident information for public
+OASIS MQTT,Security,incident information for public
+OASIS MQTT,TransNet,incident information for public
+OASIS MQTT,Facilities,incident information for public
+OASIS MQTT,Security,incident information for public
+Data for Distribution (TBD),ITS Application Entity,incident information for public
+Data for Distribution (TBD),ITS Application Entity,incident information for public
+(None-Comm),Access,incident information for public
+(None-Comm),TransNet,incident information for public
+(None-Comm),Security,incident information for public
+(None-Comm),Mgmt,incident information for public
+(None-Data),Facilities,incident information for public
+(None-Data),ITS Application Entity,incident information for public
+(None-Data),Facilities,incident information for public
+(None-Data),ITS Application Entity,incident information for public
+C-C: NTCIP Messaging,TransNet,incident information for public
+C-C: NTCIP Messaging,Security,incident information for public
+C-C: NTCIP Messaging,TransNet,incident information for public
+C-C: NTCIP Messaging,Mgmt,incident information for public
+C-C: NTCIP Messaging,Mgmt,incident information for public
+C-C: NTCIP Messaging,Facilities,incident information for public
+C-C: NTCIP Messaging,Access,incident information for public
+US: TMDD,Facilities,incident information for public
+US: TMDD,ITS Application Entity,incident information for public
+EU: DATEX,Facilities,incident information for public
+EU: DATEX,ITS Application Entity,incident information for public
+C-C: DATEX Messaging,Security,incident information for public
+C-C: DATEX Messaging,Access,incident information for public
+C-C: DATEX Messaging,Mgmt,incident information for public
+C-C: DATEX Messaging,Mgmt,incident information for public
+C-C: DATEX Messaging,TransNet,incident information for public
+C-C: DATEX Messaging,TransNet,incident information for public
+I-I: Secure Internet (ITS),TransNet,incident information for public
+I-I: Secure Internet (ITS),Security,incident information for public
+I-I: Secure Internet (ITS),Mgmt,incident information for public
+I-I: Secure Internet (ITS),Access,incident information for public
+I-I: Secure Internet (ITS),TransNet,incident information for public
+OMG DDS,Access,incident information for public
+OMG DDS,Facilities,incident information for public
+OMG DDS,Facilities,incident information for public
+OMG DDS,Security,incident information for public
+OMG DDS,TransNet,incident information for public
+OMG DDS,TransNet,incident information for public
+OMG DDS,Mgmt,incident information for public
+OMG DDS,Facilities,incident information for public
+Apache Kafka,Facilities,incident information for public
+Apache Kafka,TransNet,incident information for public
+Apache Kafka,Facilities,incident information for public
+Apache Kafka,TransNet,incident information for public
+Apache Kafka,Access,incident information for public
+Apache Kafka,Security,incident information for public
+Apache Kafka,Mgmt,incident information for public
+OASIS AMQP,TransNet,incident information for public
+OASIS AMQP,Facilities,incident information for public
+OASIS AMQP,Mgmt,incident information for public
+OASIS AMQP,Access,incident information for public
+OASIS AMQP,Security,incident information for public
+OASIS AMQP,TransNet,incident information for public
+OASIS MQTT,Mgmt,incident information for public
+OASIS MQTT,Access,incident information for public
+OASIS MQTT,TransNet,incident information for public
+OASIS MQTT,Security,incident information for public
+OASIS MQTT,TransNet,incident information for public
+OASIS MQTT,Facilities,incident information for public
+OASIS MQTT,Security,incident information for public
+Data for Distribution (TBD),ITS Application Entity,incident information for public
+Data for Distribution (TBD),ITS Application Entity,incident information for public
+(None-Comm),Access,incident information for public
+(None-Comm),TransNet,incident information for public
+(None-Comm),Security,incident information for public
+(None-Comm),Mgmt,incident information for public
+(None-Data),Facilities,incident information for public
+(None-Data),ITS Application Entity,incident information for public
+(None-Data),Facilities,incident information for public
+(None-Data),ITS Application Entity,incident information for public
+C-C: NTCIP Messaging,TransNet,incident information for public
+C-C: NTCIP Messaging,Security,incident information for public
+C-C: NTCIP Messaging,TransNet,incident information for public
+C-C: NTCIP Messaging,Mgmt,incident information for public
+C-C: NTCIP Messaging,Mgmt,incident information for public
+C-C: NTCIP Messaging,Facilities,incident information for public
+C-C: NTCIP Messaging,Access,incident information for public
+US: TMDD,Facilities,incident information for public
+US: TMDD,ITS Application Entity,incident information for public
+EU: DATEX,Facilities,incident information for public
+EU: DATEX,ITS Application Entity,incident information for public
+C-C: DATEX Messaging,Security,incident information for public
+C-C: DATEX Messaging,Access,incident information for public
+C-C: DATEX Messaging,Mgmt,incident information for public
+C-C: DATEX Messaging,Mgmt,incident information for public
+C-C: DATEX Messaging,TransNet,incident information for public
+C-C: DATEX Messaging,TransNet,incident information for public
+I-I: Secure Internet (ITS),TransNet,incident information for public
+I-I: Secure Internet (ITS),Security,incident information for public
+I-I: Secure Internet (ITS),Mgmt,incident information for public
+I-I: Secure Internet (ITS),Access,incident information for public
+I-I: Secure Internet (ITS),TransNet,incident information for public
+OMG DDS,Access,incident information for public
+OMG DDS,Facilities,incident information for public
+OMG DDS,Facilities,incident information for public
+OMG DDS,Security,incident information for public
+OMG DDS,TransNet,incident information for public
+OMG DDS,TransNet,incident information for public
+OMG DDS,Mgmt,incident information for public
+OMG DDS,Facilities,incident information for public
+Apache Kafka,Facilities,incident information for public
+Apache Kafka,TransNet,incident information for public
+Apache Kafka,Facilities,incident information for public
+Apache Kafka,TransNet,incident information for public
+Apache Kafka,Access,incident information for public
+Apache Kafka,Security,incident information for public
+Apache Kafka,Mgmt,incident information for public
+OASIS AMQP,TransNet,incident information for public
+OASIS AMQP,Facilities,incident information for public
+OASIS AMQP,Mgmt,incident information for public
+OASIS AMQP,Access,incident information for public
+OASIS AMQP,Security,incident information for public
+OASIS AMQP,TransNet,incident information for public
+OASIS MQTT,Mgmt,incident information for public
+OASIS MQTT,Access,incident information for public
+OASIS MQTT,TransNet,incident information for public
+OASIS MQTT,Security,incident information for public
+OASIS MQTT,TransNet,incident information for public
+OASIS MQTT,Facilities,incident information for public
+OASIS MQTT,Security,incident information for public
+Data for Distribution (TBD),ITS Application Entity,incident information for public
+Data for Distribution (TBD),ITS Application Entity,incident information for public
+(None-Comm),Access,incident information for public
+(None-Comm),TransNet,incident information for public
+(None-Comm),Security,incident information for public
+(None-Comm),Mgmt,incident information for public
+(None-Data),Facilities,incident information for public
+(None-Data),ITS Application Entity,incident information for public
+(None-Data),Facilities,incident information for public
+(None-Data),ITS Application Entity,incident information for public
+C-C: NTCIP Messaging,TransNet,incident information for public
+C-C: NTCIP Messaging,Security,incident information for public
+C-C: NTCIP Messaging,TransNet,incident information for public
+C-C: NTCIP Messaging,Mgmt,incident information for public
+C-C: NTCIP Messaging,Mgmt,incident information for public
+C-C: NTCIP Messaging,Facilities,incident information for public
+C-C: NTCIP Messaging,Access,incident information for public
+US: TMDD,Facilities,incident information for public
+US: TMDD,ITS Application Entity,incident information for public
+EU: DATEX,Facilities,incident information for public
+EU: DATEX,ITS Application Entity,incident information for public
+C-C: DATEX Messaging,Security,incident information for public
+C-C: DATEX Messaging,Access,incident information for public
+C-C: DATEX Messaging,Mgmt,incident information for public
+C-C: DATEX Messaging,Mgmt,incident information for public
+C-C: DATEX Messaging,TransNet,incident information for public
+C-C: DATEX Messaging,TransNet,incident information for public
+I-I: Secure Internet (ITS),TransNet,incident information for public
+I-I: Secure Internet (ITS),Security,incident information for public
+I-I: Secure Internet (ITS),Mgmt,incident information for public
+I-I: Secure Internet (ITS),Access,incident information for public
+I-I: Secure Internet (ITS),TransNet,incident information for public
+OMG DDS,Access,incident information for public
+OMG DDS,Facilities,incident information for public
+OMG DDS,Facilities,incident information for public
+OMG DDS,Security,incident information for public
+OMG DDS,TransNet,incident information for public
+OMG DDS,TransNet,incident information for public
+OMG DDS,Mgmt,incident information for public
+OMG DDS,Facilities,incident information for public
+Apache Kafka,Facilities,incident information for public
+Apache Kafka,TransNet,incident information for public
+Apache Kafka,Facilities,incident information for public
+Apache Kafka,TransNet,incident information for public
+Apache Kafka,Access,incident information for public
+Apache Kafka,Security,incident information for public
+Apache Kafka,Mgmt,incident information for public
+OASIS AMQP,TransNet,incident information for public
+OASIS AMQP,Facilities,incident information for public
+OASIS AMQP,Mgmt,incident information for public
+OASIS AMQP,Access,incident information for public
+OASIS AMQP,Security,incident information for public
+OASIS AMQP,TransNet,incident information for public
+OASIS MQTT,Mgmt,incident information for public
+OASIS MQTT,Access,incident information for public
+OASIS MQTT,TransNet,incident information for public
+OASIS MQTT,Security,incident information for public
+OASIS MQTT,TransNet,incident information for public
+OASIS MQTT,Facilities,incident information for public
+OASIS MQTT,Security,incident information for public
+(None-Comm),Access,incident information for public
+(None-Comm),TransNet,incident information for public
+(None-Comm),Security,incident information for public
+(None-Comm),Mgmt,incident information for public
+(Out of Scope),Facilities,incident information for public
+(Out of Scope),ITS Application Entity,incident information for public
+[Out of Scope],Security,incident information for public
+[Out of Scope],Mgmt,incident information for public
+[Out of Scope],TransNet,incident information for public
+[Out of Scope],Access,incident information for public
+Data for Distribution (TBD),ITS Application Entity,incident information for public
+Data for Distribution (TBD),ITS Application Entity,incident information for public
+(None-Comm),Access,incident information for public
+(None-Comm),TransNet,incident information for public
+(None-Comm),Security,incident information for public
+(None-Comm),Mgmt,incident information for public
+(None-Data),Facilities,incident information for public
+(None-Data),ITS Application Entity,incident information for public
+(None-Data),Facilities,incident information for public
+(None-Data),ITS Application Entity,incident information for public
+C-C: NTCIP Messaging,TransNet,incident information for public
+C-C: NTCIP Messaging,Security,incident information for public
+C-C: NTCIP Messaging,TransNet,incident information for public
+C-C: NTCIP Messaging,Mgmt,incident information for public
+C-C: NTCIP Messaging,Mgmt,incident information for public
+C-C: NTCIP Messaging,Facilities,incident information for public
+C-C: NTCIP Messaging,Access,incident information for public
+US: TMDD,Facilities,incident information for public
+US: TMDD,ITS Application Entity,incident information for public
+EU: DATEX,Facilities,incident information for public
+EU: DATEX,ITS Application Entity,incident information for public
+C-C: DATEX Messaging,Security,incident information for public
+C-C: DATEX Messaging,Access,incident information for public
+C-C: DATEX Messaging,Mgmt,incident information for public
+C-C: DATEX Messaging,Mgmt,incident information for public
+C-C: DATEX Messaging,TransNet,incident information for public
+C-C: DATEX Messaging,TransNet,incident information for public
+I-I: Secure Internet (ITS),TransNet,incident information for public
+I-I: Secure Internet (ITS),Security,incident information for public
+I-I: Secure Internet (ITS),Mgmt,incident information for public
+I-I: Secure Internet (ITS),Access,incident information for public
+I-I: Secure Internet (ITS),TransNet,incident information for public
+OMG DDS,Access,incident information for public
+OMG DDS,Facilities,incident information for public
+OMG DDS,Facilities,incident information for public
+OMG DDS,Security,incident information for public
+OMG DDS,TransNet,incident information for public
+OMG DDS,TransNet,incident information for public
+OMG DDS,Mgmt,incident information for public
+OMG DDS,Facilities,incident information for public
+Apache Kafka,Facilities,incident information for public
+Apache Kafka,TransNet,incident information for public
+Apache Kafka,Facilities,incident information for public
+Apache Kafka,TransNet,incident information for public
+Apache Kafka,Access,incident information for public
+Apache Kafka,Security,incident information for public
+Apache Kafka,Mgmt,incident information for public
+OASIS AMQP,TransNet,incident information for public
+OASIS AMQP,Facilities,incident information for public
+OASIS AMQP,Mgmt,incident information for public
+OASIS AMQP,Access,incident information for public
+OASIS AMQP,Security,incident information for public
+OASIS AMQP,TransNet,incident information for public
+OASIS MQTT,Mgmt,incident information for public
+OASIS MQTT,Access,incident information for public
+OASIS MQTT,TransNet,incident information for public
+OASIS MQTT,Security,incident information for public
+OASIS MQTT,TransNet,incident information for public
+OASIS MQTT,Facilities,incident information for public
+OASIS MQTT,Security,incident information for public
+(None-Comm),Access,credentials status information
+(None-Comm),TransNet,credentials status information
+(None-Comm),Security,credentials status information
+(None-Comm),Mgmt,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+C-C: NTCIP Messaging,TransNet,credentials status information
+C-C: NTCIP Messaging,Security,credentials status information
+C-C: NTCIP Messaging,TransNet,credentials status information
+C-C: NTCIP Messaging,Mgmt,credentials status information
+C-C: NTCIP Messaging,Mgmt,credentials status information
+C-C: NTCIP Messaging,Facilities,credentials status information
+C-C: NTCIP Messaging,Access,credentials status information
+C-C: DATEX Messaging,Security,credentials status information
+C-C: DATEX Messaging,Access,credentials status information
+C-C: DATEX Messaging,Mgmt,credentials status information
+C-C: DATEX Messaging,Mgmt,credentials status information
+C-C: DATEX Messaging,TransNet,credentials status information
+C-C: DATEX Messaging,TransNet,credentials status information
+I-I: Secure Internet (ITS),TransNet,credentials status information
+I-I: Secure Internet (ITS),Security,credentials status information
+I-I: Secure Internet (ITS),Mgmt,credentials status information
+I-I: Secure Internet (ITS),Access,credentials status information
+I-I: Secure Internet (ITS),TransNet,credentials status information
+(None-Comm),Access,credentials status information
+(None-Comm),TransNet,credentials status information
+(None-Comm),Security,credentials status information
+(None-Comm),Mgmt,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+C-C: NTCIP Messaging,TransNet,credentials status information
+C-C: NTCIP Messaging,Security,credentials status information
+C-C: NTCIP Messaging,TransNet,credentials status information
+C-C: NTCIP Messaging,Mgmt,credentials status information
+C-C: NTCIP Messaging,Mgmt,credentials status information
+C-C: NTCIP Messaging,Facilities,credentials status information
+C-C: NTCIP Messaging,Access,credentials status information
+C-C: DATEX Messaging,Security,credentials status information
+C-C: DATEX Messaging,Access,credentials status information
+C-C: DATEX Messaging,Mgmt,credentials status information
+C-C: DATEX Messaging,Mgmt,credentials status information
+C-C: DATEX Messaging,TransNet,credentials status information
+C-C: DATEX Messaging,TransNet,credentials status information
+I-I: Secure Internet (ITS),TransNet,credentials status information
+I-I: Secure Internet (ITS),Security,credentials status information
+I-I: Secure Internet (ITS),Mgmt,credentials status information
+I-I: Secure Internet (ITS),Access,credentials status information
+I-I: Secure Internet (ITS),TransNet,credentials status information
+(None-Comm),Access,credentials status information
+(None-Comm),TransNet,credentials status information
+(None-Comm),Security,credentials status information
+(None-Comm),Mgmt,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+I-F: SNMPv1,Security,credentials status information
+I-F: SNMPv1,Facilities,credentials status information
+I-F: SNMPv1,Access,credentials status information
+I-F: SNMPv1,TransNet,credentials status information
+I-F: SNMPv1,Mgmt,credentials status information
+I-F: SNMPv3/TLS,TransNet,credentials status information
+I-F: SNMPv3/TLS,Security,credentials status information
+I-F: SNMPv3/TLS,TransNet,credentials status information
+I-F: SNMPv3/TLS,Security,credentials status information
+I-F: SNMPv3/TLS,Access,credentials status information
+I-F: SNMPv3/TLS,Facilities,credentials status information
+I-F: SNMPv3/TLS,Mgmt,credentials status information
+I-F: SNMPv1/TLS,Access,credentials status information
+I-F: SNMPv1/TLS,Mgmt,credentials status information
+I-F: SNMPv1/TLS,TransNet,credentials status information
+I-F: SNMPv1/TLS,Facilities,credentials status information
+I-F: SNMPv1/TLS,Security,credentials status information
+I-F: SNMPv1/TLS,TransNet,credentials status information
+C-C: DATEX Messaging,Security,credentials status information
+C-C: DATEX Messaging,Access,credentials status information
+C-C: DATEX Messaging,Mgmt,credentials status information
+C-C: DATEX Messaging,Mgmt,credentials status information
+C-C: DATEX Messaging,TransNet,credentials status information
+C-C: DATEX Messaging,TransNet,credentials status information
+I-I: Secure Internet (ITS),TransNet,credentials status information
+I-I: Secure Internet (ITS),Security,credentials status information
+I-I: Secure Internet (ITS),Mgmt,credentials status information
+I-I: Secure Internet (ITS),Access,credentials status information
+I-I: Secure Internet (ITS),TransNet,credentials status information
+I-F: ODG-OCIT-O,Security,credentials status information
+I-F: ODG-OCIT-O,Facilities,credentials status information
+I-F: ODG-OCIT-O,TransNet,credentials status information
+I-F: ODG-OCIT-O,Mgmt,credentials status information
+I-F: ODG-OCIT-O,Access,credentials status information
+I-F: UTMC,Security,credentials status information
+I-F: UTMC,Mgmt,credentials status information
+I-F: UTMC,Facilities,credentials status information
+I-F: UTMC,TransNet,credentials status information
+I-F: UTMC,TransNet,credentials status information
+I-F: UTMC,Access,credentials status information
+I-F: DMS and RWIS Comms,Access,credentials status information
+I-F: DMS and RWIS Comms,Mgmt,credentials status information
+I-F: DMS and RWIS Comms,Security,credentials status information
+I-F: DMS and RWIS Comms,TransNet,credentials status information
+I-F: DMS and RWIS Comms,Facilities,credentials status information
+I-F: AU TRAFF Comms,Access,credentials status information
+I-F: AU TRAFF Comms,TransNet,credentials status information
+I-F: AU TRAFF Comms,Security,credentials status information
+I-F: AU TRAFF Comms,TransNet,credentials status information
+I-F: AU TRAFF Comms,Facilities,credentials status information
+I-F: AU TRAFF Comms,Mgmt,credentials status information
+(None-Comm),Access,credentials status information
+(None-Comm),TransNet,credentials status information
+(None-Comm),Security,credentials status information
+(None-Comm),Mgmt,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+C-C: NTCIP Messaging,TransNet,credentials status information
+C-C: NTCIP Messaging,Security,credentials status information
+C-C: NTCIP Messaging,TransNet,credentials status information
+C-C: NTCIP Messaging,Mgmt,credentials status information
+C-C: NTCIP Messaging,Mgmt,credentials status information
+C-C: NTCIP Messaging,Facilities,credentials status information
+C-C: NTCIP Messaging,Access,credentials status information
+C-C: DATEX Messaging,Security,credentials status information
+C-C: DATEX Messaging,Access,credentials status information
+C-C: DATEX Messaging,Mgmt,credentials status information
+C-C: DATEX Messaging,Mgmt,credentials status information
+C-C: DATEX Messaging,TransNet,credentials status information
+C-C: DATEX Messaging,TransNet,credentials status information
+I-I: Secure Internet (ITS),TransNet,credentials status information
+I-I: Secure Internet (ITS),Security,credentials status information
+I-I: Secure Internet (ITS),Mgmt,credentials status information
+I-I: Secure Internet (ITS),Access,credentials status information
+I-I: Secure Internet (ITS),TransNet,credentials status information
+(None-Comm),Access,credentials status information
+(None-Comm),TransNet,credentials status information
+(None-Comm),Security,credentials status information
+(None-Comm),Mgmt,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+C-C: NTCIP Messaging,TransNet,credentials status information
+C-C: NTCIP Messaging,Security,credentials status information
+C-C: NTCIP Messaging,TransNet,credentials status information
+C-C: NTCIP Messaging,Mgmt,credentials status information
+C-C: NTCIP Messaging,Mgmt,credentials status information
+C-C: NTCIP Messaging,Facilities,credentials status information
+C-C: NTCIP Messaging,Access,credentials status information
+C-C: DATEX Messaging,Security,credentials status information
+C-C: DATEX Messaging,Access,credentials status information
+C-C: DATEX Messaging,Mgmt,credentials status information
+C-C: DATEX Messaging,Mgmt,credentials status information
+C-C: DATEX Messaging,TransNet,credentials status information
+C-C: DATEX Messaging,TransNet,credentials status information
+I-I: Secure Internet (ITS),TransNet,credentials status information
+I-I: Secure Internet (ITS),Security,credentials status information
+I-I: Secure Internet (ITS),Mgmt,credentials status information
+I-I: Secure Internet (ITS),Access,credentials status information
+I-I: Secure Internet (ITS),TransNet,credentials status information
+(None-Comm),Access,credentials status information
+(None-Comm),TransNet,credentials status information
+(None-Comm),Security,credentials status information
+(None-Comm),Mgmt,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+(None-Data),Facilities,credentials status information
+(None-Data),ITS Application Entity,credentials status information
+C-C: NTCIP Messaging,TransNet,credentials status information
+C-C: NTCIP Messaging,Security,credentials status information
+C-C: NTCIP Messaging,TransNet,credentials status information
+C-C: NTCIP Messaging,Mgmt,credentials status information
+C-C: NTCIP Messaging,Mgmt,credentials status information
+C-C: NTCIP Messaging,Facilities,credentials status information
+C-C: NTCIP Messaging,Access,credentials status information
+C-C: DATEX Messaging,Security,credentials status information
+C-C: DATEX Messaging,Access,credentials status information
+C-C: DATEX Messaging,Mgmt,credentials status information
+C-C: DATEX Messaging,Mgmt,credentials status information
+C-C: DATEX Messaging,TransNet,credentials status information
+C-C: DATEX Messaging,TransNet,credentials status information
+I-I: Secure Internet (ITS),TransNet,credentials status information
+I-I: Secure Internet (ITS),Security,credentials status information
+I-I: Secure Internet (ITS),Mgmt,credentials status information
+I-I: Secure Internet (ITS),Access,credentials status information
+I-I: Secure Internet (ITS),TransNet,credentials status information
+(None-Comm),Access,cv driver record
+(None-Comm),TransNet,cv driver record
+(None-Comm),Security,cv driver record
+(None-Comm),Mgmt,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+C-C: NTCIP Messaging,TransNet,cv driver record
+C-C: NTCIP Messaging,Security,cv driver record
+C-C: NTCIP Messaging,TransNet,cv driver record
+C-C: NTCIP Messaging,Mgmt,cv driver record
+C-C: NTCIP Messaging,Mgmt,cv driver record
+C-C: NTCIP Messaging,Facilities,cv driver record
+C-C: NTCIP Messaging,Access,cv driver record
+C-C: DATEX Messaging,Security,cv driver record
+C-C: DATEX Messaging,Access,cv driver record
+C-C: DATEX Messaging,Mgmt,cv driver record
+C-C: DATEX Messaging,Mgmt,cv driver record
+C-C: DATEX Messaging,TransNet,cv driver record
+C-C: DATEX Messaging,TransNet,cv driver record
+I-I: Secure Internet (ITS),TransNet,cv driver record
+I-I: Secure Internet (ITS),Security,cv driver record
+I-I: Secure Internet (ITS),Mgmt,cv driver record
+I-I: Secure Internet (ITS),Access,cv driver record
+I-I: Secure Internet (ITS),TransNet,cv driver record
+(None-Comm),Access,cv driver record
+(None-Comm),TransNet,cv driver record
+(None-Comm),Security,cv driver record
+(None-Comm),Mgmt,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+I-F: SNMPv1,Security,cv driver record
+I-F: SNMPv1,Facilities,cv driver record
+I-F: SNMPv1,Access,cv driver record
+I-F: SNMPv1,TransNet,cv driver record
+I-F: SNMPv1,Mgmt,cv driver record
+I-F: SNMPv3/TLS,TransNet,cv driver record
+I-F: SNMPv3/TLS,Security,cv driver record
+I-F: SNMPv3/TLS,TransNet,cv driver record
+I-F: SNMPv3/TLS,Security,cv driver record
+I-F: SNMPv3/TLS,Access,cv driver record
+I-F: SNMPv3/TLS,Facilities,cv driver record
+I-F: SNMPv3/TLS,Mgmt,cv driver record
+I-F: SNMPv1/TLS,Access,cv driver record
+I-F: SNMPv1/TLS,Mgmt,cv driver record
+I-F: SNMPv1/TLS,TransNet,cv driver record
+I-F: SNMPv1/TLS,Facilities,cv driver record
+I-F: SNMPv1/TLS,Security,cv driver record
+I-F: SNMPv1/TLS,TransNet,cv driver record
+C-C: DATEX Messaging,Security,cv driver record
+C-C: DATEX Messaging,Access,cv driver record
+C-C: DATEX Messaging,Mgmt,cv driver record
+C-C: DATEX Messaging,Mgmt,cv driver record
+C-C: DATEX Messaging,TransNet,cv driver record
+C-C: DATEX Messaging,TransNet,cv driver record
+I-I: Secure Internet (ITS),TransNet,cv driver record
+I-I: Secure Internet (ITS),Security,cv driver record
+I-I: Secure Internet (ITS),Mgmt,cv driver record
+I-I: Secure Internet (ITS),Access,cv driver record
+I-I: Secure Internet (ITS),TransNet,cv driver record
+I-F: ODG-OCIT-O,Security,cv driver record
+I-F: ODG-OCIT-O,Facilities,cv driver record
+I-F: ODG-OCIT-O,TransNet,cv driver record
+I-F: ODG-OCIT-O,Mgmt,cv driver record
+I-F: ODG-OCIT-O,Access,cv driver record
+I-F: UTMC,Security,cv driver record
+I-F: UTMC,Mgmt,cv driver record
+I-F: UTMC,Facilities,cv driver record
+I-F: UTMC,TransNet,cv driver record
+I-F: UTMC,TransNet,cv driver record
+I-F: UTMC,Access,cv driver record
+I-F: DMS and RWIS Comms,Access,cv driver record
+I-F: DMS and RWIS Comms,Mgmt,cv driver record
+I-F: DMS and RWIS Comms,Security,cv driver record
+I-F: DMS and RWIS Comms,TransNet,cv driver record
+I-F: DMS and RWIS Comms,Facilities,cv driver record
+I-F: AU TRAFF Comms,Access,cv driver record
+I-F: AU TRAFF Comms,TransNet,cv driver record
+I-F: AU TRAFF Comms,Security,cv driver record
+I-F: AU TRAFF Comms,TransNet,cv driver record
+I-F: AU TRAFF Comms,Facilities,cv driver record
+I-F: AU TRAFF Comms,Mgmt,cv driver record
+(None-Comm),Access,cv driver record
+(None-Comm),TransNet,cv driver record
+(None-Comm),Security,cv driver record
+(None-Comm),Mgmt,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+C-C: NTCIP Messaging,TransNet,cv driver record
+C-C: NTCIP Messaging,Security,cv driver record
+C-C: NTCIP Messaging,TransNet,cv driver record
+C-C: NTCIP Messaging,Mgmt,cv driver record
+C-C: NTCIP Messaging,Mgmt,cv driver record
+C-C: NTCIP Messaging,Facilities,cv driver record
+C-C: NTCIP Messaging,Access,cv driver record
+C-C: DATEX Messaging,Security,cv driver record
+C-C: DATEX Messaging,Access,cv driver record
+C-C: DATEX Messaging,Mgmt,cv driver record
+C-C: DATEX Messaging,Mgmt,cv driver record
+C-C: DATEX Messaging,TransNet,cv driver record
+C-C: DATEX Messaging,TransNet,cv driver record
+I-I: Secure Internet (ITS),TransNet,cv driver record
+I-I: Secure Internet (ITS),Security,cv driver record
+I-I: Secure Internet (ITS),Mgmt,cv driver record
+I-I: Secure Internet (ITS),Access,cv driver record
+I-I: Secure Internet (ITS),TransNet,cv driver record
+(None-Comm),Access,cv driver record
+(None-Comm),TransNet,cv driver record
+(None-Comm),Security,cv driver record
+(None-Comm),Mgmt,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+C-C: NTCIP Messaging,TransNet,cv driver record
+C-C: NTCIP Messaging,Security,cv driver record
+C-C: NTCIP Messaging,TransNet,cv driver record
+C-C: NTCIP Messaging,Mgmt,cv driver record
+C-C: NTCIP Messaging,Mgmt,cv driver record
+C-C: NTCIP Messaging,Facilities,cv driver record
+C-C: NTCIP Messaging,Access,cv driver record
+C-C: DATEX Messaging,Security,cv driver record
+C-C: DATEX Messaging,Access,cv driver record
+C-C: DATEX Messaging,Mgmt,cv driver record
+C-C: DATEX Messaging,Mgmt,cv driver record
+C-C: DATEX Messaging,TransNet,cv driver record
+C-C: DATEX Messaging,TransNet,cv driver record
+I-I: Secure Internet (ITS),TransNet,cv driver record
+I-I: Secure Internet (ITS),Security,cv driver record
+I-I: Secure Internet (ITS),Mgmt,cv driver record
+I-I: Secure Internet (ITS),Access,cv driver record
+I-I: Secure Internet (ITS),TransNet,cv driver record
+(None-Comm),Access,cv driver record
+(None-Comm),TransNet,cv driver record
+(None-Comm),Security,cv driver record
+(None-Comm),Mgmt,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+(None-Data),Facilities,cv driver record
+(None-Data),ITS Application Entity,cv driver record
+C-C: NTCIP Messaging,TransNet,cv driver record
+C-C: NTCIP Messaging,Security,cv driver record
+C-C: NTCIP Messaging,TransNet,cv driver record
+C-C: NTCIP Messaging,Mgmt,cv driver record
+C-C: NTCIP Messaging,Mgmt,cv driver record
+C-C: NTCIP Messaging,Facilities,cv driver record
+C-C: NTCIP Messaging,Access,cv driver record
+C-C: DATEX Messaging,Security,cv driver record
+C-C: DATEX Messaging,Access,cv driver record
+C-C: DATEX Messaging,Mgmt,cv driver record
+C-C: DATEX Messaging,Mgmt,cv driver record
+C-C: DATEX Messaging,TransNet,cv driver record
+C-C: DATEX Messaging,TransNet,cv driver record
+I-I: Secure Internet (ITS),TransNet,cv driver record
+I-I: Secure Internet (ITS),Security,cv driver record
+I-I: Secure Internet (ITS),Mgmt,cv driver record
+I-I: Secure Internet (ITS),Access,cv driver record
+I-I: Secure Internet (ITS),TransNet,cv driver record
+(None-Comm),Access,route restrictions
+(None-Comm),TransNet,route restrictions
+(None-Comm),Security,route restrictions
+(None-Comm),Mgmt,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+C-C: NTCIP Messaging,TransNet,route restrictions
+C-C: NTCIP Messaging,Security,route restrictions
+C-C: NTCIP Messaging,TransNet,route restrictions
+C-C: NTCIP Messaging,Mgmt,route restrictions
+C-C: NTCIP Messaging,Mgmt,route restrictions
+C-C: NTCIP Messaging,Facilities,route restrictions
+C-C: NTCIP Messaging,Access,route restrictions
+C-C: DATEX Messaging,Security,route restrictions
+C-C: DATEX Messaging,Access,route restrictions
+C-C: DATEX Messaging,Mgmt,route restrictions
+C-C: DATEX Messaging,Mgmt,route restrictions
+C-C: DATEX Messaging,TransNet,route restrictions
+C-C: DATEX Messaging,TransNet,route restrictions
+I-I: Secure Internet (ITS),TransNet,route restrictions
+I-I: Secure Internet (ITS),Security,route restrictions
+I-I: Secure Internet (ITS),Mgmt,route restrictions
+I-I: Secure Internet (ITS),Access,route restrictions
+I-I: Secure Internet (ITS),TransNet,route restrictions
+OMG DDS,Access,route restrictions
+OMG DDS,Facilities,route restrictions
+OMG DDS,Facilities,route restrictions
+OMG DDS,Security,route restrictions
+OMG DDS,TransNet,route restrictions
+OMG DDS,TransNet,route restrictions
+OMG DDS,Mgmt,route restrictions
+OMG DDS,Facilities,route restrictions
+Apache Kafka,Facilities,route restrictions
+Apache Kafka,TransNet,route restrictions
+Apache Kafka,Facilities,route restrictions
+Apache Kafka,TransNet,route restrictions
+Apache Kafka,Access,route restrictions
+Apache Kafka,Security,route restrictions
+Apache Kafka,Mgmt,route restrictions
+OASIS AMQP,TransNet,route restrictions
+OASIS AMQP,Facilities,route restrictions
+OASIS AMQP,Mgmt,route restrictions
+OASIS AMQP,Access,route restrictions
+OASIS AMQP,Security,route restrictions
+OASIS AMQP,TransNet,route restrictions
+OASIS MQTT,Mgmt,route restrictions
+OASIS MQTT,Access,route restrictions
+OASIS MQTT,TransNet,route restrictions
+OASIS MQTT,Security,route restrictions
+OASIS MQTT,TransNet,route restrictions
+OASIS MQTT,Facilities,route restrictions
+OASIS MQTT,Security,route restrictions
+(None-Comm),Access,route restrictions
+(None-Comm),TransNet,route restrictions
+(None-Comm),Security,route restrictions
+(None-Comm),Mgmt,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+C-C: NTCIP Messaging,TransNet,route restrictions
+C-C: NTCIP Messaging,Security,route restrictions
+C-C: NTCIP Messaging,TransNet,route restrictions
+C-C: NTCIP Messaging,Mgmt,route restrictions
+C-C: NTCIP Messaging,Mgmt,route restrictions
+C-C: NTCIP Messaging,Facilities,route restrictions
+C-C: NTCIP Messaging,Access,route restrictions
+C-C: DATEX Messaging,Security,route restrictions
+C-C: DATEX Messaging,Access,route restrictions
+C-C: DATEX Messaging,Mgmt,route restrictions
+C-C: DATEX Messaging,Mgmt,route restrictions
+C-C: DATEX Messaging,TransNet,route restrictions
+C-C: DATEX Messaging,TransNet,route restrictions
+I-I: Secure Internet (ITS),TransNet,route restrictions
+I-I: Secure Internet (ITS),Security,route restrictions
+I-I: Secure Internet (ITS),Mgmt,route restrictions
+I-I: Secure Internet (ITS),Access,route restrictions
+I-I: Secure Internet (ITS),TransNet,route restrictions
+OMG DDS,Access,route restrictions
+OMG DDS,Facilities,route restrictions
+OMG DDS,Facilities,route restrictions
+OMG DDS,Security,route restrictions
+OMG DDS,TransNet,route restrictions
+OMG DDS,TransNet,route restrictions
+OMG DDS,Mgmt,route restrictions
+OMG DDS,Facilities,route restrictions
+Apache Kafka,Facilities,route restrictions
+Apache Kafka,TransNet,route restrictions
+Apache Kafka,Facilities,route restrictions
+Apache Kafka,TransNet,route restrictions
+Apache Kafka,Access,route restrictions
+Apache Kafka,Security,route restrictions
+Apache Kafka,Mgmt,route restrictions
+OASIS AMQP,TransNet,route restrictions
+OASIS AMQP,Facilities,route restrictions
+OASIS AMQP,Mgmt,route restrictions
+OASIS AMQP,Access,route restrictions
+OASIS AMQP,Security,route restrictions
+OASIS AMQP,TransNet,route restrictions
+OASIS MQTT,Mgmt,route restrictions
+OASIS MQTT,Access,route restrictions
+OASIS MQTT,TransNet,route restrictions
+OASIS MQTT,Security,route restrictions
+OASIS MQTT,TransNet,route restrictions
+OASIS MQTT,Facilities,route restrictions
+OASIS MQTT,Security,route restrictions
+(None-Comm),Access,route restrictions
+(None-Comm),TransNet,route restrictions
+(None-Comm),Security,route restrictions
+(None-Comm),Mgmt,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+C-C: NTCIP Messaging,TransNet,route restrictions
+C-C: NTCIP Messaging,Security,route restrictions
+C-C: NTCIP Messaging,TransNet,route restrictions
+C-C: NTCIP Messaging,Mgmt,route restrictions
+C-C: NTCIP Messaging,Mgmt,route restrictions
+C-C: NTCIP Messaging,Facilities,route restrictions
+C-C: NTCIP Messaging,Access,route restrictions
+C-C: DATEX Messaging,Security,route restrictions
+C-C: DATEX Messaging,Access,route restrictions
+C-C: DATEX Messaging,Mgmt,route restrictions
+C-C: DATEX Messaging,Mgmt,route restrictions
+C-C: DATEX Messaging,TransNet,route restrictions
+C-C: DATEX Messaging,TransNet,route restrictions
+I-I: Secure Internet (ITS),TransNet,route restrictions
+I-I: Secure Internet (ITS),Security,route restrictions
+I-I: Secure Internet (ITS),Mgmt,route restrictions
+I-I: Secure Internet (ITS),Access,route restrictions
+I-I: Secure Internet (ITS),TransNet,route restrictions
+OMG DDS,Access,route restrictions
+OMG DDS,Facilities,route restrictions
+OMG DDS,Facilities,route restrictions
+OMG DDS,Security,route restrictions
+OMG DDS,TransNet,route restrictions
+OMG DDS,TransNet,route restrictions
+OMG DDS,Mgmt,route restrictions
+OMG DDS,Facilities,route restrictions
+Apache Kafka,Facilities,route restrictions
+Apache Kafka,TransNet,route restrictions
+Apache Kafka,Facilities,route restrictions
+Apache Kafka,TransNet,route restrictions
+Apache Kafka,Access,route restrictions
+Apache Kafka,Security,route restrictions
+Apache Kafka,Mgmt,route restrictions
+OASIS AMQP,TransNet,route restrictions
+OASIS AMQP,Facilities,route restrictions
+OASIS AMQP,Mgmt,route restrictions
+OASIS AMQP,Access,route restrictions
+OASIS AMQP,Security,route restrictions
+OASIS AMQP,TransNet,route restrictions
+OASIS MQTT,Mgmt,route restrictions
+OASIS MQTT,Access,route restrictions
+OASIS MQTT,TransNet,route restrictions
+OASIS MQTT,Security,route restrictions
+OASIS MQTT,TransNet,route restrictions
+OASIS MQTT,Facilities,route restrictions
+OASIS MQTT,Security,route restrictions
+(None-Comm),Access,route restrictions
+(None-Comm),TransNet,route restrictions
+(None-Comm),Security,route restrictions
+(None-Comm),Mgmt,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+C-C: NTCIP Messaging,TransNet,route restrictions
+C-C: NTCIP Messaging,Security,route restrictions
+C-C: NTCIP Messaging,TransNet,route restrictions
+C-C: NTCIP Messaging,Mgmt,route restrictions
+C-C: NTCIP Messaging,Mgmt,route restrictions
+C-C: NTCIP Messaging,Facilities,route restrictions
+C-C: NTCIP Messaging,Access,route restrictions
+C-C: DATEX Messaging,Security,route restrictions
+C-C: DATEX Messaging,Access,route restrictions
+C-C: DATEX Messaging,Mgmt,route restrictions
+C-C: DATEX Messaging,Mgmt,route restrictions
+C-C: DATEX Messaging,TransNet,route restrictions
+C-C: DATEX Messaging,TransNet,route restrictions
+I-I: Secure Internet (ITS),TransNet,route restrictions
+I-I: Secure Internet (ITS),Security,route restrictions
+I-I: Secure Internet (ITS),Mgmt,route restrictions
+I-I: Secure Internet (ITS),Access,route restrictions
+I-I: Secure Internet (ITS),TransNet,route restrictions
+OMG DDS,Access,route restrictions
+OMG DDS,Facilities,route restrictions
+OMG DDS,Facilities,route restrictions
+OMG DDS,Security,route restrictions
+OMG DDS,TransNet,route restrictions
+OMG DDS,TransNet,route restrictions
+OMG DDS,Mgmt,route restrictions
+OMG DDS,Facilities,route restrictions
+Apache Kafka,Facilities,route restrictions
+Apache Kafka,TransNet,route restrictions
+Apache Kafka,Facilities,route restrictions
+Apache Kafka,TransNet,route restrictions
+Apache Kafka,Access,route restrictions
+Apache Kafka,Security,route restrictions
+Apache Kafka,Mgmt,route restrictions
+OASIS AMQP,TransNet,route restrictions
+OASIS AMQP,Facilities,route restrictions
+OASIS AMQP,Mgmt,route restrictions
+OASIS AMQP,Access,route restrictions
+OASIS AMQP,Security,route restrictions
+OASIS AMQP,TransNet,route restrictions
+OASIS MQTT,Mgmt,route restrictions
+OASIS MQTT,Access,route restrictions
+OASIS MQTT,TransNet,route restrictions
+OASIS MQTT,Security,route restrictions
+OASIS MQTT,TransNet,route restrictions
+OASIS MQTT,Facilities,route restrictions
+OASIS MQTT,Security,route restrictions
+(None-Comm),Access,route restrictions
+(None-Comm),TransNet,route restrictions
+(None-Comm),Security,route restrictions
+(None-Comm),Mgmt,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+(None-Data),Facilities,route restrictions
+(None-Data),ITS Application Entity,route restrictions
+C-C: NTCIP Messaging,TransNet,route restrictions
+C-C: NTCIP Messaging,Security,route restrictions
+C-C: NTCIP Messaging,TransNet,route restrictions
+C-C: NTCIP Messaging,Mgmt,route restrictions
+C-C: NTCIP Messaging,Mgmt,route restrictions
+C-C: NTCIP Messaging,Facilities,route restrictions
+C-C: NTCIP Messaging,Access,route restrictions
+C-C: DATEX Messaging,Security,route restrictions
+C-C: DATEX Messaging,Access,route restrictions
+C-C: DATEX Messaging,Mgmt,route restrictions
+C-C: DATEX Messaging,Mgmt,route restrictions
+C-C: DATEX Messaging,TransNet,route restrictions
+C-C: DATEX Messaging,TransNet,route restrictions
+I-I: Secure Internet (ITS),TransNet,route restrictions
+I-I: Secure Internet (ITS),Security,route restrictions
+I-I: Secure Internet (ITS),Mgmt,route restrictions
+I-I: Secure Internet (ITS),Access,route restrictions
+I-I: Secure Internet (ITS),TransNet,route restrictions
+OMG DDS,Access,route restrictions
+OMG DDS,Facilities,route restrictions
+OMG DDS,Facilities,route restrictions
+OMG DDS,Security,route restrictions
+OMG DDS,TransNet,route restrictions
+OMG DDS,TransNet,route restrictions
+OMG DDS,Mgmt,route restrictions
+OMG DDS,Facilities,route restrictions
+Apache Kafka,Facilities,route restrictions
+Apache Kafka,TransNet,route restrictions
+Apache Kafka,Facilities,route restrictions
+Apache Kafka,TransNet,route restrictions
+Apache Kafka,Access,route restrictions
+Apache Kafka,Security,route restrictions
+Apache Kafka,Mgmt,route restrictions
+OASIS AMQP,TransNet,route restrictions
+OASIS AMQP,Facilities,route restrictions
+OASIS AMQP,Mgmt,route restrictions
+OASIS AMQP,Access,route restrictions
+OASIS AMQP,Security,route restrictions
+OASIS AMQP,TransNet,route restrictions
+OASIS MQTT,Mgmt,route restrictions
+OASIS MQTT,Access,route restrictions
+OASIS MQTT,TransNet,route restrictions
+OASIS MQTT,Security,route restrictions
+OASIS MQTT,TransNet,route restrictions
+OASIS MQTT,Facilities,route restrictions
+OASIS MQTT,Security,route restrictions
+(None-Comm),Access,host commercial vehicle status
+(None-Comm),TransNet,host commercial vehicle status
+(None-Comm),Security,host commercial vehicle status
+(None-Comm),Mgmt,host commercial vehicle status
+(Out of Scope),Facilities,host commercial vehicle status
+(Out of Scope),ITS Application Entity,host commercial vehicle status
+Data for Distribution (TBD),ITS Application Entity,commercial vehicle location data
+(None-Comm),Access,commercial vehicle location data
+(None-Comm),TransNet,commercial vehicle location data
+(None-Comm),Security,commercial vehicle location data
+(None-Comm),Mgmt,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+US: SAE Other J2735,ITS Application Entity,commercial vehicle location data
+US: SAE Other J2735,Facilities,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Security,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,TransNet,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Access,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,TransNet,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Security,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Mgmt,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Facilities,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Access,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Mgmt,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Security,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Security,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Access,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Mgmt,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),TransNet,commercial vehicle location data
+Data for Distribution (TBD),ITS Application Entity,commercial vehicle location data
+(None-Comm),Access,commercial vehicle location data
+(None-Comm),TransNet,commercial vehicle location data
+(None-Comm),Security,commercial vehicle location data
+(None-Comm),Mgmt,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+US: SAE Other J2735,ITS Application Entity,commercial vehicle location data
+US: SAE Other J2735,Facilities,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Security,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,TransNet,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Access,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,TransNet,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Security,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Mgmt,commercial vehicle location data
+I-M: Wireless SNMPv3/TLS,Facilities,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Access,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Mgmt,commercial vehicle location data
+I-M: Secure Wireless Internet (EU),Security,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),TransNet,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Security,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Access,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),Mgmt,commercial vehicle location data
+I-M: Secure Wireless Internet (ITS),TransNet,commercial vehicle location data
+(None-Comm),Access,commercial vehicle location data
+(None-Comm),TransNet,commercial vehicle location data
+(None-Comm),Security,commercial vehicle location data
+(None-Comm),Mgmt,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+(None-Data),Facilities,commercial vehicle location data
+(None-Data),ITS Application Entity,commercial vehicle location data
+C-C: NTCIP Messaging,TransNet,commercial vehicle location data
+C-C: NTCIP Messaging,Security,commercial vehicle location data
+C-C: NTCIP Messaging,TransNet,commercial vehicle location data
+C-C: NTCIP Messaging,Mgmt,commercial vehicle location data
+C-C: NTCIP Messaging,Mgmt,commercial vehicle location data
+C-C: NTCIP Messaging,Facilities,commercial vehicle location data
+C-C: NTCIP Messaging,Access,commercial vehicle location data
+C-C: DATEX Messaging,Security,commercial vehicle location data
+C-C: DATEX Messaging,Access,commercial vehicle location data
+C-C: DATEX Messaging,Mgmt,commercial vehicle location data
+C-C: DATEX Messaging,Mgmt,commercial vehicle location data
+C-C: DATEX Messaging,TransNet,commercial vehicle location data
+C-C: DATEX Messaging,TransNet,commercial vehicle location data
+I-I: Secure Internet (ITS),TransNet,commercial vehicle location data
+I-I: Secure Internet (ITS),Security,commercial vehicle location data
+I-I: Secure Internet (ITS),Mgmt,commercial vehicle location data
+I-I: Secure Internet (ITS),Access,commercial vehicle location data
+I-I: Secure Internet (ITS),TransNet,commercial vehicle location data
+OMG DDS,Access,commercial vehicle location data
+OMG DDS,Facilities,commercial vehicle location data
+OMG DDS,Facilities,commercial vehicle location data
+OMG DDS,Security,commercial vehicle location data
+OMG DDS,TransNet,commercial vehicle location data
+OMG DDS,TransNet,commercial vehicle location data
+OMG DDS,Mgmt,commercial vehicle location data
+OMG DDS,Facilities,commercial vehicle location data
+Apache Kafka,Facilities,commercial vehicle location data
+Apache Kafka,TransNet,commercial vehicle location data
+Apache Kafka,Facilities,commercial vehicle location data
+Apache Kafka,TransNet,commercial vehicle location data
+Apache Kafka,Access,commercial vehicle location data
+Apache Kafka,Security,commercial vehicle location data
+Apache Kafka,Mgmt,commercial vehicle location data
+OASIS AMQP,TransNet,commercial vehicle location data
+OASIS AMQP,Facilities,commercial vehicle location data
+OASIS AMQP,Mgmt,commercial vehicle location data
+OASIS AMQP,Access,commercial vehicle location data
+OASIS AMQP,Security,commercial vehicle location data
+OASIS AMQP,TransNet,commercial vehicle location data
+OASIS MQTT,Mgmt,commercial vehicle location data
+OASIS MQTT,Access,commercial vehicle location data
+OASIS MQTT,TransNet,commercial vehicle location data
+OASIS MQTT,Security,commercial vehicle location data
+OASIS MQTT,TransNet,commercial vehicle location data
+OASIS MQTT,Facilities,commercial vehicle location data
+OASIS MQTT,Security,commercial vehicle location data
+(None-Comm),Access,decision support information
+(None-Comm),TransNet,decision support information
+(None-Comm),Security,decision support information
+(None-Comm),Mgmt,decision support information
+V-X: WAVE IPv6,TransNet,decision support information
+V-X: WAVE IPv6,TransNet,decision support information
+V-X: WAVE IPv6,Mgmt,decision support information
+V-X: WAVE IPv6,TransNet,decision support information
+V-X: WAVE IPv6,Access,decision support information
+V-X: WAVE IPv6,Security,decision support information
+(Out of Scope),Facilities,decision support information
+(Out of Scope),ITS Application Entity,decision support information
+[Out of Scope],Security,decision support information
+[Out of Scope],Mgmt,decision support information
+[Out of Scope],TransNet,decision support information
+[Out of Scope],Access,decision support information
+(None-Comm),Access,decision support information
+(None-Comm),TransNet,decision support information
+(None-Comm),Security,decision support information
+(None-Comm),Mgmt,decision support information
+(Out of Scope),Facilities,decision support information
+(Out of Scope),ITS Application Entity,decision support information
+[Out of Scope],Security,decision support information
+[Out of Scope],Mgmt,decision support information
+[Out of Scope],TransNet,decision support information
+[Out of Scope],Access,decision support information
+(None-Comm),Access,decision support information
+(None-Comm),TransNet,decision support information
+(None-Comm),Security,decision support information
+(None-Comm),Mgmt,decision support information
+V-X: WAVE IPv6,TransNet,decision support information
+V-X: WAVE IPv6,TransNet,decision support information
+V-X: WAVE IPv6,Mgmt,decision support information
+V-X: WAVE IPv6,TransNet,decision support information
+V-X: WAVE IPv6,Access,decision support information
+V-X: WAVE IPv6,Security,decision support information
+(Out of Scope),Facilities,decision support information
+(Out of Scope),ITS Application Entity,decision support information
+[Out of Scope],Security,decision support information
+[Out of Scope],Mgmt,decision support information
+[Out of Scope],TransNet,decision support information
+[Out of Scope],Access,decision support information
+(None-Comm),Access,decision support information
+(None-Comm),TransNet,decision support information
+(None-Comm),Security,decision support information
+(None-Comm),Mgmt,decision support information
+(Out of Scope),Facilities,decision support information
+(Out of Scope),ITS Application Entity,decision support information
+[Out of Scope],Security,decision support information
+[Out of Scope],Mgmt,decision support information
+[Out of Scope],TransNet,decision support information
+[Out of Scope],Access,decision support information
+(None-Comm),Access,decision support information
+(None-Comm),TransNet,decision support information
+(None-Comm),Security,decision support information
+(None-Comm),Mgmt,decision support information
+(Out of Scope),Facilities,decision support information
+(Out of Scope),ITS Application Entity,decision support information
+[Out of Scope],Security,decision support information
+[Out of Scope],Mgmt,decision support information
+[Out of Scope],TransNet,decision support information
+[Out of Scope],Access,decision support information
+(None-Comm),Access,decision support information
+(None-Comm),TransNet,decision support information
+(None-Comm),Security,decision support information
+(None-Comm),Mgmt,decision support information
+(Out of Scope),Facilities,decision support information
+(Out of Scope),ITS Application Entity,decision support information
+[Out of Scope],Security,decision support information
+[Out of Scope],Mgmt,decision support information
+[Out of Scope],TransNet,decision support information
+[Out of Scope],Access,decision support information
+(None-Comm),Access,incident command information
+(None-Comm),TransNet,incident command information
+(None-Comm),Security,incident command information
+(None-Comm),Mgmt,incident command information
+(Out of Scope),Facilities,incident command information
+(Out of Scope),ITS Application Entity,incident command information
+[Out of Scope],Security,incident command information
+[Out of Scope],Mgmt,incident command information
+[Out of Scope],TransNet,incident command information
+[Out of Scope],Access,incident command information
+(None-Comm),Access,incident command information coordination
+(None-Comm),TransNet,incident command information coordination
+(None-Comm),Security,incident command information coordination
+(None-Comm),Mgmt,incident command information coordination
+(Out of Scope),Facilities,incident command information coordination
+(Out of Scope),ITS Application Entity,incident command information coordination
+[Out of Scope],Security,incident command information coordination
+[Out of Scope],Mgmt,incident command information coordination
+[Out of Scope],TransNet,incident command information coordination
+[Out of Scope],Access,incident command information coordination
+(None-Comm),Access,incident command information coordination
+(None-Comm),TransNet,incident command information coordination
+(None-Comm),Security,incident command information coordination
+(None-Comm),Mgmt,incident command information coordination
+(Out of Scope),Facilities,incident command information coordination
+(Out of Scope),ITS Application Entity,incident command information coordination
+[Out of Scope],Security,incident command information coordination
+[Out of Scope],Mgmt,incident command information coordination
+[Out of Scope],TransNet,incident command information coordination
+[Out of Scope],Access,incident command information coordination
+(None-Comm),Access,incident command input
+(None-Comm),TransNet,incident command input
+(None-Comm),Security,incident command input
+(None-Comm),Mgmt,incident command input
+(Out of Scope),Facilities,incident command input
+(Out of Scope),ITS Application Entity,incident command input
+[Out of Scope],Security,incident command input
+[Out of Scope],Mgmt,incident command input
+[Out of Scope],TransNet,incident command input
+[Out of Scope],Access,incident command input
+(None-Comm),Access,incident scene images
+(None-Comm),TransNet,incident scene images
+(None-Comm),Security,incident scene images
+(None-Comm),Mgmt,incident scene images
+(Out of Scope),Facilities,incident scene images
+(Out of Scope),ITS Application Entity,incident scene images
+[Out of Scope],Security,incident scene images
+[Out of Scope],Mgmt,incident scene images
+[Out of Scope],TransNet,incident scene images
+[Out of Scope],Access,incident scene images
+(None-Comm),Access,incident scene images
+(None-Comm),TransNet,incident scene images
+(None-Comm),Security,incident scene images
+(None-Comm),Mgmt,incident scene images
+(Out of Scope),Facilities,incident scene images
+(Out of Scope),ITS Application Entity,incident scene images
+[Out of Scope],Security,incident scene images
+[Out of Scope],Mgmt,incident scene images
+[Out of Scope],TransNet,incident scene images
+[Out of Scope],Access,incident scene images
+(None-Comm),Access,incident scene images
+(None-Comm),TransNet,incident scene images
+(None-Comm),Security,incident scene images
+(None-Comm),Mgmt,incident scene images
+(Out of Scope),Facilities,incident scene images
+(Out of Scope),ITS Application Entity,incident scene images
+[Out of Scope],Security,incident scene images
+[Out of Scope],Mgmt,incident scene images
+[Out of Scope],TransNet,incident scene images
+[Out of Scope],Access,incident scene images
+(None-Comm),Access,incident scene images
+(None-Comm),TransNet,incident scene images
+(None-Comm),Security,incident scene images
+(None-Comm),Mgmt,incident scene images
+(Out of Scope),Facilities,incident scene images
+(Out of Scope),ITS Application Entity,incident scene images
+[Out of Scope],Security,incident scene images
+[Out of Scope],Mgmt,incident scene images
+[Out of Scope],TransNet,incident scene images
+[Out of Scope],Access,incident scene images
+(None-Comm),Access,incident scene images
+(None-Comm),TransNet,incident scene images
+(None-Comm),Security,incident scene images
+(None-Comm),Mgmt,incident scene images
+(Out of Scope),Facilities,incident scene images
+(Out of Scope),ITS Application Entity,incident scene images
+[Out of Scope],Security,incident scene images
+[Out of Scope],Mgmt,incident scene images
+[Out of Scope],TransNet,incident scene images
+[Out of Scope],Access,incident scene images
+(None-Comm),Access,incident scene images
+(None-Comm),TransNet,incident scene images
+(None-Comm),Security,incident scene images
+(None-Comm),Mgmt,incident scene images
+(Out of Scope),Facilities,incident scene images
+(Out of Scope),ITS Application Entity,incident scene images
+[Out of Scope],Security,incident scene images
+[Out of Scope],Mgmt,incident scene images
+[Out of Scope],TransNet,incident scene images
+[Out of Scope],Access,incident scene images
+(None-Comm),Access,incident scene status
+(None-Comm),TransNet,incident scene status
+(None-Comm),Security,incident scene status
+(None-Comm),Mgmt,incident scene status
+(Out of Scope),Facilities,incident scene status
+(Out of Scope),ITS Application Entity,incident scene status
+[Out of Scope],Security,incident scene status
+[Out of Scope],Mgmt,incident scene status
+[Out of Scope],TransNet,incident scene status
+[Out of Scope],Access,incident scene status
+(None-Comm),Access,incident scene status
+(None-Comm),TransNet,incident scene status
+(None-Comm),Security,incident scene status
+(None-Comm),Mgmt,incident scene status
+(Out of Scope),Facilities,incident scene status
+(Out of Scope),ITS Application Entity,incident scene status
+[Out of Scope],Security,incident scene status
+[Out of Scope],Mgmt,incident scene status
+[Out of Scope],TransNet,incident scene status
+[Out of Scope],Access,incident scene status
+(None-Comm),Access,incident scene status
+(None-Comm),TransNet,incident scene status
+(None-Comm),Security,incident scene status
+(None-Comm),Mgmt,incident scene status
+(Out of Scope),Facilities,incident scene status
+(Out of Scope),ITS Application Entity,incident scene status
+[Out of Scope],Security,incident scene status
+[Out of Scope],Mgmt,incident scene status
+[Out of Scope],TransNet,incident scene status
+[Out of Scope],Access,incident scene status
+(None-Comm),Access,incident scene status
+(None-Comm),TransNet,incident scene status
+(None-Comm),Security,incident scene status
+(None-Comm),Mgmt,incident scene status
+(Out of Scope),Facilities,incident scene status
+(Out of Scope),ITS Application Entity,incident scene status
+[Out of Scope],Security,incident scene status
+[Out of Scope],Mgmt,incident scene status
+[Out of Scope],TransNet,incident scene status
+[Out of Scope],Access,incident scene status
+(None-Comm),Access,incident scene status
+(None-Comm),TransNet,incident scene status
+(None-Comm),Security,incident scene status
+(None-Comm),Mgmt,incident scene status
+(Out of Scope),Facilities,incident scene status
+(Out of Scope),ITS Application Entity,incident scene status
+[Out of Scope],Security,incident scene status
+[Out of Scope],Mgmt,incident scene status
+[Out of Scope],TransNet,incident scene status
+[Out of Scope],Access,incident scene status
+(None-Comm),Access,incident scene status
+(None-Comm),TransNet,incident scene status
+(None-Comm),Security,incident scene status
+(None-Comm),Mgmt,incident scene status
+(Out of Scope),Facilities,incident scene status
+(Out of Scope),ITS Application Entity,incident scene status
+[Out of Scope],Security,incident scene status
+[Out of Scope],Mgmt,incident scene status
+[Out of Scope],TransNet,incident scene status
+[Out of Scope],Access,incident scene status
+(None-Comm),Access,patient transport status
+(None-Comm),TransNet,patient transport status
+(None-Comm),Security,patient transport status
+(None-Comm),Mgmt,patient transport status
+(Out of Scope),Facilities,patient transport status
+(Out of Scope),ITS Application Entity,patient transport status
+[Out of Scope],Security,patient transport status
+[Out of Scope],Mgmt,patient transport status
+[Out of Scope],TransNet,patient transport status
+[Out of Scope],Access,patient transport status
+[Out of Scope],Access,patient transport status
+(None-Data),ITS Application Entity,personnel location
+(None-Data),Facilities,personnel location
+(None-Data),ITS Application Entity,personnel location
+(None-Data),Facilities,personnel location
+(None-Data),ITS Application Entity,personnel location
+V-X: WAVE WSMP,Access,personnel location
+V-X: WAVE WSMP,Security,personnel location
+V-X: WAVE WSMP,TransNet,personnel location
+V-X: WAVE WSMP,Mgmt,personnel location
+US: SAE VRU Messages,ITS Application Entity,personnel location
+US: SAE VRU Messages,Facilities,personnel location
+US: SAE VRU Messages,ITS Application Entity,personnel location
+US: SAE VRU Messages,Facilities,personnel location
+US: SAE VRU Messages,ITS Application Entity,personnel location
+V-X: BTP/GeoNetworking/G5,Access,personnel location
+V-X: BTP/GeoNetworking/G5,TransNet,personnel location
+V-X: BTP/GeoNetworking/G5,Security,personnel location
+V-X: BTP/GeoNetworking/G5,Mgmt,personnel location
+V-X: BTP/GeoNetworking/G5,Mgmt,personnel location
+V-X: LTE-V2X WSMP,TransNet,personnel location
+V-X: LTE-V2X WSMP,Mgmt,personnel location
+V-X: LTE-V2X WSMP,Mgmt,personnel location
+V-X: LTE-V2X WSMP,Access,personnel location
+V-X: LTE-V2X WSMP,Mgmt,personnel location
+V-X: LTE-V2X WSMP,Security,personnel location
+(None-Data),Facilities,personnel location
+(None-Data),ITS Application Entity,personnel location
+(None-Data),Facilities,personnel location
+(None-Data),ITS Application Entity,personnel location
+(None-Data),Facilities,personnel location
+(None-Data),ITS Application Entity,personnel location
+V-X: WAVE WSMP,Access,personnel location
+V-X: WAVE WSMP,Security,personnel location
+V-X: WAVE WSMP,TransNet,personnel location
+V-X: WAVE WSMP,Mgmt,personnel location
+US: SAE VRU Messages,ITS Application Entity,personnel location
+US: SAE VRU Messages,Facilities,personnel location
+US: SAE VRU Messages,ITS Application Entity,personnel location
+US: SAE VRU Messages,Facilities,personnel location
+US: SAE VRU Messages,ITS Application Entity,personnel location
+V-X: BTP/GeoNetworking/G5,Access,personnel location
+V-X: BTP/GeoNetworking/G5,TransNet,personnel location
+V-X: BTP/GeoNetworking/G5,Security,personnel location
+V-X: BTP/GeoNetworking/G5,Mgmt,personnel location
+V-X: BTP/GeoNetworking/G5,Mgmt,personnel location
+V-X: LTE-V2X WSMP,TransNet,personnel location
+V-X: LTE-V2X WSMP,Mgmt,personnel location
+V-X: LTE-V2X WSMP,Mgmt,personnel location
+V-X: LTE-V2X WSMP,Access,personnel location
+V-X: LTE-V2X WSMP,Mgmt,personnel location
+V-X: LTE-V2X WSMP,Security,personnel location
+(Out of Scope),Facilities,personnel location
+(Out of Scope),ITS Application Entity,personnel location
+[Out of Scope],Security,personnel location
+[Out of Scope],Mgmt,personnel location
+[Out of Scope],TransNet,personnel location
+[Out of Scope],Access,personnel location
+(None-Comm),Access,personnel location
+(None-Comm),TransNet,personnel location
+(None-Comm),Security,personnel location
+(None-Comm),Mgmt,personnel location
+(Out of Scope),Facilities,personnel location
+(Out of Scope),ITS Application Entity,personnel location
+[Out of Scope],Security,personnel location
+[Out of Scope],Mgmt,personnel location
+[Out of Scope],TransNet,personnel location
+[Out of Scope],Access,personnel location

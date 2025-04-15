@@ -1,0 +1,47 @@
+﻿InformationFlowName,Confidentiality,Integrity,Availability,FIPSsStandard
+driver to fleet request,High,Moderate,Moderate,TRUE
+on-board safety data,High,High,Moderate,TRUE
+on-board vehicle data,Moderate,Moderate,Moderate,TRUE
+trip log,Moderate,Moderate,Moderate,TRUE
+commercial vehicle location data,Moderate,Moderate,Moderate,TRUE
+cv driver safety status,Moderate,High,Moderate,TRUE
+trip log information,Moderate,Moderate,Moderate,TRUE
+cv driver safety alert,Low,High,High,TRUE
+fleet to driver update,High,Moderate,Moderate,TRUE
+fleet status,Moderate,High,High,TRUE
+cv repair status,Moderate,Moderate,Low,TRUE
+road network conditions,Low,Moderate,Moderate,TRUE
+incident information for public,Low,Moderate,Moderate,TRUE
+cv driver input,Moderate,Moderate,Moderate,TRUE
+fleet manager inquiry,Moderate,High,High,TRUE
+credentials status information,High,Moderate,Moderate,TRUE
+cv driver record,High,High,Moderate,TRUE
+route restrictions,Low,Moderate,Low,TRUE
+host commercial vehicle status,Moderate,Moderate,Moderate,TRUE
+location and time,Moderate,High,High,TRUE
+commercial vehicle location data,Moderate,Moderate,Moderate,TRUE
+hazmat notification,Moderate,High,High,TRUE
+commercial vehicle location data,Moderate,Moderate,Moderate,TRUE
+freight equipment information,Moderate,Moderate,Moderate,TRUE
+hazmat notification,High,High,High,TRUE
+hazmat information request,Moderate,Moderate,Moderate,TRUE
+hazmat information,High,High,High,TRUE
+commercial vehicle location data,Moderate,Moderate,Moderate,TRUE
+hazmat information,High,High,High,TRUE
+hazmat notification,High,High,High,TRUE
+freight equipment information,Moderate,Moderate,Moderate,TRUE
+freight equipment information,Moderate,Moderate,Moderate,TRUE
+decision support information,Moderate,Moderate,Moderate,TRUE
+emergency operations input,Moderate,High,High,FALSE
+emergency operations status,Moderate,High,High,FALSE
+emergency personnel information presentation,Moderate,Moderate,Moderate,FALSE
+emergency personnel input,Moderate,Moderate,Moderate,FALSE
+incident command information,Moderate,Moderate,Moderate,TRUE
+incident command information coordination,Moderate,Moderate,Moderate,TRUE
+incident command input,Moderate,Moderate,Moderate,TRUE
+incident scene images,Moderate,Moderate,Moderate,TRUE
+incident scene status,Moderate,Moderate,Moderate,TRUE
+patient transport status,High,High,High,TRUE
+personnel input,Low,Moderate,Low,FALSE
+personnel location,Not Applicable,High,Moderate,FALSE
+personnel location,Low,High,Moderate,FALSE
