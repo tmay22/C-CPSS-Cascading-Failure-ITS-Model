@@ -1,0 +1,1412 @@
+﻿Source,InformationFlow,Destination,SourceLayer,DestLayer
+Bangkok Emergency Management Center,incident command information coordination,Pnom Pehn Emergency Management Center,Physical,Physical
+Bangkok Emergency Management Center,incident command information coordination,Khorathidin Regional Emergency Management Center,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information coordination,Bangkok Emergency Management Center,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information coordination,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information coordination,Bangkok Emergency Management Center,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information coordination,Pnom Pehn Emergency Management Center,Physical,Physical
+Bangkok Emergency Management Center,decision support information,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Emergency Management Center,decision support information,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Emergency Management Center,decision support information,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Emergency Management Center,decision support information,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Emergency Management Center,decision support information,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Emergency Management Center,decision support information,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Emergency Management Center,decision support information,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Emergency Management Center,decision support information,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Emergency Management Center,decision support information,Bangkok Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Emergency Management Center,decision support information,Bangkok Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,Pnom Pehn Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,Pnom Pehn Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Emergency Management Center,incident command information coordination,Pnom Pehn Emergency Management Center,Physical,Physical
+Bangkok Emergency Management Center,incident command information coordination,Khorathidin Regional Emergency Management Center,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information coordination,Bangkok Emergency Management Center,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information coordination,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information coordination,Bangkok Emergency Management Center,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information coordination,Pnom Pehn Emergency Management Center,Physical,Physical
+Bangkok Emergency Management Center,emergency operations status,Kittipong Suthamchai - Emergency System Operator,Physical,Physical
+Bangkok Emergency Management Center,emergency operations status,Nattaporn Rattanapong - Emergency System Operator,Physical,Physical
+Bangkok Emergency Management Center,emergency operations status,Sasithorn Boonyasiri - Emergency System Operator,Physical,Physical
+Bangkok Emergency Management Center,emergency operations status,Worachai Kanchanarat - Emergency System Operator,Physical,Physical
+Bangkok Emergency Management Center,emergency operations status,Pimnara Chotiphan - Emergency System Operator,Physical,Physical
+Pnom Pehn Emergency Management Center,emergency operations status,Anusorn Wattanachai - Emergency System Operator,Physical,Physical
+Pnom Pehn Emergency Management Center,emergency operations status,Jirapat Srisuwan - Emergency System Operator,Physical,Physical
+Khorathidin Regional Emergency Management Center,emergency operations status,Lalita Phanichkul - Emergency System Operator,Physical,Physical
+Khorathidin Regional Emergency Management Center,emergency operations status,Thanawat Thongprasert - Emergency System Operator,Physical,Physical
+Khorathidin Regional Emergency Management Center,emergency operations status,Oranuch Siripong - Emergency System Operator,Physical,Physical
+Kittipong Suthamchai - Emergency System Operator,emergency operations input,Bangkok Emergency Management Center,Physical,Physical
+Nattaporn Rattanapong - Emergency System Operator,emergency operations input,Bangkok Emergency Management Center,Physical,Physical
+Sasithorn Boonyasiri - Emergency System Operator,emergency operations input,Bangkok Emergency Management Center,Physical,Physical
+Worachai Kanchanarat - Emergency System Operator,emergency operations input,Bangkok Emergency Management Center,Physical,Physical
+Pimnara Chotiphan - Emergency System Operator,emergency operations input,Bangkok Emergency Management Center,Physical,Physical
+Anusorn Wattanachai - Emergency System Operator,emergency operations input,Pnom Pehn Emergency Management Center,Physical,Physical
+Jirapat Srisuwan - Emergency System Operator,emergency operations input,Pnom Pehn Emergency Management Center,Physical,Physical
+Lalita Phanichkul - Emergency System Operator,emergency operations input,Khorathidin Regional Emergency Management Center,Physical,Physical
+Thanawat Thongprasert - Emergency System Operator,emergency operations input,Khorathidin Regional Emergency Management Center,Physical,Physical
+Oranuch Siripong - Emergency System Operator,emergency operations input,Khorathidin Regional Emergency Management Center,Physical,Physical
+Bangkok Emergency Management Center,decision support information,357192084561234 Galaxy S25 Ultra - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,864209153782145 iPhone 16 Pro Max - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,351984206713589 Pixel 9 XL - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,864512309876231 Xperia Z7 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,352091847563210 OnePlus 13T - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,861234509876543 Redmi Note 15 Pro - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,359876120345678 Moto G100 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,864209875612340 Nokia X50 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,352098761234567 Huawei P60 Pro - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,861234567890123 Oppo Find X7 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,352091234567890 Vivo X90 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,861234098765432 Realme GT Neo 6 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,352098765432109 Asus ROG Phone 8 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,861234567809876 Lenovo Legion Y90 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,352091234098765 Honor Magic 6 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,861234567801234 ZTE Axon 50 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,352098765401234 BlackBerry Key5 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,861234567890124 HTC U23 Pro - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,352091234567801 Sony Xperia 1 VI - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,decision support information,861234567890125 LG Velvet 2 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,352098765432101 Meizu 20 Pro - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,861234567890126 Sharp Aquos R8 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,352091234567802 Micromax Infinity 5 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,861234567890127 Infinix Zero Ultra - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,352098765432102 Tecno Phantom X3 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,861234567890128 Itel Vision 5 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,352091234567803 Lava Agni 3 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,861234567890129 Coolpad Legacy 2 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,352098765432103 Alcatel 5X - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,861234567890130 Fairphone 5 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,352091234567804 Cat S65 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,861234567890131 Doogee S100 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,352098765432104 Ulefone Armor 15 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,decision support information,861234567890132 BLU G91 Max - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,352091234567805 Kyocera DuraForce Ultra - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,861234567890133 Palm Phone 2 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,352098765432105 Google Pixel Fold - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,352091234567806 Motorola Razr 2025 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,861234567890135 Xiaomi Mi Mix 5 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,351982104567890 Galaxy S26 Ultra - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,864209153784321 iPhone 17 Pro Max - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,352091847563211 Pixel 10 XL - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,864512309876232 Xperia Z8 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,352091847563212 OnePlus 14T - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,861234509876544 Redmi Note 16 Pro - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,359876120345679 Moto G200 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,864209875612341 Nokia X60 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,352098761234568 Huawei P70 Pro - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,861234567890124 Oppo Find X8 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,352091234567891 Vivo X100 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,861234098765433 Realme GT Neo 7 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,352098765432110 Asus ROG Phone 9 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,861234567809877 Lenovo Legion Y100 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,352091234098766 Honor Magic 7 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,861234567801235 ZTE Axon 60 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,352098765401235 BlackBerry Key6 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,861234567890125 HTC U24 Pro - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,352091234567802 Sony Xperia 1 VII - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,decision support information,861234567890126 LG Velvet 3 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,357192084561234 Galaxy S25 Ultra - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,864209153782145 iPhone 16 Pro Max - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,351984206713589 Pixel 9 XL - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,864512309876231 Xperia Z7 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,352091847563210 OnePlus 13T - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,861234509876543 Redmi Note 15 Pro - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,359876120345678 Moto G100 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,864209875612340 Nokia X50 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,352098761234567 Huawei P60 Pro - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,861234567890123 Oppo Find X7 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,352091234567890 Vivo X90 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,861234098765432 Realme GT Neo 6 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,352098765432109 Asus ROG Phone 8 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,861234567809876 Lenovo Legion Y90 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,352091234098765 Honor Magic 6 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,861234567801234 ZTE Axon 50 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,352098765401234 BlackBerry Key5 - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,861234567890124 HTC U23 Pro - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,352091234567801 Sony Xperia 1 VI - Personnel Device,Physical,Physical
+Bangkok Emergency Management Center,incident command information,861234567890125 LG Velvet 2 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information,352098765432101 Meizu 20 Pro - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information,861234567890126 Sharp Aquos R8 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information,352091234567802 Micromax Infinity 5 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information,861234567890127 Infinix Zero Ultra - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information,352098765432102 Tecno Phantom X3 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information,861234567890128 Itel Vision 5 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information,352091234567803 Lava Agni 3 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information,861234567890129 Coolpad Legacy 2 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information,352098765432103 Alcatel 5X - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information,861234567890130 Fairphone 5 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information,352091234567804 Cat S65 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information,861234567890131 Doogee S100 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information,352098765432104 Ulefone Armor 15 - Personnel Device,Physical,Physical
+Pnom Pehn Emergency Management Center,incident command information,861234567890132 BLU G91 Max - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,352091234567805 Kyocera DuraForce Ultra - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,861234567890133 Palm Phone 2 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,352098765432105 Google Pixel Fold - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,352091234567806 Motorola Razr 2025 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,861234567890135 Xiaomi Mi Mix 5 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,351982104567890 Galaxy S26 Ultra - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,864209153784321 iPhone 17 Pro Max - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,352091847563211 Pixel 10 XL - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,864512309876232 Xperia Z8 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,352091847563212 OnePlus 14T - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,861234509876544 Redmi Note 16 Pro - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,359876120345679 Moto G200 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,864209875612341 Nokia X60 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,352098761234568 Huawei P70 Pro - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,861234567890124 Oppo Find X8 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,352091234567891 Vivo X100 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,861234098765433 Realme GT Neo 7 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,352098765432110 Asus ROG Phone 9 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,861234567809877 Lenovo Legion Y100 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,352091234098766 Honor Magic 7 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,861234567801235 ZTE Axon 60 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,352098765401235 BlackBerry Key6 - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,861234567890125 HTC U24 Pro - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,352091234567802 Sony Xperia 1 VII - Personnel Device,Physical,Physical
+Khorathidin Regional Emergency Management Center,incident command information,861234567890126 LG Velvet 3 - Personnel Device,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,emergency personnel information presentation,Kamonchanok Srisuwan - Emergency Personnel,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,emergency personnel information presentation,Nattapong Wattanachai - Emergency Personnel,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,emergency personnel information presentation,Pimchanok Boonyarat - Emergency Personnel,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,emergency personnel information presentation,Thanakorn Rattanapong - Emergency Personnel,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,emergency personnel information presentation,Supalak Thongchai - Emergency Personnel,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,emergency personnel information presentation,Ananda Chaisuriyakul - Emergency Personnel,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,emergency personnel information presentation,Kritsada Phanurat - Emergency Personnel,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,emergency personnel information presentation,Nicha Suphaphanich - Emergency Personnel,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,emergency personnel information presentation,Ornpreeya Sakulchai - Emergency Personnel,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,emergency personnel information presentation,Ratchata Nimsakul - Emergency Personnel,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,emergency personnel information presentation,Sakchai Pradchaphet - Emergency Personnel,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,emergency personnel information presentation,Tassanee Yodkamol - Emergency Personnel,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,emergency personnel information presentation,Udom Siripong - Emergency Personnel,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,emergency personnel information presentation,Vichai Thongprasert - Emergency Personnel,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,emergency personnel information presentation,Wanida Kittisakul - Emergency Personnel,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,emergency personnel information presentation,Yutthana Chaisuwan - Emergency Personnel,Physical,Physical
+Bangkok Fire 01 - Emergency Vehicle OBE,emergency personnel information presentation,Amara Boonyasiri - Emergency Personnel,Physical,Physical
+Bangkok Fire 01 - Emergency Vehicle OBE,emergency personnel information presentation,Boonchai Tansakul - Emergency Personnel,Physical,Physical
+Bangkok Fire 02 - Emergency Vehicle OBE,emergency personnel information presentation,Chutima Pattanapong - Emergency Personnel,Physical,Physical
+Bangkok Fire 02 - Emergency Vehicle OBE,emergency personnel information presentation,Duangjai Wongthip - Emergency Personnel,Physical,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,emergency personnel information presentation,Ekachai Suwannarat - Emergency Personnel,Physical,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,emergency personnel information presentation,Fuangfah Kittipong - Emergency Personnel,Physical,Physical
+Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,emergency personnel information presentation,Gun Noppakun - Emergency Personnel,Physical,Physical
+Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,emergency personnel information presentation,Hansa Chotirat - Emergency Personnel,Physical,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,emergency personnel information presentation,Inthira Saengchai - Emergency Personnel,Physical,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,emergency personnel information presentation,Jariya Phanichkul - Emergency Personnel,Physical,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,emergency personnel information presentation,Kamol Boonsri - Emergency Personnel,Physical,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,emergency personnel information presentation,Lawan Thongchai - Emergency Personnel,Physical,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,emergency personnel information presentation,Metha Rattanapong - Emergency Personnel,Physical,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,emergency personnel information presentation,Nattaya Kongsiri - Emergency Personnel,Physical,Physical
+Pnom Pehn Fire 01 - Emergency Vehicle OBE,emergency personnel information presentation,Anusorn Wattanapanich - Emergency Personnel,Physical,Physical
+Pnom Pehn Fire 01 - Emergency Vehicle OBE,emergency personnel information presentation,Darika Suphakit - Emergency Personnel,Physical,Physical
+Pnom Pehn Fire 02 - Emergency Vehicle OBE,emergency personnel information presentation,Ekkachai Prasertkul - Emergency Personnel,Physical,Physical
+Pnom Pehn Fire 02 - Emergency Vehicle OBE,emergency personnel information presentation,Fon Chantarak - Emergency Personnel,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,emergency personnel information presentation,Ganya Rattanawan - Emergency Personnel,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,emergency personnel information presentation,Hiran Phongpanich - Emergency Personnel,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,emergency personnel information presentation,Issara Wongchai - Emergency Personnel,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,emergency personnel information presentation,Jirawat Boonmee - Emergency Personnel,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,emergency personnel information presentation,Kanchana Srisopa - Emergency Personnel,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,emergency personnel information presentation,Lalita Thanaporn - Emergency Personnel,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,emergency personnel information presentation,Manop Chotiphan - Emergency Personnel,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,emergency personnel information presentation,Napat Srisuwan - Emergency Personnel,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,emergency personnel information presentation,Orawan Srisopa - Emergency Personnel,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,emergency personnel information presentation,Pattaraporn Jitpraphai - Emergency Personnel,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,emergency personnel information presentation,Phanupong Wongpracha - Emergency Personnel,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,emergency personnel information presentation,Ratchanee Jitsakulchai - Emergency Personnel,Physical,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,emergency personnel information presentation,Somchai Wattanapanichkul - Emergency Personnel,Physical,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,emergency personnel information presentation,Tanaporn Boonprakob - Emergency Personnel,Physical,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,emergency personnel information presentation,Uthai Sirisopa - Emergency Personnel,Physical,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,emergency personnel information presentation,Viyada Thanaratkul - Emergency Personnel,Physical,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,emergency personnel information presentation,Worawut Chaisiriwanichkul - Emergency Personnel,Physical,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,emergency personnel information presentation,Yuwadee Phongsiriwanichkul - Emergency Personnel,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,emergency personnel information presentation,Arthit Kanchanapong - Emergency Personnel,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,emergency personnel information presentation,Benjamas Thammarat - Emergency Personnel,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,emergency personnel information presentation,Chaiwat Phanurat - Emergency Personnel,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,emergency personnel information presentation,Ekkarat Suwannarat - Emergency Personnel,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,emergency personnel information presentation,Fah Thongprasert - Emergency Personnel,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,emergency personnel information presentation,Gun Noppadolchai - Emergency Personnel,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,emergency personnel information presentation,Hansa Chotiphanichkul - Emergency Personnel,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,emergency personnel information presentation,Inthira Saengsuwan - Emergency Personnel,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Fire 01 - Emergency Vehicle OBE,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Fire 02 - Emergency Vehicle OBE,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+Pnom Pehn Fire 01 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+Pnom Pehn Fire 02 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Fire 01 - Emergency Vehicle OBE,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Fire 02 - Emergency Vehicle OBE,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+Pnom Pehn Fire 01 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+Pnom Pehn Fire 02 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,patient transport status,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,patient transport status,Bangkok Emergency Management Center,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,patient transport status,Bangkok Emergency Management Center,Physical,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,patient transport status,Pnom Pehn Emergency Management Center,Physical,Physical
+Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,patient transport status,Pnom Pehn Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,patient transport status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,patient transport status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,patient transport status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,patient transport status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,patient transport status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,patient transport status,Khorathidin Regional Emergency Management Center,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,decision support information,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,incident scene status,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,incident scene images,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,decision support information,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,incident scene status,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,incident scene images,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,decision support information,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,incident scene status,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,incident scene images,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,decision support information,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,incident scene status,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,incident scene images,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,decision support information,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,incident scene status,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,incident scene images,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,decision support information,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,incident scene status,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,incident scene images,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,decision support information,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,incident scene status,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,incident scene images,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,decision support information,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,incident scene status,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,incident scene images,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,decision support information,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,incident scene status,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,incident scene images,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,decision support information,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,incident scene status,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,incident scene images,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,decision support information,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,incident scene status,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,incident scene images,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,decision support information,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,incident scene status,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,incident scene images,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,decision support information,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,incident scene status,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,incident scene images,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,decision support information,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,incident scene status,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,incident scene images,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,decision support information,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,incident scene status,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,incident scene images,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,decision support information,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,incident scene status,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,incident scene images,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,decision support information,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,incident scene status,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,incident scene images,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,decision support information,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,incident scene status,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,incident scene images,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,decision support information,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,incident scene status,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,incident scene images,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,decision support information,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,incident scene status,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,incident scene images,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,decision support information,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,incident scene status,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,incident scene images,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,decision support information,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,incident scene status,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,incident scene images,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,decision support information,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,incident scene status,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,incident scene images,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,decision support information,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,incident scene status,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,incident scene images,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,decision support information,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,incident scene status,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,incident scene images,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,decision support information,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,incident scene status,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,incident scene images,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Fire 01 - Emergency Vehicle OBE,decision support information,Bangkok Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Fire 01 - Emergency Vehicle OBE,incident scene status,Bangkok Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Fire 01 - Emergency Vehicle OBE,incident scene images,Bangkok Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Fire 02 - Emergency Vehicle OBE,decision support information,Bangkok Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Fire 02 - Emergency Vehicle OBE,incident scene status,Bangkok Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Fire 02 - Emergency Vehicle OBE,incident scene images,Bangkok Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,decision support information,Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,decision support information,Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,decision support information,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,decision support information,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,decision support information,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,decision support information,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,decision support information,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,decision support information,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Fire 01 - Emergency Vehicle OBE,decision support information,Pnom Pehn Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Fire 01 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Fire 01 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Fire 02 - Emergency Vehicle OBE,decision support information,Pnom Pehn Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Fire 02 - Emergency Vehicle OBE,incident scene status,Pnom Pehn Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Pnom Pehn Fire 02 - Emergency Vehicle OBE,incident scene images,Pnom Pehn Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,decision support information,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,incident scene status,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,incident scene images,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,decision support information,357192084561234 Galaxy S25 Ultra - Personnel Device,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,decision support information,864209153782145 iPhone 16 Pro Max - Personnel Device,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,decision support information,351984206713589 Pixel 9 XL - Personnel Device,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,decision support information,864512309876231 Xperia Z7 - Personnel Device,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,decision support information,352091847563210 OnePlus 13T - Personnel Device,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,decision support information,861234509876543 Redmi Note 15 Pro - Personnel Device,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,decision support information,359876120345678 Moto G100 - Personnel Device,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,decision support information,864209875612340 Nokia X50 - Personnel Device,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,decision support information,352098761234567 Huawei P60 Pro - Personnel Device,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,decision support information,861234567890123 Oppo Find X7 - Personnel Device,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,decision support information,352091234567890 Vivo X90 - Personnel Device,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,decision support information,861234098765432 Realme GT Neo 6 - Personnel Device,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,decision support information,352098765432109 Asus ROG Phone 8 - Personnel Device,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,decision support information,861234567809876 Lenovo Legion Y90 - Personnel Device,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,decision support information,352091234098765 Honor Magic 6 - Personnel Device,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,decision support information,861234567801234 ZTE Axon 50 - Personnel Device,Physical,Physical
+Bangkok Fire 01 - Emergency Vehicle OBE,decision support information,352098765401234 BlackBerry Key5 - Personnel Device,Physical,Physical
+Bangkok Fire 01 - Emergency Vehicle OBE,decision support information,861234567890124 HTC U23 Pro - Personnel Device,Physical,Physical
+Bangkok Fire 02 - Emergency Vehicle OBE,decision support information,352091234567801 Sony Xperia 1 VI - Personnel Device,Physical,Physical
+Bangkok Fire 02 - Emergency Vehicle OBE,decision support information,861234567890125 LG Velvet 2 - Personnel Device,Physical,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,decision support information,352098765432101 Meizu 20 Pro - Personnel Device,Physical,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,decision support information,861234567890126 Sharp Aquos R8 - Personnel Device,Physical,Physical
+Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,decision support information,352091234567802 Micromax Infinity 5 - Personnel Device,Physical,Physical
+Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,decision support information,861234567890127 Infinix Zero Ultra - Personnel Device,Physical,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,decision support information,352098765432102 Tecno Phantom X3 - Personnel Device,Physical,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,decision support information,861234567890128 Itel Vision 5 - Personnel Device,Physical,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,decision support information,352091234567803 Lava Agni 3 - Personnel Device,Physical,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,decision support information,861234567890129 Coolpad Legacy 2 - Personnel Device,Physical,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,decision support information,352098765432103 Alcatel 5X - Personnel Device,Physical,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,decision support information,861234567890130 Fairphone 5 - Personnel Device,Physical,Physical
+Pnom Pehn Fire 01 - Emergency Vehicle OBE,decision support information,352091234567804 Cat S65 - Personnel Device,Physical,Physical
+Pnom Pehn Fire 01 - Emergency Vehicle OBE,decision support information,861234567890131 Doogee S100 - Personnel Device,Physical,Physical
+Pnom Pehn Fire 02 - Emergency Vehicle OBE,decision support information,352098765432104 Ulefone Armor 15 - Personnel Device,Physical,Physical
+Pnom Pehn Fire 02 - Emergency Vehicle OBE,decision support information,861234567890132 BLU G91 Max - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,decision support information,352091234567805 Kyocera DuraForce Ultra - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,decision support information,861234567890133 Palm Phone 2 - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,decision support information,352098765432105 Google Pixel Fold - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,decision support information,861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,decision support information,352091234567806 Motorola Razr 2025 - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,decision support information,861234567890135 Xiaomi Mi Mix 5 - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,decision support information,351982104567890 Galaxy S26 Ultra - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,decision support information,864209153784321 iPhone 17 Pro Max - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,decision support information,352091847563211 Pixel 10 XL - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,decision support information,864512309876232 Xperia Z8 - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,decision support information,352091847563212 OnePlus 14T - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,decision support information,861234509876544 Redmi Note 16 Pro - Personnel Device,Physical,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,decision support information,359876120345679 Moto G200 - Personnel Device,Physical,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,decision support information,864209875612341 Nokia X60 - Personnel Device,Physical,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,decision support information,352098761234568 Huawei P70 Pro - Personnel Device,Physical,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,decision support information,861234567890124 Oppo Find X8 - Personnel Device,Physical,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,decision support information,352091234567891 Vivo X100 - Personnel Device,Physical,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,decision support information,861234098765433 Realme GT Neo 7 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,decision support information,352098765432110 Asus ROG Phone 9 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,decision support information,861234567809877 Lenovo Legion Y100 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,decision support information,352091234098766 Honor Magic 7 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,decision support information,861234567801235 ZTE Axon 60 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,decision support information,352098765401235 BlackBerry Key6 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,decision support information,861234567890125 HTC U24 Pro - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,decision support information,352091234567802 Sony Xperia 1 VII - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,decision support information,861234567890126 LG Velvet 3 - Personnel Device,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,incident scene status,357192084561234 Galaxy S25 Ultra - Personnel Device,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,incident scene status,864209153782145 iPhone 16 Pro Max - Personnel Device,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,incident scene status,351984206713589 Pixel 9 XL - Personnel Device,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,incident scene status,864512309876231 Xperia Z7 - Personnel Device,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,incident scene status,352091847563210 OnePlus 13T - Personnel Device,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,incident scene status,861234509876543 Redmi Note 15 Pro - Personnel Device,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,incident scene status,359876120345678 Moto G100 - Personnel Device,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,incident scene status,864209875612340 Nokia X50 - Personnel Device,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,incident scene status,352098761234567 Huawei P60 Pro - Personnel Device,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,incident scene status,861234567890123 Oppo Find X7 - Personnel Device,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,incident scene status,352091234567890 Vivo X90 - Personnel Device,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,incident scene status,861234098765432 Realme GT Neo 6 - Personnel Device,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,incident scene status,352098765432109 Asus ROG Phone 8 - Personnel Device,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,incident scene status,861234567809876 Lenovo Legion Y90 - Personnel Device,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,incident scene status,352091234098765 Honor Magic 6 - Personnel Device,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,incident scene status,861234567801234 ZTE Axon 50 - Personnel Device,Physical,Physical
+Bangkok Fire 01 - Emergency Vehicle OBE,incident scene status,352098765401234 BlackBerry Key5 - Personnel Device,Physical,Physical
+Bangkok Fire 01 - Emergency Vehicle OBE,incident scene status,861234567890124 HTC U23 Pro - Personnel Device,Physical,Physical
+Bangkok Fire 02 - Emergency Vehicle OBE,incident scene status,352091234567801 Sony Xperia 1 VI - Personnel Device,Physical,Physical
+Bangkok Fire 02 - Emergency Vehicle OBE,incident scene status,861234567890125 LG Velvet 2 - Personnel Device,Physical,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,incident scene status,352098765432101 Meizu 20 Pro - Personnel Device,Physical,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,incident scene status,861234567890126 Sharp Aquos R8 - Personnel Device,Physical,Physical
+Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,incident scene status,352091234567802 Micromax Infinity 5 - Personnel Device,Physical,Physical
+Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,incident scene status,861234567890127 Infinix Zero Ultra - Personnel Device,Physical,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,incident scene status,352098765432102 Tecno Phantom X3 - Personnel Device,Physical,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,incident scene status,861234567890128 Itel Vision 5 - Personnel Device,Physical,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,incident scene status,352091234567803 Lava Agni 3 - Personnel Device,Physical,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,incident scene status,861234567890129 Coolpad Legacy 2 - Personnel Device,Physical,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,incident scene status,352098765432103 Alcatel 5X - Personnel Device,Physical,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,incident scene status,861234567890130 Fairphone 5 - Personnel Device,Physical,Physical
+Pnom Pehn Fire 01 - Emergency Vehicle OBE,incident scene status,352091234567804 Cat S65 - Personnel Device,Physical,Physical
+Pnom Pehn Fire 01 - Emergency Vehicle OBE,incident scene status,861234567890131 Doogee S100 - Personnel Device,Physical,Physical
+Pnom Pehn Fire 02 - Emergency Vehicle OBE,incident scene status,352098765432104 Ulefone Armor 15 - Personnel Device,Physical,Physical
+Pnom Pehn Fire 02 - Emergency Vehicle OBE,incident scene status,861234567890132 BLU G91 Max - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,incident scene status,352091234567805 Kyocera DuraForce Ultra - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,incident scene status,861234567890133 Palm Phone 2 - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,incident scene status,352098765432105 Google Pixel Fold - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,incident scene status,861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,incident scene status,352091234567806 Motorola Razr 2025 - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,incident scene status,861234567890135 Xiaomi Mi Mix 5 - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,incident scene status,351982104567890 Galaxy S26 Ultra - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,incident scene status,864209153784321 iPhone 17 Pro Max - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,incident scene status,352091847563211 Pixel 10 XL - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,incident scene status,864512309876232 Xperia Z8 - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,incident scene status,352091847563212 OnePlus 14T - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,incident scene status,861234509876544 Redmi Note 16 Pro - Personnel Device,Physical,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,incident scene status,359876120345679 Moto G200 - Personnel Device,Physical,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,incident scene status,864209875612341 Nokia X60 - Personnel Device,Physical,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,incident scene status,352098761234568 Huawei P70 Pro - Personnel Device,Physical,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,incident scene status,861234567890124 Oppo Find X8 - Personnel Device,Physical,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,incident scene status,352091234567891 Vivo X100 - Personnel Device,Physical,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,incident scene status,861234098765433 Realme GT Neo 7 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,incident scene status,352098765432110 Asus ROG Phone 9 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,incident scene status,861234567809877 Lenovo Legion Y100 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,incident scene status,352091234098766 Honor Magic 7 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,incident scene status,861234567801235 ZTE Axon 60 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,incident scene status,352098765401235 BlackBerry Key6 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,incident scene status,861234567890125 HTC U24 Pro - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,incident scene status,352091234567802 Sony Xperia 1 VII - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,incident scene status,861234567890126 LG Velvet 3 - Personnel Device,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,incident scene images,357192084561234 Galaxy S25 Ultra - Personnel Device,Physical,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,incident scene images,864209153782145 iPhone 16 Pro Max - Personnel Device,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,incident scene images,351984206713589 Pixel 9 XL - Personnel Device,Physical,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,incident scene images,864512309876231 Xperia Z7 - Personnel Device,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,incident scene images,352091847563210 OnePlus 13T - Personnel Device,Physical,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,incident scene images,861234509876543 Redmi Note 15 Pro - Personnel Device,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,incident scene images,359876120345678 Moto G100 - Personnel Device,Physical,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,incident scene images,864209875612340 Nokia X50 - Personnel Device,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,incident scene images,352098761234567 Huawei P60 Pro - Personnel Device,Physical,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,incident scene images,861234567890123 Oppo Find X7 - Personnel Device,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,incident scene images,352091234567890 Vivo X90 - Personnel Device,Physical,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,incident scene images,861234098765432 Realme GT Neo 6 - Personnel Device,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,incident scene images,352098765432109 Asus ROG Phone 8 - Personnel Device,Physical,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,incident scene images,861234567809876 Lenovo Legion Y90 - Personnel Device,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,incident scene images,352091234098765 Honor Magic 6 - Personnel Device,Physical,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,incident scene images,861234567801234 ZTE Axon 50 - Personnel Device,Physical,Physical
+Bangkok Fire 01 - Emergency Vehicle OBE,incident scene images,352098765401234 BlackBerry Key5 - Personnel Device,Physical,Physical
+Bangkok Fire 01 - Emergency Vehicle OBE,incident scene images,861234567890124 HTC U23 Pro - Personnel Device,Physical,Physical
+Bangkok Fire 02 - Emergency Vehicle OBE,incident scene images,352091234567801 Sony Xperia 1 VI - Personnel Device,Physical,Physical
+Bangkok Fire 02 - Emergency Vehicle OBE,incident scene images,861234567890125 LG Velvet 2 - Personnel Device,Physical,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,incident scene images,352098765432101 Meizu 20 Pro - Personnel Device,Physical,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,incident scene images,861234567890126 Sharp Aquos R8 - Personnel Device,Physical,Physical
+Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,incident scene images,352091234567802 Micromax Infinity 5 - Personnel Device,Physical,Physical
+Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,incident scene images,861234567890127 Infinix Zero Ultra - Personnel Device,Physical,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,incident scene images,352098765432102 Tecno Phantom X3 - Personnel Device,Physical,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,incident scene images,861234567890128 Itel Vision 5 - Personnel Device,Physical,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,incident scene images,352091234567803 Lava Agni 3 - Personnel Device,Physical,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,incident scene images,861234567890129 Coolpad Legacy 2 - Personnel Device,Physical,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,incident scene images,352098765432103 Alcatel 5X - Personnel Device,Physical,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,incident scene images,861234567890130 Fairphone 5 - Personnel Device,Physical,Physical
+Pnom Pehn Fire 01 - Emergency Vehicle OBE,incident scene images,352091234567804 Cat S65 - Personnel Device,Physical,Physical
+Pnom Pehn Fire 01 - Emergency Vehicle OBE,incident scene images,861234567890131 Doogee S100 - Personnel Device,Physical,Physical
+Pnom Pehn Fire 02 - Emergency Vehicle OBE,incident scene images,352098765432104 Ulefone Armor 15 - Personnel Device,Physical,Physical
+Pnom Pehn Fire 02 - Emergency Vehicle OBE,incident scene images,861234567890132 BLU G91 Max - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,incident scene images,352091234567805 Kyocera DuraForce Ultra - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,incident scene images,861234567890133 Palm Phone 2 - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,incident scene images,352098765432105 Google Pixel Fold - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,incident scene images,861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,incident scene images,352091234567806 Motorola Razr 2025 - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,incident scene images,861234567890135 Xiaomi Mi Mix 5 - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,incident scene images,351982104567890 Galaxy S26 Ultra - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,incident scene images,864209153784321 iPhone 17 Pro Max - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,incident scene images,352091847563211 Pixel 10 XL - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,incident scene images,864512309876232 Xperia Z8 - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,incident scene images,352091847563212 OnePlus 14T - Personnel Device,Physical,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,incident scene images,861234509876544 Redmi Note 16 Pro - Personnel Device,Physical,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,incident scene images,359876120345679 Moto G200 - Personnel Device,Physical,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,incident scene images,864209875612341 Nokia X60 - Personnel Device,Physical,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,incident scene images,352098761234568 Huawei P70 Pro - Personnel Device,Physical,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,incident scene images,861234567890124 Oppo Find X8 - Personnel Device,Physical,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,incident scene images,352091234567891 Vivo X100 - Personnel Device,Physical,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,incident scene images,861234098765433 Realme GT Neo 7 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,incident scene images,352098765432110 Asus ROG Phone 9 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,incident scene images,861234567809877 Lenovo Legion Y100 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,incident scene images,352091234098766 Honor Magic 7 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,incident scene images,861234567801235 ZTE Axon 60 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,incident scene images,352098765401235 BlackBerry Key6 - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,incident scene images,861234567890125 HTC U24 Pro - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,incident scene images,352091234567802 Sony Xperia 1 VII - Personnel Device,Physical,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,incident scene images,861234567890126 LG Velvet 3 - Personnel Device,Physical,Physical
+357192084561234 Galaxy S25 Ultra - Personnel Device,decision support information,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+864209153782145 iPhone 16 Pro Max - Personnel Device,decision support information,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+351984206713589 Pixel 9 XL - Personnel Device,decision support information,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+864512309876231 Xperia Z7 - Personnel Device,decision support information,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+352091847563210 OnePlus 13T - Personnel Device,decision support information,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+861234509876543 Redmi Note 15 Pro - Personnel Device,decision support information,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+359876120345678 Moto G100 - Personnel Device,decision support information,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+864209875612340 Nokia X50 - Personnel Device,decision support information,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+352098761234567 Huawei P60 Pro - Personnel Device,decision support information,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890123 Oppo Find X7 - Personnel Device,decision support information,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+352091234567890 Vivo X90 - Personnel Device,decision support information,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+861234098765432 Realme GT Neo 6 - Personnel Device,decision support information,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+352098765432109 Asus ROG Phone 8 - Personnel Device,decision support information,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+861234567809876 Lenovo Legion Y90 - Personnel Device,decision support information,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+352091234098765 Honor Magic 6 - Personnel Device,decision support information,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+861234567801234 ZTE Axon 50 - Personnel Device,decision support information,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+352098765401234 BlackBerry Key5 - Personnel Device,decision support information,Bangkok Fire 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890124 HTC U23 Pro - Personnel Device,decision support information,Bangkok Fire 01 - Emergency Vehicle OBE,Physical,Physical
+352091234567801 Sony Xperia 1 VI - Personnel Device,decision support information,Bangkok Fire 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890125 LG Velvet 2 - Personnel Device,decision support information,Bangkok Fire 02 - Emergency Vehicle OBE,Physical,Physical
+352098765432101 Meizu 20 Pro - Personnel Device,decision support information,Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890126 Sharp Aquos R8 - Personnel Device,decision support information,Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+352091234567802 Micromax Infinity 5 - Personnel Device,decision support information,Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890127 Infinix Zero Ultra - Personnel Device,decision support information,Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+352098765432102 Tecno Phantom X3 - Personnel Device,decision support information,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890128 Itel Vision 5 - Personnel Device,decision support information,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+352091234567803 Lava Agni 3 - Personnel Device,decision support information,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890129 Coolpad Legacy 2 - Personnel Device,decision support information,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+352098765432103 Alcatel 5X - Personnel Device,decision support information,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+861234567890130 Fairphone 5 - Personnel Device,decision support information,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+352091234567804 Cat S65 - Personnel Device,decision support information,Pnom Pehn Fire 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890131 Doogee S100 - Personnel Device,decision support information,Pnom Pehn Fire 01 - Emergency Vehicle OBE,Physical,Physical
+352098765432104 Ulefone Armor 15 - Personnel Device,decision support information,Pnom Pehn Fire 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890132 BLU G91 Max - Personnel Device,decision support information,Pnom Pehn Fire 02 - Emergency Vehicle OBE,Physical,Physical
+352091234567805 Kyocera DuraForce Ultra - Personnel Device,decision support information,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890133 Palm Phone 2 - Personnel Device,decision support information,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+352098765432105 Google Pixel Fold - Personnel Device,decision support information,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,decision support information,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+352091234567806 Motorola Razr 2025 - Personnel Device,decision support information,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+861234567890135 Xiaomi Mi Mix 5 - Personnel Device,decision support information,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+351982104567890 Galaxy S26 Ultra - Personnel Device,decision support information,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+864209153784321 iPhone 17 Pro Max - Personnel Device,decision support information,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+352091847563211 Pixel 10 XL - Personnel Device,decision support information,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+864512309876232 Xperia Z8 - Personnel Device,decision support information,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+352091847563212 OnePlus 14T - Personnel Device,decision support information,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+861234509876544 Redmi Note 16 Pro - Personnel Device,decision support information,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+359876120345679 Moto G200 - Personnel Device,decision support information,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+864209875612341 Nokia X60 - Personnel Device,decision support information,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+352098761234568 Huawei P70 Pro - Personnel Device,decision support information,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890124 Oppo Find X8 - Personnel Device,decision support information,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+352091234567891 Vivo X100 - Personnel Device,decision support information,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+861234098765433 Realme GT Neo 7 - Personnel Device,decision support information,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+352098765432110 Asus ROG Phone 9 - Personnel Device,decision support information,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+861234567809877 Lenovo Legion Y100 - Personnel Device,decision support information,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+352091234098766 Honor Magic 7 - Personnel Device,decision support information,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+861234567801235 ZTE Axon 60 - Personnel Device,decision support information,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+352098765401235 BlackBerry Key6 - Personnel Device,decision support information,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+861234567890125 HTC U24 Pro - Personnel Device,decision support information,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+352091234567802 Sony Xperia 1 VII - Personnel Device,decision support information,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+861234567890126 LG Velvet 3 - Personnel Device,decision support information,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+357192084561234 Galaxy S25 Ultra - Personnel Device,incident scene status,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+864209153782145 iPhone 16 Pro Max - Personnel Device,incident scene status,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+351984206713589 Pixel 9 XL - Personnel Device,incident scene status,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+864512309876231 Xperia Z7 - Personnel Device,incident scene status,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+352091847563210 OnePlus 13T - Personnel Device,incident scene status,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+861234509876543 Redmi Note 15 Pro - Personnel Device,incident scene status,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+359876120345678 Moto G100 - Personnel Device,incident scene status,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+864209875612340 Nokia X50 - Personnel Device,incident scene status,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+352098761234567 Huawei P60 Pro - Personnel Device,incident scene status,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890123 Oppo Find X7 - Personnel Device,incident scene status,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+352091234567890 Vivo X90 - Personnel Device,incident scene status,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+861234098765432 Realme GT Neo 6 - Personnel Device,incident scene status,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+352098765432109 Asus ROG Phone 8 - Personnel Device,incident scene status,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+861234567809876 Lenovo Legion Y90 - Personnel Device,incident scene status,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+352091234098765 Honor Magic 6 - Personnel Device,incident scene status,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+861234567801234 ZTE Axon 50 - Personnel Device,incident scene status,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+352098765401234 BlackBerry Key5 - Personnel Device,incident scene status,Bangkok Fire 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890124 HTC U23 Pro - Personnel Device,incident scene status,Bangkok Fire 01 - Emergency Vehicle OBE,Physical,Physical
+352091234567801 Sony Xperia 1 VI - Personnel Device,incident scene status,Bangkok Fire 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890125 LG Velvet 2 - Personnel Device,incident scene status,Bangkok Fire 02 - Emergency Vehicle OBE,Physical,Physical
+352098765432101 Meizu 20 Pro - Personnel Device,incident scene status,Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890126 Sharp Aquos R8 - Personnel Device,incident scene status,Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+352091234567802 Micromax Infinity 5 - Personnel Device,incident scene status,Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890127 Infinix Zero Ultra - Personnel Device,incident scene status,Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+352098765432102 Tecno Phantom X3 - Personnel Device,incident scene status,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890128 Itel Vision 5 - Personnel Device,incident scene status,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+352091234567803 Lava Agni 3 - Personnel Device,incident scene status,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890129 Coolpad Legacy 2 - Personnel Device,incident scene status,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+352098765432103 Alcatel 5X - Personnel Device,incident scene status,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+861234567890130 Fairphone 5 - Personnel Device,incident scene status,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+352091234567804 Cat S65 - Personnel Device,incident scene status,Pnom Pehn Fire 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890131 Doogee S100 - Personnel Device,incident scene status,Pnom Pehn Fire 01 - Emergency Vehicle OBE,Physical,Physical
+352098765432104 Ulefone Armor 15 - Personnel Device,incident scene status,Pnom Pehn Fire 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890132 BLU G91 Max - Personnel Device,incident scene status,Pnom Pehn Fire 02 - Emergency Vehicle OBE,Physical,Physical
+352091234567805 Kyocera DuraForce Ultra - Personnel Device,incident scene status,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890133 Palm Phone 2 - Personnel Device,incident scene status,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+352098765432105 Google Pixel Fold - Personnel Device,incident scene status,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,incident scene status,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+352091234567806 Motorola Razr 2025 - Personnel Device,incident scene status,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+861234567890135 Xiaomi Mi Mix 5 - Personnel Device,incident scene status,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+351982104567890 Galaxy S26 Ultra - Personnel Device,incident scene status,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+864209153784321 iPhone 17 Pro Max - Personnel Device,incident scene status,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+352091847563211 Pixel 10 XL - Personnel Device,incident scene status,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+864512309876232 Xperia Z8 - Personnel Device,incident scene status,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+352091847563212 OnePlus 14T - Personnel Device,incident scene status,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+861234509876544 Redmi Note 16 Pro - Personnel Device,incident scene status,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+359876120345679 Moto G200 - Personnel Device,incident scene status,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+864209875612341 Nokia X60 - Personnel Device,incident scene status,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+352098761234568 Huawei P70 Pro - Personnel Device,incident scene status,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890124 Oppo Find X8 - Personnel Device,incident scene status,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+352091234567891 Vivo X100 - Personnel Device,incident scene status,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+861234098765433 Realme GT Neo 7 - Personnel Device,incident scene status,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+352098765432110 Asus ROG Phone 9 - Personnel Device,incident scene status,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+861234567809877 Lenovo Legion Y100 - Personnel Device,incident scene status,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+352091234098766 Honor Magic 7 - Personnel Device,incident scene status,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+861234567801235 ZTE Axon 60 - Personnel Device,incident scene status,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+352098765401235 BlackBerry Key6 - Personnel Device,incident scene status,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+861234567890125 HTC U24 Pro - Personnel Device,incident scene status,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+352091234567802 Sony Xperia 1 VII - Personnel Device,incident scene status,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+861234567890126 LG Velvet 3 - Personnel Device,incident scene status,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+357192084561234 Galaxy S25 Ultra - Personnel Device,incident scene images,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+864209153782145 iPhone 16 Pro Max - Personnel Device,incident scene images,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+351984206713589 Pixel 9 XL - Personnel Device,incident scene images,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+864512309876231 Xperia Z7 - Personnel Device,incident scene images,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+352091847563210 OnePlus 13T - Personnel Device,incident scene images,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+861234509876543 Redmi Note 15 Pro - Personnel Device,incident scene images,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+359876120345678 Moto G100 - Personnel Device,incident scene images,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+864209875612340 Nokia X50 - Personnel Device,incident scene images,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+352098761234567 Huawei P60 Pro - Personnel Device,incident scene images,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890123 Oppo Find X7 - Personnel Device,incident scene images,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+352091234567890 Vivo X90 - Personnel Device,incident scene images,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+861234098765432 Realme GT Neo 6 - Personnel Device,incident scene images,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+352098765432109 Asus ROG Phone 8 - Personnel Device,incident scene images,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+861234567809876 Lenovo Legion Y90 - Personnel Device,incident scene images,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+352091234098765 Honor Magic 6 - Personnel Device,incident scene images,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+861234567801234 ZTE Axon 50 - Personnel Device,incident scene images,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+352098765401234 BlackBerry Key5 - Personnel Device,incident scene images,Bangkok Fire 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890124 HTC U23 Pro - Personnel Device,incident scene images,Bangkok Fire 01 - Emergency Vehicle OBE,Physical,Physical
+352091234567801 Sony Xperia 1 VI - Personnel Device,incident scene images,Bangkok Fire 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890125 LG Velvet 2 - Personnel Device,incident scene images,Bangkok Fire 02 - Emergency Vehicle OBE,Physical,Physical
+352098765432101 Meizu 20 Pro - Personnel Device,incident scene images,Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890126 Sharp Aquos R8 - Personnel Device,incident scene images,Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+352091234567802 Micromax Infinity 5 - Personnel Device,incident scene images,Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890127 Infinix Zero Ultra - Personnel Device,incident scene images,Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+352098765432102 Tecno Phantom X3 - Personnel Device,incident scene images,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890128 Itel Vision 5 - Personnel Device,incident scene images,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+352091234567803 Lava Agni 3 - Personnel Device,incident scene images,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890129 Coolpad Legacy 2 - Personnel Device,incident scene images,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+352098765432103 Alcatel 5X - Personnel Device,incident scene images,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+861234567890130 Fairphone 5 - Personnel Device,incident scene images,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+352091234567804 Cat S65 - Personnel Device,incident scene images,Pnom Pehn Fire 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890131 Doogee S100 - Personnel Device,incident scene images,Pnom Pehn Fire 01 - Emergency Vehicle OBE,Physical,Physical
+352098765432104 Ulefone Armor 15 - Personnel Device,incident scene images,Pnom Pehn Fire 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890132 BLU G91 Max - Personnel Device,incident scene images,Pnom Pehn Fire 02 - Emergency Vehicle OBE,Physical,Physical
+352091234567805 Kyocera DuraForce Ultra - Personnel Device,incident scene images,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890133 Palm Phone 2 - Personnel Device,incident scene images,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+352098765432105 Google Pixel Fold - Personnel Device,incident scene images,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,incident scene images,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+352091234567806 Motorola Razr 2025 - Personnel Device,incident scene images,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+861234567890135 Xiaomi Mi Mix 5 - Personnel Device,incident scene images,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+351982104567890 Galaxy S26 Ultra - Personnel Device,incident scene images,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+864209153784321 iPhone 17 Pro Max - Personnel Device,incident scene images,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+352091847563211 Pixel 10 XL - Personnel Device,incident scene images,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+864512309876232 Xperia Z8 - Personnel Device,incident scene images,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+352091847563212 OnePlus 14T - Personnel Device,incident scene images,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+861234509876544 Redmi Note 16 Pro - Personnel Device,incident scene images,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+359876120345679 Moto G200 - Personnel Device,incident scene images,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+864209875612341 Nokia X60 - Personnel Device,incident scene images,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+352098761234568 Huawei P70 Pro - Personnel Device,incident scene images,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890124 Oppo Find X8 - Personnel Device,incident scene images,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+352091234567891 Vivo X100 - Personnel Device,incident scene images,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+861234098765433 Realme GT Neo 7 - Personnel Device,incident scene images,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+352098765432110 Asus ROG Phone 9 - Personnel Device,incident scene images,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+861234567809877 Lenovo Legion Y100 - Personnel Device,incident scene images,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+352091234098766 Honor Magic 7 - Personnel Device,incident scene images,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+861234567801235 ZTE Axon 60 - Personnel Device,incident scene images,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+352098765401235 BlackBerry Key6 - Personnel Device,incident scene images,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+861234567890125 HTC U24 Pro - Personnel Device,incident scene images,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+352091234567802 Sony Xperia 1 VII - Personnel Device,incident scene images,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+861234567890126 LG Velvet 3 - Personnel Device,incident scene images,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+357192084561234 Galaxy S25 Ultra - Personnel Device,personnel location,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+864209153782145 iPhone 16 Pro Max - Personnel Device,personnel location,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+351984206713589 Pixel 9 XL - Personnel Device,personnel location,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+864512309876231 Xperia Z7 - Personnel Device,personnel location,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+352091847563210 OnePlus 13T - Personnel Device,personnel location,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+861234509876543 Redmi Note 15 Pro - Personnel Device,personnel location,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+359876120345678 Moto G100 - Personnel Device,personnel location,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+864209875612340 Nokia X50 - Personnel Device,personnel location,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+352098761234567 Huawei P60 Pro - Personnel Device,personnel location,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890123 Oppo Find X7 - Personnel Device,personnel location,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+352091234567890 Vivo X90 - Personnel Device,personnel location,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+861234098765432 Realme GT Neo 6 - Personnel Device,personnel location,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+352098765432109 Asus ROG Phone 8 - Personnel Device,personnel location,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+861234567809876 Lenovo Legion Y90 - Personnel Device,personnel location,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+352091234098765 Honor Magic 6 - Personnel Device,personnel location,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+861234567801234 ZTE Axon 50 - Personnel Device,personnel location,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+352098765401234 BlackBerry Key5 - Personnel Device,personnel location,Bangkok Fire 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890124 HTC U23 Pro - Personnel Device,personnel location,Bangkok Fire 01 - Emergency Vehicle OBE,Physical,Physical
+352091234567801 Sony Xperia 1 VI - Personnel Device,personnel location,Bangkok Fire 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890125 LG Velvet 2 - Personnel Device,personnel location,Bangkok Fire 02 - Emergency Vehicle OBE,Physical,Physical
+352098765432101 Meizu 20 Pro - Personnel Device,personnel location,Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890126 Sharp Aquos R8 - Personnel Device,personnel location,Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+352091234567802 Micromax Infinity 5 - Personnel Device,personnel location,Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890127 Infinix Zero Ultra - Personnel Device,personnel location,Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+352098765432102 Tecno Phantom X3 - Personnel Device,personnel location,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890128 Itel Vision 5 - Personnel Device,personnel location,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+352091234567803 Lava Agni 3 - Personnel Device,personnel location,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890129 Coolpad Legacy 2 - Personnel Device,personnel location,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+352098765432103 Alcatel 5X - Personnel Device,personnel location,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+861234567890130 Fairphone 5 - Personnel Device,personnel location,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+352091234567804 Cat S65 - Personnel Device,personnel location,Pnom Pehn Fire 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890131 Doogee S100 - Personnel Device,personnel location,Pnom Pehn Fire 01 - Emergency Vehicle OBE,Physical,Physical
+352098765432104 Ulefone Armor 15 - Personnel Device,personnel location,Pnom Pehn Fire 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890132 BLU G91 Max - Personnel Device,personnel location,Pnom Pehn Fire 02 - Emergency Vehicle OBE,Physical,Physical
+352091234567805 Kyocera DuraForce Ultra - Personnel Device,personnel location,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+861234567890133 Palm Phone 2 - Personnel Device,personnel location,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+352098765432105 Google Pixel Fold - Personnel Device,personnel location,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,personnel location,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+352091234567806 Motorola Razr 2025 - Personnel Device,personnel location,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+861234567890135 Xiaomi Mi Mix 5 - Personnel Device,personnel location,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+351982104567890 Galaxy S26 Ultra - Personnel Device,personnel location,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+864209153784321 iPhone 17 Pro Max - Personnel Device,personnel location,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+352091847563211 Pixel 10 XL - Personnel Device,personnel location,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+864512309876232 Xperia Z8 - Personnel Device,personnel location,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+352091847563212 OnePlus 14T - Personnel Device,personnel location,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+861234509876544 Redmi Note 16 Pro - Personnel Device,personnel location,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+359876120345679 Moto G200 - Personnel Device,personnel location,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+864209875612341 Nokia X60 - Personnel Device,personnel location,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+352098761234568 Huawei P70 Pro - Personnel Device,personnel location,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+861234567890124 Oppo Find X8 - Personnel Device,personnel location,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+352091234567891 Vivo X100 - Personnel Device,personnel location,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+861234098765433 Realme GT Neo 7 - Personnel Device,personnel location,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+352098765432110 Asus ROG Phone 9 - Personnel Device,personnel location,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+861234567809877 Lenovo Legion Y100 - Personnel Device,personnel location,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+352091234098766 Honor Magic 7 - Personnel Device,personnel location,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+861234567801235 ZTE Axon 60 - Personnel Device,personnel location,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+352098765401235 BlackBerry Key6 - Personnel Device,personnel location,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+861234567890125 HTC U24 Pro - Personnel Device,personnel location,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+352091234567802 Sony Xperia 1 VII - Personnel Device,personnel location,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+861234567890126 LG Velvet 3 - Personnel Device,personnel location,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+357192084561234 Galaxy S25 Ultra - Personnel Device,personnel updates,Kamonchanok Srisuwan - Emergency Personnel,Physical,Physical
+864209153782145 iPhone 16 Pro Max - Personnel Device,personnel updates,Nattapong Wattanachai - Emergency Personnel,Physical,Physical
+351984206713589 Pixel 9 XL - Personnel Device,personnel updates,Pimchanok Boonyarat - Emergency Personnel,Physical,Physical
+864512309876231 Xperia Z7 - Personnel Device,personnel updates,Thanakorn Rattanapong - Emergency Personnel,Physical,Physical
+352091847563210 OnePlus 13T - Personnel Device,personnel updates,Supalak Thongchai - Emergency Personnel,Physical,Physical
+861234509876543 Redmi Note 15 Pro - Personnel Device,personnel updates,Ananda Chaisuriyakul - Emergency Personnel,Physical,Physical
+359876120345678 Moto G100 - Personnel Device,personnel updates,Kritsada Phanurat - Emergency Personnel,Physical,Physical
+864209875612340 Nokia X50 - Personnel Device,personnel updates,Nicha Suphaphanich - Emergency Personnel,Physical,Physical
+352098761234567 Huawei P60 Pro - Personnel Device,personnel updates,Ornpreeya Sakulchai - Emergency Personnel,Physical,Physical
+861234567890123 Oppo Find X7 - Personnel Device,personnel updates,Ratchata Nimsakul - Emergency Personnel,Physical,Physical
+352091234567890 Vivo X90 - Personnel Device,personnel updates,Sakchai Pradchaphet - Emergency Personnel,Physical,Physical
+861234098765432 Realme GT Neo 6 - Personnel Device,personnel updates,Tassanee Yodkamol - Emergency Personnel,Physical,Physical
+352098765432109 Asus ROG Phone 8 - Personnel Device,personnel updates,Udom Siripong - Emergency Personnel,Physical,Physical
+861234567809876 Lenovo Legion Y90 - Personnel Device,personnel updates,Vichai Thongprasert - Emergency Personnel,Physical,Physical
+352091234098765 Honor Magic 6 - Personnel Device,personnel updates,Wanida Kittisakul - Emergency Personnel,Physical,Physical
+861234567801234 ZTE Axon 50 - Personnel Device,personnel updates,Yutthana Chaisuwan - Emergency Personnel,Physical,Physical
+352098765401234 BlackBerry Key5 - Personnel Device,personnel updates,Amara Boonyasiri - Emergency Personnel,Physical,Physical
+861234567890124 HTC U23 Pro - Personnel Device,personnel updates,Boonchai Tansakul - Emergency Personnel,Physical,Physical
+352091234567801 Sony Xperia 1 VI - Personnel Device,personnel updates,Chutima Pattanapong - Emergency Personnel,Physical,Physical
+861234567890125 LG Velvet 2 - Personnel Device,personnel updates,Duangjai Wongthip - Emergency Personnel,Physical,Physical
+352098765432101 Meizu 20 Pro - Personnel Device,personnel updates,Ekachai Suwannarat - Emergency Personnel,Physical,Physical
+861234567890126 Sharp Aquos R8 - Personnel Device,personnel updates,Fuangfah Kittipong - Emergency Personnel,Physical,Physical
+352091234567802 Micromax Infinity 5 - Personnel Device,personnel updates,Gun Noppakun - Emergency Personnel,Physical,Physical
+861234567890127 Infinix Zero Ultra - Personnel Device,personnel updates,Hansa Chotirat - Emergency Personnel,Physical,Physical
+352098765432102 Tecno Phantom X3 - Personnel Device,personnel updates,Inthira Saengchai - Emergency Personnel,Physical,Physical
+861234567890128 Itel Vision 5 - Personnel Device,personnel updates,Jariya Phanichkul - Emergency Personnel,Physical,Physical
+352091234567803 Lava Agni 3 - Personnel Device,personnel updates,Kamol Boonsri - Emergency Personnel,Physical,Physical
+861234567890129 Coolpad Legacy 2 - Personnel Device,personnel updates,Lawan Thongchai - Emergency Personnel,Physical,Physical
+352098765432103 Alcatel 5X - Personnel Device,personnel updates,Metha Rattanapong - Emergency Personnel,Physical,Physical
+861234567890130 Fairphone 5 - Personnel Device,personnel updates,Nattaya Kongsiri - Emergency Personnel,Physical,Physical
+352091234567804 Cat S65 - Personnel Device,personnel updates,Anusorn Wattanapanich - Emergency Personnel,Physical,Physical
+861234567890131 Doogee S100 - Personnel Device,personnel updates,Darika Suphakit - Emergency Personnel,Physical,Physical
+352098765432104 Ulefone Armor 15 - Personnel Device,personnel updates,Ekkachai Prasertkul - Emergency Personnel,Physical,Physical
+861234567890132 BLU G91 Max - Personnel Device,personnel updates,Fon Chantarak - Emergency Personnel,Physical,Physical
+352091234567805 Kyocera DuraForce Ultra - Personnel Device,personnel updates,Ganya Rattanawan - Emergency Personnel,Physical,Physical
+861234567890133 Palm Phone 2 - Personnel Device,personnel updates,Hiran Phongpanich - Emergency Personnel,Physical,Physical
+352098765432105 Google Pixel Fold - Personnel Device,personnel updates,Issara Wongchai - Emergency Personnel,Physical,Physical
+861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,personnel updates,Jirawat Boonmee - Emergency Personnel,Physical,Physical
+352091234567806 Motorola Razr 2025 - Personnel Device,personnel updates,Kanchana Srisopa - Emergency Personnel,Physical,Physical
+861234567890135 Xiaomi Mi Mix 5 - Personnel Device,personnel updates,Lalita Thanaporn - Emergency Personnel,Physical,Physical
+351982104567890 Galaxy S26 Ultra - Personnel Device,personnel updates,Manop Chotiphan - Emergency Personnel,Physical,Physical
+864209153784321 iPhone 17 Pro Max - Personnel Device,personnel updates,Napat Srisuwan - Emergency Personnel,Physical,Physical
+352091847563211 Pixel 10 XL - Personnel Device,personnel updates,Orawan Srisopa - Emergency Personnel,Physical,Physical
+864512309876232 Xperia Z8 - Personnel Device,personnel updates,Pattaraporn Jitpraphai - Emergency Personnel,Physical,Physical
+352091847563212 OnePlus 14T - Personnel Device,personnel updates,Phanupong Wongpracha - Emergency Personnel,Physical,Physical
+861234509876544 Redmi Note 16 Pro - Personnel Device,personnel updates,Ratchanee Jitsakulchai - Emergency Personnel,Physical,Physical
+359876120345679 Moto G200 - Personnel Device,personnel updates,Somchai Wattanapanichkul - Emergency Personnel,Physical,Physical
+864209875612341 Nokia X60 - Personnel Device,personnel updates,Tanaporn Boonprakob - Emergency Personnel,Physical,Physical
+352098761234568 Huawei P70 Pro - Personnel Device,personnel updates,Uthai Sirisopa - Emergency Personnel,Physical,Physical
+861234567890124 Oppo Find X8 - Personnel Device,personnel updates,Viyada Thanaratkul - Emergency Personnel,Physical,Physical
+352091234567891 Vivo X100 - Personnel Device,personnel updates,Worawut Chaisiriwanichkul - Emergency Personnel,Physical,Physical
+861234098765433 Realme GT Neo 7 - Personnel Device,personnel updates,Yuwadee Phongsiriwanichkul - Emergency Personnel,Physical,Physical
+352098765432110 Asus ROG Phone 9 - Personnel Device,personnel updates,Arthit Kanchanapong - Emergency Personnel,Physical,Physical
+861234567809877 Lenovo Legion Y100 - Personnel Device,personnel updates,Benjamas Thammarat - Emergency Personnel,Physical,Physical
+352091234098766 Honor Magic 7 - Personnel Device,personnel updates,Chaiwat Phanurat - Emergency Personnel,Physical,Physical
+861234567801235 ZTE Axon 60 - Personnel Device,personnel updates,Ekkarat Suwannarat - Emergency Personnel,Physical,Physical
+352098765401235 BlackBerry Key6 - Personnel Device,personnel updates,Fah Thongprasert - Emergency Personnel,Physical,Physical
+861234567890125 HTC U24 Pro - Personnel Device,personnel updates,Gun Noppadolchai - Emergency Personnel,Physical,Physical
+352091234567802 Sony Xperia 1 VII - Personnel Device,personnel updates,Hansa Chotiphanichkul - Emergency Personnel,Physical,Physical
+861234567890126 LG Velvet 3 - Personnel Device,personnel updates,Inthira Saengsuwan - Emergency Personnel,Physical,Physical
+357192084561234 Galaxy S25 Ultra - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+864209153782145 iPhone 16 Pro Max - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+351984206713589 Pixel 9 XL - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+864512309876231 Xperia Z7 - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+352091847563210 OnePlus 13T - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+861234509876543 Redmi Note 15 Pro - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+359876120345678 Moto G100 - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+864209875612340 Nokia X50 - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+352098761234567 Huawei P60 Pro - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+861234567890123 Oppo Find X7 - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+352091234567890 Vivo X90 - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+861234098765432 Realme GT Neo 6 - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+352098765432109 Asus ROG Phone 8 - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+861234567809876 Lenovo Legion Y90 - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+352091234098765 Honor Magic 6 - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+861234567801234 ZTE Axon 50 - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+352098765401234 BlackBerry Key5 - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+861234567890124 HTC U23 Pro - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+352091234567801 Sony Xperia 1 VI - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+861234567890125 LG Velvet 2 - Personnel Device,incident scene status,Bangkok Emergency Management Center,Physical,Physical
+352098765432101 Meizu 20 Pro - Personnel Device,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890126 Sharp Aquos R8 - Personnel Device,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+352091234567802 Micromax Infinity 5 - Personnel Device,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890127 Infinix Zero Ultra - Personnel Device,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+352098765432102 Tecno Phantom X3 - Personnel Device,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890128 Itel Vision 5 - Personnel Device,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+352091234567803 Lava Agni 3 - Personnel Device,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890129 Coolpad Legacy 2 - Personnel Device,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+352098765432103 Alcatel 5X - Personnel Device,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890130 Fairphone 5 - Personnel Device,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+352091234567804 Cat S65 - Personnel Device,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890131 Doogee S100 - Personnel Device,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+352098765432104 Ulefone Armor 15 - Personnel Device,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890132 BLU G91 Max - Personnel Device,incident scene status,Pnom Pehn Emergency Management Center,Physical,Physical
+352091234567805 Kyocera DuraForce Ultra - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890133 Palm Phone 2 - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+352098765432105 Google Pixel Fold - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091234567806 Motorola Razr 2025 - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890135 Xiaomi Mi Mix 5 - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+351982104567890 Galaxy S26 Ultra - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+864209153784321 iPhone 17 Pro Max - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091847563211 Pixel 10 XL - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+864512309876232 Xperia Z8 - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091847563212 OnePlus 14T - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234509876544 Redmi Note 16 Pro - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+359876120345679 Moto G200 - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+864209875612341 Nokia X60 - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+352098761234568 Huawei P70 Pro - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890124 Oppo Find X8 - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091234567891 Vivo X100 - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234098765433 Realme GT Neo 7 - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+352098765432110 Asus ROG Phone 9 - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567809877 Lenovo Legion Y100 - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091234098766 Honor Magic 7 - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567801235 ZTE Axon 60 - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+352098765401235 BlackBerry Key6 - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890125 HTC U24 Pro - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091234567802 Sony Xperia 1 VII - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890126 LG Velvet 3 - Personnel Device,incident scene status,Khorathidin Regional Emergency Management Center,Physical,Physical
+357192084561234 Galaxy S25 Ultra - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+864209153782145 iPhone 16 Pro Max - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+351984206713589 Pixel 9 XL - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+864512309876231 Xperia Z7 - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+352091847563210 OnePlus 13T - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+861234509876543 Redmi Note 15 Pro - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+359876120345678 Moto G100 - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+864209875612340 Nokia X50 - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+352098761234567 Huawei P60 Pro - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+861234567890123 Oppo Find X7 - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+352091234567890 Vivo X90 - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+861234098765432 Realme GT Neo 6 - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+352098765432109 Asus ROG Phone 8 - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+861234567809876 Lenovo Legion Y90 - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+352091234098765 Honor Magic 6 - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+861234567801234 ZTE Axon 50 - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+352098765401234 BlackBerry Key5 - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+861234567890124 HTC U23 Pro - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+352091234567801 Sony Xperia 1 VI - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+861234567890125 LG Velvet 2 - Personnel Device,incident command input,Bangkok Emergency Management Center,Physical,Physical
+352098765432101 Meizu 20 Pro - Personnel Device,incident command input,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890126 Sharp Aquos R8 - Personnel Device,incident command input,Pnom Pehn Emergency Management Center,Physical,Physical
+352091234567802 Micromax Infinity 5 - Personnel Device,incident command input,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890127 Infinix Zero Ultra - Personnel Device,incident command input,Pnom Pehn Emergency Management Center,Physical,Physical
+352098765432102 Tecno Phantom X3 - Personnel Device,incident command input,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890128 Itel Vision 5 - Personnel Device,incident command input,Pnom Pehn Emergency Management Center,Physical,Physical
+352091234567803 Lava Agni 3 - Personnel Device,incident command input,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890129 Coolpad Legacy 2 - Personnel Device,incident command input,Pnom Pehn Emergency Management Center,Physical,Physical
+352098765432103 Alcatel 5X - Personnel Device,incident command input,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890130 Fairphone 5 - Personnel Device,incident command input,Pnom Pehn Emergency Management Center,Physical,Physical
+352091234567804 Cat S65 - Personnel Device,incident command input,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890131 Doogee S100 - Personnel Device,incident command input,Pnom Pehn Emergency Management Center,Physical,Physical
+352098765432104 Ulefone Armor 15 - Personnel Device,incident command input,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890132 BLU G91 Max - Personnel Device,incident command input,Pnom Pehn Emergency Management Center,Physical,Physical
+352091234567805 Kyocera DuraForce Ultra - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890133 Palm Phone 2 - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+352098765432105 Google Pixel Fold - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091234567806 Motorola Razr 2025 - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890135 Xiaomi Mi Mix 5 - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+351982104567890 Galaxy S26 Ultra - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+864209153784321 iPhone 17 Pro Max - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091847563211 Pixel 10 XL - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+864512309876232 Xperia Z8 - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091847563212 OnePlus 14T - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234509876544 Redmi Note 16 Pro - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+359876120345679 Moto G200 - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+864209875612341 Nokia X60 - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+352098761234568 Huawei P70 Pro - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890124 Oppo Find X8 - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091234567891 Vivo X100 - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234098765433 Realme GT Neo 7 - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+352098765432110 Asus ROG Phone 9 - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567809877 Lenovo Legion Y100 - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091234098766 Honor Magic 7 - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567801235 ZTE Axon 60 - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+352098765401235 BlackBerry Key6 - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890125 HTC U24 Pro - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091234567802 Sony Xperia 1 VII - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890126 LG Velvet 3 - Personnel Device,incident command input,Khorathidin Regional Emergency Management Center,Physical,Physical
+357192084561234 Galaxy S25 Ultra - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+864209153782145 iPhone 16 Pro Max - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+351984206713589 Pixel 9 XL - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+864512309876231 Xperia Z7 - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+352091847563210 OnePlus 13T - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+861234509876543 Redmi Note 15 Pro - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+359876120345678 Moto G100 - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+864209875612340 Nokia X50 - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+352098761234567 Huawei P60 Pro - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+861234567890123 Oppo Find X7 - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+352091234567890 Vivo X90 - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+861234098765432 Realme GT Neo 6 - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+352098765432109 Asus ROG Phone 8 - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+861234567809876 Lenovo Legion Y90 - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+352091234098765 Honor Magic 6 - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+861234567801234 ZTE Axon 50 - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+352098765401234 BlackBerry Key5 - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+861234567890124 HTC U23 Pro - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+352091234567801 Sony Xperia 1 VI - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+861234567890125 LG Velvet 2 - Personnel Device,incident scene images,Bangkok Emergency Management Center,Physical,Physical
+352098765432101 Meizu 20 Pro - Personnel Device,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890126 Sharp Aquos R8 - Personnel Device,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+352091234567802 Micromax Infinity 5 - Personnel Device,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890127 Infinix Zero Ultra - Personnel Device,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+352098765432102 Tecno Phantom X3 - Personnel Device,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890128 Itel Vision 5 - Personnel Device,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+352091234567803 Lava Agni 3 - Personnel Device,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890129 Coolpad Legacy 2 - Personnel Device,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+352098765432103 Alcatel 5X - Personnel Device,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890130 Fairphone 5 - Personnel Device,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+352091234567804 Cat S65 - Personnel Device,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890131 Doogee S100 - Personnel Device,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+352098765432104 Ulefone Armor 15 - Personnel Device,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890132 BLU G91 Max - Personnel Device,incident scene images,Pnom Pehn Emergency Management Center,Physical,Physical
+352091234567805 Kyocera DuraForce Ultra - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890133 Palm Phone 2 - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+352098765432105 Google Pixel Fold - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091234567806 Motorola Razr 2025 - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890135 Xiaomi Mi Mix 5 - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+351982104567890 Galaxy S26 Ultra - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+864209153784321 iPhone 17 Pro Max - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091847563211 Pixel 10 XL - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+864512309876232 Xperia Z8 - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091847563212 OnePlus 14T - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234509876544 Redmi Note 16 Pro - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+359876120345679 Moto G200 - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+864209875612341 Nokia X60 - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+352098761234568 Huawei P70 Pro - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890124 Oppo Find X8 - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091234567891 Vivo X100 - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234098765433 Realme GT Neo 7 - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+352098765432110 Asus ROG Phone 9 - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567809877 Lenovo Legion Y100 - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091234098766 Honor Magic 7 - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567801235 ZTE Axon 60 - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+352098765401235 BlackBerry Key6 - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890125 HTC U24 Pro - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091234567802 Sony Xperia 1 VII - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890126 LG Velvet 3 - Personnel Device,incident scene images,Khorathidin Regional Emergency Management Center,Physical,Physical
+357192084561234 Galaxy S25 Ultra - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+864209153782145 iPhone 16 Pro Max - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+351984206713589 Pixel 9 XL - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+864512309876231 Xperia Z7 - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+352091847563210 OnePlus 13T - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+861234509876543 Redmi Note 15 Pro - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+359876120345678 Moto G100 - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+864209875612340 Nokia X50 - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+352098761234567 Huawei P60 Pro - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+861234567890123 Oppo Find X7 - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+352091234567890 Vivo X90 - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+861234098765432 Realme GT Neo 6 - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+352098765432109 Asus ROG Phone 8 - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+861234567809876 Lenovo Legion Y90 - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+352091234098765 Honor Magic 6 - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+861234567801234 ZTE Axon 50 - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+352098765401234 BlackBerry Key5 - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+861234567890124 HTC U23 Pro - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+352091234567801 Sony Xperia 1 VI - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+861234567890125 LG Velvet 2 - Personnel Device,personnel location,Bangkok Emergency Management Center,Physical,Physical
+352098765432101 Meizu 20 Pro - Personnel Device,personnel location,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890126 Sharp Aquos R8 - Personnel Device,personnel location,Pnom Pehn Emergency Management Center,Physical,Physical
+352091234567802 Micromax Infinity 5 - Personnel Device,personnel location,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890127 Infinix Zero Ultra - Personnel Device,personnel location,Pnom Pehn Emergency Management Center,Physical,Physical
+352098765432102 Tecno Phantom X3 - Personnel Device,personnel location,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890128 Itel Vision 5 - Personnel Device,personnel location,Pnom Pehn Emergency Management Center,Physical,Physical
+352091234567803 Lava Agni 3 - Personnel Device,personnel location,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890129 Coolpad Legacy 2 - Personnel Device,personnel location,Pnom Pehn Emergency Management Center,Physical,Physical
+352098765432103 Alcatel 5X - Personnel Device,personnel location,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890130 Fairphone 5 - Personnel Device,personnel location,Pnom Pehn Emergency Management Center,Physical,Physical
+352091234567804 Cat S65 - Personnel Device,personnel location,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890131 Doogee S100 - Personnel Device,personnel location,Pnom Pehn Emergency Management Center,Physical,Physical
+352098765432104 Ulefone Armor 15 - Personnel Device,personnel location,Pnom Pehn Emergency Management Center,Physical,Physical
+861234567890132 BLU G91 Max - Personnel Device,personnel location,Pnom Pehn Emergency Management Center,Physical,Physical
+352091234567805 Kyocera DuraForce Ultra - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890133 Palm Phone 2 - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+352098765432105 Google Pixel Fold - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091234567806 Motorola Razr 2025 - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890135 Xiaomi Mi Mix 5 - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+351982104567890 Galaxy S26 Ultra - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+864209153784321 iPhone 17 Pro Max - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091847563211 Pixel 10 XL - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+864512309876232 Xperia Z8 - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091847563212 OnePlus 14T - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234509876544 Redmi Note 16 Pro - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+359876120345679 Moto G200 - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+864209875612341 Nokia X60 - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+352098761234568 Huawei P70 Pro - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890124 Oppo Find X8 - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091234567891 Vivo X100 - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234098765433 Realme GT Neo 7 - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+352098765432110 Asus ROG Phone 9 - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567809877 Lenovo Legion Y100 - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091234098766 Honor Magic 7 - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567801235 ZTE Axon 60 - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+352098765401235 BlackBerry Key6 - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890125 HTC U24 Pro - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+352091234567802 Sony Xperia 1 VII - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+861234567890126 LG Velvet 3 - Personnel Device,personnel location,Khorathidin Regional Emergency Management Center,Physical,Physical
+Kamonchanok Srisuwan - Emergency Personnel,emergency personnel input,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Nattapong Wattanachai - Emergency Personnel,emergency personnel input,Bangkok Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Pimchanok Boonyarat - Emergency Personnel,emergency personnel input,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Thanakorn Rattanapong - Emergency Personnel,emergency personnel input,Bangkok Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Supalak Thongchai - Emergency Personnel,emergency personnel input,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Ananda Chaisuriyakul - Emergency Personnel,emergency personnel input,Bangkok Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Kritsada Phanurat - Emergency Personnel,emergency personnel input,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+Nicha Suphaphanich - Emergency Personnel,emergency personnel input,Bangkok Police 01 - Emergency Vehicle OBE,Physical,Physical
+Ornpreeya Sakulchai - Emergency Personnel,emergency personnel input,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+Ratchata Nimsakul - Emergency Personnel,emergency personnel input,Bangkok Police 02 - Emergency Vehicle OBE,Physical,Physical
+Sakchai Pradchaphet - Emergency Personnel,emergency personnel input,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+Tassanee Yodkamol - Emergency Personnel,emergency personnel input,Bangkok Police 03 - Emergency Vehicle OBE,Physical,Physical
+Udom Siripong - Emergency Personnel,emergency personnel input,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+Vichai Thongprasert - Emergency Personnel,emergency personnel input,Bangkok Police 04 - Emergency Vehicle OBE,Physical,Physical
+Wanida Kittisakul - Emergency Personnel,emergency personnel input,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+Yutthana Chaisuwan - Emergency Personnel,emergency personnel input,Bangkok Police 05 - Emergency Vehicle OBE,Physical,Physical
+Amara Boonyasiri - Emergency Personnel,emergency personnel input,Bangkok Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Boonchai Tansakul - Emergency Personnel,emergency personnel input,Bangkok Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Chutima Pattanapong - Emergency Personnel,emergency personnel input,Bangkok Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Duangjai Wongthip - Emergency Personnel,emergency personnel input,Bangkok Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Ekachai Suwannarat - Emergency Personnel,emergency personnel input,Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Fuangfah Kittipong - Emergency Personnel,emergency personnel input,Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Gun Noppakun - Emergency Personnel,emergency personnel input,Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Hansa Chotirat - Emergency Personnel,emergency personnel input,Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Inthira Saengchai - Emergency Personnel,emergency personnel input,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+Jariya Phanichkul - Emergency Personnel,emergency personnel input,Pnom Pehn Police 01 - Emergency Vehicle OBE,Physical,Physical
+Kamol Boonsri - Emergency Personnel,emergency personnel input,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+Lawan Thongchai - Emergency Personnel,emergency personnel input,Pnom Pehn Police 02 - Emergency Vehicle OBE,Physical,Physical
+Metha Rattanapong - Emergency Personnel,emergency personnel input,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+Nattaya Kongsiri - Emergency Personnel,emergency personnel input,Pnom Pehn Police 03 - Emergency Vehicle OBE,Physical,Physical
+Anusorn Wattanapanich - Emergency Personnel,emergency personnel input,Pnom Pehn Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Darika Suphakit - Emergency Personnel,emergency personnel input,Pnom Pehn Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Ekkachai Prasertkul - Emergency Personnel,emergency personnel input,Pnom Pehn Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Fon Chantarak - Emergency Personnel,emergency personnel input,Pnom Pehn Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Ganya Rattanawan - Emergency Personnel,emergency personnel input,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Hiran Phongpanich - Emergency Personnel,emergency personnel input,Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Physical,Physical
+Issara Wongchai - Emergency Personnel,emergency personnel input,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Jirawat Boonmee - Emergency Personnel,emergency personnel input,Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Physical,Physical
+Kanchana Srisopa - Emergency Personnel,emergency personnel input,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Lalita Thanaporn - Emergency Personnel,emergency personnel input,Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Physical,Physical
+Manop Chotiphan - Emergency Personnel,emergency personnel input,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Napat Srisuwan - Emergency Personnel,emergency personnel input,Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Physical,Physical
+Orawan Srisopa - Emergency Personnel,emergency personnel input,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Pattaraporn Jitpraphai - Emergency Personnel,emergency personnel input,Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Physical,Physical
+Phanupong Wongpracha - Emergency Personnel,emergency personnel input,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Ratchanee Jitsakulchai - Emergency Personnel,emergency personnel input,Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Physical,Physical
+Somchai Wattanapanichkul - Emergency Personnel,emergency personnel input,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+Tanaporn Boonprakob - Emergency Personnel,emergency personnel input,Khorathidin Regional Police 01 - Emergency Vehicle OBE,Physical,Physical
+Uthai Sirisopa - Emergency Personnel,emergency personnel input,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+Viyada Thanaratkul - Emergency Personnel,emergency personnel input,Khorathidin Regional Police 02 - Emergency Vehicle OBE,Physical,Physical
+Worawut Chaisiriwanichkul - Emergency Personnel,emergency personnel input,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+Yuwadee Phongsiriwanichkul - Emergency Personnel,emergency personnel input,Khorathidin Regional Police 03 - Emergency Vehicle OBE,Physical,Physical
+Arthit Kanchanapong - Emergency Personnel,emergency personnel input,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Benjamas Thammarat - Emergency Personnel,emergency personnel input,Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Physical,Physical
+Chaiwat Phanurat - Emergency Personnel,emergency personnel input,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Ekkarat Suwannarat - Emergency Personnel,emergency personnel input,Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Physical,Physical
+Fah Thongprasert - Emergency Personnel,emergency personnel input,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+Gun Noppadolchai - Emergency Personnel,emergency personnel input,Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Physical,Physical
+Hansa Chotiphanichkul - Emergency Personnel,emergency personnel input,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+Inthira Saengsuwan - Emergency Personnel,emergency personnel input,Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Physical,Physical
+Kamonchanok Srisuwan - Emergency Personnel,personnel input,357192084561234 Galaxy S25 Ultra - Personnel Device,Physical,Physical
+Nattapong Wattanachai - Emergency Personnel,personnel input,864209153782145 iPhone 16 Pro Max - Personnel Device,Physical,Physical
+Pimchanok Boonyarat - Emergency Personnel,personnel input,351984206713589 Pixel 9 XL - Personnel Device,Physical,Physical
+Thanakorn Rattanapong - Emergency Personnel,personnel input,864512309876231 Xperia Z7 - Personnel Device,Physical,Physical
+Supalak Thongchai - Emergency Personnel,personnel input,352091847563210 OnePlus 13T - Personnel Device,Physical,Physical
+Ananda Chaisuriyakul - Emergency Personnel,personnel input,861234509876543 Redmi Note 15 Pro - Personnel Device,Physical,Physical
+Kritsada Phanurat - Emergency Personnel,personnel input,359876120345678 Moto G100 - Personnel Device,Physical,Physical
+Nicha Suphaphanich - Emergency Personnel,personnel input,864209875612340 Nokia X50 - Personnel Device,Physical,Physical
+Ornpreeya Sakulchai - Emergency Personnel,personnel input,352098761234567 Huawei P60 Pro - Personnel Device,Physical,Physical
+Ratchata Nimsakul - Emergency Personnel,personnel input,861234567890123 Oppo Find X7 - Personnel Device,Physical,Physical
+Sakchai Pradchaphet - Emergency Personnel,personnel input,352091234567890 Vivo X90 - Personnel Device,Physical,Physical
+Tassanee Yodkamol - Emergency Personnel,personnel input,861234098765432 Realme GT Neo 6 - Personnel Device,Physical,Physical
+Udom Siripong - Emergency Personnel,personnel input,352098765432109 Asus ROG Phone 8 - Personnel Device,Physical,Physical
+Vichai Thongprasert - Emergency Personnel,personnel input,861234567809876 Lenovo Legion Y90 - Personnel Device,Physical,Physical
+Wanida Kittisakul - Emergency Personnel,personnel input,352091234098765 Honor Magic 6 - Personnel Device,Physical,Physical
+Yutthana Chaisuwan - Emergency Personnel,personnel input,861234567801234 ZTE Axon 50 - Personnel Device,Physical,Physical
+Amara Boonyasiri - Emergency Personnel,personnel input,352098765401234 BlackBerry Key5 - Personnel Device,Physical,Physical
+Boonchai Tansakul - Emergency Personnel,personnel input,861234567890124 HTC U23 Pro - Personnel Device,Physical,Physical
+Chutima Pattanapong - Emergency Personnel,personnel input,352091234567801 Sony Xperia 1 VI - Personnel Device,Physical,Physical
+Duangjai Wongthip - Emergency Personnel,personnel input,861234567890125 LG Velvet 2 - Personnel Device,Physical,Physical
+Ekachai Suwannarat - Emergency Personnel,personnel input,352098765432101 Meizu 20 Pro - Personnel Device,Physical,Physical
+Fuangfah Kittipong - Emergency Personnel,personnel input,861234567890126 Sharp Aquos R8 - Personnel Device,Physical,Physical
+Gun Noppakun - Emergency Personnel,personnel input,352091234567802 Micromax Infinity 5 - Personnel Device,Physical,Physical
+Hansa Chotirat - Emergency Personnel,personnel input,861234567890127 Infinix Zero Ultra - Personnel Device,Physical,Physical
+Inthira Saengchai - Emergency Personnel,personnel input,352098765432102 Tecno Phantom X3 - Personnel Device,Physical,Physical
+Jariya Phanichkul - Emergency Personnel,personnel input,861234567890128 Itel Vision 5 - Personnel Device,Physical,Physical
+Kamol Boonsri - Emergency Personnel,personnel input,352091234567803 Lava Agni 3 - Personnel Device,Physical,Physical
+Lawan Thongchai - Emergency Personnel,personnel input,861234567890129 Coolpad Legacy 2 - Personnel Device,Physical,Physical
+Metha Rattanapong - Emergency Personnel,personnel input,352098765432103 Alcatel 5X - Personnel Device,Physical,Physical
+Nattaya Kongsiri - Emergency Personnel,personnel input,861234567890130 Fairphone 5 - Personnel Device,Physical,Physical
+Anusorn Wattanapanich - Emergency Personnel,personnel input,352091234567804 Cat S65 - Personnel Device,Physical,Physical
+Darika Suphakit - Emergency Personnel,personnel input,861234567890131 Doogee S100 - Personnel Device,Physical,Physical
+Ekkachai Prasertkul - Emergency Personnel,personnel input,352098765432104 Ulefone Armor 15 - Personnel Device,Physical,Physical
+Fon Chantarak - Emergency Personnel,personnel input,861234567890132 BLU G91 Max - Personnel Device,Physical,Physical
+Ganya Rattanawan - Emergency Personnel,personnel input,352091234567805 Kyocera DuraForce Ultra - Personnel Device,Physical,Physical
+Hiran Phongpanich - Emergency Personnel,personnel input,861234567890133 Palm Phone 2 - Personnel Device,Physical,Physical
+Issara Wongchai - Emergency Personnel,personnel input,352098765432105 Google Pixel Fold - Personnel Device,Physical,Physical
+Jirawat Boonmee - Emergency Personnel,personnel input,861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,Physical,Physical
+Kanchana Srisopa - Emergency Personnel,personnel input,352091234567806 Motorola Razr 2025 - Personnel Device,Physical,Physical
+Lalita Thanaporn - Emergency Personnel,personnel input,861234567890135 Xiaomi Mi Mix 5 - Personnel Device,Physical,Physical
+Manop Chotiphan - Emergency Personnel,personnel input,351982104567890 Galaxy S26 Ultra - Personnel Device,Physical,Physical
+Napat Srisuwan - Emergency Personnel,personnel input,864209153784321 iPhone 17 Pro Max - Personnel Device,Physical,Physical
+Orawan Srisopa - Emergency Personnel,personnel input,352091847563211 Pixel 10 XL - Personnel Device,Physical,Physical
+Pattaraporn Jitpraphai - Emergency Personnel,personnel input,864512309876232 Xperia Z8 - Personnel Device,Physical,Physical
+Phanupong Wongpracha - Emergency Personnel,personnel input,352091847563212 OnePlus 14T - Personnel Device,Physical,Physical
+Ratchanee Jitsakulchai - Emergency Personnel,personnel input,861234509876544 Redmi Note 16 Pro - Personnel Device,Physical,Physical
+Somchai Wattanapanichkul - Emergency Personnel,personnel input,359876120345679 Moto G200 - Personnel Device,Physical,Physical
+Tanaporn Boonprakob - Emergency Personnel,personnel input,864209875612341 Nokia X60 - Personnel Device,Physical,Physical
+Uthai Sirisopa - Emergency Personnel,personnel input,352098761234568 Huawei P70 Pro - Personnel Device,Physical,Physical
+Viyada Thanaratkul - Emergency Personnel,personnel input,861234567890124 Oppo Find X8 - Personnel Device,Physical,Physical
+Worawut Chaisiriwanichkul - Emergency Personnel,personnel input,352091234567891 Vivo X100 - Personnel Device,Physical,Physical
+Yuwadee Phongsiriwanichkul - Emergency Personnel,personnel input,861234098765433 Realme GT Neo 7 - Personnel Device,Physical,Physical
+Arthit Kanchanapong - Emergency Personnel,personnel input,352098765432110 Asus ROG Phone 9 - Personnel Device,Physical,Physical
+Benjamas Thammarat - Emergency Personnel,personnel input,861234567809877 Lenovo Legion Y100 - Personnel Device,Physical,Physical
+Chaiwat Phanurat - Emergency Personnel,personnel input,352091234098766 Honor Magic 7 - Personnel Device,Physical,Physical
+Ekkarat Suwannarat - Emergency Personnel,personnel input,861234567801235 ZTE Axon 60 - Personnel Device,Physical,Physical
+Fah Thongprasert - Emergency Personnel,personnel input,352098765401235 BlackBerry Key6 - Personnel Device,Physical,Physical
+Gun Noppadolchai - Emergency Personnel,personnel input,861234567890125 HTC U24 Pro - Personnel Device,Physical,Physical
+Hansa Chotiphanichkul - Emergency Personnel,personnel input,352091234567802 Sony Xperia 1 VII - Personnel Device,Physical,Physical
+Inthira Saengsuwan - Emergency Personnel,personnel input,861234567890126 LG Velvet 3 - Personnel Device,Physical,Physical

@@ -1,0 +1,8 @@
+NodeName,isCyber,isPhysical,isSocial,ArchitectureLayer
+Emergency Vehicle OBE,1,1,0,Physical
+Emergency Personnel,0,1,1,Physical
+Emergency Management Center,1,1,0,Physical
+Other Emergency Management Centers,1,1,0,Physical
+Emergency System Operator,1,1,1,Physical
+Other EV OBEs,1,1,0,Physical
+Personnel Device,1,1,0,Physical

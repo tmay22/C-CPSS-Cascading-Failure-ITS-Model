@@ -1,0 +1,5 @@
+NodeName,isCyber,isPhysical,isSocial,ArchitectureLayer
+Freight Equipment,0,1,0,Physical
+Commercial Vehicle OBE,1,1,0,Physical
+Fleet and Freight Management Center,1,1,0,Physical
+Emergency Management Center,1,1,0,Physical

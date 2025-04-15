@@ -140,7 +140,7 @@ class informationFlow:
     # useFips = T/F FIPS standards
     # commProfiles = Data layer of Communications solutions
     # communicationsDictionary: levels are 1-ItsApplicationEntity , 2-Facilities, 3-Security, 4-Management, 5-TransNet, 6-Access, 7-Unspecified
-    
+    0
 
     def __init__(self, inputFlowName,):
         self.flowName = inputFlowName

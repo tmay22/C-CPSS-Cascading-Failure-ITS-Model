@@ -1,0 +1,15 @@
+﻿InformationFlowName,Confidentiality,Integrity,Availability,FIPSsStandard
+decision support information,Moderate,Moderate,Moderate,TRUE
+emergency operations input,Moderate,High,High,FALSE
+emergency operations status,Moderate,High,High,FALSE
+emergency personnel information presentation,Moderate,Moderate,Moderate,FALSE
+emergency personnel input,Moderate,Moderate,Moderate,FALSE
+incident command information,Moderate,Moderate,Moderate,TRUE
+incident command information coordination,Moderate,Moderate,Moderate,TRUE
+incident command input,Moderate,Moderate,Moderate,TRUE
+incident scene images,Moderate,Moderate,Moderate,TRUE
+incident scene status,Moderate,Moderate,Moderate,TRUE
+patient transport status,High,High,High,TRUE
+personnel input,Low,Moderate,Low,FALSE
+personnel location,Not Applicable,High,Moderate,FALSE
+personnel location,Low,High,Moderate,FALSE

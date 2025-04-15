@@ -1,0 +1,558 @@
+﻿NodeName,SecurityClass,Confidentiality,Integrity,Availability,ServicePackage,ArchitectyreType
+Chao Phraya Imports Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Khorathidin Wholegrains and Producers Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Klongtoey Movements Pty Ltd Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Buri Ram Logistics Solutions Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Bassac Traders Inc. Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Khorathidin Petroleum Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Khorathidin Transportation Information Center,Class 1,Low,Moderate,Moderate,Carrier Operations and Fleet Management,Physical
+Chao Phraya Imports Fleet and Freight Management Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Ananda Chaisuriyakul - Fleet-Freight Manager,,,,,Carrier Operations and Fleet Management,Physical
+Supalak Wattanachai - Fleet-Freight Manager,,,,,Carrier Operations and Fleet Management,Physical
+Kritsada Thongchai - Fleet-Freight Manager,,,,,Carrier Operations and Fleet Management,Physical
+Napat Srisuwan - Fleet-Freight Manager,,,,,Carrier Operations and Fleet Management,Physical
+Pimchanok Boonyarat - Fleet-Freight Manager,,,,,Carrier Operations and Fleet Management,Physical
+Thanakorn Rattanapong - Fleet-Freight Manager,,,,,Carrier Operations and Fleet Management,Physical
+CPI V01 EQ01 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+CPI V02 EQ02 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+CPI V03 EQ03 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+CPI V04 EQ04 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+CPI V05 EQ05 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+CPI V06 EQ06 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 01 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 02 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 03 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 04 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 05 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 06 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 07 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 08 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 09 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 10 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM01 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM02 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM03 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM04 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM05 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM06 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM07 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM08 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM09 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM10 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM11 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM12 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM13 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM14 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM15 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0001 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0002 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0003 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0003 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0005 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0006 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0007 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0008 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0009 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0010 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen01 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen02 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen03 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen04 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen05 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen06 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen07 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen08 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen 09 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen10 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen11 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen12 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 001 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 002 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 003 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 004 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 005 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 006 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 007 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 008 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 009 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 010 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 011 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 012 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 013 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 014 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 015 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 016 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 017 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 018 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 019 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 020 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+Arthit Kanchanapong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Benjamas Thammarat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Chaiwat Phanurat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Darika Suphakit - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Ekkachai Prasertkul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Fah Chantarak - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Ganya Rattanawan - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Hiran Phongpanich - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Issara Wongchai - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Jirawat Boonmee - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Kanchana Srisopa - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Lalita Thanaporn - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Manop Chotiphan - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Nattaya Kongsiri - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Ornpreeya Sakulchai - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Pattaraporn Jitpraphai - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Ratchata Nimsakul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Sakchai Pradchaphet - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Tassanee Yodkamol - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Udom Siripong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Vichai Thongprasert - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Wanida Kittisakul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Yutthana Chaisuwan - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Amara Boonyasiri - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Boonchai Tansakul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Chutima Pattanapong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Duangjai Wongthip - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Ekachai Suwannarat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Fuangfah Kittipong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Gun Noppakun - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Hansa Chotirat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Inthira Saengchai - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Jariya Phanichkul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Kamol Boonsri - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Lawan Thongchai - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Metha Rattanapong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Nicha Suphaphanich - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Orawan Srisuwan - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Phanupong Wongpracha - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Ratchanee Jitsakulchai - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Somchai Wattanapanichkul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Tanaporn Boonprakob - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Uthai Sirisopa - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Viyada Thanaratkul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Worawut Chaisiriwanichkul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Yuwadee Phongsiriwanichkul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Anupong Boonratana - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Suthida Krissada - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Chonlada Wongsawat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Nanticha Suksawat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Patchara Narongsak - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Thidarat Wongsawat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Worawut Mahawong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Nanticha Suksawat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Patchara Narongsak - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Thidarat Wongsawat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Worawut Mahawong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Nanticha Suksawat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Patchara Narongsak - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Thidarat Wongsawat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Worawut Mahawong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Worawut Mahawong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Bussaba Rattanapong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Chatchai Kittisak - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Daran Boonprasert - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Ekkarat Phanichkul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Fon Thongchai - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Gunnika Wattanapanich - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Hiran Boonsiri - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Issariya Chotiphan - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Jitsupa Prasertkul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Kamonchanok Srisuwan - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Lerdchai Chantarak - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+GPS - Location and Time Data Source,Class 5,Moderate,High,High,Carrier Operations and Fleet Management,Physical
+CP1514 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+CP5892 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+CP5896 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+CP4451 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+CP9855 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+CP0192 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW2048 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW4729- Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW9943 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW5928 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW7859 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW4711 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW9860  - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW2187 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW3175 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW8930 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM0291 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM3678 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM7120 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM9442 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM0911 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM8775 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM9902 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM5146 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM5468 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM5578- Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM4617 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM7859 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM9734 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM5685 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM59806 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR4511 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR7918 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR5411 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR9879 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR3417 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR4132 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR4185 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR3526 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR6872 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR4248 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT4869 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT2371 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT4452 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT1429 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT8367 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT3567 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT4251 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT4139 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT7652 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT8371 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT8833 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT8200 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP8901 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP3167 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP4069 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP3561 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP4578 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP4172 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP6448 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP5562 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP5002 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP4451 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP3951 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP3912 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP7254 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP5921 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP1427 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP4975 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP4595 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP5212 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP9987 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP4981 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+Bangkok Emergency Management Center,Class 5,High,High,High,HAZMAT Management,Physical
+Pnom Pehn Emergency Management Center,Class 5,High,High,High,HAZMAT Management,Physical
+Khorathidin Regional Emergency Management Center,Class 5,High,High,High,HAZMAT Management,Physical
+Chao Phraya Imports Fleet and Freight Management Center,Class 5,High,High,High,HAZMAT Management,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Class 5,High,High,High,HAZMAT Management,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Class 5,High,High,High,HAZMAT Management,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,Class 5,High,High,High,HAZMAT Management,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,Class 5,High,High,High,HAZMAT Management,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,Class 5,High,High,High,HAZMAT Management,Physical
+CPI V01 EQ01 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+CPI V02 EQ02 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+CPI V03 EQ03 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+CPI V04 EQ04 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+CPI V05 EQ05 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+CPI V06 EQ06 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KWP Sensor 01 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KWP Sensor 02 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KWP Sensor 03 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KWP Sensor 04 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KWP Sensor 05 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KWP Sensor 06 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KWP Sensor 07 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KWP Sensor 08 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KWP Sensor 09 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KWP Sensor 10 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KM01 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KM02 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KM03 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KM04 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KM05 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KM06 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KM07 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KM08 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KM09 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KM10 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KM11 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KM12 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KM13 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KM14 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KM15 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BRLS0001 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BRLS0002 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BRLS0003 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BRLS0003 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BRLS0005 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BRLS0006 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BRLS0007 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BRLS0008 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BRLS0009 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BRLS0010 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BasSen01 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BasSen02 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BasSen03 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BasSen04 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BasSen05 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BasSen06 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BasSen07 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BasSen08 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BasSen 09 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BasSen10 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BasSen11 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+BasSen12 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 001 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 002 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 003 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 004 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 005 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 006 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 007 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 008 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 009 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 010 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 011 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 012 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 013 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 014 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 015 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 016 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 017 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 018 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 019 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+KPetrol Mon 020 - Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical
+CP Container 01 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+CP Container 02 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+CP Container 03 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+CP Container 04 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+CP Container 05 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+CP Container 06 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KWP Carrier 001 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KWP Carrier 002 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KWP Carrier 003 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KWP Carrier 004 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KWP Carrier 005 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KWP Carrier 006 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KWP Carrier 007 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KWP Carrier 008 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KWP Carrier 009 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KWP Carrier 010 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KlMo Cont 01 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KlMo Cont 02 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KlMo Cont 03 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KlMo Cont 04 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KlMo Cont 05 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KlMo Cont 06 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KlMo Cont 07 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KlMo Cont 08 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KlMo Cont 09 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KlMo Cont 10 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KlMo Cont 11 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KlMo Cont 12 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KlMo Cont 13 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KlMo Cont 14 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+KlMo Cont 15 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+Ram Log x1 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+Ram Log x2 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+Ram Log x3 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+Ram Log x4 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+Ram Log x5 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+Ram Log x6 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+Ram Log x7 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+Ram Log x8 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+Ram Log x9 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+Ram Log x10 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+BT FlatPack 01 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+BT FlatPack 02 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+BT FlatPack 03 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+BT FlatPack 04 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+BT FlatPack 05 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+BT FlatPack 06 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+BT FlatPack 07 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+BT FlatPack 08 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+BT FlatPack 09 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+BT FlatPack 10 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+BT FlatPack 11 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+BT FlatPack 12 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 001 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 002 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 003 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 004 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 005 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 006 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 007 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 008 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 009 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 010 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 011 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 012 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 013 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 014 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 015 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 016 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 017 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 018 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 019 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+FuelContainer 020 - Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
+Bangkok Emergency Management Center,Class 2,Moderate,Moderate,Moderate,Emergency Response,Physical
+Pnom Pehn Emergency Management Center,Class 2,Moderate,Moderate,Moderate,Emergency Response,Physical
+Khorathidin Regional Emergency Management Center,Class 2,Moderate,Moderate,Moderate,Emergency Response,Physical
+Bangkok Ambulance 01 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Bangkok Ambulance 02 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Bangkok Ambulance 03 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Bangkok Police 01 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Bangkok Police 02 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Bangkok Police 03 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Bangkok Police 04 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Bangkok Police 05 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Bangkok Fire 01 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Bangkok Fire 02 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Pnom Pehn Ambulance 01 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Pnom Pehn Ambulance 02 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Pnom Pehn Police 01 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Pnom Pehn Police 02 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Pnom Pehn Police 03 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Pnom Pehn Fire 01 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Pnom Pehn Fire 02 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Khorathidin Regional Ambulance 01 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Khorathidin Regional Ambulance 02 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Khorathidin Regional Ambulance 03 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Khorathidin Regional Ambulance 04 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Khorathidin Regional Ambulance 05 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Khorathidin Regional Ambulance 06 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Khorathidin Regional Police 01 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Khorathidin Regional Police 02 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Khorathidin Regional Police 03 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Khorathidin Regional Fire 01 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Khorathidin Regional Fire 02 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Khorathidin Regional Fire 03 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Khorathidin Regional Fire 04 - Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
+Kittipong Suthamchai – Emergency System Operator,,,,,Emergency Response,Physical
+Nattaporn Rattanapong – Emergency System Operator,,,,,Emergency Response,Physical
+Sasithorn Boonyasiri – Emergency System Operator,,,,,Emergency Response,Physical
+Worachai Kanchanarat – Emergency System Operator,,,,,Emergency Response,Physical
+Pimnara Chotiphan – Emergency System Operator,,,,,Emergency Response,Physical
+Anusorn Wattanachai – Emergency System Operator,,,,,Emergency Response,Physical
+Jirapat Srisuwan – Emergency System Operator,,,,,Emergency Response,Physical
+Lalita Phanichkul – Emergency System Operator,,,,,Emergency Response,Physical
+Thanawat Thongprasert – Emergency System Operator,,,,,Emergency Response,Physical
+Oranuch Siripong – Emergency System Operator,,,,,Emergency Response,Physical
+357192084561234 Galaxy S25 Ultra - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+864209153782145 iPhone 16 Pro Max - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+351984206713589 Pixel 9 XL - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+864512309876231 Xperia Z7 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352091847563210 OnePlus 13T - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234509876543 Redmi Note 15 Pro - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+359876120345678 Moto G100 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+864209875612340 Nokia X50 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352098761234567 Huawei P60 Pro - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567890123 Oppo Find X7 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352091234567890 Vivo X90 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234098765432 Realme GT Neo 6 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352098765432109 Asus ROG Phone 8 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567809876 Lenovo Legion Y90 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352091234098765 Honor Magic 6 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567801234 ZTE Axon 50 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352098765401234 BlackBerry Key5 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567890124 HTC U23 Pro - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352091234567801 Sony Xperia 1 VI - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567890125 LG Velvet 2 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352098765432101 Meizu 20 Pro - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567890126 Sharp Aquos R8 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352091234567802 Micromax Infinity 5 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567890127 Infinix Zero Ultra - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352098765432102 Tecno Phantom X3 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567890128 Itel Vision 5 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352091234567803 Lava Agni 3 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567890129 Coolpad Legacy 2 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352098765432103 Alcatel 5X - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567890130 Fairphone 5 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352091234567804 Cat S65 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567890131 Doogee S100 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352098765432104 Ulefone Armor 15 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567890132 BLU G91 Max - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352091234567805 Kyocera DuraForce Ultra - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567890133 Palm Phone 2 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352098765432105 Google Pixel Fold - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567890134 Samsung Galaxy Z Flip 6 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352091234567806 Motorola Razr 2025 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567890135 Xiaomi Mi Mix 5 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+351982104567890 Galaxy S26 Ultra - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+864209153784321 iPhone 17 Pro Max - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352091847563211 Pixel 10 XL - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+864512309876232 Xperia Z8 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352091847563212 OnePlus 14T - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234509876544 Redmi Note 16 Pro - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+359876120345679 Moto G200 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+864209875612341 Nokia X60 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352098761234568 Huawei P70 Pro - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567890124 Oppo Find X8 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352091234567891 Vivo X100 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234098765433 Realme GT Neo 7 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352098765432110 Asus ROG Phone 9 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567809877 Lenovo Legion Y100 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352091234098766 Honor Magic 7 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567801235 ZTE Axon 60 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352098765401235 BlackBerry Key6 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567890125 HTC U24 Pro - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+352091234567802 Sony Xperia 1 VII - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+861234567890126 LG Velvet 3 - Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical
+Kamonchanok Srisuwan - Emergency Personnel,,,,,Emergency Response,Physical
+Nattapong Wattanachai - Emergency Personnel,,,,,Emergency Response,Physical
+Pimchanok Boonyarat - Emergency Personnel,,,,,Emergency Response,Physical
+Thanakorn Rattanapong - Emergency Personnel,,,,,Emergency Response,Physical
+Supalak Thongchai - Emergency Personnel,,,,,Emergency Response,Physical
+Ananda Chaisuriyakul - Emergency Personnel,,,,,Emergency Response,Physical
+Kritsada Phanurat - Emergency Personnel,,,,,Emergency Response,Physical
+Nicha Suphaphanich - Emergency Personnel,,,,,Emergency Response,Physical
+Ornpreeya Sakulchai - Emergency Personnel,,,,,Emergency Response,Physical
+Ratchata Nimsakul - Emergency Personnel,,,,,Emergency Response,Physical
+Sakchai Pradchaphet - Emergency Personnel,,,,,Emergency Response,Physical
+Tassanee Yodkamol - Emergency Personnel,,,,,Emergency Response,Physical
+Udom Siripong - Emergency Personnel,,,,,Emergency Response,Physical
+Vichai Thongprasert - Emergency Personnel,,,,,Emergency Response,Physical
+Wanida Kittisakul - Emergency Personnel,,,,,Emergency Response,Physical
+Yutthana Chaisuwan - Emergency Personnel,,,,,Emergency Response,Physical
+Amara Boonyasiri - Emergency Personnel,,,,,Emergency Response,Physical
+Boonchai Tansakul - Emergency Personnel,,,,,Emergency Response,Physical
+Chutima Pattanapong - Emergency Personnel,,,,,Emergency Response,Physical
+Duangjai Wongthip - Emergency Personnel,,,,,Emergency Response,Physical
+Ekachai Suwannarat - Emergency Personnel,,,,,Emergency Response,Physical
+Fuangfah Kittipong - Emergency Personnel,,,,,Emergency Response,Physical
+Gun Noppakun - Emergency Personnel,,,,,Emergency Response,Physical
+Hansa Chotirat - Emergency Personnel,,,,,Emergency Response,Physical
+Inthira Saengchai - Emergency Personnel,,,,,Emergency Response,Physical
+Jariya Phanichkul - Emergency Personnel,,,,,Emergency Response,Physical
+Kamol Boonsri - Emergency Personnel,,,,,Emergency Response,Physical
+Lawan Thongchai - Emergency Personnel,,,,,Emergency Response,Physical
+Metha Rattanapong - Emergency Personnel,,,,,Emergency Response,Physical
+Nattaya Kongsiri - Emergency Personnel,,,,,Emergency Response,Physical
+Anusorn Wattanapanich - Emergency Personnel,,,,,Emergency Response,Physical
+Darika Suphakit - Emergency Personnel,,,,,Emergency Response,Physical
+Ekkachai Prasertkul - Emergency Personnel,,,,,Emergency Response,Physical
+Fon Chantarak - Emergency Personnel,,,,,Emergency Response,Physical
+Ganya Rattanawan - Emergency Personnel,,,,,Emergency Response,Physical
+Hiran Phongpanich - Emergency Personnel,,,,,Emergency Response,Physical
+Issara Wongchai - Emergency Personnel,,,,,Emergency Response,Physical
+Jirawat Boonmee - Emergency Personnel,,,,,Emergency Response,Physical
+Kanchana Srisopa - Emergency Personnel,,,,,Emergency Response,Physical
+Lalita Thanaporn - Emergency Personnel,,,,,Emergency Response,Physical
+Manop Chotiphan - Emergency Personnel,,,,,Emergency Response,Physical
+Napat Srisuwan - Emergency Personnel,,,,,Emergency Response,Physical
+Orawan Srisopa - Emergency Personnel,,,,,Emergency Response,Physical
+Pattaraporn Jitpraphai - Emergency Personnel,,,,,Emergency Response,Physical
+Phanupong Wongpracha - Emergency Personnel,,,,,Emergency Response,Physical
+Ratchanee Jitsakulchai - Emergency Personnel,,,,,Emergency Response,Physical
+Somchai Wattanapanichkul - Emergency Personnel,,,,,Emergency Response,Physical
+Tanaporn Boonprakob - Emergency Personnel,,,,,Emergency Response,Physical
+Uthai Sirisopa - Emergency Personnel,,,,,Emergency Response,Physical
+Viyada Thanaratkul - Emergency Personnel,,,,,Emergency Response,Physical
+Worawut Chaisiriwanichkul - Emergency Personnel,,,,,Emergency Response,Physical
+Yuwadee Phongsiriwanichkul - Emergency Personnel,,,,,Emergency Response,Physical
+Arthit Kanchanapong - Emergency Personnel,,,,,Emergency Response,Physical
+Benjamas Thammarat - Emergency Personnel,,,,,Emergency Response,Physical
+Chaiwat Phanurat - Emergency Personnel,,,,,Emergency Response,Physical
+Ekkarat Suwannarat - Emergency Personnel,,,,,Emergency Response,Physical
+Fah Thongprasert - Emergency Personnel,,,,,Emergency Response,Physical
+Gun Noppadolchai - Emergency Personnel,,,,,Emergency Response,Physical
+Hansa Chotiphanichkul - Emergency Personnel,,,,,Emergency Response,Physical
+Inthira Saengsuwan - Emergency Personnel,,,,,Emergency Response,Physical

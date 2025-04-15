@@ -1,0 +1,169 @@
+NodeName,isCyber,isPhysical,isSocial,ArchitectureLayer
+Khorathidin Ambulance OBE 01,1,1,0,Physical
+Kanokwan Chakrii - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Khorathidin Central Emergency Management Center,1,1,0,Physical
+Other Emergency Management Centers,1,1,0,Physical
+Somchai Adulyadej - Khorathidin Central Emergency System Operator,1,1,1,Physical
+Other EV OBEs,1,1,0,Physical
+Apple iPhone 16,1,1,0,Physical
+Bangkok Emergency Management Center,1,1,0,Physical
+Phnom Penh Emergency Management Center,1,1,0,Physical
+Samut Prakan Emergency Management Center,1,1,0,Physical
+Nonthaburi Emergency Management Center,1,1,0,Physical
+Chiang Mai Emergency Management Center,1,1,0,Physical
+Somsak Ayutthaya - Khorathidin Central Emergency System Operator,1,1,1,Physical
+Wichai Boonmee - Khorathidin Central Emergency System Operator,1,1,1,Physical
+Arthit Bun Ma - Khorathidin Central Emergency System Operator,1,1,1,Physical
+Kittisak Chaidee - Khorathidin Central Emergency System Operator,1,1,1,Physical
+Somchai Saetang - Bangkok Emergency System Operator,1,1,1,Physical
+Arthit Saelim - Bangkok Emergency System Operator,1,1,1,Physical
+Kittisak Ayutthaya - Bangkok Emergency System Operator,1,1,1,Physical
+Somsak Chen - Bangkok Emergency System Operator,1,1,1,Physical
+Kanokwan Charoensuk - Bangkok Emergency System Operator,1,1,1,Physical
+Khorathidin Ambulance OBE 02,1,1,0,Physical
+Khorathidin Ambulance OBE 03,1,1,0,Physical
+Khorathidin Ambulance OBE 04,1,1,0,Physical
+Khorathidin Ambulance OBE 05,1,1,0,Physical
+Khorathidin Fire Engine OBE 01,1,1,0,Physical
+Khorathidin Fire Engine OBE 02,1,1,0,Physical
+Khorathidin Fire Engine OBE 03,1,1,0,Physical
+Khorathidin Fire Engine OBE 04,1,1,0,Physical
+Khorathidin Fire Engine OBE 5,1,1,0,Physical
+Khorathidin Police Car OBE 1,1,1,0,Physical
+Khorathidin Police Car OBE 2,1,1,0,Physical
+Khorathidin Police Car OBE 3,1,1,0,Physical
+Khorathidin Police Car OBE 4,1,1,0,Physical
+Khorathidin Police Car OBE 5,1,1,0,Physical
+Bangkok Police Car OBE 01,1,1,0,Physical
+Bangkok Police Car OBE 02,1,1,0,Physical
+Bangkok Police Car OBE 03,1,1,0,Physical
+Bangkok Police Car OBE 04,1,1,0,Physical
+Bangkok Police Car OBE 05,1,1,0,Physical
+Bangkok Police Car OBE 06,1,1,0,Physical
+Bangkok Police Car OBE 07,1,1,0,Physical
+Bangkok Fire Truck OBE 01,1,1,0,Physical
+Bangkok Fire Truck OBE 02,1,1,0,Physical
+Bangkok Fire Truck OBE 03,1,1,0,Physical
+Bangkok Ambulance OBE 01,1,1,0,Physical
+Bangkok Ambulance OBE 02,1,1,0,Physical
+Bangkok Ambulance OBE 03,1,1,0,Physical
+Bangkok Ambulance OBE 04,1,1,0,Physical
+Bangkok Ambulance OBE 05,1,1,0,Physical
+Kanya Charoensuk - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Lalana Krungthep - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Malai Rattanakorn - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Nathamon Saengkaew - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Pimchanok Shinawatra - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Piyanan Somsri - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Ratanakorn Srisuwan - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Saranya Suwannarat - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Sasi Tham-boon - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Sukanya Thong Di - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Tanya Saetang - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Thanida Saelim - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Thanya Wong - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Umporn Chen - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Usanee Huang - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Wanwan Li - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Wongwan Liu - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Yada Zhang - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Yothaka Bhongam - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Phromphun Boonya - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Phromthong Bunmi - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Phussadee Kasem - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Rattana Sethi - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Saran Thakur - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Tanthira Tan - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Ongart Phuwadon - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Pichai Pongkan - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Rajapong Rachata - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Sakda Ponnakrit - Khorathindin Central Emergency Personnel,0,1,1,Physical
+Kanya Duangkamol - Bangkok Emergency Personnel,0,1,1,Physical
+Lalana Chakrii - Bangkok Emergency Personnel,0,1,1,Physical
+Malai Hiranchai - Bangkok Emergency Personnel,0,1,1,Physical
+Nathamon Jaikieow - Bangkok Emergency Personnel,0,1,1,Physical
+Pimchanok Krungthep - Bangkok Emergency Personnel,0,1,1,Physical
+Piyanan Karawek - Bangkok Emergency Personnel,0,1,1,Physical
+Ratanakorn Adulyadej - Bangkok Emergency Personnel,0,1,1,Physical
+Saranya Amarin - Bangkok Emergency Personnel,0,1,1,Physical
+Sasi Ambhom - Bangkok Emergency Personnel,0,1,1,Physical
+Sukanya Kasem - Bangkok Emergency Personnel,0,1,1,Physical
+Tanya Khamkaeo - Bangkok Emergency Personnel,0,1,1,Physical
+Thanida Khamwaen - Bangkok Emergency Personnel,0,1,1,Physical
+Thanya Khemkaeng - Bangkok Emergency Personnel,0,1,1,Physical
+Umporn Kul - Bangkok Emergency Personnel,0,1,1,Physical
+Usanee Lueangsuwan - Bangkok Emergency Personnel,0,1,1,Physical
+Wanwan Madeua - Bangkok Emergency Personnel,0,1,1,Physical
+Wongwan Patana - Bangkok Emergency Personnel,0,1,1,Physical
+Yada Pitak - Bangkok Emergency Personnel,0,1,1,Physical
+Yothaka Pong - Bangkok Emergency Personnel,0,1,1,Physical
+Phromphun Chaiyasing - Bangkok Emergency Personnel,0,1,1,Physical
+Phromthong Charoen - Bangkok Emergency Personnel,0,1,1,Physical
+Phussadee Bun Ma - Bangkok Emergency Personnel,0,1,1,Physical
+Rattana Thong Di - Bangkok Emergency Personnel,0,1,1,Physical
+Saran Shinawatra - Bangkok Emergency Personnel,0,1,1,Physical
+Tanthira Somsri - Bangkok Emergency Personnel,0,1,1,Physical
+Anucha Boonmee - Bangkok Emergency Personnel,0,1,1,Physical
+Chutima Rattanapong - Bangkok Emergency Personnel,0,1,1,Physical
+Nattapong Wongchai - Bangkok Emergency Personnel,0,1,1,Physical
+Supaporn Jitprasert - Bangkok Emergency Personnel,0,1,1,Physical
+Waraporn Suksawat - Bangkok Emergency Personnel,0,1,1,Physical
+Apple iPhone 16 Plus,1,1,0,Physical
+Apple iPhone 16 Pro,1,1,0,Physical
+Apple iPhone 16 Pro Max,1,1,0,Physical
+Apple iPhone SE,1,1,0,Physical
+Apple iPhone 16e,1,1,0,Physical
+Samsung Galaxy S25,1,1,0,Physical
+Samsung Galaxy S25 Plus,1,1,0,Physical
+Samsung Galaxy S25 Ultra,1,1,0,Physical
+Samsung Galaxy S24 Ultra,1,1,0,Physical
+Samsung Galaxy S24 FE,1,1,0,Physical
+Samsung Galaxy Z Flip 6,1,1,0,Physical
+Google Pixel 9,1,1,0,Physical
+Google Pixel 9 Pro,1,1,0,Physical
+Google Pixel 9 Pro Fold,1,1,0,Physical
+Google Pixel 8a,1,1,0,Physical
+Google Pixel 9a,1,1,0,Physical
+OnePlus 13,1,1,0,Physical
+OnePlus Open,1,1,0,Physical
+Asus ROG Phone 9 Pro,1,1,0,Physical
+Nothing Phone 3a Pro,1,1,0,Physical
+Motorola Razr Plus,1,1,0,Physical
+Xiaomi Mi Mix Fold 4,1,1,0,Physical
+Xiaomi Redmi Note 14 Pro,1,1,0,Physical
+Xiaomi Poco F5 Pro,1,1,0,Physical
+Oppo Find N3 Flip,1,1,0,Physical
+Oppo Reno10 Pro+,1,1,0,Physical
+Vivo X100 Pro+,1,1,0,Physical
+Vivo V29 Pro,1,1,0,Physical
+Honor Magic Vs2,1,1,0,Physical
+Honor Magic5 Ultimate Edition,1,1,0,Physical
+Realme GT Neo6 Pro,1,1,0,Physical
+Realme Narzo 70 Pro+,1,1,0,Physical
+Sony Xperia 1 VI,1,1,0,Physical
+Sony Xperia 5 VI Compact Edition,1,1,0,Physical
+Huawei Mate X5,1,1,0,Physical
+Huawei P60 Pro+,1,1,0,Physical
+Nokia X50 Ultra,1,1,0,Physical
+Nokia G22 Eco Edition,1,1,0,Physical
+Tecno Phantom V Flip,1,1,0,Physical
+Tecno Camon 20 Premier AI Edition,1,1,0,Physical
+Infinix Zero Ultra AI Camera Edition,1,1,0,Physical
+Lenovo Legion Y90 Gaming Phone,1,1,0,Physical
+ZTE Axon 50 Ultra AI Camera Flagship,1,1,0,Physical
+ZTE Nubia RedMagic 9 Gaming Phone,1,1,0,Physical
+Fairphone 5 Sustainability Edition,1,1,0,Physical
+Cat S75 Rugged Smartphone,1,1,0,Physical
+TCL Stylus XL Foldable Edition,1,1,0,Physical
+Alcatel Joy Tab Phone Hybrid,1,1,0,Physical
+Meizu Zero Ultra AI Flagship,1,1,0,Physical
+Sharp Aquos R8 Flagship Phone,1,1,0,Physical
+Panasonic Toughbook FZ-T1 Rugged Smartphone,1,1,0,Physical
+Kyocera DuraForce Ultra Rugged Smartphone,1,1,0,Physical
+Ulefone Armor Titan Rugged Smartphone,1,1,0,Physical
+Vivo iQOO Neo7 Racing Edition,1,1,0,Physical
+Realme GT Master Explorer Edition,1,1,0,Physical
+Xiaomi Black Shark 6 Gaming Phone,1,1,0,Physical
+Oppo A98 Budget-Friendly AI Phone,1,1,0,Physical
+Samsung Galaxy A25 5G,1,1,0,Physical
+Motorola Edge+ Gen3 Flagship Phone,1,1,0,Physical

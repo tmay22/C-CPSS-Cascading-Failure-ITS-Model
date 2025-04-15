@@ -1,0 +1,240 @@
+﻿NodeName,SecurityClass,Confidentiality,Integrity,Availability,ServicePackage,ArchitectyreType
+Chao Phraya Imports Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Khorathidin Wholegrains and Producers Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Klongtoey Movements Pty Ltd Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Buri Ram Logistics Solutions Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Bassac Traders Inc. Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Khorathidin Petroleum Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Khorathidin Transportation Information Center,Class 1,Low,Moderate,Moderate,Carrier Operations and Fleet Management,Physical
+Chao Phraya Imports Fleet and Freight Management Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Khorathidin Wholegrains and Producers Fleet and Freight Management Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Klongtoey Movements Pty Ltd Fleet and Freight Management Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Buri Ram Logistics Solutions Fleet and Freight Management Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Bassac Traders Inc. Fleet and Freight Management Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Khorathidin Petroleum Fleet and Freight Management Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
+Ananda Chaisuriyakul - Fleet-Freight Manager,,,,,Carrier Operations and Fleet Management,Physical
+Supalak Wattanachai - Fleet-Freight Manager,,,,,Carrier Operations and Fleet Management,Physical
+Kritsada Thongchai - Fleet-Freight Manager,,,,,Carrier Operations and Fleet Management,Physical
+Napat Srisuwan - Fleet-Freight Manager,,,,,Carrier Operations and Fleet Management,Physical
+Pimchanok Boonyarat - Fleet-Freight Manager,,,,,Carrier Operations and Fleet Management,Physical
+Thanakorn Rattanapong - Fleet-Freight Manager,,,,,Carrier Operations and Fleet Management,Physical
+CPI V01 EQ01 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+CPI V02 EQ02 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+CPI V03 EQ03 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+CPI V04 EQ04 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+CPI V05 EQ05 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+CPI V06 EQ06 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 01 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 02 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 03 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 04 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 05 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 06 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 07 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 08 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 09 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KWP Sensor 10 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM01 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM02 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM03 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM04 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM05 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM06 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM07 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM08 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM09 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM10 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM11 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM12 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM13 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM14 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KM15 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0001 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0002 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0003 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0003 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0005 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0006 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0007 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0008 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0009 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BRLS0010 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen01 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen02 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen03 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen04 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen05 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen06 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen07 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen08 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen 09 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen10 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen11 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+BasSen12 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 001 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 002 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 003 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 004 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 005 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 006 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 007 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 008 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 009 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 010 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 011 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 012 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 013 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 014 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 015 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 016 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 017 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 018 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 019 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+KPetrol Mon 020 - Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
+Arthit Kanchanapong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Benjamas Thammarat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Chaiwat Phanurat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Darika Suphakit - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Ekkachai Prasertkul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Fah Chantarak - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Ganya Rattanawan - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Hiran Phongpanich - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Issara Wongchai - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Jirawat Boonmee - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Kanchana Srisopa - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Lalita Thanaporn - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Manop Chotiphan - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Nattaya Kongsiri - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Ornpreeya Sakulchai - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Pattaraporn Jitpraphai - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Ratchata Nimsakul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Sakchai Pradchaphet - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Tassanee Yodkamol - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Udom Siripong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Vichai Thongprasert - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Wanida Kittisakul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Yutthana Chaisuwan - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Amara Boonyasiri - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Boonchai Tansakul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Chutima Pattanapong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Duangjai Wongthip - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Ekachai Suwannarat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Fuangfah Kittipong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Gun Noppakun - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Hansa Chotirat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Inthira Saengchai - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Jariya Phanichkul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Kamol Boonsri - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Lawan Thongchai - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Metha Rattanapong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Nicha Suphaphanich - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Orawan Srisuwan - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Phanupong Wongpracha - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Ratchanee Jitsakulchai - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Somchai Wattanapanichkul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Tanaporn Boonprakob - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Uthai Sirisopa - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Viyada Thanaratkul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Worawut Chaisiriwanichkul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Yuwadee Phongsiriwanichkul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Anupong Boonratana - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Suthida Krissada - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Chonlada Wongsawat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Nanticha Suksawat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Patchara Narongsak - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Thidarat Wongsawat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Worawut Mahawong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Nanticha Suksawat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Patchara Narongsak - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Thidarat Wongsawat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Worawut Mahawong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Nanticha Suksawat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Patchara Narongsak - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Thidarat Wongsawat - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Worawut Mahawong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Worawut Mahawong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Bussaba Rattanapong - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Chatchai Kittisak - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Daran Boonprasert - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Ekkarat Phanichkul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Fon Thongchai - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Gunnika Wattanapanich - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Hiran Boonsiri - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Issariya Chotiphan - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Jitsupa Prasertkul - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Kamonchanok Srisuwan - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+Lerdchai Chantarak - Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
+GPS - Location and Time Data Source,Class 5,Moderate,High,High,Carrier Operations and Fleet Management,Physical
+CP1514 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+CP5892 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+CP5896 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+CP4451 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+CP9855 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+CP0192 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW2048 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW4729- Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW9943 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW5928 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW7859 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW4711 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW9860  - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW2187 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW3175 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KW8930 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM0291 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM3678 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM7120 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM9442 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM0911 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM8775 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM9902 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM5146 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM5468 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM5578- Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM4617 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM7859 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM9734 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM5685 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KM59806 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR4511 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR7918 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR5411 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR9879 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR3417 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR4132 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR4185 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR3526 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR6872 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BR4248 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT4869 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT2371 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT4452 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT1429 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT8367 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT3567 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT4251 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT4139 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT7652 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT8371 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT8833 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+BT8200 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP8901 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP3167 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP4069 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP3561 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP4578 - Scania V8 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP4172 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP6448 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP5562 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP5002 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP4451 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP3951 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP3912 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP7254 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP5921 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP1427 - Volvo FH16 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP4975 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP4595 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP5212 - Scania R 770 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP9987 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
+KP4981 - Komatsu 930E-5 - Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
