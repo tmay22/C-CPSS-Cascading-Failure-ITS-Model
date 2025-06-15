@@ -253,6 +253,15 @@ def buildFromPath(path):
             
             lineCount = lineCount + 1
 
+    # Add flow instance of degree statistics
+    for counter in Globals.communicationProfiles:
+        profile = Globals.communicationProfiles[counter]
+        linkedFlowList = profile.linkedFlows
+        totalLinks = 0
+        for linkedFlow in linkedFlowList:
+            numRelies = len(linkedFlow.sourceDestList)
+            totalLinks = totalLinks + numRelies
+        profile.instanceOfDegree = totalLinks
 
     # Setup Graph
 

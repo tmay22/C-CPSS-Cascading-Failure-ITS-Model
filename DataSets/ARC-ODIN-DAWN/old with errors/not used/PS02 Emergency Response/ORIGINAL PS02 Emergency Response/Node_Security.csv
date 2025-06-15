@@ -1,8 +1,0 @@
-﻿NodeName,SecurityClass,Confidentiality,Integrity,Availability,ServicePackage,ArchitectyreType
-Emergency Vehicle OBE,Class 5,High,High,High,Emergency Response,Physical
-Emergency Personnel,,,,,Emergency Response,Physical
-Emergency Management Center,Class 5,High,High,High,Emergency Response,Physical
-Other Emergency Management Centers,Class 2,Moderate,Moderate,Moderate,Emergency Response,Physical
-Emergency System Operator,,,,,Emergency Response,Physical
-Other EV OBEs,Class 2,Moderate,Moderate,Moderate,Emergency Response,Physical
-Personnel Device,Class 3,Moderate,High,Moderate,Emergency Response,Physical

@@ -1,9 +1,0 @@
-NodeName,isCyber,isPhysical,isSocial,ArchitectureLayer
-Commercial Vehicle OBE,1,1,0,Physical
-Fleet and Freight Management Center,1,1,0,Physical
-Transportation Information Center,1,1,0,Physical
-Commercial Vehicle Driver,0,1,1,Physical
-Fleet-Freight Manager,0,1,1,Physical
-Commercial Vehicle Administration Center,1,1,0,Physical
-Basic Commercial Vehicle,0,1,0,Physical
-Location and Time Data Source,1,1,0,Physical

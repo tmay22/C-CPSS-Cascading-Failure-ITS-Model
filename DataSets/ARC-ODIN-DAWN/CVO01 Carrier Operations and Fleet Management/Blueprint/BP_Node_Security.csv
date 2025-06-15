@@ -1,9 +1,0 @@
-﻿NodeName,SecurityClass,Confidentiality,Integrity,Availability,ServicePackage,ArchitectyreType
-Commercial Vehicle OBE,Class 5,High,High,High,Carrier Operations and Fleet Management,Physical
-Fleet and Freight Management Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
-Transportation Information Center,Class 1,Low,Moderate,Moderate,Carrier Operations and Fleet Management,Physical
-Commercial Vehicle Driver,,,,,Carrier Operations and Fleet Management,Physical
-Fleet-Freight Manager,,,,,Carrier Operations and Fleet Management,Physical
-Commercial Vehicle Administration Center,Class 4,High,High,Moderate,Carrier Operations and Fleet Management,Physical
-Basic Commercial Vehicle,,,,,Carrier Operations and Fleet Management,Physical
-Location and Time Data Source,Class 5,Moderate,High,High,Carrier Operations and Fleet Management,Physical
