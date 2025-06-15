@@ -1,5 +1,0 @@
-﻿NodeName,SecurityClass,Confidentiality,Integrity,Availability,ServicePackage,ArchitectyreType
-Fleet and Freight Management Center,Class 5,High,High,High,HAZMAT Management,Physical
-Emergency Management Center,Class 5,High,High,High,HAZMAT Management,Physical
-Freight Equipment,Class 2,Moderate,Moderate,Moderate,HAZMAT Management,Physical
-Commercial Vehicle OBE,Class 5,High,High,High,HAZMAT Management,Physical

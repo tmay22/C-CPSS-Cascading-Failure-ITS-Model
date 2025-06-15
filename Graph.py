@@ -92,8 +92,6 @@ def setupGraph_noSocial():
 
 
 
-
-
 # Show the global network of systems
 def graphGlobalNetwork():
     nodeList = Globals.systemList

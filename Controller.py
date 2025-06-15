@@ -24,6 +24,8 @@ def mainMenu():
             print("(7) Sort Nodes by Highest Cyber Degree (Physical ITS Architecture Layer)")
             print("(8) Calculate Communication Profile Cascading Failure Data (Nil Criticality)")
             print("(9) Calculate and Compare Communication Profile Cascading Failure Including and Excluding SOcial-Only Nodes (Nil-Criticality)")
+            print("(10) Sort Communication Profiles by Highest Instance of Degree Connectivity to Links")
+            
             print("(B) Back ")
             queryData= input("Choose Option: ")
             print("You Selected " + queryData)
@@ -46,6 +48,8 @@ def mainMenu():
                 menu_8_CommProfile_ConsequenceData()
             elif queryData == "9":
                 menu_9_CommProfile_ConsequenceData_SocialVsNonSocial()
+            elif queryData == "10":
+                menu_10_CommProfile_HighestDegree()
             elif queryData == "B" or queryData == "b":
                 return 
             else:
@@ -516,7 +520,7 @@ def menu_9_CommProfile_ConsequenceData_SocialVsNonSocial():
     for counter in originalList:
         sysNameList.append(originalList[counter].sysName)
 
-    graphList = []
+    
     # Set all systems as False in beginning and set all seed values to false,
     # Unless is the original node (seed), or a consequence
     tempSysNameList = []
@@ -528,17 +532,47 @@ def menu_9_CommProfile_ConsequenceData_SocialVsNonSocial():
             if consequence in system:
                 isConsequence=True
                 
-        newGraphNode = CPSS_System.CPSS_forGraph(system,isSeed,isConsequence)
+        
         if isConsequence:
             tempSysNameList.append(system)
-        graphList.append(newGraphNode)
+        
 
     affectedSys = len(tempSysNameList)
     percAffected = affectedSys / numSys
 
     diff = percAffected-nsPercAffected
 
+    print (f'Standard Consequences:  An outage at communications profile {comm} will effect {percAffected} of wider system.')
     
     print (f'No Social Consequences: An outage at communications profile {comm} will effect {nsPercAffected} of wider system.')
-    print (f'Standard Consequences:  An outage at communications profile {comm} will effect {percAffected} of wider system.')
     print (f'Difference is: {diff}')
+
+
+def menu_10_CommProfile_HighestDegree():
+    print("----------------------------------------")
+    print("Identify and List Communications Profiles with Highest Instance of Degree connection to links")
+    print("----------------------------------------")
+
+    valDict = {}
+
+    for keyEntry in Globals.communicationProfiles:
+        currentObj = Globals.communicationProfiles[keyEntry]
+        
+        if currentObj.instanceOfDegree in valDict:
+            valDict[currentObj.instanceOfDegree].append(currentObj.profileName)
+        else:
+            valDict[currentObj.instanceOfDegree] = [currentObj.profileName]
+
+    keys = list(valDict.keys())
+    keys.sort(reverse=True)
+    valDict_sort = {key: valDict[key] for key in keys}
+        
+
+    finalValDict = {}
+  
+
+    # Print output
+    print(f'Communication Profiles nodes with the highest degree:\n')
+    for line in valDict_sort:
+        print(f'{line} : {valDict_sort[line]}')
+    print("----------------------------------------")

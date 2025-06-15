@@ -189,6 +189,7 @@ class communicationProfiles:
         self.id = uuid4()
 
         self.linkedFlows = []
+        self.instanceOfDegree=0
         
 
     
